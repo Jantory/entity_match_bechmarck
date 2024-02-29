@@ -1,0 +1,340 @@
+ID_A,ID_B,Title_A,Title_B,Directors_A,Directors_B,Year_A,Year_B
+22,2169,Death Sentence,Death Sentence,James Wan,James Wan,2007.0,2007
+131,2083,Rush Hour 3,Rush Hour 3,Brett Ratner,Brett Ratner,2007.0,2007
+146,2087,Live Free or Die Hard,Live Free or Die Hard,,Len Wiseman,2007.0,2007
+150,2092,Transformers,Transformers,Michael Bay,Michael Bay,2007.0,2007
+154,2251,Mission: Impossible III,Mission: Impossible III,,J.J. Abrams,2006.0,2006
+158,2273,Poseidon,Poseidon,Wolfgang Petersen,Wolfgang Petersen,2006.0,2006
+190,2293,Ice Age: The Meltdown,Ice Age: The Meltdown,Carlos Saldanha,Carlos Saldanha,2006.0,2006
+199,2327,The Fast and the Furious: Tokyo Drift,The Fast and the Furious: Tokyo Drift,Justin Lin,Justin Lin,2006.0,2006
+214,2253,Superman Returns,Superman Returns,Bryan Singer,Bryan Singer,2006.0,2006
+230,2298,The Sentinel,The Sentinel,Clark Johnson,Clark Johnson,2006.0,2006
+245,2257,X-Men: The Last Stand,X-Men: The Last Stand,Brett Ratner,Brett Ratner,2006.0,2006
+268,2437,King Kong,King Kong,Peter Jackson,Peter Jackson,2005.0,2005
+293,2367,Last Holiday,Holiday,Wayne Wang,Yun-ho Yang,2006.0,2006
+324,2308,16 Blocks,16 Blocks,Richard Donner,Richard Donner,2006.0,2006
+327,2270,Running Scared,Running Scared,,Wayne Kramer,2006.0,2006
+365,116,7 Chinese Brothers,Brothers,Bob Byington,Karan Malhotra,2015.0,2015
+369,18,I Touched All Your Stuff,i,"Maíra Bühler,Matias Mariani",S. Shankar,2015.0,2015
+381,106,Dragon Blade,Dragon Blade,Daniel Lee,Daniel Lee,2015.0,2015
+490,18,I Am Chris Farley,i,"Brent Hodge,Derik Murray",S. Shankar,2015.0,2015
+498,115,Wild City,Wild City,Ringo Lam,Ringo Lam,2015.0,2015
+527,18,Do I Sound Gay?,i,David Thorpe,S. Shankar,2015.0,2015
+540,154,Intrepido: A Lonely Hero,Hero,Gianni Amelio,Nikhil Advani,2015.0,2015
+581,18,I Believe in Unicorns,i,Leah Meyerhoff,S. Shankar,2015.0,2015
+582,67,Survivor,Survivor,James McTeigue,James McTeigue,2015.0,2015
+614,18,I Am Big Bird: The Caroll Spinney Story,i,"Dave LaMattina,Chad N. Walker",S. Shankar,2015.0,2015
+625,64,Slow West,Slow West,John Maclean,John Maclean,2015.0,2015
+645,30,The Gunman,The Gunman,Pierre Morel,Pierre Morel,2015.0,2015
+663,46,Kidnapping Mr. Heineken,Kidnapping Mr. Heineken,Daniel Alfredson,Daniel Alfredson,2015.0,2015
+672,15,Run All Night,Run All Night,Jaume Collet-Serra,Jaume Collet-Serra,2015.0,2015
+705,28,Last Knights,Last Knights,Kazuaki Kiriya,Kazuaki Kiriya,2015.0,2015
+708,18,Dior and I,i,Frederic Tcheng,S. Shankar,2015.0,2015
+745,370,A Most Violent Year,A Most Violent Year,J.C. Chandor,J.C. Chandor,2014.0,2014
+747,34,Blackhat,Blackhat,Michael Mann,Michael Mann,2015.0,2015
+751,87,Vice,Vice,Brian A Miller,Brian A Miller,2015.0,2015
+772,52,Mortdecai,Mortdecai,David Koepp,David Koepp,2015.0,2015
+833,299,The Hunger Games: Mockingjay - Part 1,1,Francis Lawrence,Sukumar,2014.0,2014
+835,499,V/H/S: Viral,V/H/S: Viral,"Justin Benson,Gregg Bishop,Aaron Moorhead,Marcel Sarmiento,Nacho Vigalondo",Justin Benson,2014.0,2014
+859,319,Happy New Year,Happy New Year,Farah Khan,Farah Khan,2014.0,2014
+860,215,Revenge of the Green Dragons,Revenge of the Green Dragons,"Andrew Lau Wai-Keung,Andrew Loo",Wai-Keung Lau,2014.0,2014
+885,255,The Hobbit: The Battle of the Five Armies,Battle,Peter Jackson,John Jillard Sr.,2014.0,2014
+907,313,Open Windows,Open Windows,Nacho Vigalondo,Nacho Vigalondo,2014.0,2014
+917,216,Wolves,Wolves,David Hayter,David Hayter,2014.0,2014
+930,203,The Green Prince,The Prince,Nadav Schirman,Brian A Miller,2014.0,2014
+947,200,Dracula Untold,Dracula Untold,Gary Shore,Gary Shore,2014.0,2014
+957,345,Young Ones,Young Ones,Jake Paltrow,Jake Paltrow,2014.0,2014
+960,529,Fury,Ardennes Fury,David Ayer,Joseph J. Lawson,2014.0,2014
+970,214,Good People,Good People,Henrik Ruben Genz,Henrik Ruben Genz,2014.0,2014
+983,320,Left Behind,Left Behind,Vic Armstrong,Vic Armstrong,2014.0,2014
+996,310,The November Man,The November Man,Roger Donaldson,Roger Donaldson,2014.0,2014
+1009,286,Falcon Rising,Falcon Rising,Ernie Barbarash,Ernie Barbarash,2014.0,2014
+1019,202,Hercules,The Legend of Hercules,Brett Ratner,Renny Harlin,2014.0,2014
+1019,209,Hercules,Hercules,Brett Ratner,Brett Ratner,2014.0,2014
+1019,459,Hercules,Hercules Reborn,Brett Ratner,Nick Lyon,2014.0,2014
+1033,309,Rage,Rage,Paco Cabezas,Paco Cabezas,2014.0,2014
+1034,257,Dawn of the Planet of the Apes,Dawn of the Planet of the Apes,Matt Reeves,Matt Reeves,2014.0,2014
+1038,232,Persecuted,Persecuted,Daniel Lusko,Daniel Lusko,2014.0,2014
+1038,398,Persecuted,Persecuted,Daniel Lusko,Benjamin Bondar,2014.0,2014
+1044,381,The Purge: Anarchy,The Purge: Anarchy,James Demonaco,James DeMonaco,2014.0,2014
+1054,362,Lucy,Lucy,Luc Besson,Luc Besson,2014.0,2014
+1063,211,Teenage Mutant Ninja Turtles,Teenage Mutant Ninja Turtles,Jonathan Liebesman,Jonathan Liebesman,2014.0,2014
+1064,258,Into the Storm,Into the Storm,Steven Quale,Steven Quale,2014.0,2014
+1078,292,The Expendables 3,The Expendables 3,Patrick Hughes,Patrick Hughes,2014.0,2014
+1110,462,Honour,Kirpaan: The Sword of Honour,Shan Khan,Amrik Gill,2014.0,2014
+1114,346,I Am I,I Am Soldier,Jocelyn Towne,Ronnie Thompson,2014.0,2014
+1121,222,How to Train Your Dragon 2,How to Train Your Dragon 2,Dean Deblois,Dean DeBlois,2014.0,2014
+1122,285,22 Jump Street,22 Jump Street,"Phil Lord,Chris Miller",Phil Lord,2014.0,2014
+1137,201,Godzilla,Godzilla,Gareth Edwards,Gareth Edwards,2014.0,2014
+1159,219,Brick Mansions,Brick Mansions,Camille Delamarre,Camille Delamarre,2014.0,2014
+1168,235,The Amazing Spider-Man 2,The Amazing Spider-Man 2,Marc Webb,Marc Webb,2014.0,2014
+1195,476,Supermensch: The Legend of Shep Gordon,Legend,"Mike Myers,Beth Aala",Boyapati Srinu,2014.0,2014
+1220,279,The Raid 2,The Raid 2,Gareth Evans,Gareth Evans,2014.0,2014
+1223,230,Sabotage,Sabotage,David Ayer,David Ayer,2014.0,2014
+1227,242,Noah,Noah,Darren Aronofsky,Darren Aronofsky,2014.0,2014
+1231,256,In the Blood,In the Blood,John Stockwell,John Stockwell,2014.0,2014
+1233,237,Pompeii,Pompeii,Paul W.S. Anderson,Paul W.S. Anderson,2014.0,2014
+1233,436,Pompeii,Apocalypse Pompeii,Paul W.S. Anderson,Ben Demaree,2014.0,2014
+1238,248,Non-Stop,Non-Stop,Jaume Collet-Serra,Jaume Collet-Serra,2014.0,2014
+1240,633,Stalingrad,Stalingrad,Fedor Bondarchuk,Fedor Bondarchuk,2013.0,2013
+1244,334,Gulaab Gang,Gulaab Gang,Soumik Sen,Soumik Sen,2014.0,2014
+1255,208,300: Rise of an Empire,300: Rise of an Empire,Noam Murro,Noam Murro,2014.0,2014
+1271,297,Need for Speed,Need for Speed,Scott Waugh,Scott Waugh,2014.0,2014
+1309,202,The Legend of Hercules,The Legend of Hercules,Renny Harlin,Renny Harlin,2014.0,2014
+1309,209,The Legend of Hercules,Hercules,Renny Harlin,Brett Ratner,2014.0,2014
+1309,476,The Legend of Hercules,Legend,Renny Harlin,Boyapati Srinu,2014.0,2014
+1316,207,Jack Ryan: Shadow Recruit,Jack Ryan: Shadow Recruit,Kenneth Branagh,Kenneth Branagh,2014.0,2014
+1318,218,Ride Along,Ride Along,Tim Story,Tim Story,2014.0,2014
+1319,216,Big Bad Wolves,Wolves,"Navot Papushado,Aharon Keshales",David Hayter,2014.0,2014
+1335,568,Lone Survivor,Lone Survivor,Peter Berg,Peter Berg,2013.0,2013
+1337,575,47 Ronin,47 Ronin,Carl Rinsch,Carl Rinsch,2013.0,2013
+1349,470,RoboCop,Our RoboCop Remake,José Padilha,Kelsy Abbott,2014.0,2014
+1360,335,Gunday,Gunday,Ali Abbas Zafar,Ali Abbas Zafar,2014.0,2014
+1366,265,3 Days to Kill,3 Days to Kill,McG,McG,2014.0,2014
+1394,226,Vampire Academy,Vampire Academy,Mark Waters,Mark Waters,2014.0,2014
+1396,666,Welcome to the Jungle,Welcome to the Jungle,Rob Meltzer,Rob Meltzer,2013.0,2013
+1410,640,All Is Lost,All Is Lost,J.C. Chandor,J.C. Chandor,2013.0,2013
+1413,573,Oldboy,Oldboy,Spike Lee,Spike Lee,2013.0,2013
+1416,690,Homefront,Homefront,Gary Fleder,Gary Fleder,2013.0,2013
+1449,773,Boss,Boss,Anthony D'Souza,Anthony D'Souza,2013.0,2013
+1451,617,Big Ass Spider!,Big Ass Spider!,Mike Mendez,Mike Mendez,2013.0,2013
+1462,639,Man of Tai Chi,Man of Tai Chi,Keanu Reeves,Keanu Reeves,2013.0,2013
+1464,607,Ender's Game,Ender's Game,Gavin Hood,Gavin Hood,2013.0,2013
+1496,581,Riddick,Riddick,David Twohy,David Twohy,2013.0,2013
+1497,622,Once Upon A Time In Mumbai Dobaara!,Once Upon a Time in Mumbai Dobaara!,Milan Lutheria,Milan Luthria,2013.0,2013
+1499,591,The Mortal Instruments: City of Bones,The Mortal Instruments: City of Bones,Harald Zwart,Harald Zwart,2013.0,2013
+1506,572,The World's End,The World's End,Edgar Wright,Edgar Wright,2013.0,2013
+1507,585,The Grandmaster,The Grandmaster,Wong Kar-Wai,Kar Wai Wong,2013.0,2013
+1526,561,Prisoners,Prisoners of the Sun,Denis Villeneuve,Roger Christian,2013.0,2013
+1532,784,Phata Poster Nikhla Hero,Phata Poster Nikhla Hero,Rajkumar Santoshi,Rajkumar Santoshi,2013.0,2013
+1533,753,Ip Man: The Final Fight,Ip Man: The Final Fight,Herman Yau,Herman Yau,2013.0,2013
+1535,569,The Colony,The Colony,Jeff Renfroe,Jeff Renfroe,2013.0,2013
+1547,865,The Snow Queen,The Snow Queen,"Vladlen Barbe,Maksim Sveshnikov",Rene Perez,2013.0,2013
+1553,636,Machete Kills,Machete Kills,Robert Rodriguez,Robert Rodriguez,2013.0,2013
+1568,731,You Will Be My Son,My Son,Gilles Legrand,Jarod O'Flaherty,2013.0,2013
+1579,825,Madras Cafe,Madras Cafe,Shoojit Sircar,Shoojit Sircar,2013.0,2013
+1582,658,Getaway,Getaway,Courtney Solomon,Courtney Solomon,2013.0,2013
+1588,719,Bounty Killer,Bounty Killer,Henry Saine,Henry Saine,2013.0,2013
+1599,606,We're the Millers,We're the Millers,Rawson Marshall Thurber,Rawson Marshall Thurber,2013.0,2013
+1601,962,Blood,Blood Fare,Nick Murphy,J.A. Steel,2012.0,2012
+1601,1087,Blood,Blood Money,Nick Murphy,Vishal Mahadkar,2012.0,2012
+1601,1107,Blood,Blood Angel,Nick Murphy,Ryan Stratton,2012.0,2012
+1603,651,Chennai Express,Chennai Express,Rohit Shetty,Rohit Shetty,2013.0,2013
+1618,562,R.I.P.D.,R.I.P.D.,Robert Schwentke,Robert Schwentke,2013.0,2013
+1620,614,RED 2,RED 2,Dean Parisot,Dean Parisot,2013.0,2013
+1627,584,The Wolverine,The Wolverine,James Mangold,James Mangold,2013.0,2013
+1631,1059,Drug War,Drug War,Johnnie To,Johnnie To,2012.0,2012
+1632,609,Pawn Shop Chronicles,Pawn Shop Chronicles,Wayne Kramer,Wayne Kramer,2013.0,2013
+1635,629,Frankenstein's Army,Frankenstein's Army,Richard Raaphorst,Richard Raaphorst,2013.0,2013
+1649,738,The Heat,The Heat,Paul Feig,Paul Feig,2013.0,2013
+1652,699,White House Down,White House Down,Roland Emmerich,Roland Emmerich,2013.0,2013
+1678,579,Star Trek Into Darkness,Star Trek Into Darkness,J.J. Abrams,J.J. Abrams,2013.0,2013
+1680,626,Fast & Furious 6,Fast & Furious 6,Justin Lin,Justin Lin,2013.0,2013
+1684,613,After Earth,After Earth,M. Night Shyamalan,M. Night Shyamalan,2013.0,2013
+1711,634,Pain & Gain,Pain & Gain,Michael Bay,Michael Bay,2013.0,2013
+1732,685,Olympus Has Fallen,Olympus Has Fallen,Antoine Fuqua,Antoine Fuqua,2013.0,2013
+1733,595,G.I. Joe: Retaliation,G.I. Joe: Retaliation,Jon M. Chu,Jon M. Chu,2013.0,2013
+1740,564,Snitch,Snitch,Ric Roman Waugh,Ric Roman Waugh,2013.0,2013
+1741,597,A Good Day to Die Hard,A Good Day to Die Hard,John Moore,John Moore,2013.0,2013
+1759,742,No,Send No Flowers,,Fred Carpenter,2013.0,2013
+1761,625,Parker,Parker,Taylor Hackford,Taylor Hackford,2013.0,2013
+1803,592,The Last Stand,The Last Stand,Jee-woon Kim,Jee-woon Kim,2013.0,2013
+1805,786,LUV,Jayantabhai Ki Luv Story,Sheldon Candis,Vinnil Markan,2013.0,2013
+1809,1041,Hit and Run,Hit and Run,"Dax Shepard,David Palmer",David Palmer,2012.0,2012
+1814,928,Premium Rush,Premium Rush,David Koepp,David Koepp,2012.0,2012
+1841,911,Looper,Looper,,Rian Johnson,2012.0,2012
+1852,920,Taken 2,Taken 2,Olivier Megaton,Olivier Megaton,2012.0,2012
+1862,934,Easy Money,Easy Money II: Hard to Kill,Daniel Espinosa,Babak Najafi,2012.0,2012
+1863,959,Alex Cross,Alex Cross,Rob Cohen,Rob Cohen,2012.0,2012
+1874,1101,Flight,Last Flight to Abuja,Robert Zemeckis,Obi Emelonye,2012.0,2012
+1874,1102,Flight,Last Flight to Abuja,Robert Zemeckis,Obi Emelonye,2012.0,2012
+1898,908,Red Dawn,Red Dawn,Dan Bradley,Dan Bradley,2012.0,2012
+1911,965,Snow White and the Huntsman,Snow White and the Huntsman,Rupert Sanders,Rupert Sanders,2012.0,2012
+1930,913,The Watch,The Watch,Akiva Schaffer,Akiva Schaffer,2012.0,2012
+1931,918,Total Recall,Total Recall,Len Wiseman,Len Wiseman,2012.0,2012
+1937,906,The Bourne Legacy,The Bourne Legacy,,Tony Gilroy,2012.0,2012
+1976,901,The Amazing Spider-Man,The Amazing Spider-Man,Marc Webb,Marc Webb,2012.0,2012
+1993,904,The Girl from the Naked Eye,The Girl from the Naked Eye,David Ren,David Ren,2012.0,2012
+1999,940,Abraham Lincoln: Vampire Hunter,Abraham Lincoln: Vampire Hunter,Timur Bekmambetov,Timur Bekmambetov,2012.0,2012
+2005,944,Wrath of the Titans,Wrath of the Titans,Jonathan Liebesman,Jonathan Liebesman,2012.0,2012
+2027,936,Lockout,Lockout,"Stephen St. Legal,James Mather",James Mather,2012.0,2012
+2043,937,This Means War,This Means War,McG,McG,2012.0,2012
+2050,6386,Harakiri,Harakiri,,Masaki Kobayashi,1962.0,1962
+2053,1450,The Hunter,The Bounty Hunter,Rafi Pitts,Andy Tennant,2010.0,2010
+2054,935,Act of Valor,Act of Valor,"Mike McCoy,Scott Waugh",Mike McCoy,2012.0,2012
+2058,896,John Carter,John Carter,Andrew Stanton,Andrew Stanton,2012.0,2012
+2063,907,21 Jump Street,21 Jump Street,"Phil Lord,Christopher Miller",Phil Lord,2012.0,2012
+2083,930,Man on a Ledge,Man on a Ledge,Asger Leth,Asger Leth,2012.0,2012
+2092,921,Journey 2: Mysterious Island,Journey 2: The Mysterious Island,Brad Peyton,Brad Peyton,2012.0,2012
+2096,1263,The Double,The Double,Michael Brandt,Michael Brandt,2011.0,2011
+2104,1340,Revenge of the Electric Car,Revenge,,Bill Little,2011.0,2011
+2106,1190,Immortals,Immortals,Tarsem Singh,Tarsem Singh,2011.0,2011
+2122,960,Outrage,Beyond Outrage,,Takeshi Kitano,2012.0,2012
+2155,1163,Garbo the Spy,Spy,,Alexander Klymko,2011.0,2011
+2156,1225,Sherlock Holmes: A Game of Shadows,Sherlock Holmes: A Game of Shadows,Guy Ritchie,Guy Ritchie,2011.0,2011
+2156,1310,Sherlock Holmes: A Game of Shadows,Game,Guy Ritchie,Abhinay Deo,2011.0,2011
+2158,1289,The Girl with the Dragon Tattoo,Dragon,David Fincher,Peter Chan,2011.0,2011
+2161,1163,Tinker Tailor Soldier Spy,Spy,Tomas Alfredson,Alexander Klymko,2011.0,2011
+2162,1175,The Adventures of Tintin,The Adventures of Tintin,Steven Spielberg,Steven Spielberg,2011.0,2011
+2167,897,Red Tails,Red Tails,Anthony Hemingway,Anthony Hemingway,2012.0,2012
+2186,1226,In Time,Spy Kids: All the Time in the World in 4D,,Robert Rodriguez,2011.0,2011
+2186,1259,In Time,In Time,,Andrew Niccol,2011.0,2011
+2191,1166,Tower Heist,Tower Heist,Brett Ratner,Brett Ratner,2011.0,2011
+2193,1164,Cowboys & Aliens,Cowboys & Aliens,John Favreau,Jon Favreau,2011.0,2011
+2196,1198,Rise of the Planet of the Apes,Rise of the Planet of the Apes,Rupert Wyatt,Rupert Wyatt,2011.0,2011
+2198,1263,The Devil's Double,The Double,Lee Tamahori,Michael Brandt,2011.0,2011
+2208,1208,Transformers: Dark of the Moon,Transformers: Dark of the Moon,Michael Bay,Michael Bay,2011.0,2011
+2228,1218,Attack the Block,Attack the Block,,Joe Cornish,2011.0,2011
+2245,1214,Killer Elite,Killer Elite,Gary Mc,Gary McKendry,2011.0,2011
+2248,1240,Machine Gun Preacher,Machine Gun Preacher,Marc Forster,Marc Forster,2011.0,2011
+2252,1319,Weekend,Weekend,,Cezary Pazura,2011.0,2011
+2254,1252,30 Minutes or Less,30 Minutes or Less,Ruben Fleischer,Ruben Fleischer,2011.0,2011
+2259,1170,Conan the Barbarian,Conan the Barbarian,Marcus Nispel,Marcus Nispel,2011.0,2011
+2265,1219,5 Days of War,5 Days of War,Renny Harlin,Renny Harlin,2011.0,2011
+2276,1188,Bellflower,Bellflower,,Evan Glodell,2011.0,2011
+2277,1220,Drive,Drive Angry,Nicolas Winding Refn,Patrick Lussier,2011.0,2011
+2282,1165,Real Steel,Real Steel,Shawn Levy,Shawn Levy,2011.0,2011
+2287,1254,Blackthorn,Blackthorn,Mateo Gil,Mateo Gil,2011.0,2011
+2294,1460,Tron: Legacy,TRON: Legacy,Joseph Kosinski,Joseph Kosinski,2010.0,2010
+2295,1637,The Fighter,Portrait of the Fighter as a Young Man,David O. Russell,Constantin Popescu,2010.0,2010
+2308,1426,Unstoppable,Unstoppable,Tony Scott,Tony Scott,2010.0,2010
+2320,1537,Faster,Faster,George Tillman Jr,George Tillman Jr.,2010.0,2010
+2321,1451,The Nutcracker in 3D,The Nutcracker in 3D,Andrei Konchalovsky,Andrey Konchalovskiy,2010.0,2010
+2332,1168,Season of the Witch,Season of the Witch,Dominic Sena,Dominic Sena,2011.0,2011
+2338,1167,The Mechanic,The Mechanic,Simon West,Simon West,2011.0,2011
+2339,1176,The Green Hornet,The Green Hornet,Michel Gondry,Michel Gondry,2011.0,2011
+2346,1178,The Eagle,The Eagle,Kevin MacDonald,Kevin Macdonald,2011.0,2011
+2351,1217,I Am Number Four,I Am Number Four,D.J. Caruso,D.J. Caruso,2011.0,2011
+2352,1209,Unknown,Unknown,Jaume Collet-Serra,Jaume Collet-Serra,2011.0,2011
+2358,1220,Drive Angry 3D,Drive Angry,Patrick Lussier,Patrick Lussier,2011.0,2011
+2359,1488,The Tourist,The Tourist,Florian Henckel,Florian Henckel von Donnersmarck,2010.0,2010
+2366,1489,RED,RED,Robert Schwentke,Robert Schwentke,2010.0,2010
+2366,1640,RED,Red Eagle,Robert Schwentke,Wisit Sasanatieng,2010.0,2010
+2380,5590,Superman,Superman,,Richard Donner,1978.0,1978
+2382,1441,Megamind,Megamind,Tom McGrath,Tom McGrath,2010.0,2010
+2386,1425,Prince of Persia: The Sands of Time,Prince of Persia: The Sands of Time,Mike Newell,Mike Newell,2010.0,2010
+2386,1545,Prince of Persia: The Sands of Time,Prince,Mike Newell,Kookie V. Gulati,2010.0,2010
+2396,1469,The Karate Kid,The Karate Kid,Harald Zwart,Harald Zwart,2010.0,2010
+2405,1422,The A-Team,The A-Team,Joe Carnahan,Joe Carnahan,2010.0,2010
+2406,1453,Jonah Hex,Jonah Hex,Jimy Hayward,Jimmy Hayward,2010.0,2010
+2411,1442,Knight and Day,Knight and Day,James Mangold,James Mangold,2010.0,2010
+2420,1433,The Last Airbender,The Last Airbender,,M. Night Shyamalan,2010.0,2010
+2432,1437,The Sorcerer's Apprentice,The Sorcerer's Apprentice,Jon Turteltaub,Jon Turteltaub,2010.0,2010
+2441,1576,"A Woman, a Gun and a Noodle Shop",Gun,Zhang Yimou,Jessy Terrero,2010.0,2010
+2460,1434,Salt,Salt,Phillip Noyce,Phillip Noyce,2010.0,2010
+2476,1489,The Red Machine,RED,,Robert Schwentke,2010.0,2010
+2479,1444,Centurion,Centurion,,Neil Marshall,2010.0,2010
+2480,1450,The Bounty Hunter,The Bounty Hunter,Andy Tennant,Andy Tennant,2010.0,2010
+2494,1435,Green Zone,Green Zone,Paul Greengrass,Paul Greengrass,2010.0,2010
+2495,1489,Red Riding Trilogy,RED,Julian Jarrold,Robert Schwentke,2010.0,2010
+2511,1428,Clash of the Titans,Clash of the Titans,Louis Leterrier,Louis Leterrier,2010.0,2010
+2524,1427,The Losers,The Losers,Sylvain White,Sylvain White,2010.0,2010
+2540,1483,Iron Man 2,Iron Man 2,Favreau,Jon Favreau,2010.0,2010
+2544,1436,Robin Hood,Robin Hood,Ridley Scott,Ridley Scott,2010.0,2010
+2550,1472,From Paris With Love,From Paris with Love,Pierre Morel,Pierre Morel,2010.0,2010
+2575,1452,Repo Men,Repo Men,Miguel Sapochnik,Miguel Sapochnik,2010.0,2010
+2578,1681,Astro Boy,Astro Boy,David Bowers,David Bowers,2009.0,2009
+2579,1687,Cirque du Freak: The Vampire's Assistant,Cirque du Freak: The Vampire's Assistant,Paul Weitz,Paul Weitz,2009.0,2009
+2591,1690,Precious: Based on the Novel Push by Sapphire,Push,Lee Daniels,Paul McGuigan,2009.0,2009
+2605,1768,2012,2012,Roland Emmerich,Roland Emmerich,2009.0,2009
+2606,1806,The Boondock Saints II: All Saints Day,The Boondock Saints II: All Saints Day,,Troy Duffy,2009.0,2009
+2632,1714,Sherlock Holmes,Sherlock Holmes,Guy Ritchie,Guy Ritchie,2009.0,2009
+2646,1447,The Book of Eli,The Book of Eli,"Albert,Allen Hughes",Albert Hughes,2010.0,2010
+2648,1494,The Spy Next Door,The Spy Next Door,Brian Levant,Brian Levant,2010.0,2010
+2649,1713,Surrogates,Surrogates,,Jonathan Mostow,2009.0,2009
+2668,1769,Black Dynamite,Black Dynamite,Scott Sanders,Scott Sanders,2009.0,2009
+2679,1724,G.I. Joe: The Rise of Cobra,G.I. Joe: The Rise of Cobra,Stephen Sommers,Stephen Sommers,2009.0,2009
+2686,1692,District 9,9,Neill Blomkamp,Shane Acker,2009.0,2009
+2686,1748,District 9,District 9,Neill Blomkamp,Neill Blomkamp,2009.0,2009
+2702,1692,9,9,Shane Acker,Shane Acker,2009.0,2009
+2702,1748,9,District 9,Shane Acker,Neill Blomkamp,2009.0,2009
+2744,1685,The Perfect Sleep,The Perfect Sleep,Jeremy Alter,Jeremy Alter,2009.0,2009
+2764,1694,Star Trek,Star Trek,J. J. Abrams,J.J. Abrams,2009.0,2009
+2767,1737,Next Day Air,Next Day Air,Benny Boom,Benny Boom,2009.0,2009
+2794,1706,Monsters vs. Aliens,Monsters vs. Aliens,"Rob Letterman,Conrad Vernon",Rob Letterman,2009.0,2009
+2795,1756,12,12 Rounds,Nikita Mikhalkov,Renny Harlin,2009.0,2009
+2800,1717,Fast & Furious,Fast & Furious,Justin Lin,Justin Lin,2009.0,2009
+2808,1729,Race to Witch Mountain,Race to Witch Mountain,Andy Fickman,Andy Fickman,2009.0,2009
+2819,1742,Paul Blart: Mall Cop,Paul Blart: Mall Cop,Steve Carr,Steve Carr,2009.0,2009
+2831,1949,The Spirit,The Spirit,,Frank Miller,2008.0,2008
+2848,1690,Push,Push,Paul McGuigan,Paul McGuigan,2009.0,2009
+2852,1707,The International,The International,Tom Tykwer,Tom Tykwer,2009.0,2009
+2862,1736,Chandni Chowk to China,Chandni Chowk to China,Nikhil Advani,Nikhil Advani,2009.0,2009
+2867,1919,Madagascar: Escape 2 Africa,Madagascar: Escape 2 Africa,"Eric Darnell,Tom McGrath",Eric Darnell,2008.0,2008
+2870,1948,Quantum of Solace,Quantum of Solace,Marc Forster,Marc Forster,2008.0,2008
+2892,1991,RocknRolla,RocknRolla,,Guy Ritchie,2008.0,2008
+2902,2022,Transporter 3,Transporter 3,,Olivier Megaton,2008.0,2008
+2905,1910,Punisher: War Zone,Punisher: War Zone,Lexi Alexander,Lexi Alexander,2008.0,2008
+2915,2003,Eagle Eye,Eagle Eye,D.J. Caruso,D.J. Caruso,2008.0,2008
+2920,2000,Miracle at St. Anna,Miracle at St. Anna,Spike Lee,Spike Lee,2008.0,2008
+2933,1911,Death Race,Death Race,,Paul W.S. Anderson,2008.0,2008
+2933,1984,Death Race,Race,,Abbas Alibhai Burmawalla,2008.0,2008
+2944,1977,Traitor,Traitor,Jeffrey Nachmanoff,Jeffrey Nachmanoff,2008.0,2008
+2946,1932,Body of Lies,Body of Lies,Ridley Scott,Ridley Scott,2008.0,2008
+2966,1929,Roman Polanski: Wanted and Desired,Wanted,Marina Zenovich,Timur Bekmambetov,2008.0,2008
+2969,1943,Speed Racer,Speed Racer,,Andy Wachowski,2008.0,2008
+2979,1952,The Mummy: Tomb of the Dragon Emperor,The Mummy: Tomb of the Dragon Emperor,Rob Cohen,Rob Cohen,2008.0,2008
+2987,1959,Pineapple Express,Pineapple Express,David Gordon Green,David Gordon Green,2008.0,2008
+2990,1898,Hell Ride,Hell Ride,,Larry Bishop,2008.0,2008
+2995,1964,Tropic Thunder,Tropic Thunder,Ben Stiller,Ben Stiller,2008.0,2008
+2998,2041,Star Wars: The Clone Wars,Star Wars: The Clone Wars,Dave Filoni,Dave Filoni,2008.0,2008
+3003,1908,Hancock,Hancock,Peter Berg,Peter Berg,2008.0,2008
+3006,1899,Hellboy II: The Golden Army,Hellboy II: The Golden Army,Guillermo Del Toro,Guillermo del Toro,2008.0,2008
+3019,1905,Kung Fu Panda,Kung Fu Panda,"John Stevenson,Mark Osborne",Mark Osborne,2008.0,2008
+3021,1942,The Incredible Hulk,The Incredible Hulk,Louis Leterrier,Louis Leterrier,2008.0,2008
+3028,1901,Get Smart,Get Smart,Peter Segal,Peter Segal,2008.0,2008
+3036,1929,Wanted,Wanted,Timur Bekmambetov,Timur Bekmambetov,2008.0,2008
+3036,1973,Wanted,Hero Wanted,Timur Bekmambetov,Brian Smrz,2008.0,2008
+3042,1930,The Chronicles of Narnia: Prince Caspian,The Chronicles of Narnia: Prince Caspian,Andrew Adamson,Andrew Adamson,2008.0,2008
+3044,1894,Indiana Jones and the Kingdom of the Crystal Skull,Indiana Jones and the Kingdom of the Crystal Skull,Steven Spielberg,Steven Spielberg,2008.0,2008
+3051,1967,You Don't Mess With the Zohan,You Don't Mess with the Zohan,Dennis Dugan,Dennis Dugan,2008.0,2008
+3054,1895,Iron Man,Iron Man,Jon Favreau,Jon Favreau,2008.0,2008
+3056,2091,Spider-Man 3,Spider-Man 3,,Sam Raimi,2007.0,2007
+3057,2098,Beowulf,Beowulf,Robert Zemeckis,Robert Zemeckis,2007.0,2007
+3071,2119,Hitman,Hitman,Xavier Gens,Xavier Gens,2007.0,2007
+3087,1900,Street Kings,Street Kings,David Ayer,David Ayer,2008.0,2008
+3119,1923,Jumper,Jumper,Doug Liman,Doug Liman,2008.0,2008
+3138,2118,National Treasure: Book of Secrets,National Treasure: Book of Secrets,Jon Turteltaub,Jon Turteltaub,2007.0,2007
+3146,2150,Charlie Wilson's War,War,Mike Nichols,Philip G. Atwell,2007.0,2007
+3159,2120,Shoot 'em up,Shoot 'Em Up,,Michael Davis,2007.0,2007
+3172,2112,Grindhouse,Grindhouse,,Robert Rodriguez,2007.0,2007
+3184,2243,Wristcutters: A Love Story,A Love,,Kyung-Taek Kwak,2007.0,2007
+3184,2244,Wristcutters: A Love Story,A Love,,Kyung-Taek Kwak,2007.0,2007
+3269,5590,Superman,Superman,,Richard Donner,1978.0,1978
+3286,6386,Harakiri,Harakiri,,Masaki Kobayashi,1962.0,1962
+3317,6810,The Adventures of Robin Hood,The Adventures of Robin Hood,,Michael Curtiz,1938.0,1938
+3345,6681,The Treasure of the Sierra Madre,The Treasure of the Sierra Madre,,John Huston,1948.0,1948
+3397,1489,"Three Colors Trilogy: Blue, White, Red",RED,Krzysztof Kieslowski,Robert Schwentke,,2010
+3397,3013,"Three Colors Trilogy: Blue, White, Red",Red,Krzysztof Kieslowski,Ram Sathya,,2002
+3397,4685,"Three Colors Trilogy: Blue, White, Red",Colors,Krzysztof Kieslowski,Dennis Hopper,,1988
+3405,5072,Ran,Ran,,Akira Kurosawa,1985.0,1985
+3418,5841,Bring Me the Head of Alfredo Garcia,Bring Me the Head of Alfredo Garcia,,Sam Peckinpah,1974.0,1974
+3449,5359,Raiders of the Lost Ark,Raiders of the Lost Ark,,Steven Spielberg,1981.0,1981
+3478,6200,The Wild Bunch,The Wild Bunch,Sam Peckinpah,Sam Peckinpah,1969.0,1969
+3487,6676,Red River,Red River,Howard Hawks,Howard Hawks,1948.0,1948
+167,2374,The Da Vinci Code,The Da Vinci Treasure,Ron Howard,Peter Mervis,2006.0,2006
+897,215,Revenge of the Mekons,Revenge of the Green Dragons,Joe Angio,Wai-Keung Lau,2014.0,2014
+1195,202,Supermensch: The Legend of Shep Gordon,The Legend of Hercules,"Mike Myers,Beth Aala",Renny Harlin,2014.0,2014
+1195,453,Supermensch: The Legend of Shep Gordon,Rise of the Legend,"Mike Myers,Beth Aala",Roy Hin Yeung Chow,2014.0,2014
+1309,453,The Legend of Hercules,Rise of the Legend,Renny Harlin,Roy Hin Yeung Chow,2014.0,2014
+1313,340,Mountains of the Moon,Queen of the Mountains,Kamaleswar Mukherjee,Sadyk Sher-Niyaz,2014.0,2014
+1313,341,Mountains of the Moon,Queen of the Mountains,Kamaleswar Mukherjee,Sadyk Sher-Niyaz,2014.0,2014
+1321,723,The Last of the Unjust,In the Name of the King 3: The Last Job,Claude Lanzmann,Uwe Boll,2013.0,2013
+1396,604,Welcome to the Jungle,Welcome to the Punch,Rob Meltzer,Eran Creevy,2013.0,2013
+1497,596,Once Upon A Time In Mumbai Dobaara!,Once Upon a Time in Brooklyn,Milan Lutheria,Paul Borghese,2013.0,2013
+1497,761,Once Upon A Time In Mumbai Dobaara!,Once Upon a Time in Vietnam,Milan Lutheria,Dustin Nguyen,2013.0,2013
+1525,671,Battle of the Year,Battle of the Damned,Benson Lee,Christopher Hatton,2013.0,2013
+1748,767,Jack the Giant Slayer,Jack the Giant Killer,Bryan Singer,Mark Atkins,2013.0,2013
+1751,741,The End of Love,Revelation Road: The Beginning of the End,,Gabriel Sabloff,2013.0,2013
+1751,851,The End of Love,009-1: The End of the Beginning,,Koichi Sakamoto,2013.0,2013
+1897,1079,Rise of the Guardians,Rise of the Black Bat,Peter Ramsey,Scott Patrick,2012.0,2012
+1900,992,Tales of the Night,Night of the Living Dead 3D: Re-Animation,,Jeff Broadstreet,2012.0,2012
+1961,922,Men in Black III,Men in Black 3,Barry Sonnenfeld,Barry Sonnenfeld,2012.0,2012
+2009,1162,The King of Devil's Island,The King of the Streets,Marius Holst,Zhong Lei,2012.0,2012
+2024,1000,The Cabin in the Woods,Hidden in the Woods,,Patricio Valladares,2012.0,2012
+2157,1185,Mission: Impossible -- Ghost Protocol,Mission: Impossible - Ghost Protocol,Brad Bird,Brad Bird,2011.0,2011
+2391,1475,Survival of the Dead,Stag Night of the Dead,,Neil Jones,2010.0,2010
+2391,1657,Survival of the Dead,Valley of the Dead,,K. Adithya Ashok,2010.0,2010
+2646,1593,The Book of Eli,The Book of Zombie,"Albert,Allen Hughes",Paul Cranefield,2010.0,2010
+3018,2073,The Children of Huang Shi,Children of the Otherside,Roger Spottiswoode,Aydin Bulut,2008.0,2008
+3124,1922,Diary of the Dead,Day of the Dead,,Steve Miner,2008.0,2008

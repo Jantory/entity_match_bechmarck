@@ -1,0 +1,450 @@
+#key=_id
+#ltable=POINTER
+#rtable=POINTER
+#foreign_key_ltable=ltable.id
+#foreign_key_rtable=rtable.id
+_id,ltable.id,rtable.id,ltable.address,ltable.name,ltable.phone,ltable.zip,rtable.address,rtable.name,rtable.phone,rtable.zip,gold
+1,6,230,"4632 N. Rockwell Street, Chicago",Rockwell's Neighborhood Grill,(773) 509-1871,60625,4632 N Rockwell St,Rockwells Neighborhood Grill,(773) 509-1871,60625,1
+2,6,728,"4632 N. Rockwell Street, Chicago",Rockwell's Neighborhood Grill,(773) 509-1871,60625,3658 W Lawrence Ave,T & B Grill,(773) 961-7016,60625,0
+31,73,136,"1932 W. Division Street, Chicago",The Boundary Tavern and Grille,(773) 278-1919,60622,1751 W Chicago Ave,Yuzu Sushi & Robata Grill,(312) 666-4100,60622,0
+60,112,3159,500 Main Street,Brothers K Coffeehouse,(847) 328-7940,60202,218 S. Main Street,1855 Saloon and Grill,(608) 839-3700,53527,0
+113,221,142,"2207 N. Clybourn Avenue, Chicago",Pequod's Pizza,(773) 327-1512,60614,2207 N Clybourn Ave,Pequods Pizzeria,(773) 327-1512,60614,1
+119,249,493,"1419 N. Wells Street, Chicago",Old Town Pour House,(312) 477-2800,60610,455 W North Ave,Old Town Social,(312) 266-2277,60610,0
+132,272,275,"1549 W. Division Street, Chicago",Podhalanka,(773) 486-6655,60642,1549 W Division St,Podhalanka,(773) 486-6655,60642,1
+164,337,237,"160 W. Adams Street, Chicago",Ara On,(312) 781-7300,60603,160 W Adams St,Ara On,(312) 781-7300,60603,1
+189,402,84,"2201 N. Clybourn Avenue, Chicago",The Drinkingbird,(773) 472-9920,60614,2201 N Clybourn Ave,The Drinkingbird,(773) 472-9920,60614,1
+202,449,520,"2408 N. Lincoln Avenue, Chicago",Allende Restaurant,(773) 477-7114,60614,2506 N Clybourn Ave,CRO Bar and Restaurant,(773) 525-2100,60614,0
+285,564,111,"1321 W. Grand Avenue, Chicago",Coalfire,(312) 226-2625,60642,1321 W Grand Ave,Coalfire Pizza,(312) 226-2625,60642,1
+287,571,273,"676 N. St. Clair Street, Chicago",Tru,(312) 202-0001,60611,676 N St. Clair St,Tru,(312) 202-0001,60611,1
+302,588,557,"1751 W. Chicago Avenue, Chicago",Yuzu Sushi and Robata Grill,(312) 666-4100,60622,1413 N Ashland Ave,Mish Grill,(773) 661-9766,60622,0
+330,611,620,695 N. Milwaukee Avenue,Cy's King Crab Oyster Bar & Grill,(312) 280-8990,60642,401 N. Milwaukee Ave,Black Iron Tavern,(312) 690-4000,60654,0
+369,637,345,501 N Milwaukee Avenue,"Tsukasa Japanese Steak, Seafood, & Sushi",(847) 816-8770,60061,669 N Milwaukee Ave,Delux Bar & Grill,(312) 850-4008,60622,0
+377,637,541,501 N Milwaukee Avenue,"Tsukasa Japanese Steak, Seafood, & Sushi",(847) 816-8770,60061,1501 N Milwaukee Ave,Bom Bolla,(773) 698-6601,60622,0
+388,637,748,501 N Milwaukee Avenue,"Tsukasa Japanese Steak, Seafood, & Sushi",(847) 816-8770,60061,3265 N Milwaukee Ave,Outdoor Grill,(773) 202-9980,60618,0
+415,673,746,"837 W. Fulton Market, Chicago",The Publican,(312) 733-9555,60607,837 W Fulton Market,The Publican,(312) 733-9555,60607,1
+420,682,378,"1863 N. Clybourn Avenue, Chicago",Franks 'N' Dawgs,(312) 281-5187,60614,1863 N Clybourn Ave,Franks N Dawgs,(312) 281-5187,60614,1
+424,690,42,"4749 N. Western Avenue, Chicago",Garcia's Restaurant,(773) 769-5600,60625,4959 N Kedzie Ave,Restaurante El Mogote,(773) 463-5612,60625,0
+426,693,682,"2546 N. Clark Street, Chicago",Toro Sushi,(773) 348-4877,60614,2546 N Clark St,Toro Sushi,(773) 348-7255,60614,1
+452,714,513,"32 N. Clark Street, Chicago",Bridge House Tavern On The River,(312) 644-0283,60654,353 W Hubbard St,The Hampton Social,(312) 464-0500,60654,0
+471,739,387,"535 N. Michigan Avenue, Chicago",Bandera,(312) 644-3524,60611,535 N Michigan Ave,Bandera Restaurant,(312) 644-3524,60611,1
+492,772,734,"2900 W. Belmont Avenue, Chicago",Kuma's Corner,(773) 604-8769,60618,2900 W Belmont Ave,Kumas Corner,(773) 604-8769,60618,1
+500,784,287,"809 W. Randolph Street, Chicago",Girl & the Goat,(312) 492-6262,60607,820 W Randolph St,Little Goat,(312) 888-3455,60607,0
+517,835,571,"1529 W. Chicago Avenue, Chicago",Mexique,(312) 850-0288,60622,1529 W Chicago Ave,Mexique,(312) 850-0288,60622,1
+521,844,72,"1664 N. Ada Street, Chicago",Ada Street,(773) 697-7069,60642,1523 N Kingsbury St,Kingsbury Street Cafe,(312) 280-1718,60642,0
+545,904,324,"2956 N. Sheffield Avenue, Chicago",Fish Bar,(773) 687-8177,60657,2956 N Sheffield Ave,Fish Bar,(773) 687-8177,60657,1
+571,940,620,6311 N. Milwaukee Avenue,Trattoria Pasta D'Arte,(773) 763-1181,60646,401 N. Milwaukee Ave,Black Iron Tavern,(312) 690-4000,60654,0
+612,1020,2,"1523 N. Kingsbury Street, Chicago",Kingsbury Street Cafe,(312) 280-1718,60642,1664 N Ada St,Ada Street,(773) 697-7069,60642,0
+626,1037,3510,1010 Church Street,That Little Mexican Cafe,(847) 905-1550,60201,200 Church St,Tribecas Kitchen,(646) 893-1022,10013,0
+688,1142,535,"1381 W. Hubbard Street, Chicago",The Breakfast Club & Grill,(312) 666-2372,60622,1608 W North Ave,Tarboush Mediterranean Grill,(773) 770-3599,60622,0
+707,1174,146,"1240 W. Randolph Street, Chicago",Alhambra Palace,(312) 666-9555,60607,1408 W Madison St,Palace Grill,(312) 226-9529,60607,0
+716,1193,61,"2607 W. 17th Street, Chicago",Lagunitas Tap Room,(773) 522-1347,60608,1725 W 18th St,Carnitas Uruapan Restaurant,(312) 226-2654,60608,0
+753,1277,80,"4600 N. Lincoln Avenue, Chicago",Fork Chicago,(773) 751-1500,60625,4600 N Lincoln Ave,Fork,(773) 751-1500,60625,1
+755,1285,558,"310 W. Adams Street, Chicago",Rti Mediterranean Grill,(312) 236-3500,60606,309 W Washington St,Naf Naf Grill,(312) 251-9000,60606,0
+765,1307,160,1030 N. State Street,Dublin's Bar & Grill,(312) 266-6340,60610,100 W Ontario St,Portillos Hot Dogs & Barnellis Salad Bowl,(312) 587-8910,60610,0
+872,1398,620,609 Milwaukee Avenue,Cafe Lucci,(847) 729-2268,60025,401 N. Milwaukee Ave,Black Iron Tavern,(312) 690-4000,60654,0
+882,1405,645,"1024 N. Rush Street, Chicago",Hugo's Frog Bar & Fish House,(312) 640-0999,60611,21 E Hubbard St,Shaws Crab House,(312) 527-2722,60611,0
+907,1449,667,"66 E. Ohio Street, Chicago",Shake Shack,(312) 667-1701,60611,66 E Ohio St,Shake Shack,(312) 667-1701,60611,1
+946,1478,1311,"5321 E Mockingbird Lane, Dallas",Trinity Hall,(214) 887-3600,75206,5321 E Mockingbird LaneSte 230,Angelika Film Center & Caf - Dallas,(214) 841-4713,75206,0
+957,1485,911,"2101 Greenville Avenue, Dallas",The Libertine Bar,(214) 824-7900,75206,3601 Greenville Ave,Aw Shucks,(214) 821-9449,75206,0
+977,1498,922,"2000 McKinney Avenue, Suite 100, Dallas",Perry's Steakhouse & Grille,(214) 855-5151,75201,601 N Akard St,Power House Deli,(972) 560-3883,75201,0
+1007,1511,1297,"3699 McKinney Avenue, Dallas",Taco Diner,(214) 521-3669,75204,3699 McKinney Ave,Taco Diner,(214) 521-3669,75204,1
+1014,1515,1182,"10233 E Northwest Highway, Dallas",Tony's Pizza & Pasta,(214) 503-0388,75238,10233 E NW HwySte 504,Tonys Pizza & Pasta Restaurant,(214) 503-0388,75238,1
+1060,1543,803,"5315 Greenville Avenue, Dallas",Cowboy Chicken,(214) 234-0505,75206,2815 Greenville Ave,Terillis Restaurant and Bar,(214) 827-3993,75206,0
+1074,1546,1011,"2615 S Beckley Avenue, Dallas",Wingfield's Breakfast & Burger,(214) 943-5214,75224,2615 S Beckley Ave,Wingfields Breakfast & Burgers,(214) 943-5214,75224,1
+1075,1547,848,"2936 Elm Street, Dallas",Local,(214) 752-7500,75226,2936 Elm St,Local,(214) 752-7500,75226,1
+1130,1581,829,"ILLUME, 4123 Cedar Springs Road, Suite 110, Dallas",Dish,(214) 522-3474,75219,4123 Cedar Springs RdSte 110,DISH Cedar Springs,(214) 522-3474,75219,1
+1135,1586,949,"3810 Congress Avenue, Dallas",Bellini's Italian Cafe and Bar,(214) 528-2844,75219,4810 Maple Ave,Maple and Motor,(214) 522-4400,75219,0
+1141,1588,1005,"2708 Routh Street, Dallas",The Social House,(214) 999-0046,75201,2708 Routh St,The Social House,(214) 999-0046,75201,1
+1142,1588,1031,"2708 Routh Street, Dallas",The Social House,(214) 999-0046,75201,3127 Routh St,Katy Trail Ice House,(214) 468-0600,75201,0
+1150,1591,1151,"3520 Greenville Avenue, Dallas",Sundown at Granada,(214) 823-8305,75206,2020 Greenville Ave,Crisp Salad Company,(214) 821-2467,75206,0
+1173,1599,858,9007 Garland Road,Hypnotic Donuts,(214) 668-6999,75218,9007 Garland Rd,Hypnotic Donuts,(214) 668-6999,75218,1
+1184,1603,1154,"2935 Elm Street, Dallas",Mama Mia Pizza & Pasta,(214) 744-6262,75226,841 Exposition Ave,Pizza Lounge,(214) 887-6900,75226,0
+1186,1605,1512,"8300 Preston Road, Suite A, Dallas",Hillstone,(214) 691-8991,75225,8300 A Preston Rd,Hillstone Restaurant,(214) 691-8991,75225,1
+1214,1625,842,"3601 Greenville Avenue, Dallas",Aw Shucks Oyster Bar,(214) 821-9449,75206,2101 Greenville Ave,Libertine Bar,(214) 824-7900,75206,0
+1232,1637,1272,"4302 Bryan Street, Dallas",Vietnam Restaurant Bar & Grill,(214) 821-4542,75204,2414 N Fitzhugh Ave,Margaritas Restaurant,(214) 821-9366,75204,0
+1237,1639,1483,"2304 Victory Park Lane, Dallas",Medina Oven & Bar,(214) 979-0003,75219,665 High Market St,Naga Thai Kitchen & Bar,(214) 953-0023,75219,0
+1256,1647,1359,"2537 N Fitzhugh Avenue, Dallas",DaLat Restaurant and Bar,(214) 827-3200,75206,2121 Greenville Ave,504 Bar and Grill,(469) 779-7279,75206,0
+1289,1666,888,1621 Oak Lawn Avenue,Ascension Coffee,(214) 741-3211,75207,3531 Oak Lawn Ave,Luckys Cafe,(214) 522-3500,75219,0
+1297,1666,1107,1621 Oak Lawn Avenue,Ascension Coffee,(214) 741-3211,75207,3403 Oak Lawn Ave,eatZis Market & Bakery,(214) 526-1515,75219,0
+1352,1695,992,"24 Highland Park Village, Dallas",Cafe Pacific,(214) 526-1170,75205,87 Highland Park VillageSte 200,Bistro 31,(214) 420-3900,75205,0
+1365,1701,60,7530 E Grand Avenue,The Lot,(214) 321-1990,75214,55 E Grand Ave,Doc Bs,(312) 999-9300,60611,0
+1377,1706,1455,"6130 Greenville Avenue, Suite 100, Dallas",Japanese Cafe Tampopo,(214) 378-7676,75206,1811 Greenville AveSte 145,Qariah Lebanese Restaurant & Lounge,(214) 826-4444,75206,0
+1409,1725,1260,"3223 Lemmon Avenue, Dallas",Howard Wang's Uptown,(214) 954-9558,75204,2702 McKinney AveSte 101,Jakes Uptown,(214) 754-8001,75204,0
+1441,1751,918,"8315 Westchester Dr, Dallas",LYFE Kitchen,(214) 361-5933,75225,8315 Westchester Dr,Lyfe Kitchen,(214) 361-5933,75225,1
+1466,1768,1158,"3011 Gulden Lane, Suite 107, Dallas",Amberjax,(469) 513-9088,75212,3011 Gulden LnSte 107,Amberjax Fish Market Grille,(469) 513-9088,75212,1
+1478,1773,1015,"6126 Luther Lane, Dallas",Flying Fish,(214) 696-3474,75225,6126 Luther Ln,Flying Fish,(214) 696-3474,75225,1
+1484,1777,845,"5818 Live Oak Street, Dallas",Lakewood Landing,(214) 823-2410,75214,1904 Abrams Pkwy,Liberty Burger Lakewood,(214) 887-9999,75214,0
+1491,1785,1155,"8989 Forest Lane, Suite130, Dallas",Momo Italian Kitchen,(972) 234-6800,75243,8989 Forest LnSte 130,MoMo Italian Kitchen,(972) 234-6800,75243,1
+1506,1790,819,"10720 Preston Road, Suite 1012, Dallas",Fish City Grill,(214) 891-9979,75230,7859 Walnut Hill LnSte 100,Blue Sushi Sake Grill,(972) 677-7887,75230,0
+1533,1809,1044,"665 High Market Street, Dallas",Naga Thai Kitchen and Bar,(214) 953-0023,75219,3520 Oak Lawn Ave,Pappadeaux Seafood Kitchen,(214) 521-4700,75219,0
+1549,1820,756,2323 N Henderson Avenue,Sushi Axiom,(214) 828-2288,75206,2822 N Henderson Ave,Mesero - Henderson,(214) 821-6426,75206,0
+1585,1831,1426,"10720 Preston Road, Dallas",Neighborhood Services Bar and Grill,(214) 368-1101,75230,10720 Preston Rd,Neighborhood Services Bar & Grill,(214) 368-1101,75230,1
+1594,1841,970,"302 N Market Street, Dallas",Sonny Bryan's Smokehouse,(214) 744-1610,75202,555 S Lamar St,Bobs Steak & Chop House,(214) 652-4800,75202,0
+1645,1862,999,6918 Greenville Avenue,The Great Outdoors,(214) 739-1928,75231,1733 Greenville Ave,Johns Cafe,(214) 874-0800,75206,0
+1653,1862,1230,6918 Greenville Avenue,The Great Outdoors,(214) 739-1928,75231,7525 Greenville Ave,Kaze,(214) 987-2333,75231,0
+1660,1862,1313,6918 Greenville Avenue,The Great Outdoors,(214) 739-1928,75231,3020 Greenville Ave,St Martins Wine Bistro,(214) 826-0940,75206,0
+1686,1871,877,"2820 N Henderson Avenue, Dallas",Fireside Pies,(214) 370-3916,75206,2820 N Henderson Ave,Fireside Pies,(214) 370-3916,75206,1
+1695,1874,827,"8411 Preston Road, Suite 124",California Pizza Kitchen,(214) 750-7067,75225,8300 Preston Ctr Plz,R+D Kitchen,(214) 890-7900,75225,0
+1718,1890,1076,"8383 Preston Center Plaza, Suite 100",True Food Kitchen,(214) 377-3333,75225,8687 N Central Expressway,Pho Kitchen,(214) 706-3595,75225,0
+1725,1894,1415,"3012 N Henderson Avenue, Dallas",Velvet Taco,(214) 823-8358,75206,2912 N Henderson Ave,The Porch,(214) 828-2916,75206,0
+1734,1899,1197,"3020 Greenville Avenue, Dallas",St. Martin's Wine Bistro,(214) 826-0940,75206,1904 Skillman St,Matts Rancho Martinez,(214) 823-5517,75206,0
+1757,1915,912,1201 Oak Lawn Avenue,El Bolero,(214) 741-1986,75207,2604 Oak Lawn Ave,Zaguan Bakery & Cafe,(214) 219-8393,75219,0
+1763,1915,1135,1201 Oak Lawn Avenue,El Bolero,(214) 741-1986,75207,1621 Oak Lawn Ave,Ascension Coffee,(214) 741-3211,75207,0
+1783,1919,1384,"6050 Greenville Avenue, Dallas",Humperdinks Restaurant & Brewpub,(214) 368-6597,75206,7050 Greenville Ave,Enchiladas,(214) 363-8969,75231,0
+1786,1923,786,"2231 W NW Highway, Dallas",Pappas Bar-B-Q,(214) 956-9038,75220,10477 Lombardy Ln,Pappas Bros Steakhouse,(214) 366-2000,75220,0
+1795,1931,1385,"3317 Inwood Road, Dallas",Big Al's Smokehouse BBQ,(214) 350-2649,75235,2202 Inwood Rd,Sonny Bryans Smokehouse,(214) 357-7120,75235,0
+1804,1933,1253,"3001 Knox Street, Suite 108, Dallas, TX",The Burger Joint,(469) 941-4471,75206,7940 N Central Expy,In-N-Out Burger,(800) 786-1000,75206,0
+1825,1954,803,2114 Greenville Avenue,Mudsmith,(214) 821-7300,75206,2815 Greenville Ave,Terillis Restaurant and Bar,(214) 827-3993,75206,0
+1831,1954,879,2114 Greenville Avenue,Mudsmith,(214) 821-7300,75206,1731 Greenville Ave,Thai Thai Restaurant,(214) 828-9795,75206,0
+1835,1954,928,2114 Greenville Avenue,Mudsmith,(214) 821-7300,75206,4818 Greenville Ave,Desperados Mexican Restaurant,(214) 363-1850,75206,0
+1851,1954,1250,2114 Greenville Avenue,Mudsmith,(214) 821-7300,75206,2221 Greenville Ave,Sevan G & G Cafe,(214) 821-0601,75206,0
+1877,1958,1148,2401 N Henderson Avenue,Capitol Pub,(214) 887-9330,75206,3012 N Henderson Ave,Velvet Taco,(214) 823-8358,75206,0
+1903,1982,1072,"4900 McKinney Avenue, Dallas",Henry's Majestic,(469) 893-9400,75205,2900 McKinney Ave,The Standard Pour,(214) 935-1370,75204,0
+1926,1996,1021,"6710 Snider Plaza, Dallas",Barry's Food From Galilee,(214) 750-0330,75205,6710 Snider Plz,Food From Galilee,(214) 750-0330,75205,1
+1939,2006,904,"1928 Greenville Avenue, Dallas",Nora Restaurant and Bar,(214) 828-0095,75206,1928 Greenville Ave,Nora Restaurant and Bar,(214) 828-0095,75206,1
+1950,2014,1150,"2621 McKinney Avenue, Dallas",Blackfriar Pub,(214) 953-0599,75204,2621 McKinney Ave,Black Friar Pub,(214) 953-0599,75204,1
+1957,2018,1499,"4001 Lemmon Avenue, Dallas",Great American Hero,(214) 521-2070,75219,3848 Oaklawn AveSte 210,Paul Martins American Grill,(214) 521-0116,75219,0
+1958,2020,1419,"5030 Greenville Avenue, Dallas",Raising Cane's,(214) 360-6080,75206,5030 Greenville Ave,Raising Canes Chicken Fingers,(214) 360-0040,75206,1
+1997,2059,849,"9310 Forest Lane, Dallas",The Varsity Grill,(214) 342-3000,75243,8131 Forest Ln,Tattys Fresh Mex Grill,(214) 575-8100,75243,0
+2010,2072,1471,"2614 Boll Street, Dallas",Bowen House,(214) 484-1385,75204,2900 Lemmon AveSte 200,The Original Pancake House,(214) 528-7215,75204,0
+2102,2132,810,"1115 N Beckley Avenue, Dallas",VH Casual Dining and Bar,(214) 946-1308,75203,1101 N Beckley Ave,Spiral Diner & Bakery,(214) 948-4747,75203,0
+2193,2216,766,"4152 Travis Street, Dallas",Brother's Pizza,(214) 219-5200,75204,2519 N Fitzhugh Ave,ZaLat Pizza,(469) 573-2007,75204,0
+2227,2230,1311,"1802 Greenville Avenue, Suite 110, Dallas",Dallas Beer Kitchen,(214) 484-2481,75206,5321 E Mockingbird LaneSte 230,Angelika Film Center & Caf - Dallas,(214) 841-4713,75206,0
+2238,2248,756,"2822 N Henderson Avenue, Dallas",Mesero,(214) 821-6426,75206,2822 N Henderson Ave,Mesero - Henderson,(214) 821-6426,75206,1
+2244,2254,817,"2916 McKinney Avenue, Dallas",Shell Shack,(877) 434-1411,75204,2916 Mckinney Ave,Shell Shack,(877) 434-1411,75204,1
+2280,2302,883,"4530 Lovers Lane, Dallas",Chip's Old Fashioned Hamburgers,(214) 691-2447,75225,6030 Luther LnSte 100,Hopdoddy Burger Bar,(214) 363-2337,75225,0
+2344,2329,1898,107 N Robertson Blvd,Il Buco,(310) 657-1345,90211,310 S Robertson Blvd,Pizzeria Il Fico,(310) 271-3426,90048,0
+2350,2339,2127,"205 Ord St, Los Angeles",ABC Seafood,(213) 680-2887,90012,936 N Hill St,New Dragon Seafood Restaurant,(213) 626-6050,90012,0
+2354,2349,1816,10968 Ventura Blvd,Vivian's Millenium Cafe,(818) 762-8710,91604,11616 Ventura Blvd,Cocina Condesa,(818) 579-4264,91604,0
+2374,2382,1773,116 E Beverly Blvd,Antigua Bar & Grill,(323) 516-6223,90640,4430 Beverly Blvd,Noshi Sushi,(323) 469-3458,90004,0
+2395,2396,1570,6340 Hollywood Blvd,Juicy Burger,(323) 465-8429,90028,6124 Hollywood Blvd,Blue Palms Brewhouse,(323) 464-2337,90028,0
+2429,2404,2199,9679 Wilshire Blvd.,Urban Fresh,(310) 275-4440,90212,1055 Wilshire Blvd,Kachi Deli Cafe & Grill,(213) 482-4553,90017,0
+2450,2426,2366,"435 N Fairfax Ave, Los Angeles",Animal,(323) 782-9225,90036,435 N Fairfax Ave,Animal,(323) 782-9225,90036,1
+2494,2469,1991,404 Washington Blvd,Islands,(310) 822-3939,90292,4566 W Washington Blvd,Ondal 2,(323) 933-3228,90016,0
+2512,2486,1976,2-10 Washington Blvd,Venice Whaler Bar and Grill,(310) 821-8737,90292,12517 W Washington Blvd,Hatchet Hall,(310) 391-4222,90066,0
+2549,2498,2295,7984 Santa Monica Blvd,Laurel Hardware,(323) 656-6070,90046,6775 Santa Monica Blvd,Bombay Grill,(323) 798-5197,90038,0
+2556,2511,2133,"1267 W Temple Street, Los Angeles",The Park's Finest,(213) 481-2800,90026,1400 Sunset Blvd,The Park,(213) 482-9209,90026,0
+2572,2519,2092,6801 Hollywood Blvd,Izakaya By Mr Koji,(323) 465-6339,90028,4518 Hollywood Blvd,The Backyard at 4518,(323) 702-9141,90027,0
+2584,2526,1631,8226 Sunset Blvd,Den on Sunset,(323) 656-0336,90046,7617 W Sunset Blvd,The Pikey,(323) 850-5400,90046,0
+2595,2526,1923,8226 Sunset Blvd,Den on Sunset,(323) 656-0336,90046,3200 W Sunset Blvd,Samosa House Silverlake,(323) 913-0015,90026,0
+2599,2526,1999,8226 Sunset Blvd,Den on Sunset,(323) 656-0336,90046,5065 Sunset Blvd,Zankou Chicken - Hollywood,(323) 665-7842,90027,0
+2627,2529,2316,"3119 Los Feliz Blvd., Los Angeles",The Village Bakery and Cafe,(323) 662-8600,90039,3216 Glendale Blvd,Atwater Village Tavern,(323) 644-0605,90039,0
+2631,2536,214,3100 Washington Blvd,26 Beach Restaurant,(310) 823-7526,90292,800 W Washington Blvd,ms,(312) 243-1995,60607,0
+2670,2561,3916,3847 Main St,BottleRock,(310) 836-9463,90232,15 Main St,Atrium DUMBO,(718) 858-1095,11201,0
+2691,2568,2117,8714 Santa Monica Blvd,Fresh Corn Grill,(310) 855-9592,90069,4905 Santa Monica Blvd.,Marouch Restaurant,(323) 662-9325,90029,0
+2713,2575,1580,8868 W Sunset Blvd,Amarone Kitchen + Wine,(310) 652-2233,90069,2141 W Sunset Blvd,Mohawk Bend,(213) 483-2337,90026,0
+2746,2579,1556,2122 1/2 Colorado Blvd,Four Cafe,(323) 550-1988,90041,1496 Colorado Blvd,Little Beast Restaurant,(323) 341-5899,90041,0
+2801,2600,2069,6051 Hollywood Blvd,Al Wazir Chicken,(323) 856-0660,90028,6660 W Sunset BlvdSte C,Ro Ros Chicken,(323) 461-9999,90028,0
+2859,2661,1555,8730 W Sunset Blvd,Church Key,(424) 249-3700,90069,1910 W Sunset BlvdSte 150,Reggies Deli & Cafe,(213) 353-9263,90026,0
+2885,2661,2133,8730 W Sunset Blvd,Church Key,(424) 249-3700,90069,1400 Sunset Blvd,The Park,(213) 482-9209,90026,0
+2887,2661,2204,8730 W Sunset Blvd,Church Key,(424) 249-3700,90069,1700 Sunset Blvd,Sage Organic Vegan Bistro,(213) 989-1718,90026,0
+2935,2692,1743,730 N La Cienega Blvd,Koi,(310) 659-9449,90069,408 N LA Cienega Blvd,The Addiction Bistro,(323) 203-1793,90048,0
+2976,2721,1748,8950 W Olympic Blvd,La Provence Patisserie,(310) 888-8833,90211,2561 W Olympic Blvd,Yangmani,(213) 249-9292,90006,0
+3002,2727,2291,9785 Santa Monica Blvd,La Dolce Vita,(310) 278-1845,90210,5101 Santa Monica BlvdSte 2,Falafel-Arax,(323) 663-9687,90029,0
+3024,2738,2248,"6101 Melrose Ave, Los Angeles",Xiomara on Melrose,(323) 461-0601,90038,6101 Melrose Ave,Xiomara,(323) 461-0601,90038,1
+3045,2749,1743,1106 N La Cienega Blvd,Wa Sushi & Bistro,(310) 854-7285,90069,408 N LA Cienega Blvd,The Addiction Bistro,(323) 203-1793,90048,0
+3080,2784,1737,8828 Sunset Blvd,Pi on Sunset,(310) 657-1774,90069,7300 Sunset Blvd,The Carving Board,(323) 845-4550,90046,0
+3101,2784,2333,8828 Sunset Blvd,Pi on Sunset,(310) 657-1774,90069,7361 W Sunset Blvd,Chibiscus Asian Cafe,(323) 977-9877,90046,0
+3104,2784,2350,8828 Sunset Blvd,Pi on Sunset,(310) 657-1774,90069,4319 W Sunset Blvd,My Vegan Gold,(323) 522-6500,90029,0
+3132,2803,2295,8171 Santa Monica Blvd,Connie & Ted's,(323) 848-2722,90046,6775 Santa Monica Blvd,Bombay Grill,(323) 798-5197,90038,0
+3135,2804,1816,13353 Ventura Blvd,Maria's Italian Kitchen,(818) 906-0783,91423,11616 Ventura Blvd,Cocina Condesa,(818) 579-4264,91604,0
+3172,2825,1561,8474 Melrose Ave,Lucques,(323) 655-6277,90069,6919 Melrose Ave,Franco On Melrose,(323) 934-3390,90038,0
+3173,2825,1569,8474 Melrose Ave,Lucques,(323) 655-6277,90069,7465 Melrose Ave,Mar,(323) 592-3226,90046,0
+3179,2825,1670,8474 Melrose Ave,Lucques,(323) 655-6277,90069,5732 Melrose Ave,Osteria Mamma,(323) 284-7060,90038,0
+3225,2848,2289,7954 Santa Monica Blvd,Los Tacos,(323) 848-9141,90046,5450 Santa Monica Blvd,Tlayuda L.A. Mexican Restaurant,(213) 261-4667,90029,0
+3299,2911,2142,7853 Santa Monica Blvd,Kung Pao Bistro,(323) 848-9888,90046,10250 Santa Monica Blvd,Gulfstream,(310) 553-3636,90067,0
+3312,2919,2026,"10571 Pico Blvd, Los Angeles",Food,(310) 441-7770,90064,10571 Pico Blvd,Food,(310) 441-7770,90064,1
+3335,2939,2130,9198 W Olympic Blvd,Cafe Talesai,(310) 271-9345,90212,11301 W Olympic Blvd,Butchers Dog,(310) 444-2929,90064,0
+3421,2976,1655,8684 Melrose Ave,Zinque,(424) 284-3930,90069,7160 Melrose Ave,Murakami Sushi,(323) 692-1450,90046,0
+3456,2980,1898,685 N Robertson Blvd,Bossa Nova Brazilian Cuisine,(310) 657-5070,90069,310 S Robertson Blvd,Pizzeria Il Fico,(310) 271-3426,90048,0
+3465,2987,1581,"5773 Wilshire Blvd, Los Angeles",Callender's Grill,(323) 937-7952,90036,519 N Fairfax Ave,Pita Bar & Grill,(323) 653-9024,90036,0
+3544,3036,2346,9500 Wilshire Blvd,Blvd.,(310) 385-3901,90212,5779 Wilshire Blvd,The Counter,(323) 932-8900,90036,0
+3549,3041,2363,"5833 Franklin Ave, Los Angeles",Pimai It's Thai,(323) 461-7841,90028,5908 Sunset Blvd,Hoy-Ka Thai Noodles,(323) 688-3558,90028,0
+3559,3045,2289,8457 Santa Monica Blvd,Niko Niko Sushi,(323) 654-6200,90069,5450 Santa Monica Blvd,Tlayuda L.A. Mexican Restaurant,(213) 261-4667,90029,0
+3576,3046,1769,9200 W Sunset Blvd,Soho House,(310) 432-9200,90069,3322 W Sunset Blvd,Night + Market Song,(323) 665-5899,90026,0
+3589,3046,2020,9200 W Sunset Blvd,Soho House,(310) 432-9200,90069,2903 W Sunset Blvd,Aroma Restaurant,(323) 644-2833,90026,0
+3604,3046,2363,9200 W Sunset Blvd,Soho House,(310) 432-9200,90069,5908 Sunset Blvd,Hoy-Ka Thai Noodles,(323) 688-3558,90028,0
+3619,3082,1607,8151 Santa Monica Blvd,Traktir,(323) 654-3030,90046,6547 Santa Monica Blvd,Eat This Cafe,(323) 999-2003,90038,0
+3620,3082,1629,8151 Santa Monica Blvd,Traktir,(323) 654-3030,90046,5101 Santa Monica Blvd,Spicy BBQ Restaurant,(323) 663-4211,90029,0
+3643,3103,1564,6255 W Sunset Blvd,The Waffle,(323) 465-6901,90028,7181 W Sunset Blvd,Bossa Nova on Sunset,(323) 436-7999,90046,0
+3659,3103,1869,6255 W Sunset Blvd,The Waffle,(323) 465-6901,90028,2852 W Sunset Blvd,Ohana Pok Co,(323) 953-2820,90026,0
+3671,3103,2288,6255 W Sunset Blvd,The Waffle,(323) 465-6901,90028,1261 W Sunset Blvd,Guisados,(213) 250-7600,90026,0
+3680,3104,2039,"317 S Broadway Spc C45, Los Angeles",Sticky Rice,(626) 872-0353,90013,317 S BroadwaySte C-4-5,Sticky Rice,(213) 621-2865,90013,1
+3692,3107,1737,5946 W Sunset Blvd,Mission Cantina,(323) 469-3130,90028,7300 Sunset Blvd,The Carving Board,(323) 845-4550,90046,0
+3728,3127,1585,6541 Hollywood Blvd #102,Five0Four Hollywood,(323) 960-0224,90028,4624 Hollywood Blvd,HomeState,(323) 906-1122,90027,0
+3740,3127,2175,6541 Hollywood Blvd #102,Five0Four Hollywood,(323) 960-0224,90028,5183 Hollywood Blvd,Sapp Coffee Shop,(323) 665-1035,90027,0
+3786,3185,1636,8948 Santa Monica Blvd,Pump Restaurant,(310) 657-7867,90069,4959 Santa Monica Blvd,DeSano Pizza Bakery,(323) 913-7000,90029,0
+3824,3207,2043,"700 N Spring St, Los Angeles",CBS Seafood Restaurant,(213) 617-2323,90012,424 W College St,Golden Lake Eatery Cambodian Restaurant,(213) 509-4035,90012,0
+3834,3221,1581,"345 N La Brea Ave, Los Angeles",East India Grill,(323) 936-8844,90036,519 N Fairfax Ave,Pita Bar & Grill,(323) 653-9024,90036,0
+3915,3243,1985,7302 Melrose Ave,The Darkroom,(323) 931-3800,90048,5125 Melrose Ave,La Fonda Antioquena,(323) 957-5164,90004,0
+3952,3248,1680,"3272 Motor Ave, Los Angeles",C & M Cafe,(310) 694-1516,90034,3272 Motor Ave,C&M Cafe,(310) 694-1516,90034,1
+4055,3312,1874,8684 Melrose Ave,Nishimura,(310) 659-4770,90069,5028 Melrose Ave,Guadalupes Place,(323) 462-3329,90038,0
+4075,3324,1991,"4566 W Washington Blvd, Los Angeles",Ondal 2,(323) 933-3228,90016,4566 W Washington Blvd,Ondal 2,(323) 933-3228,90016,1
+4099,3349,2101,9683 Wilshire Blvd,Capriotti's Sandwich Shop,(310) 858-1383,90212,1001 Wilshire Blvd,Organic Corner Cafe,(213) 250-5550,90017,0
+4128,3398,1532,517 Washington Blvd,Mosto Enoteca,(310) 821-3035,90292,2024 W Washington Blvd,Blu Elefant Cafe,(323) 641-0466,90018,0
+4158,3413,1576,8439 W Sunset Blvd,Katana,(323) 650-8585,90069,3823 W Sunset Blvd,Forage,(323) 663-6885,90026,0
+4178,3413,2020,8439 W Sunset Blvd,Katana,(323) 650-8585,90069,2903 W Sunset Blvd,Aroma Restaurant,(323) 644-2833,90026,0
+4203,3415,2295,8730 Santa Monica Blvd,Ari-ya,(310) 854-6212,90069,6775 Santa Monica Blvd,Bombay Grill,(323) 798-5197,90038,0
+4229,3424,1565,8401 Santa Monica Blvd,Hugo's,(323) 654-3993,90069,4156 Santa Monica Blvd,Bowery Bungalow,(323) 663-1500,90029,0
+4250,3429,1816,20401 Ventura Blvd,Todai,(818) 883-8082,91364,11616 Ventura Blvd,Cocina Condesa,(818) 579-4264,91604,0
+4262,3448,1959,"8351 W Sunset Blvd, Los Angeles",Carney's,(323) 654-8300,90069,8351 W Sunset Blvd,Carneys Sunset Strip,(323) 654-8300,90069,1
+4267,3450,1580,8961 W Sunset Blvd,Sunset Deli,(310) 275-8010,90069,2141 W Sunset Blvd,Mohawk Bend,(213) 483-2337,90026,0
+4272,3450,1733,8961 W Sunset Blvd,Sunset Deli,(310) 275-8010,90069,2135 W Sunset Blvd,Elf Caf,(213) 484-6829,90026,0
+4284,3450,1999,8961 W Sunset Blvd,Sunset Deli,(310) 275-8010,90069,5065 Sunset Blvd,Zankou Chicken - Hollywood,(323) 665-7842,90027,0
+4313,3472,2153,"4500 Los Feliz Blvd, Los Angeles",MessHall,(323) 660-6377,90027,3000 Los Feliz Blvd,The Griffin,(323) 644-0444,90039,0
+4339,3499,1653,8905 Melrose Ave,Gracias Madre,(323) 978-2170,90069,7229 Melrose Ave,Lalas Argentine Grill,(323) 934-6838,90046,0
+4356,3499,1946,8905 Melrose Ave,Gracias Madre,(323) 978-2170,90069,7275 Melrose Ave,Shefa,(323) 592-3100,90046,0
+4433,3524,1874,8454 Melrose Ave,Taste on Melrose,(323) 852-6888,90069,5028 Melrose Ave,Guadalupes Place,(323) 462-3329,90038,0
+4461,3527,1733,8221 W Sunset Blvd,Chateau Marmont Restaurant,(323) 656-1010,90046,2135 W Sunset Blvd,Elf Caf,(213) 484-6829,90026,0
+4485,3527,2347,8221 W Sunset Blvd,Chateau Marmont Restaurant,(323) 656-1010,90046,2619 W Sunset Blvd,La Caridad Restaurant,(213) 484-0099,90026,0
+4489,3530,1565,9635 S Santa Monica Blvd,Sprinkles Cupcakes,(310) 274-8765,90210,4156 Santa Monica Blvd,Bowery Bungalow,(323) 663-1500,90029,0
+4521,3542,2117,8447 Santa Monica Blvd,Barney's Beanery,(323) 654-2287,90069,4905 Santa Monica Blvd.,Marouch Restaurant,(323) 662-9325,90029,0
+4584,3558,1668,8440 W Sunset Blvd,Asia de Cuba,(323) 848-6000,90069,2943 W Sunset Blvd,Local,(323) 662-4740,90026,0
+4595,3558,1923,8440 W Sunset Blvd,Asia de Cuba,(323) 848-6000,90069,3200 W Sunset Blvd,Samosa House Silverlake,(323) 913-0015,90026,0
+4622,3562,1595,8535 Sunset Blvd,Roppongi Asian Tapas Bar and Sushi,(310) 289-0030,90069,1800 W Sunset Blvd,Masa of Echo Park,(213) 989-1558,90026,0
+4624,3562,1668,8535 Sunset Blvd,Roppongi Asian Tapas Bar and Sushi,(310) 289-0030,90069,2943 W Sunset Blvd,Local,(323) 662-4740,90026,0
+4664,3575,1583,"8370 W 3rd St, Los Angeles",Son of a Gun Restaurant,(323) 782-9033,90048,8370 W 3rd St,Son of a Gun,(323) 782-9033,90048,1
+4676,3582,2362,"5484 Wilshire Blvd, Los Angeles",Yuko Kitchen,(323) 933-4020,90036,109 N Fairfax Ave,Kaya Street Kitchen,(323) 879-9288,90036,0
+4690,3596,1589,6613 Hollywood Blvd,Lucky's Tavern,(323) 465-8259,90028,5633 Hollywood Blvd,I Panini Di Ambra,(323) 463-1200,90028,0
+4716,3602,1670,"5732 Melrose Ave, Los Angeles",Osteria Mamma,(323) 284-7060,90038,5732 Melrose Ave,Osteria Mamma,(323) 284-7060,90038,1
+4734,3611,1769,8200 W Sunset Blvd,Pinches Tacos,(323) 650-0614,90046,3322 W Sunset Blvd,Night + Market Song,(323) 665-5899,90026,0
+4750,3611,2133,8200 W Sunset Blvd,Pinches Tacos,(323) 650-0614,90046,1400 Sunset Blvd,The Park,(213) 482-9209,90026,0
+4752,3611,2204,8200 W Sunset Blvd,Pinches Tacos,(323) 650-0614,90046,1700 Sunset Blvd,Sage Organic Vegan Bistro,(213) 989-1718,90026,0
+4807,3631,1607,7253 Santa Monica Blvd,FoodLab,(323) 851-7120,90046,6547 Santa Monica Blvd,Eat This Cafe,(323) 999-2003,90038,0
+4919,3682,2373,9405 S Santa Monica Blvd,Harajuku Crepe,(310) 285-3946,90210,5706 Santa Monica Blvd,Baroo,(323) 819-4344,90038,0
+4930,3693,1629,8945 Santa Monica Blvd,Saint Felix,(310) 275-4428,90069,5101 Santa Monica Blvd,Spicy BBQ Restaurant,(323) 663-4211,90029,0
+4939,3693,2295,8945 Santa Monica Blvd,Saint Felix,(310) 275-4428,90069,6775 Santa Monica Blvd,Bombay Grill,(323) 798-5197,90038,0
+4959,3699,214,9023 Washington Blvd,Dal Rae,(562) 949-2444,90660,800 W Washington Blvd,ms,(312) 243-1995,60607,0
+4988,3701,1947,9041 Sunset Blvd,Night + Market,(310) 275-9724,90069,6464 W Sunset Blvd,Ciabatta Bar,(323) 500-1121,90028,0
+5001,3701,2333,9041 Sunset Blvd,Night + Market,(310) 275-9724,90069,7361 W Sunset Blvd,Chibiscus Asian Cafe,(323) 977-9877,90046,0
+5008,3703,2327,"2056 Hillhurst Ave, Los Angeles",Yuca's,(323) 662-1214,90027,2056 Hillhurst Ave,Yucas,(323) 662-1214,90027,1
+5027,3714,1842,8618 W Sunset Blvd,Chin Chin,(310) 652-1818,90069,2939 W Sunset Blvd,Takumas Burgers,(213) 864-9305,90026,0
+5028,3714,1863,8618 W Sunset Blvd,Chin Chin,(310) 652-1818,90069,2852 Sunset Blvd,Sopressata At Black Hogg,(323) 953-2820,90026,0
+5065,3722,1821,8430 Sunset Blvd,Crossroads at The House of Blues,(323) 848-5100,90069,6372 W Sunset Blvd,Stella Barra Pizzeria,(323) 301-4001,90028,0
+5073,3722,1964,8430 Sunset Blvd,Crossroads at The House of Blues,(323) 848-5100,90069,7554 W Sunset Blvd,Vintage Enoteca,(323) 512-5278,90046,0
+5079,3722,2154,8430 Sunset Blvd,Crossroads at The House of Blues,(323) 848-5100,90069,3508 W Sunset Blvd,El Cochinito Restaurant,(323) 668-0737,90026,0
+5164,3753,2142,7100 Santa Monica Blvd,Hot N Juicy Crawfish,(323) 969-8902,90046,10250 Santa Monica Blvd,Gulfstream,(310) 553-3636,90067,0
+5170,3753,2328,7100 Santa Monica Blvd,Hot N Juicy Crawfish,(323) 969-8902,90046,11521 Santa Monica Blvd,Churros Calientes,(424) 248-3890,90025,0
+5171,3753,2373,7100 Santa Monica Blvd,Hot N Juicy Crawfish,(323) 969-8902,90046,5706 Santa Monica Blvd,Baroo,(323) 819-4344,90038,0
+5259,3775,2300,9383 Wilshire Blvd,Shanghai Grill,(310) 275-4845,90210,3438 Wilshire Blvd,Wiki Poki,(213) 739-4363,90010,0
+5268,3776,1895,1612 N Cahuenga Blvd,Velvet Margarita Cantina,(323) 469-2000,90028,1602 N Cahuenga Blvd,Saint Felix,(323) 469-5001,90028,0
+5296,3779,2311,8690 Wilshire Blvd,Bombay Palace,(310) 659-9944,90211,3012 Wilshire Blvd,Golden Mongolian Restaurant,(213) 263-2141,90010,0
+5305,3786,1548,7916 W Sunset Blvd,The Griddle Cafe,(323) 874-0377,90046,2927 W Sunset Blvd,Silverlake Ramen,(323) 660-8100,90026,0
+5314,3786,1737,7916 W Sunset Blvd,The Griddle Cafe,(323) 874-0377,90046,7300 Sunset Blvd,The Carving Board,(323) 845-4550,90046,0
+5329,3786,2064,7916 W Sunset Blvd,The Griddle Cafe,(323) 874-0377,90046,4321 Sunset Blvd,Jays Bar,(323) 666-1898,90029,0
+5337,3786,2342,7916 W Sunset Blvd,The Griddle Cafe,(323) 874-0377,90046,5940 Sunset Blvd,Twins Sliders,(323) 960-6902,90029,0
+5355,3793,2373,9749 Santa Monica Blvd,Da Pasquale,(310) 859-3884,90210,5706 Santa Monica Blvd,Baroo,(323) 819-4344,90038,0
+5357,3795,1548,9641 Sunset Blvd,Polo Lounge,(310) 887-2777,90210,2927 W Sunset Blvd,Silverlake Ramen,(323) 660-8100,90026,0
+5408,3806,1840,9025 Wilshire Blvd,La Gondola Kosher Restaurant and Catering,(310) 247-1239,90211,3675 Wilshire BlvdSte C,Roll Roll Roll,(213) 386-3000,90010,0
+5415,3806,2119,9025 Wilshire Blvd,La Gondola Kosher Restaurant and Catering,(310) 247-1239,90211,6325 Wilshire Blvd,Project Taco,(323) 424-7564,90048,0
+5449,3819,2183,9500 Wilshire Blvd,Cut,(310) 276-8500,90212,5515 Wilshire Blvd,El Diner,(323) 931-1281,90036,0
+5451,3819,2194,9500 Wilshire Blvd,Cut,(310) 276-8500,90212,6355 Wilshire Blvd,Genki Grill,(323) 653-3287,90048,0
+5472,3836,1752,"359 E 1st St, Los Angeles",Toshi Sushi,(213) 680-4166,90012,343 E 1st St,Sushi Enya,(213) 626-3692,90012,0
+5474,3836,2317,"359 E 1st St, Los Angeles",Toshi Sushi,(213) 680-4166,90012,347 E 2nd St,Hama Sushi,(213) 680-3454,90012,0
+5557,3877,2056,1847 N Cahuenga Blvd,Solar de Cahuenga,(323) 467-7510,90028,1835 N Cahuenga Blvd,Madera Kitchen,(213) 261-3687,90028,0
+5607,3897,1848,"700 S Grand Ave, Los Angeles",Bottega Louie,(213) 802-1470,90017,700 S Grand Ave,Bottega Louie,(213) 802-1470,90017,1
+5695,3932,1869,9015 W Sunset Blvd,Rainbow Bar & Grill,(310) 278-4232,90069,2852 W Sunset Blvd,Ohana Pok Co,(323) 953-2820,90026,0
+5720,3936,1898,321 N Robertson Blvd,Petrossian Cafe,(310) 271-6300,90048,310 S Robertson Blvd,Pizzeria Il Fico,(310) 271-3426,90048,0
+5728,3949,1816,14120 Ventura Blvd,Jinky's Cafe,(818) 981-2250,91423,11616 Ventura Blvd,Cocina Condesa,(818) 579-4264,91604,0
+5730,3951,1632,8826 Melrose Avenue,Craig's,(310) 276-1900,90069,5156 Melrose Ave,Nue Studio & Cafe,(818) 314-3578,90004,0
+5734,3957,1816,14611 Ventura Blvd,Clay Oven Indian Cuisine,(818) 995-1777,91403,11616 Ventura Blvd,Cocina Condesa,(818) 579-4264,91604,0
+5747,3983,2221,9461 S Santa Monica Blvd,Ice Cream Lab,(310) 795-6505,90210,12201 Santa Monica Blvd,Quicksand,(310) 439-9170,90025,0
+5793,4017,1756,6922 Hollywood Blvd,Hooters,(323) 962-3373,90028,5103 Hollywood Blvd,Fukurou Ramen,(323) 719-9011,90027,0
+5811,4018,1676,7985 Santa Monica Blvd,French Quarter Market Place,(323) 654-0898,90046,7253 Santa Monica Blvd,Foodlab,(323) 851-7120,90046,0
+5874,4043,1816,12655 Ventura Blvd,Jerry's Famous Deli,(818) 980-4245,91604,11616 Ventura Blvd,Cocina Condesa,(818) 579-4264,91604,0
+5909,4067,1948,"3002 W 7th St, Los Angeles",OB Bear,(213) 480-4910,90005,3002 W 7th St,OB Bear,(213) 480-4910,90005,1
+5959,4096,1580,9200 W Sunset Blvd,BOA Steakhouse,(310) 278-2050,90069,2141 W Sunset Blvd,Mohawk Bend,(213) 483-2337,90026,0
+5965,4096,1737,9200 W Sunset Blvd,BOA Steakhouse,(310) 278-2050,90069,7300 Sunset Blvd,The Carving Board,(323) 845-4550,90046,0
+5976,4096,1964,9200 W Sunset Blvd,BOA Steakhouse,(310) 278-2050,90069,7554 W Sunset Blvd,Vintage Enoteca,(323) 512-5278,90046,0
+5983,4096,2154,9200 W Sunset Blvd,BOA Steakhouse,(310) 278-2050,90069,3508 W Sunset Blvd,El Cochinito Restaurant,(323) 668-0737,90026,0
+5986,4096,2288,9200 W Sunset Blvd,BOA Steakhouse,(310) 278-2050,90069,1261 W Sunset Blvd,Guisados,(213) 250-7600,90026,0
+6086,4123,1668,8653 W Sunset Blvd,Cravings,(310) 652-6103,90069,2943 W Sunset Blvd,Local,(323) 662-4740,90026,0
+6090,4123,1769,8653 W Sunset Blvd,Cravings,(310) 652-6103,90069,3322 W Sunset Blvd,Night + Market Song,(323) 665-5899,90026,0
+6120,4133,1629,8575 Santa Monica Blvd,Kitchen 24,Not Available,90069,5101 Santa Monica Blvd,Spicy BBQ Restaurant,(323) 663-4211,90029,0
+6208,4169,1842,5936 W Sunset Blvd,Delancey Bar and Pizzeria,(323) 469-2100,90028,2939 W Sunset Blvd,Takumas Burgers,(213) 864-9305,90026,0
+6209,4169,1863,5936 W Sunset Blvd,Delancey Bar and Pizzeria,(323) 469-2100,90028,2852 Sunset Blvd,Sopressata At Black Hogg,(323) 953-2820,90026,0
+6279,4183,2154,8171 W Sunset Blvd,Bar Marmont,(323) 650-0575,90069,3508 W Sunset Blvd,El Cochinito Restaurant,(323) 668-0737,90026,0
+6313,4189,1869,8654 W Sunset Blvd,Le Petit Four,(310) 652-3863,90069,2852 W Sunset Blvd,Ohana Pok Co,(323) 953-2820,90026,0
+6347,4200,1895,1562 N Cahuenga Blvd,Big Wangs,(323) 469-2449,90028,1602 N Cahuenga Blvd,Saint Felix,(323) 469-5001,90028,0
+6408,4262,1829,8430 W Sunset Blvd,Foundation Room,(323) 845-5100,90069,6660 W Sunset BlvdUnit P,Luv2Eat Thai Bistro,(323) 498-5835,90028,0
+6435,4264,2041,"8738 W 3rd St, Los Angeles",Jack n' Jill's Too,(310) 858-4900,90048,8738 W 3rd St,Jack N Jills Too,(310) 858-4900,90048,1
+6452,4280,1701,9113 W Olympic Blvd,Dr. Sandwich,(310) 278-7777,90212,5300 W Olympic Blvd,El Chato Taco Truck,(323) 202-6936,90019,0
+6458,4280,1944,9113 W Olympic Blvd,Dr. Sandwich,(310) 278-7777,90212,3132 W Olympic Blvd,Hong Galbi,(323) 734-2577,90006,0
+6477,4293,1991,3115 Washington Blvd,Akbar Cuisine of India,(310) 574-0666,90292,4566 W Washington Blvd,Ondal 2,(323) 933-3228,90016,0
+6489,4303,1976,6001 Washington Blvd,Brunello Trattoria,(310) 280-3856,90232,12517 W Washington Blvd,Hatchet Hall,(310) 391-4222,90066,0
+6516,4307,2018,8371 Sunset Blvd,Saddle Ranch Chop House,(323) 656-2007,90069,3827 W Sunset Blvd,Berlin Currywurst,(323) 663-1989,90026,0
+6545,4324,1914,9317 Slauson Ave,Rio's Pizza,(562) 949-2324,90660,2524 W Slauson Ave,Freds Downhome Burgers,(323) 298-7762,90043,0
+6547,4324,2089,9317 Slauson Ave,Rio's Pizza,(562) 949-2324,90660,4454 W Slauson Ave,Orleans and York Deli,(323) 291-8800,90043,0
+6584,4350,2504,1585 W Main St,Domino's,(608) 825-3200,53590,11 W Main St,Fibs Fine Italian Beef & Sausage,(608) 334-1362,53703,0
+6589,4350,3203,1585 W Main St,Domino's,(608) 825-3200,53590,554 W Main St,Echo Tap & Grill,(608) 256-6928,53703,0
+6590,4350,3204,1585 W Main St,Domino's,(608) 825-3200,53590,7 W Main St,Brocach,(608) 255-2015,53703,0
+6637,4387,2996,2952 Fish Hatchery Rd,Schneid's Sports Bar & Grill,(608) 271-3644,53713,3044 Fish Hatchery Rd,Teriyaki Sushi Express,(608) 271-4000,53713,0
+6668,4427,2883,"1019 Williamson St, Madison",Nature's Bakery Cooperative,(608) 257-3649,53703,20 W Mifflin St,The Coopers Tavern,(608) 256-1600,53703,0
+6670,4427,3105,"1019 Williamson St, Madison",Nature's Bakery Cooperative,(608) 257-3649,53703,831 E Johnson StSte 4,Sophias Bakery & Cafe,(608) 259-1506,53703,0
+6681,4440,3200,"211 King St, Madison",Natt Spil,Not Available,53703,211 King St,Natt Spil,(608) 258-8787,53703,1
+6689,4451,2989,3040 Cahill Main,Casa Del Sol,(608) 663-8818,53711,3040 Cahill Main,Casa Del Sol,(608) 663-8818,53711,1
+6753,4574,2401,"6405 Mineral Pt Rd, Madison",Otto's Restaurant & Bar,(608) 274-4044,53705,6405 Mineral Point Rd,Ottos Restaurant & Bar,(608) 535-6279,53705,1
+6765,4618,2497,"449 State St Ste 2G, Madison",Wasabi Japanese Restaurant,(608) 255-5020,53703,944 Williamson St,Bahn Thai Restaurant,(608) 256-0202,53703,0
+6782,4629,2711,6220 Nesbitt Rd Ste B,Pancake Cafe,(608) 204-7040,53719,724 S Gammon Rd,Pancake Cafe,(608) 819-6865,53719,1
+6806,4718,2436,"117 Martin Luther King Blvd, Madison",Dlux,(608) 467-3130,53703,111 Martin Luther King Jr Blvd,Francescas Al Lago,(608) 255-6000,53703,0
+6844,4833,2756,"517 State St., Madison",Five Guys Burgers and Fries,(608) 255-2520,53703,319 W Gorham St,Chasers Bar and Grille,(608) 512-0501,53703,0
+6853,4836,2523,"20 W. Mifflin, Madison",Cooper's Tavern,(608) 256-1600,53703,319 N Henry St,The Plaza Tavern,(608) 255-6592,53703,0
+6944,4855,2952,"1849 Northport Dr, Madison",Benvenuto's Italian Grill,(608) 241-1144,53704,Crowne Plaza Madison4402 E Washington Ave,Growlers Bar & Grille,(608) 244-4703,53704,0
+6952,4858,2688,"2601 West Beltline Highway, Madison",Bonfyre American Grille,(608) 273-3973,53713,1821 S Park St,Sol Azteca Fusion Grill,(608) 561-8211,53713,0
+6954,4858,3183,"2601 West Beltline Highway, Madison",Bonfyre American Grille,(608) 273-3973,53713,2601 W Beltline Hwy,Bonfyre American Grille,(608) 273-3973,53713,1
+6972,4860,2796,"600 Williamson St, Madison",Wah Kee Chinese Noodle Restaurant,(608) 255-5580,53703,151 W Gorham St,Vientiane Palace Restaurant,(608) 255-2848,53703,0
+6991,4866,2886,7464 Hubbard Ave,Louisianne's Etc,(608) 831-1929,53562,7508 Hubbard Ave,The Village Green,(608) 831-9962,53562,0
+6996,4867,2570,"313 State St, Madison",Pizza DI Roma,(608) 268-0900,53703,1054 Williamson St,Roman Candle Pizzeria,(608) 258-2000,53703,0
+6997,4867,2586,"313 State St, Madison",Pizza DI Roma,(608) 268-0900,53703,313 State St,Pizza Di Roma,(608) 268-0900,53703,1
+7014,4870,3088,121 E Main St,La Tolteca,(608) 834-6142,53590,239 E Main St,Atlantis Taverna,(608) 837-5700,53590,0
+7042,4878,3303,675 Park Ave,Appletree Family Restaurant,(920) 623-4518,53925,345 Park Ave,Uncle Gussys,(929) 600-1111,10154,0
+7046,4879,2414,"3717 S Dutch Mill Rd, Madison",Toby's Supper Club,(608) 222-6913,53718,3717 S Dutch Mill Rd,Tobys Supper Club,(608) 222-6913,53718,1
+7075,4885,3102,2701 Century Harbor Rd.,Captain Bill's,(608) 831-7327,53562,2701 Century Harbor Rd,Captain Bills,(608) 831-7327,53562,1
+7187,4916,2477,"831 E Johnson St, Madison",Sophia's Bakery & Cafe,(608) 259-1506,53703,524 E Wilson St,Lakeview Bakery and Deli,(608) 250-2380,53703,0
+7188,4916,2665,"831 E Johnson St, Madison",Sophia's Bakery & Cafe,(608) 259-1506,53703,114 E Main St,Cranberry Creek Take-out & Catering,(608) 283-4202,53703,0
+7220,4923,2530,"944 Williamson St, Madison",Bahn Thai Restaurant,(608) 256-0202,53703,316 State St,Parthenon Gyros Restaurant,(608) 251-6311,53703,0
+7230,4923,2728,"944 Williamson St, Madison",Bahn Thai Restaurant,(608) 256-0202,53703,744 Williamson St,Eldorado Grill,(608) 280-9378,53703,0
+7232,4923,2754,"944 Williamson St, Madison",Bahn Thai Restaurant,(608) 256-0202,53703,401 E Washington Ave,Bellini Italian Restaurant,(608) 250-0097,53703,0
+7256,4931,2652,"515 S Park St, Madison",La Hacienda Restaurant,(608) 255-8227,53715,532 S Park St,Edo Japanese Restaurant,(608) 268-0247,53715,0
+7260,4934,881,300 S Main St,Tuvalu Coffeehouse & Gallery,(608) 845-6800,53593,1200 Main St,WingBucket,(214) 760-9491,75202,0
+7261,4934,968,300 S Main St,Tuvalu Coffeehouse & Gallery,(608) 845-6800,53593,3600 Main St,Cold Beer Company,(214) 370-9301,75226,0
+7268,4934,2762,300 S Main St,Tuvalu Coffeehouse & Gallery,(608) 845-6800,53593,600 W Verona Ave,Jordandal Cookhouse,(608) 848-3298,53593,0
+7287,4937,3080,6522 Monona Dr,Red Robin Gourmet Burgers,(608) 223-1390,53716,6005 Monona Dr,La Rosita Latina Grocery Store,(608) 221-2203,53716,0
+7302,4945,2433,"4002 E Washington Ave, MADISON",Arby's,(608) 240-4427,53704,4512 E Washington Ave,Taqueria Sabor Queretano,(608) 249-0877,53704,0
+7315,4951,3159,218 S. Main St,1855 Saloon & Grill,(608) 839-3700,53527,218 S. Main Street,1855 Saloon and Grill,(608) 839-3700,53527,1
+7367,4962,2493,"2010 S Park St, Madison",El Pastor,(608) 280-8898,53713,2010 S Park St,El Pastor,(608) 280-8898,53713,1
+7413,4982,2769,"114 State St, Madison",Michelangelo's Coffee House,(608) 251-5299,53703,505 State St,Osaka House,(608) 819-8855,53703,0
+7424,4985,2688,6312 Metropolitan Ln,Bourbon Street Grille,(608) 222-4410,53713,1821 S Park St,Sol Azteca Fusion Grill,(608) 561-8211,53713,0
+7440,4989,2909,"2810 E Washington Ave, Madison",Peoples Bakery,(608) 245-0404,53704,4863 Hayes Rd,Perkins Restaurant & Bakery,(608) 241-9123,53704,0
+7480,4994,3136,119 W Main St,Borland's,(608) 424-3013,53508,509 W Main St,M-N-Ms Coffeehouse,(608) 850-3665,53597,0
+7483,4994,3204,119 W Main St,Borland's,(608) 424-3013,53508,7 W Main St,Brocach,(608) 255-2015,53703,0
+7487,4995,2582,"721 N High Point Rd, Madison",New Seoul Korean Restaurant,(608) 829-3331,53717,721 N High Point Rd,New Seoul Korean,(608) 829-3331,53717,1
+7517,5005,2386,"1017 S Park St, Madison",Asian Sweet Bakery,(608) 665-3988,53715,1017 S Park St,Asian Sweet Bakery,(608) 665-3988,53715,1
+7519,5006,2518,238 E Main St,Eddie's Alehouse & Eatery,(608) 825-1515,53590,123 E Main St,Argus,(608) 256-4141,53703,0
+7568,5017,2781,"410 E Wilson St, Madison",Plaka Taverna,(608) 251-4455,53703,627 W Main St,Main Depot Tavern,(608) 257-3100,53703,0
+7588,5024,3136,407 W Main St,Aztlan Mexican Grill,(608) 437-7600,53572,509 W Main St,M-N-Ms Coffeehouse,(608) 850-3665,53597,0
+7601,5026,3035,1010 Enterprise Dr,Draft House Bar & Restaurant,(608) 848-3158,53593,950 Kimball Ln,Grays Tied House,(608) 845-2337,53593,0
+7621,5032,2863,"5401 W Beltline Hwy, Madison",Copper Top Restaurant,(608) 271-4588,53711,2951 Triverton Pike,Lilianas Restaurant,(608) 442-4444,53711,0
+7677,5055,2439,"319 N Henry St, Madison",Plaza Tavern & Grill,(608) 255-6592,53703,131 E Mifflin St,Heritage Tavern,(608) 283-9500,53703,0
+7705,5058,2748,"2500 University Ave, Madison",Lombardino's Restaurant,(608) 238-1922,53705,540 University Ave,Erbert and Gerberts,(608) 467-7309,53703,0
+7711,5059,2440,710 W Main St,Sir Hobo's,(608) 837-1044,53590,117 W Main St,Shamrock Bar & Grille,(608) 255-5029,53703,0
+7736,5061,3155,6544 Monona Dr,Buffalo Wild Wings,(608) 237-8686,53716,4556 Monona Dr,Rocky Rococo Pan Style Pizza,(608) 221-3818,53716,0
+7761,5072,2544,6413 University Ave.,Sonic Drive-in,(608) 831-2633,53562,604 E University Ave,The Taco Bros,(608) 422-5075,53715,0
+7767,5072,2653,6413 University Ave.,Sonic Drive-in,(608) 831-2633,53562,789 University Avenue,Buffalo Wild Wings,(608) 255-9464,53715,0
+7774,5072,2753,6413 University Ave.,Sonic Drive-in,(608) 831-2633,53562,3256 University Ave,Pancheros Mexican Grill,(608) 238-3899,53705,0
+7811,5078,2440,117 S Main St,Blue Moon,(920) 648-3405,53551,117 W Main St,Shamrock Bar & Grille,(608) 255-5029,53703,0
+7825,5082,2763,"3555 E Washington Ave, Madison",Pedro's Mexican Restaurante,(608) 241-8110,53704,1201 N Sherman Ave,Northside Family Restaurant,(608) 244-5663,53704,0
+7831,5082,2910,"3555 E Washington Ave, Madison",Pedro's Mexican Restaurante,(608) 241-8110,53704,4718 E Towne Blvd,Qdoba Mexican Grill,(608) 819-8910,53704,0
+7834,5082,3044,"3555 E Washington Ave, Madison",Pedro's Mexican Restaurante,(608) 241-8110,53704,3715 E Washington Ave,Cousins Subs,(608) 241-0121,53704,0
+7907,5091,2989,2980 Cahill Main,Great Dane Pub & Brewing,(608) 442-9000,53711,3040 Cahill Main,Casa Del Sol,(608) 663-8818,53711,0
+7950,5103,3016,"122 State St, Madison",The Fountain,(608) 250-1998,53703,122 State St,The Fountain,(608) 250-1998,53703,1
+7990,5119,2583,"827 Johnson St, Madison",Spot,(608) 251-7768,53703,827 E Johnson St,The Spot,(608) 251-7768,53703,1
+7992,5120,1515,114 N Main St,Firefly Coffeehouse,(608) 835-6238,53575,3014 Main St,Monkey King Noodle Co.,(469) 206-3658,75226,0
+8001,5124,1318,101 W Main St,Glass Nickel Pizza Co,(608) 834-9919,53590,1301 Main St,Ravenna Urban Italian Restaurant,(214) 744-9333,75202,0
+8038,5127,2643,6637 University Ave,Scott's Pastry Shoppe Incorporated,(608) 836-7333,53562,1401 University Ave,QQ Express,(608) 256-2288,53715,0
+8063,5128,3141,608 W Verona Ave Ste A,Monte's Grill & Pub,(608) 845-9669,53593,608A W Verona Ave,Montes Grill & Pub,(608) 845-9669,53593,1
+8087,5133,2602,"1 W Dayton St, Madison",Dayton Street Grille,(608) 294-3031,53703,529 University Ave,Vintage Spirits & Grill,(608) 250-0700,53703,0
+8091,5133,2756,"1 W Dayton St, Madison",Dayton Street Grille,(608) 294-3031,53703,319 W Gorham St,Chasers Bar and Grille,(608) 512-0501,53703,0
+8120,5139,2555,"7345 Mineral Point Rd, Madison",Bonefish Grill,(608) 827-5720,53711,7345 Mineral Point Rd,Bonefish Grill,(608) 827-5720,53711,1
+8174,5157,2384,"515 State St, Madison",Mia Za's Italian Cafe,(608) 250-1806,53703,625 State St,Mediterranean Cafe,(608) 251-8510,53703,0
+8190,5163,2683,"2540 University Ave, Madison",Oliver's Public House,(608) 819-8555,53705,2540 University Ave,Olivers Public House,(608) 819-8555,53705,1
+8214,5173,2845,"636 State St, Madison",City Bar,(608) 250-2489,53703,636 State St,City Bar,(608) 250-2489,53703,1
+8243,5180,2809,"1805 Monroe St, Madison",Pizza Brutta,(608) 257-2120,53711,1614 Monroe St,Pizza Pit Extreme,(608) 251-4412,53711,0
+8266,5190,2426,"1351 Williamson St, Madison",Willalby's Cafe,(608) 259-9032,53703,1351 Williamson St,Willalbys Cafe,(608) 259-9032,53703,1
+8268,5191,2559,"707 N High Point Rd, Madison",Swagat Restaurant,(608) 836-9399,53717,1265 John Q Hammons Rd,Sprechers Restaurant and Pub,(608) 203-6545,53717,0
+8271,5191,2891,"707 N High Point Rd, Madison",Swagat Restaurant,(608) 836-9399,53717,7017 Mineral Point Rd,Olive Garden Italian Restaurant,(608) 829-1158,53717,0
+8313,5202,2848,"2098 Atwood Ave, Madison",Lao Laan Xang Restaurant,(608) 819-0140,53704,2702 Shopko Dr,Platas Restaurant at Bridges Golf Course,(608) 244-1822,53704,0
+8335,5208,2507,"701 E Washington Ave Ste 104, Madison",Brass Ring,(608) 256-9359,53703,701 E Washington Ave,The Brass Ring,(608) 256-9359,53703,1
+8400,5232,2412,"418 State St, Madison",Fair Trade Coffee House,(608) 268-0477,53703,558 State St,Roast Public House,(608) 260-0088,53703,0
+8436,5241,3137,1965 Barber Dr,Halverson's Supper Club,(608) 873-3001,53589,1965 Barber Dr,Halversons Supper Club,(608) 873-3001,53589,1
+8465,5255,2516,"319 West Gorham St, Madison",Chaser's Bar & Grille,(608) 512-0501,53703,240 W Gilman StFl 2,Samba Brazilian Grill,(608) 257-1111,53703,0
+8490,5260,3762,2451 W Broadway,World Buffet,(608) 222-2962,53713,65 W Broadway,Saleya,(212) 510-7390,10007,0
+8499,5268,2535,"1221 Ann St, Madison",Parkway Family Restaurant,(608) 255-2355,53713,1221 Ann St,Parkway Family Restaurant,(608) 255-2355,53713,1
+8527,5280,2649,"225 King St, Madison",Restaurant Muramoto,(608) 259-1040,53703,226 State St,Nicks Bar & Restaurant,(608) 255-5450,53703,0
+8582,5296,2458,6815 University Avenue,Middleton Sport Bowl,(608) 831-5238,53562,2862 University Ave,La Brioche True Food,(608) 233-3388,53705,0
+8592,5296,2683,6815 University Avenue,Middleton Sport Bowl,(608) 831-5238,53562,2540 University Ave,Olivers Public House,(608) 819-8555,53705,0
+8595,5296,2725,6815 University Avenue,Middleton Sport Bowl,(608) 831-5238,53562,604 University Ave,The Taco Shop,(608) 250-8226,53715,0
+8607,5296,2959,6815 University Avenue,Middleton Sport Bowl,(608) 831-5238,53562,2741 University Ave,Qdoba Mexican Grill,(608) 218-9670,53705,0
+8630,5298,2949,"Mineral Point Rd, Madison",Jason's Deli,(608) 827-7780,53717,6608 Mineral Point Rd,China Kitchen,(608) 826-4432,53705,0
+8660,5309,2431,"419 State St, Madison",Palmyra Mediterranean Grill,Not Available,53703,419 State St,Palmyra Mediterranean Grill,(608) 630-9191,53703,1
+8670,5309,2768,"419 State St, Madison",Palmyra Mediterranean Grill,Not Available,53703,852 Williamson St,Willy Street Pub & Grill,(608) 256-8211,53703,0
+8705,5319,2705,"505 State St, Madison",Osaka House,(608) 819-8855,53703,908 E Johnson St,Johnson Public House,(608) 347-0483,53703,0
+8737,5321,638,207 Milwaukee Ave E,Beauty & The Bean,(920) 563-4938,53538,4914 N Milwaukee Ave,Gale Street Inn,(773) 725-1300,60630,0
+8740,5321,671,207 Milwaukee Ave E,Beauty & The Bean,(920) 563-4938,53538,2732 N Milwaukee Ave,The Harding Tavern,(773) 697-9340,60647,0
+8764,5324,2557,"1 South Pinckney Street, Madison",L'Etoile Restaurant,(608) 251-0500,53703,380 W Washington Ave,Maharani Restaurant,(608) 251-9999,53703,0
+8788,5333,2440,"117 W Main St, Madison",Shamrock Bar,(608) 255-5029,53703,117 W Main St,Shamrock Bar & Grille,(608) 255-5029,53703,1
+8807,5341,2616,4503 Monona Dr,Rossi's,(608) 222-5115,53716,4544 Monona Dr,El Bolillo Bakery,(608) 819-6560,53716,0
+8817,5341,3096,4503 Monona Dr,Rossi's,(608) 222-5115,53716,5805 Monona Dr,Silver Eagle Bar & Grill,(608) 222-2843,53716,0
+8832,5344,3168,111 W Main St,Mojo's Sports Pub & Grill,(608) 849-6656,53597,1008 Quinn Dr,Luckys Bar & Grille,(608) 850-5825,53597,0
+8836,5345,2870,"5956 Executive Drive, Madison",Funk's Pub,(608) 442-9500,53719,5956 Executive DrSte 101,Funks Pub,(608) 442-9500,53719,1
+8886,5360,2556,"1304 E Washington Ave, Madison",Baldwin Street Grille,(608) 442-8400,53703,305 State St,Tutto Pasta State Street,(608) 960-9980,53703,0
+8917,5362,2768,"123 E. Main St., Madison",Argus Bar Grille,(608) 256-4141,53703,852 Williamson St,Willy Street Pub & Grill,(608) 256-8211,53703,0
+8940,5369,2744,"380 W Washington Ave, Madison",Maharani Indian Restaurant,(608) 251-9999,53703,540 State St,Kabul Restaurant,(608) 256-6322,53703,0
+8944,5369,3208,"380 W Washington Ave, Madison",Maharani Indian Restaurant,(608) 251-9999,53703,600 Williamson StSte M,Bandung Indonesian Restaurant,(608) 255-6910,53703,0
+9027,5407,2911,6250 Nesbitt Rd,True Coffee Roasters,(608) 277-1455,53719,6261 Nesbitt Rd,Quiveys Grove,(608) 273-4900,53719,0
+9031,5408,2689,"2825 University Ave, Madison",Itzza Pizza,(608) 233-3500,53705,2825 University AveSte 1,IHOP,(608) 236-4200,53705,0
+9076,5429,3009,8205 Klevenville Riley Rd,Riley Tavern,(608) 845-9150,53593,410 W Verona Ave,The Klassik Tavern,(608) 845-6471,53593,0
+9142,5449,2737,6615 University Ave,Papa John's Pizza,(608) 831-2727,53562,785 University Ave,Madison Cuisine,(608) 906-8888,53715,0
+9176,5458,2699,"540 State St, Madison",Kabul Afghanistan Restaurant,(608) 256-6322,53703,1236 Williamson St,Jamerica Caribbean Restaurant,(608) 251-6234,53703,0
+9244,5484,2768,"240 West Gilman Street, Madison",The Side Door Grill and Tap,(608) 257-3300,53703,852 Williamson St,Willy Street Pub & Grill,(608) 256-8211,53703,0
+9281,5497,2616,4605 Monona Dr,Snicks Sportsman Bar,(608) 661-2812,53716,4544 Monona Dr,El Bolillo Bakery,(608) 819-6560,53716,0
+9322,5513,2473,"5518 University Ave, Madison",Original Pancake House,(608) 231-3666,53705,5518 University Ave,Original Pancake House,(608) 231-3666,53705,1
+9365,5524,2620,"1146 Williamson St, Madison",Lao Laan-Xang Restaurant,(608) 280-0104,53703,225 King St,Restaurant Muramoto,(608) 259-1040,53703,0
+9389,5534,2566,"2810 E Washington Ave, Madison",Happy Grill,(608) 249-5828,53704,3001 N Sherman Ave,Habaneros Mexican Grill,(608) 244-1990,53704,0
+9449,5547,2895,"3001 North Sherman Avenue, Madison",Habanero's Mexican Grill,(608) 244-1990,53704,1810 Roth St,The Lockeroom Bar and Grill,(608) 246-2010,53704,0
+9486,5559,2616,5805 Monona Dr,Silver Eagle Bar & Grill,(608) 222-2843,53716,4544 Monona Dr,El Bolillo Bakery,(608) 819-6560,53716,0
+9504,5562,2928,"E Main St & S Pinckney St, Madison",Good Food,(608) 217-5227,53703,33 E Main St,Good Food,(608) 217-5227,53703,1
+9520,5571,3136,217 W Main St,CamRock Cafe & Sport,(608) 423-2111,53523,509 W Main St,M-N-Ms Coffeehouse,(608) 850-3665,53597,0
+9560,5584,2401,8640 W Mineral Point Rd,Morgan's Bar and Grill,(608) 798-1552,53528,6405 Mineral Point Rd,Ottos Restaurant & Bar,(608) 535-6279,53705,0
+9586,5586,3606,100 Front St,Deb's Squeeze Inn,(608) 868-4849,53563,259 Front St,Cowgirl Sea Horse,(212) 608-7873,10038,0
+9612,5597,3375,28 N Water St E,Bienfang's Bar,(920) 563-8046,53538,1 Water St,The River Caf,(718) 522-5200,11201,0
+9629,5606,2928,118 E Main St,Silver Fox Bar,(608) 655-3381,53559,33 E Main St,Good Food,(608) 217-5227,53703,0
+9632,5607,2764,4173 County Road P,Hilltop Inn,(608) 798-2893,53528,5737 County Road Cv,Veterans of Foreign Wars Truax-Longmire Post 8483,(608) 241-3740,53704,0
+9662,5619,3215,"3910 E Washington Ave, Madison",Wendy's,(608) 244-1999,53704,2810 E Washington Ave,Peoples Bakery,(608) 245-0404,53704,0
+9688,5634,3139,2202 W Broadway,Antler's Tavern,(608) 222-9872,53713,2409 W Broadway,Happy Wok,(608) 221-1661,53713,0
+9708,5642,3004,121 E Main St,Wendigo,(608) 205-2775,53589,121 East Main St,Wendigo,(608) 205-2775,53589,1
+9770,5674,2542,"525 W Johnson St, Madison",Badgerland Bar & Grill,(608) 251-3033,53703,119 E Main St,The Rigby Pub And Grill,(608) 442-1112,53703,0
+9788,5677,2737,"703 University Ave, Madison",Fresh Madison Market,(608) 287-0000,53715,785 University Ave,Madison Cuisine,(608) 906-8888,53715,0
+9789,5677,2842,"703 University Ave, Madison",Fresh Madison Market,(608) 287-0000,53715,1212 Regent St,The Red Zone Madison,(608) 251-6766,53715,0
+9821,5687,3085,"7866 Mineral Point Rd, Madison",Silly Yak Bakery & Bread Barn,(608) 833-5965,53717,7866 Mineral Point Rd,Jacobson Bros Meats & Deli,(608) 833-6433,53717,0
+9836,5702,2929,"1026 N Sherman Ave, Madison",Cafe La Bellitalia,(608) 243-1200,53704,4320 E Towne Blvd,Olive Garden Italian Restaurant,(608) 249-0340,53704,0
+9849,5706,2136,726 S Main St,Jim's Burger Corner,(920) 674-4033,53549,646 S Main St,Natural Selection,(213) 265-7470,90014,0
+9851,5706,3078,726 S Main St,Jim's Burger Corner,(920) 674-4033,53549,300 S Main St,AJs Pizzeria and Diner,(608) 497-1303,53593,0
+9862,5713,2393,"2827 Atwood Dr., Madison",Daisy Cafe and Cupcakery,(608) 241-2200,53704,2827 Atwood Ave,Daisy Cafe and Cupcakery,(608) 241-2200,53704,1
+9887,5725,2530,"316 State St, Madison",Pantheon Bar,(608) 251-6311,53703,316 State St,Parthenon Gyros Restaurant,(608) 251-6311,53703,1
+9923,5755,3088,19 E Main St,Night Owl Food & Spirits,(608) 882-9973,53536,239 E Main St,Atlantis Taverna,(608) 837-5700,53590,0
+9951,5769,3072,"610 University Ave, Madison",Sushi Express,(608) 467-9688,53715,2500 University Ave,Lombardinos Italian Restaurant and Bar,(608) 238-1922,53705,0
+9979,5780,2863,"2701 Monroe St Ste 700, Madison",Bluephies Restaurant & Vodkatorium,(608) 231-3663,53711,2951 Triverton Pike,Lilianas Restaurant,(608) 442-4444,53711,0
+10016,5857,3536,"156 E 2nd Street, New York",Supper,(212) 477-7600,10009,156 E 2nd St,Supper,(212) 477-7600,10009,1
+10022,5874,3278,"68 Clinton Street, New York",Pig And Khao,(212) 920-4485,10002,68 Clinton St,Pig And Khao,(347) 704-2398,10002,1
+10117,6170,3873,"231 E 9th Street, New York",Robataya NY,(212) 979-9674,10003,231 E 9th St,Robataya NY,(212) 979-9674,10003,1
+10138,6240,3361,"454 Van Brunt Street, Brooklyn",Hometown Bar-B-Que,(347) 294-4644,11231,454 Van Brunt St,Hometown Bar-B-Que,(347) 294-4644,11231,1
+10153,6305,3318,"163 Mulberry Street, New York",La Bella Vita Ristorante,(212) 775-8484,10013,138 Mulberry St,Pellegrinos Italian Restaurant,(212) 226-3177,10013,0
+10154,6306,3420,"35 Avenue Of The Americas, New York",AOA Bar and Grill,(212) 925-1600,10013,71 N Moore St,Smith and Mills,(212) 226-2515,10013,0
+10169,6349,3936,"131 Duane Street, New York",City Hall Restaurant,(212) 227-7777,10013,80 Bayard St,Bo Ky Restaurant,(212) 406-2292,10013,0
+10180,6416,3948,"813 8th Avenue, New York",West End Bar and Grill,(212) 707-8986,10019,249 W 49th St,Lillies Victorian Bar & Restaurant,(212) 957-4530,10019,0
+10191,6437,3691,"36 E 4th Street, New York",Aroma Kitchen & Winebar,(212) 375-0100,10003,103 1st Ave,Ugly Kitchen,(212) 777-6677,10003,0
+10202,6457,3698,"236 5th Avenue, New York",ilili Restaurant,(212) 683-2929,10001,299 10th Ave,Porteno Restaurant,(212) 695-9694,10001,0
+10210,6477,3510,"121 Hudson Street, New York",Mr. Chow Tribeca,(212) 965-9500,10013,200 Church St,Tribecas Kitchen,(646) 893-1022,10013,0
+10218,6518,3986,"8 W 18th Street, New York",Ootoya,(212) 255-0833,10003,41 E 11th St,Ootoya Greenwich Village,(212) 473-4300,10003,0
+10238,6568,3861,"145 W Broadway, New York",The Odeon,(212) 233-0507,10013,145 W Broadway,The Odeon,(212) 233-0507,10013,1
+10243,6601,3493,"131 Rivington Street, New York",Schiller's Liquor Bar,(212) 260-4555,10002,65 Rivington St,Millers Near & Far,(646) 559-1210,10002,0
+10268,6678,3398,"94 Avenue C, New York",Bobwhite Lunch & Supper Counter,(212) 228-2972,10009,94 Ave C,Bobwhite Counter,(212) 228-2972,10009,1
+10334,6845,3665,"9 Pell Street, New York",Joe's Shanghai,(212) 233-8888,10013,14A Elizabeth St,Shanghai Asian Cuisine,(212) 964-5640,10013,0
+10336,6848,3858,"10 W 28th Street, New York",The NoMad Restaurant,(212) 796-1500,10001,1170 Broadway,The NoMad Library,(347) 472-5660,10001,0
+10361,6906,3319,"18 Bedford Avenue, Brooklyn",Five Leaves,(718) 383-5345,11222,18 Bedford Ave,Five Leaves,(718) 383-5345,11222,1
+10397,6973,4027,"300 E 12th Street, New York",Angelica Kitchen,(212) 228-2909,10003,35 E 18th St,ABC Kitchen,(212) 475-5829,10003,0
+10406,6985,3396,"Chelsea Market, 75 9th Avenue, New York",Mokbar,(646) 964-5963,10011,Chelsea Market75 9th Ave,The Green Table,(212) 741-6623,10011,0
+10423,7023,3786,"691 8th Avenue, New York",Shake Shack,(646) 435-0136,10036,691 8th Ave,Shake Shack,(646) 435-0136,10036,1
+10441,7098,3644,"315 West 48th Street, New York, NY",Maria's Mont Blanc Restaurant,(212) 582-9648,10036,43 W 46th St,Ipanema Restaurant,(646) 791-7171,10036,0
+10448,7144,4001,"373 West 46th Street, New York",Hourglass Tavern,(212) 265-2060,10036,373 W 46th St,Hourglass Tavern,(212) 265-2060,10036,1
+10463,7232,3791,"324 Lafayette Street, New York",Gato,(212) 334-6400,10012,324 Lafayette St,Gato,(212) 334-6400,10012,1
+10468,7241,3962,"Time-Life Buildiing, 155 E 42nd Street, New York",The Capital Grille,(212) 953-2000,10017,16 E 48th St,Graso Grill,(212) 759-4848,10017,0
+10470,7245,3627,"171 1st Avenue, New York",Momofuku Noodle Bar,(212) 777-1603,10003,8 Extra Pl,Momofuku Ko,(212) 203-8095,10003,0
+10514,7343,3636,"140 W 46th Street, New York",St Andrews Restaurant & Bar,(212) 840-8413,10036,43 W 46th St,Ipanema Restaurant,(646) 791-7171,10036,0
+10522,7368,3962,"633 3rd Avenue, New York, NY",Docks Oyster Bar & Seafood Grill,(212) 986-8080,10017,16 E 48th St,Graso Grill,(212) 759-4848,10017,0
+10573,7510,4001,"252 W 47th Street, New York",Glass House Tavern,(212) 730-4800,10036,373 W 46th St,Hourglass Tavern,(212) 265-2060,10036,0
+10589,7567,3862,"157 Mott Street, New York",Pho Bang Resturant,(212) 966-3797,10013,281 W Broadway,Pepolino Restaurant,(212) 966-9983,10013,0
+10612,7642,3318,"93 Baxter Street, New York",Forlini's Restaurant,(212) 349-6779,10013,138 Mulberry St,Pellegrinos Italian Restaurant,(212) 226-3177,10013,0
+10620,7660,3869,"757 Fulton Street, Brooklyn",Habana Outpost,(718) 858-9500,11217,757 Fulton St,Habana Outpost,(718) 858-9500,11217,1
+10627,7682,3903,"105 Mulberry Street, New York",Sambuca's Cafe,(212) 431-0408,10013,48 Mulberry St,Sharkeys Cafe,(212) 804-8183,10013,0

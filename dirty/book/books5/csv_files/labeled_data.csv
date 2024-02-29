@@ -1,0 +1,404 @@
+#key=_id
+#rtable=POINTER
+#foreign_key_ltable=ltable.ID
+#foreign_key_rtable=rtable.ID
+#ltable=POINTER
+_id,ltable.ID,rtable.ID,ltable.Title,ltable.Pages,ltable.ISBN,rtable.Title,rtable.Pages,rtable.ISBN,Gold
+1185,bn_644,B2,Oracle Certified Professional Application Developer Exam Guide,1318.0,9780072119756,OCP Oracle Certified Professional on Oracle 12c Certification Kit,1992.0,9781118957684,0
+1879,bn_1103,B11,Learn FileMaker Pro 7,515.0,9781556220982,FileMaker Pro 8.5 Bible,984.0,9780470082775,0
+140,bn_67,B14,Microsoft SQL Server 2008 Reporting Services,896.0,9780071548083,Introducing Microsoft SQL Server 2014,144.0,9780735684751,0
+4725,bn_2540,B14,Reporting with Microsoft SQL Server 2012,142.0,9781782171720,Introducing Microsoft SQL Server 2014,144.0,9780735684751,0
+550,bn_310,B17,Mastering and Using Microsoft Access 2000 / Edition 1,448.0,9780538426114,"Mastering and Using Microsoft Access 2000: Comprehensive Course, Updated Edition",432.0,9780619051501,0
+4286,bn_2324,B25,Introduction to Databases,360.0,9780880228404,Introduction to Oracle 10G & Database CD Package,659.0,9780131746008,0
+5446,bn_2953,B36,DB2 11: The Database for Big Data & Analytics,128.0,9781583473856,DB2 11: The Database for Big Data & Analytics,128.0,9781583473856,1
+3960,bn_2140,B48,Introduction to Data Base Systems,672.0,9780201192155,Introduction to dBase III Plus,250.0,9780912677613,0
+1321,bn_743,B60,Oracle RMAN for Absolute Beginners,280.0,9781484207642,Oracle RMAN for Absolute Beginners,280.0,9781484207642,1
+58,bn_20,B63,Getting Started with MariaDB,100.0,9781782168096,Getting Started with Oracle Public Cloud,96.0,9781782178101,0
+95,bn_39,B103,MySQL: The Complete Reference / Edition 1,544.0,9780072224771,MySQL(TM): The Complete Reference,544.0,9780072224771,1
+3797,bn_2061,B114,Microsoft Access 2000,192.0,9780735610668,Microsoft Access 97 Projects,160.0,9780760051313,0
+398,bn_220,B116,Microsoft Office Access 2003 Complete,688.0,9780072830767,"Microsoft Office Access 2013: A Skills Approach, Complete",576.0,9780077394233,0
+787,bn_438,B117,Oracle Rman Pocket Reference,126.0,9780596002336,Oracle Regular Expressions Pocket Reference,64.0,9780596006013,0
+2663,bn_1487,B119,Professional Microsoft SQL Server 2008 Integration Services,1008.0,9780470247952,"Microsoft SQL Server 2008 Integration Services: Problem, Design, Solution",480.0,9780470525760,0
+4748,bn_2543,B119,Professional Microsoft SQL Server 2012 Integration Services,960.0,9781118101124,"Microsoft SQL Server 2008 Integration Services: Problem, Design, Solution",480.0,9780470525760,0
+1629,bn_938,B133,Sams Teach Yourself PL/SQL in 21 Days with Cdrom,646.0,9780672311239,Sams Teach Yourself Oracle PL/SQL in 10 Minutes,288.0,9780672328664,0
+25,bn_6,B142,CMDB Systems: Making Change Work in the Age of Cloud and Agile,402.0,9780128012659,CMDB Systems: Making Change Work in the Age of Cloud and Agile,402.0,9780128012659,1
+4739,bn_2542,B143,Ado 2.0 Programmer's Reference,432.0,9781861001832,Access 2007 VBA Programmer's Reference,1152.0,9780470047033,0
+2150,bn_1207,B147,Microsoft Access 2000 Step by Step,320.0,9781572319769,Microsoft Access 2013 Essentials,248.0,9781507694916,0
+2214,bn_1226,B147,Microsoft Access 2002,224.0,9780789726315,Microsoft Access 2013 Essentials,248.0,9781507694916,0
+4095,bn_2236,B147,Microsoft Access 2003,544.0,9780072834321,Microsoft Access 2013 Essentials,248.0,9781507694916,0
+4616,bn_2478,B160,Oracle Performance Tuning,642.0,9781565920484,Oracle9i High-Performance Tuning with STATSPACK,645.0,9780072223606,0
+5135,bn_2803,B163,Microsoft Office Access 2003: The Complete Reference,1024.0,9780072229172,Access 2000: The Complete Reference,1319.0,9780078825125,0
+1976,bn_1150,B170,Microsoft Access 2010 Step by Step,448.0,9780735626928,Learning: Microsoft Access 2003,320.0,9780131893238,0
+3900,bn_2117,B172,Running Microsoft Access 2000,1072.0,9781572319349,Building Queries: Using Microsoft Access 2010,140.0,9780615827629,0
+3120,bn_1720,B180,Microsoft Office Access 2007,96.0,9780789738011,Microsoft Office Access 2003 Professional Results,400.0,9780072229653,0
+1659,bn_963,B181,Oracle CRM On Demand Embedded Analytics,192.0,9780071745369,Oracle CRM On Demand Embedded Analytics (Oracle Press),192.0,9780071745369,1
+488,bn_276,B200,Oracle PL/SQL Programming,1200.0,9780596553142,Oracle Pl/SQL Programming (Oracle Series),564.0,9780078821769,0
+2421,bn_1364,B209,Microsoft SQL Server 2005 Unleashed,1752.0,9780672328244,Microsoft SQL Server 2005: A Beginner's Guide,704.0,9780072260939,0
+1798,bn_1049,B222,Microsoft Access 97,488.0,9780760051573,"Microsoft Access 2.0 Handbook, 2 ed",528.0,9780679754657,0
+2867,bn_1618,B222,Microsoft Access,196.0,9781562431150,"Microsoft Access 2.0 Handbook, 2 ed",528.0,9780679754657,0
+508,bn_280,B226,The dBASE III Plus: Power User's Guide,750.0,9780078813177,The dBASE III Plus,352.0,9780155170353,0
+2641,bn_1476,B232,DB2 Universal Database in Application Development Environments,9.78013086988e+12,9780130869876,DB2 Universal Database v7.1: Application Development Certification Guide,320.0,9780130913678,0
+1346,bn_761,B243,Microsoft Access Programming,400.0,9780830643103,Microsoft Access For Anyone,222.0,9781419640803,0
+3801,bn_2061,B243,Microsoft Access 2000,192.0,9780735610668,Microsoft Access For Anyone,222.0,9781419640803,0
+2676,bn_1488,B249,Oracle 10g Data Warehousing,872.0,9780080513287,Oracle Data Warehousing (Oracle Series),384.0,9780078822421,0
+2587,bn_1460,B260,FileMaker Pro 14: The Missing Manual,972.0,9781491917480,Access 2013: The Missing Manual,866.0,9781449357412,0
+5501,bn_2982,B260,PHP & MySQL: The Missing Manual,546.0,9781449325572,Access 2013: The Missing Manual,866.0,9781449357412,0
+515,bn_292,B263,Microsoft SQL Server 7 Administrator's Guide,770.0,9780761513896,Microsoft SQL Server OLAP Developer's Guide,384.0,9780764546433,0
+555,bn_312,B263,Administrator's Guide to Microsoft SQL Server 6.5,469.0,9781882419531,Microsoft SQL Server OLAP Developer's Guide,384.0,9780764546433,0
+2575,bn_1458,B263,Introducing Microsoft SQL Server 2005 for Developers,268.0,9780735619623,Microsoft SQL Server OLAP Developer's Guide,384.0,9780764546433,0
+2025,bn_1158,B284,Programming Microsoft SQL Server 2008,1024.0,9780735638198,Programming Microsoft SQL Server 2000 with Microsoft Visual Basic .Net (Microsoft Programming),500.0,9780735615359,0
+4235,bn_2288,B305,DB2 Universal Database v7.1: Application Development Certification Guide,320.0,9780130913678,DB2 Universal Database in Application Development Environments,512.0,9780130869876,0
+4665,bn_2505,B332,"New Perspectives on Microsoft Office Access 2007, Introductory / Edition 1",536.0,9781423905882,New Perspectives on Microsoft Access 97,160.0,9780760045527,0
+300,bn_143,B339,Professional SQL Server 2005 Integration Services,720.0,9780764584350,Hands-On Microsoft SQL Server(TM) 2005 Integration Services,570.0,9780072263190,0
+629,bn_335,B346,Pro SQL Server 2008 Replication,936.0,9781430218074,Pro SQL Server 2005,704.0,9781590594773,0
+2709,bn_1518,B346,Pro SQL Server 2012 Administration,508.0,9781430239154,Pro SQL Server 2005,704.0,9781590594773,0
+2804,bn_1593,B346,Pro Spatial with SQL Server 2012,560.0,9781430234913,Pro SQL Server 2005,704.0,9781590594773,0
+2022,bn_1155,B360,MySQL and JSP Web Applications: Data-Driven Programming Using Tomcat and MySQL,9.7806723231e+12,9780672323096,MySQL and JSP Web Applications: Data-Driven Programming Using Tomcat and MySQL,576.0,9780672323096,1
+1535,bn_863,B409,Oracle Web Application Programming for PL/SQL Developers,9.78013047732e+12,9780130477316,Oracle 9i Java Programming: Solutions for Developers Using PL/SQL and Java,825.0,,0
+4482,bn_2399,B411,PostgreSQL,1032.0,9780672327568,PostgreSQL,816.0,9780735712577,0
+5414,bn_2943,B419,Microsoft Access 97 for Windows 95,144.0,9780538680332,Microsoft Office Bible for Windows 95,1041.0,9781568847818,0
+4618,bn_2478,B430,Oracle Performance Tuning,642.0,9781565920484,Oracle PL/SQL Performance Tuning Tips & Techniques,336.0,9780071824828,0
+1295,bn_722,B432,Exploring Microsoft Access 97,416.0,9780137542277,Easy Microsoft Access 97,256.0,9780789710277,0
+2153,bn_1207,B432,Microsoft Access 2000 Step by Step,320.0,9781572319769,Easy Microsoft Access 97,256.0,9780789710277,0
+3498,bn_1899,B432,Microsoft Access for Teachers,240.0,9780743938112,Easy Microsoft Access 97,256.0,9780789710277,0
+5284,bn_2908,B432,Microsoft Office Access 2007,1024.0,9780072263503,Easy Microsoft Access 97,256.0,9780789710277,0
+3083,bn_1703,B433,Access 2000: No Experience Required,608.0,9780782124859,Access 97: No Experience Required,496.0,9780782121506,0
+4890,bn_2606,B470,Professional Microsoft SQL Server 2008 Reporting Services,816.0,9780470242018,Microsoft SQL Server 2000 Notification Services,672.0,9780672326646,0
+4182,bn_2261,B472,Access 97 Exam Prep,432.0,9781576102312,MOUS Access 97 Exam Cram,300.0,9781576102237,0
+4365,bn_2355,B475,"Microsoft Access for Windows 95, with CD-ROM (Mastering)",1119.0,9780782117646,Microsoft Access for Windows 95 (Quicktorial),156.0,9780538715416,0
+4676,bn_2509,B477,"Advances in Databases: Proceedings of the 11th British National Conference on Databases, BNCOD 11. Keele, UK, July 7-9, 1993",286.0,9780387569215,"Advances in Databases: 15th British National Conference on Databases, BNCOD 15 London, United Kingdom, July 7 - 9, 1997 (Lecture Notes in Computer Science)",240.0,9783540632634,0
+4321,bn_2340,B484,Microsoft SQL Server 6 Unleashed,1008.0,9780672309038,Microsoft SQL Server 7 For Dummies,359.0,9780764504167,0
+1274,bn_704,B492,Upgrading Relational Databases with Objects,234.0,9780135706077,Understanding Relational Databases with Examples in SQL-92,304.0,9780471585381,0
+5065,bn_2762,B503,Crystal Reports Encyclopedia Volume 2: Programming .NET 2005,500.0,9780974953618,Crystal Reports Encyclopedia Volume 2: .NET 2005/2008,500.0,9780974953618,1
+2005,bn_1154,B536,Microsoft Access 97 for Windows,230.0,9781562434700,Microsoft Access 1.1 for Windows (Quick Reference Guide),196.0,9781562431150,0
+1526,bn_861,B541,Access 2007 VBA Programming For Dummies,408.0,9780470046531,Java 2 Database Programming For Dummies,408.0,9780764508813,0
+4190,bn_2270,B546,Professional SQL Server 2005 Reporting Services,720.0,9780764584978,Professional SQL Server 2000 DTS (Data Transformation Service),855.0,9781861004413,0
+387,bn_208,B559,Oracle DBA Automation Scripts,408.0,9780672322686,Oracle DBA Automation Quick Reference,320.0,9780131403017,0
+2424,bn_1364,B566,Microsoft SQL Server 2005 Unleashed,1752.0,9780672328244,Microsoft SQL Server 7.0 Unleashed,936.0,9780672312274,0
+3192,bn_1754,B582,Sybase Database Administrator's Handbook,520.0,9780133574777,Oracle8i Database Administration,543.0,9781884777783,0
+3346,bn_1840,B582,Oracle8i Database Administration,543.0,9781884777783,Oracle8i Database Administration,543.0,9781884777783,1
+289,bn_129,B601,SQL Server 2000 Design and T-SQL Programming,612.0,9780072123753,SQL Server 2014 Design & Programming,820.0,9781499529593,0
+828,bn_478,B602,Access 2000 for Windows For Dummies: Quick Reference,240.0,9780764504457,Access 2 for Windows (Quick Reference Guides),228.0,9781562431938,0
+2425,bn_1364,B605,Microsoft SQL Server 2005 Unleashed,1752.0,9780672328244,Microsoft SQL Server 2005 Compact Edition,624.0,9780672329227,0
+2617,bn_1470,B605,Microsoft SQL Server 2005 for Dummies,432.0,9780764577550,Microsoft SQL Server 2005 Compact Edition,624.0,9780672329227,0
+5459,bn_2960,B608,Microsoft SQL Server 2008 Step by Step,544.0,9780735626041,Microsoft SQL Server 2008 MDX Step by Step (Step by Step Developer),392.0,9780735626188,0
+4445,bn_2373,B609,Special Edition Using Microsoft Office Access 2003,1502.0,9780789729521,The Unofficial Guide to Microsoft Office Access 2007,638.0,9780470045978,0
+4929,bn_2627,B610,Microsoft Data Warehousing: Building Distributed Decision Support Systems,384.0,9780471327615,Microsoft(r) Data Warehousing: Building Distributed Decision Support Systems,384.0,9780471327615,1
+4191,bn_2270,B617,Professional SQL Server 2005 Reporting Services,720.0,9780764584978,Professional SQL Server 2005 Performance Tuning,551.0,9780470176399,0
+4884,bn_2605,B631,Microsoft Access 2010 Introductory: Introductory / Edition 1,320.0,9780538475204,Microsoft Office Access 2003: Introductory,216.0,,0
+1061,bn_603,B632,Microsoft Access 2002 ? Illustrated Complete / Edition 1,488.0,9780619045081,Microsoft Access 2000-Illustrated Complete (Illustrated Series),480.0,9780760060728,0
+1219,bn_676,B636,Special Edition Using Sap R/3 / Edition 3,1164.0,9780789718211,Special Edition Using Delphi 3,1043.0,9780789711182,0
+2212,bn_1223,B646,Building the Data Warehouse / Edition 4,576.0,9780764599446,Building the Data Warehouse,401.0,9780471141617,0
+4374,bn_2357,B658,Sams Teach Yourself SQL in 24 Hours,496.0,9780672335419,Sams Teach Yourself Access 97 in 24 Hours,384.0,9780672310270,0
+3805,bn_2061,B661,Microsoft Access 2000,192.0,9780735610668,Programming Microsoft Access 2000 (Microsoft Programming Series),587.0,9780735605008,0
+2564,bn_1455,B662,Interactive Computing Series: Microsoft Access 97 / Edition 1,120.0,9780070384354,Interactive Computing Series: Microsoft Access 97,120.0,9780070384354,1
+2970,bn_1661,B662,Interactive Computing Series: Microsoft Access 2000 Brief Edition,160.0,9780072340754,Interactive Computing Series: Microsoft Access 97,120.0,9780070384354,0
+425,bn_228,B669,Microsoft SQL Server 6.5 DBA Survival Guide,912.0,9780672309595,Microsoft SQL Server 6.5 Unleashed,1216.0,9780672309564,0
+1580,bn_907,B669,Inside Microsoft SQL Server 6.5,400.0,9781572313316,Microsoft SQL Server 6.5 Unleashed,1216.0,9780672309564,0
+3604,bn_1934,B669,Microsoft SQL Server 2000 Unleashed,1472.0,9780672319976,Microsoft SQL Server 6.5 Unleashed,1216.0,9780672309564,0
+1162,bn_633,B680,The dBASE IV Programmers Instant Reference,544.0,9780895885388,dBASE IV 1.1 Programmer's Instant Reference,555.0,9780895887641,0
+4740,bn_2542,B680,Ado 2.0 Programmer's Reference,432.0,9781861001832,dBASE IV 1.1 Programmer's Instant Reference,555.0,9780895887641,0
+3605,bn_1934,B686,Microsoft SQL Server 2000 Unleashed,1472.0,9780672319976,Microsoft SQL Server 2005 Reporting Services,767.0,9780072262391,0
+5498,bn_2981,B686,Mastering SQL Server 2005 Reporting Services Infrastructure Design,486.0,9780470114599,Microsoft SQL Server 2005 Reporting Services,767.0,9780072262391,0
+1404,bn_788,B687,Microsoft Access for Windows 95 Instant Reference,304.0,9780782117622,Microsoft Access Instant Reference (Sybex Instant Reference Series),250.0,9780782112139,0
+4907,bn_2611,B689,Pro SQL Server 2008 XML,496.0,9781590599839,Pro SQL Server 2005 Reporting Services,400.0,9781590594988,0
+1220,bn_676,B699,Special Edition Using Sap R/3 / Edition 3,1164.0,9780789718211,Special Edition Using FileMaker 8,912.0,9780789735126,0
+5045,bn_2726,B701,Creating Microsoft Access 2000 Solutions: A Power Users' Guide,555.0,9780672318948,Creating Microsoft Access 2000 Solutions:  A Power Users' Guide,600.0,9780672318948,1
+5510,bn_2985,B702,Beginning Microsoft SQL Server 2008 Administration,816.0,9780470440919,Microsoft SQL Server 2012 Management and Administration (2nd Edition),912.0,9780672336003,0
+1319,bn_742,B712,Managing Data with Excel,504.0,9780789703859,Managing Data with Excel,384.0,9780789731005,0
+374,bn_196,B713,Access 2003 VBA: Programmer's Reference,984.0,9780764559037,dBASE IV 2.0 Programmer's Reference,548.0,9781583483961,0
+1241,bn_693,B713,FoxPro Programmer's Reference,800.0,9780880226769,dBASE IV 2.0 Programmer's Reference,548.0,9781583483961,0
+1719,bn_1002,B713,"Ado 2.6, Programmer's Reference",689.0,9781861004635,dBASE IV 2.0 Programmer's Reference,548.0,9781583483961,0
+3301,bn_1813,B713,Access 2007 VBA Programmer's Reference,1152.0,9780470047033,dBASE IV 2.0 Programmer's Reference,548.0,9781583483961,0
+3271,bn_1791,B720,Visual FoxPro Certification Exams Study Guide,185.0,9781930919044,MySQL 5.0 Certification Study Guide,643.0,9780672328121,0
+1264,bn_703,B724,Microsoft Office Access 2003 in a Snap,336.0,9780132714099,Absolute Beginner's Guide to Microsoft Office Access 2003,360.0,9780789729408,0
+3942,bn_2125,B726,Microsoft Access 2010 VBA Programming Inside Out,736.0,9780735659872,Microsoft Access 2010 VBA Macro Programming,400.0,9780071738576,0
+4872,bn_2602,B732,Oracle 12c/11g/10g. PL/SQL Programming,258.0,9781496173959,Oracle 11g: PL/SQL Programming,496.0,9781133947363,0
+1286,bn_717,B745,Sams Teach Yourself Microsoft Access 2000 Programming in 24 Hours,472.0,9780672316616,SAMS Teach Yourself Microsoft Office Access 2003 in 24 Hours,624.0,9780672325458,0
+4784,bn_2553,B745,Microsoft Official Academic Course: Microsoft Office Access 2003,566.0,9780072256000,SAMS Teach Yourself Microsoft Office Access 2003 in 24 Hours,624.0,9780672325458,0
+5261,bn_2897,B745,Show Me Microsoft Office Access 2003,366.0,9780789730046,SAMS Teach Yourself Microsoft Office Access 2003 in 24 Hours,624.0,9780672325458,0
+2607,bn_1469,B748,Access 2000,152.0,9789685347396,Access 2000 en 4 das,226.0,9788480885096,0
+569,bn_320,B750,Access 97 for Windows 95,164.0,9781562435004,Access for Windows 95 for Busy People,1996.0,9780078821127,0
+2974,bn_1663,B755,Informix Guide to SQL: Reference and Syntax,1776.0,9780130161666,Informix Guide to SQL: Reference and Syntax (2nd Edition),1776.0,9780130161666,1
+1742,bn_1029,B759,Microsoft SQL Server 2005: Applied Techniques Step by Step,368.0,9780735623163,Microsoft SQL Server 2005: Applied Techniques Step by Step (Step by Step Developer),368.0,9780735623163,1
+4952,bn_2643,B767,Professional SQL Server Reporting Services,624.0,9780764568787,Pro SQL Server 2008 Reporting Services (Books for Professionals by Professionals),424.0,9781590599921,0
+2120,bn_1189,B797,Microsoft Office Access 2010 / Edition 1,152.0,9780538748278,Microsoft Office Access 2007 Brief (O'Leary),416.0,9780073294544,0
+1844,bn_1068,B855,Toad Pocket Reference for Oracle,130.0,9780596009717,JDBC Pocket Reference,152.0,9780596004576,0
+962,bn_550,B860,Sams Teach Yourself Microsoft Access 2000 in 10 Minutes,256.0,9780672314872,Sams Teach Yourself SQL in 10 Minutes (3rd Edition),256.0,9780672325670,0
+5200,bn_2841,B860,Sams Teach Yourself SQL in 10 Minutes,288.0,9780672336072,Sams Teach Yourself SQL in 10 Minutes (3rd Edition),256.0,9780672325670,0
+749,bn_413,B861,Understanding and Using Microsoft Access for Windows 95,543.0,9780314072337,Microsoft Access 7 for Windows 95: Introductory,304.0,9780760035429,0
+3894,bn_2113,B864,Relation Database Design,298.0,9780849374500,Database Design,528.0,9780672317583,0
+4298,bn_2327,B893,Data Architecture: From Zen to Reality,448.0,9780123851260,Data Architecture,375.0,9781850328599,0
+1087,bn_609,B904,Microsoft SQL Server 2014,592.0,9785977534932,Microsoft SQL Server 2000 Programming by Example,792.0,9780789724496,0
+1714,bn_999,B904,Access Programming by Example,494.0,9781565296596,Microsoft SQL Server 2000 Programming by Example,792.0,9780789724496,0
+2369,bn_1328,B911,Oracle Development Unleashed,1538.0,9780672315756,Oracle Development Unleashed (3rd Edition),1584.0,9780672315756,1
+4696,bn_2529,B946,C Database Development,136.0,9781558281363,Java Oracle Database Development,420.0,9780130462183,0
+2679,bn_1488,B966,Oracle 10g Data Warehousing,872.0,9780080513287,Oracle 10g  Data Warehousing,872.0,9781555583224,0
+2131,bn_1191,B967,"New Perspectives on Microsoft Access 2002, Comprehensive / Edition 1",768.0,9780619020897,"New Perspectives on Computer Concepts, Comprehensive, Eighth Edition",808.0,9780619267650,0
+2082,bn_1171,B975,Microsoft Access 97 for Windows QuickStart,368.0,9781562764739,Microsoft Access 2.0 for Windows (Acumen),304.0,9780877099833,0
+4070,bn_2210,B975,Visual Guide to Microsoft Access for Windows 95,816.0,9781566042864,Microsoft Access 2.0 for Windows (Acumen),304.0,9780877099833,0
+2355,bn_1309,B976,Oracle: A Beginner's Guide,522.0,9780078821226,Data Modeling: A Beginner's Guide,368.0,9780071623988,0
+493,bn_276,B998,Oracle PL/SQL Programming,1200.0,9780596553142,"Oracle PL/SQL Programming, Third Edition",1018.0,9780596003814,0
+3691,bn_1987,B998,Oracle Database 10g PL/SQL Programming / Edition 1,896.0,9780072230666,"Oracle PL/SQL Programming, Third Edition",1018.0,9780596003814,0
+1006,bn_573,B1010,Microsoft Office Access 2003,232.0,9780072834307,Microsoft Office Access 2003 Inside Track,768.0,9780735619760,0
+571,bn_320,B1015,Access 97 for Windows 95,164.0,9781562435004,Microsoft Access 2.0 for Windows,147.0,9780070489929,0
+1052,bn_598,B1015,Microsoft Access 2.0: LTU Windows Applications / Edition 1,336.0,9780877095941,Microsoft Access 2.0 for Windows,147.0,9780070489929,0
+4071,bn_2210,B1015,Visual Guide to Microsoft Access for Windows 95,816.0,9781566042864,Microsoft Access 2.0 for Windows,147.0,9780070489929,0
+304,bn_143,B1034,Professional SQL Server 2005 Integration Services,720.0,9780764584350,Oracle8i and Microsoft SQL Server 2000 Integration (Professional Mindware),547.0,9780764546990,0
+284,bn_127,B1081,Microsoft Office Access 2007: Introductory / Edition 1,279.0,9781423904120,Microsoft Office Access 2007 VBA,408.0,9780789737311,0
+2876,bn_1618,B1081,Microsoft Access,196.0,9781562431150,Microsoft Office Access 2007 VBA,408.0,9780789737311,0
+3224,bn_1763,B1081,Microsoft Access 2000,360.0,9780764532900,Microsoft Office Access 2007 VBA,408.0,9780789737311,0
+1743,bn_1029,B1097,Microsoft SQL Server 2005: Applied Techniques Step by Step,368.0,9780735623163,Microsoft SQL Server 2008 Step by Step (Step by Step Developer),544.0,9780735626041,0
+3035,bn_1686,B1097,Microsoft SQL Server 2005 Developer's Guide,507.0,9780072260991,Microsoft SQL Server 2008 Step by Step (Step by Step Developer),544.0,9780735626041,0
+248,bn_110,B1118,Beginning PHP and Oracle: From Novice to Professional / Edition 1,763.0,9781590597705,Beginning Database Design: From Novice to Professional,252.0,9781430242093,0
+3881,bn_2102,B1128,Text Mining Application Programming / Edition 1,412.0,9781584504603,Text Mining Application Programming (Charles River Media Programming),432.0,9781584504603,1
+450,bn_238,B1133,Oracle9i SQLJ Programming,687.0,9780072190939,Oracle9i PL/SQL Programming,664.0,9780072191479,0
+1528,bn_861,B1139,Access 2007 VBA Programming For Dummies,408.0,9780470046531,Access 2 For Dummies,336.0,9781568840901,0
+3628,bn_1946,B1139,Access Forms & Reports For Dummies,408.0,9780764599651,Access 2 For Dummies,336.0,9781568840901,0
+4515,bn_2418,B1155,MySQL Administrator's Guide,696.0,9780672332654,ArcSDE Administrators Guide,184.0,9781879102736,0
+663,bn_355,B1160,SQL Functions: Programmer's Reference,790.0,9780764569012,PFC Programmer's Reference Manual,365.0,9781884777554,0
+1566,bn_899,B1160,dBASE IV Programmer's Reference Guide,448.0,9780672226540,PFC Programmer's Reference Manual,365.0,9781884777554,0
+2273,bn_1241,B1169,SAS/ACCESS 9. 1. 3 Supplement for DB2 under UNIX and PC Hosts: SAS/ACCESS for Relational Databases,48.0,9781590478653,SAS/ACCESS 9.1 Supplement For DB2 Under Z/OS SAS/ACCESS For Relational Databases,68.0,9781590472453,0
+4031,bn_2172,B1181,Sams Teach Yourself MySQL in 10 Minutes,288.0,9780672328633,Sams Teach Yourself MySQL in 21 Days,560.0,9780672319143,0
+2156,bn_1207,B1196,Microsoft Access 2000 Step by Step,320.0,9781572319769,Microsoft Access 2000 MOUS Cheat Sheet (Cheat Sheet),272.0,9780789721174,0
+3813,bn_2061,B1196,Microsoft Access 2000,192.0,9780735610668,Microsoft Access 2000 MOUS Cheat Sheet (Cheat Sheet),272.0,9780789721174,0
+4795,bn_2561,B1199,Expert Access 2007 Programming,688.0,9780470174029,Expert Access 2007 Programming,688.0,9780470174029,1
+2087,bn_1172,B1208,Portable Dba,356.0,9780072230161,Portable DBA: Oracle,598.0,9780072229806,0
+4909,bn_2611,B1211,Pro SQL Server 2008 XML,496.0,9781590599839,XML and SQL Server 2000,384.0,9780735711129,0
+5007,bn_2690,B1211,SQL Server 2000 XML Distilled,600.0,9781904347088,XML and SQL Server 2000,384.0,9780735711129,0
+1611,bn_918,B1216,DynamoDB Applied Design Patterns,,9781783551903,Pig Design Patterns,300.0,9781783285556,0
+1790,bn_1047,B1229,Sql Server 2000 Web Application Developer's Guide,9.7800721262e+12,9780072126198,SQL Server 2000 Developer's Guide,1248.0,9780072125696,0
+4833,bn_2578,B1230,A Visual Introduction to SQL / Edition 2,304.0,9780471412762,A Visual Introduction to SQL,272.0,9780471616849,0
+3957,bn_2139,B1237,Pro SQL Server 2012 Relational Database Design and Implementation,784.0,9781430236955,MCAD/MCSD/MCSE Training Guide (70-229): SQL Server 2000 Database Design and Implementation (2nd Edition),928.0,9780789729972,0
+3721,bn_2006,B1252,DB2 For Dummies,348.0,9780764506963,Data Mining For Dummies,408.0,9781118893173,0
+4355,bn_2349,B1268,FileMaker Pro 10 Bible,816.0,9780470429006,FileMaker Pro 10 In Depth,696.0,9780789739469,0
+3662,bn_1963,B1280,Oracle Database 11g Administration I Certification Guide,582.0,9781849687300,DB2 9 for z/OS Database Administration: Certification Study Guide,785.0,9781583470749,0
+3752,bn_2016,B1285,Microsoft Access Version 2002 Inside Out,1152.0,9780735612839,Microsoft Access 2010 VBA Programming Inside Out,736.0,9780735659872,0
+3659,bn_1961,B1308,Quick and Easy Guide to dBASE IV,224.0,9780874552065,Compute!'s Quick and Easy Guide to dBASE IV,239.0,9780874552065,1
+1176,bn_640,B1321,Delivering Business Intelligence with Microsoft SQL Server 2008 / Edition 2,792.0,9780071549448,Microsoft SQL Server 2014 Business Intelligence Development Beginners Guide,390.0,9781849688888,0
+2098,bn_1180,B1330,Quick Course in Microsoft Office Access 2003,,9781582780801,Microsoft Office Access 2003 Step by Step,368.0,9788120324756,0
+5120,bn_2796,B1338,Oracle PL/SQL Programming,1392.0,9781449324452,Oracle Database 12c PL/SQL Programming,1192.0,9780071812436,0
+2306,bn_1275,B1350,Database Application Programming with Linux,528.0,9780471355496,Database Programming with dBase IV,480.0,9780697263322,0
+2329,bn_1286,B1350,Database Programming with JDBC and Java,350.0,9781565926165,Database Programming with dBase IV,480.0,9780697263322,0
+5249,bn_2890,B1350,Programming with R: Base 5000,304.0,9780830604661,Database Programming with dBase IV,480.0,9780697263322,0
+1510,bn_853,B1353,"The Organization of Reduction, Data Flow, and Control Flow Systems",481.0,9780262610810,"The Organization of Reduction, Data Flow, and Control Flow Systems (Computer Systems)",481.0,9780262610810,1
+3189,bn_1749,B1367,Learning dBASE III Plus,487.0,9780395357323,Using dBASE III Plus,530.0,9780078812521,0
+4790,bn_2554,B1367,dBASE III Plus,136.0,9780256135152,Using dBASE III Plus,530.0,9780078812521,0
+4273,bn_2305,B1421,Pro Oracle Application Express / Edition 1,700.0,9781590598276,Oracle Application Express 4.0 with Ext JS,392.0,9781849681063,0
+2860,bn_1613,B1427,Linux for the Oracle DBA: The Definitive Reference,460.0,9780982306192,Windows for the Oracle DBA: The Definitive Reference (Oracle In-Focus) (Volume 44),342.0,9780977671519,0
+458,bn_248,B1429,Database Management Systems / Edition 3,1104.0,9780072465631,Sybase Systems Management,667.0,9780134553535,0
+1311,bn_724,B1429,Database Management,800.0,9780878357130,Sybase Systems Management,667.0,9780134553535,0
+4036,bn_2177,B1429,Database Management Systems,344.0,9781844804528,Sybase Systems Management,667.0,9780134553535,0
+327,bn_159,B1434,Microsoft Access 2002 - Illustrated Brief / Edition 1,112.0,9780619045074,Microsoft Access 2002 - Illustrated Second Course (Illustrated Series. Second Course),224.0,,0
+1204,bn_666,B1450,Microsoft Access 97 Developer's Handbook: Create Robust Databases Develop Custom Interfaces,768.0,9781572313583,Microsoft Access 2 Developer's Handbook,600.0,9780782113273,0
+3816,bn_2061,B1450,Microsoft Access 2000,192.0,9780735610668,Microsoft Access 2 Developer's Handbook,600.0,9780782113273,0
+1721,bn_1002,B1463,"Ado 2.6, Programmer's Reference",689.0,9781861004635,dBASE IV 1.1 Programmer's Desktop Reference,1050.0,9780895885395,0
+533,bn_298,B1475,Smart Business Intelligence Solutions with Microsoft SQL Server 2008,800.0,9780735638341,The Microsoft Data Warehouse Toolkit: With SQL Server 2008 R2 and the Microsoft Business Intelligence Toolset,696.0,9780470640388,0
+1178,bn_640,B1475,Delivering Business Intelligence with Microsoft SQL Server 2008 / Edition 2,792.0,9780071549448,The Microsoft Data Warehouse Toolkit: With SQL Server 2008 R2 and the Microsoft Business Intelligence Toolset,696.0,9780470640388,0
+3336,bn_1829,B1489,"Oracle XSQL: Combining SQL, Oracle Text, XSLT, and Java to Publish Dynamic Web Content / Edition 1",592.0,9780471271208,"Oracle XSQL: Combining SQL, Oracle Text, XSLT, and Java to Publish Dynamic Web Content",592.0,9780471271208,1
+2861,bn_1613,B1501,Linux for the Oracle DBA: The Definitive Reference,460.0,9780982306192,Linux for the Oracle DBA: The Definitive Reference (Oracle In-Focus series) (Volume 40),350.0,9780982306192,1
+3757,bn_2017,B1504,Oracle SQL Interactive Workbook,851.0,9780131002777,Oracle PL/SQL Interactive Workbook (2nd Edition),688.0,9780130473202,0
+4572,bn_2452,B1518,Teach Yourself . . . Access,222.0,9781558282902,Teach Yourself Visually Access 2010,352.0,9780470577653,0
+2995,bn_1672,B1521,SQL and Relational Databases,350.0,9780915391424,Relational Databases: Design and Use,312.0,9781874152064,0
+2467,bn_1386,B1524,Microsoft SQL Server 2005 Reporting Services Step by Step,576.0,9780735622500,Applied Microsoft SQL Server 2008 Reporting Services,768.0,9780976635314,0
+5465,bn_2960,B1524,Microsoft SQL Server 2008 Step by Step,544.0,9780735626041,Applied Microsoft SQL Server 2008 Reporting Services,768.0,9780976635314,0
+733,bn_400,B1526,SQL: The Complete Reference,1008.0,9780072118452,PHP: The Complete Reference,590.0,9780071508544,0
+2396,bn_1347,B1526,Paradox 4: The Complete Reference,896.0,9780078817946,PHP: The Complete Reference,590.0,9780071508544,0
+734,bn_400,B1537,SQL: The Complete Reference,1008.0,9780072118452,dBASE IV Complete Reference,1488.0,9780078815034,0
+2397,bn_1347,B1537,Paradox 4: The Complete Reference,896.0,9780078817946,dBASE IV Complete Reference,1488.0,9780078815034,0
+5013,bn_2701,B1540,Microsoft SQL Server 2000: A Guide to Enhancements and New Features,592.0,9780201752830,Microsoft SQL Server 2000: A Guide to Enhancements and New Features,592.0,9780201752830,1
+285,bn_127,B1550,Microsoft Office Access 2007: Introductory / Edition 1,279.0,9781423904120,"The O'Leary Series: Microsoft Office Access 2013, Introductory",360.0,9780077400231,0
+4532,bn_2428,B1550,"New Perspectives on Microsoft Access 2013, Introductory",592.0,9781285099217,"The O'Leary Series: Microsoft Office Access 2013, Introductory",360.0,9780077400231,0
+1634,bn_938,B1557,Sams Teach Yourself PL/SQL in 21 Days with Cdrom,646.0,9780672311239,Teach Yourself SQL in 21 Days (Sams Teach Yourself),624.0,9780672311109,0
+4920,bn_2620,B1557,Sams Teach Yourself Access 95 in 14 Days,,9780672307928,Teach Yourself SQL in 21 Days (Sams Teach Yourself),624.0,9780672311109,0
+4981,bn_2670,B1566,Oracle in a Nutshell: A Desktop Quick Reference,928.0,9780596003364,R in a Nutshell: A Desktop Quick Reference (In a Nutshell (O'Reilly)),636.0,9780596801700,0
+2160,bn_1207,B1567,Microsoft Access 2000 Step by Step,320.0,9781572319769,Microsoft Access Version 2002 Step by Step,352.0,9780735612990,0
+1508,bn_852,B1576,Expert Oracle Application Express Security,296.0,9781430247319,Pro Oracle Application Express (Expert's Voice in Oracle),700.0,9781590598276,0
+4000,bn_2148,B1580,Oracle Database 11g The Complete Reference / Edition 1,1368.0,9780071598750,Oracle 7: The Complete Reference,1072.0,9780078819193,0
+985,bn_568,B1587,Practical Database Management,500.0,9780534925925,Concepts of Database Management,400.0,9781423901471,0
+3504,bn_1901,B1591,"Problem-Solving Cases in Microsoft Access and Excel, Fourth Annual Edition / Edition 4",272.0,9781418837068,Problem Solving Cases with Microsoft Access and Excel,224.0,9781423902133,0
+5536,bn_2999,B1609,Building Distributed Applications with ADO,464.0,9780471317012,Building Web Applications with UML (2nd Edition),496.0,9780201730388,0
+3230,bn_1763,B1612,Microsoft Access 2000,360.0,9780764532900,How to Use Microsoft Access,143.0,9781562762230,0
+4340,bn_2341,B1630,Help! Microsoft Access,1006.0,9781562760991,Microsoft Access 2 Quick & Easy,275.0,9780782114706,0
+2417,bn_1361,B1634,Science of Database Management,598.0,9780256134384,Modern Database Management,700.0,,0
+5214,bn_2846,B1634,Database Management Systems,288.0,9780070225640,Modern Database Management,700.0,,0
+5222,bn_2854,B1634,Modern Database Management / Edition 7,736.0,9780131453203,Modern Database Management,700.0,,0
+5300,bn_2908,B1646,Microsoft Office Access 2007,1024.0,9780072263503,Access 2002 on Your Side: Microsoft Office XP,300.0,9782746013544,0
+2371,bn_1328,B1648,Oracle Development Unleashed,1538.0,9780672315756,Microsoft Access 2000 Development Unleashed,912.0,9780672312915,0
+1093,bn_609,B1668,Microsoft SQL Server 2014,592.0,9785977534932,Microsoft SQL Server 2005 Analysis Services,864.0,9780672327827,0
+2040,bn_1158,B1668,Programming Microsoft SQL Server 2008,1024.0,9780735638198,Microsoft SQL Server 2005 Analysis Services,864.0,9780672327827,0
+3722,bn_2006,B1674,DB2 For Dummies,348.0,9780764506963,Access 2002 For Dummies,384.0,9780764508189,0
+4816,bn_2574,B1677,Professional SQL Server Analysis Services 2005 with MDX,864.0,9780764579189,Professional Microsoft SQL Server Analysis Services 2008 with MDX,1056.0,9780470247983,0
+1615,bn_927,B1678,Mastering PHPmyadmin for Effective MySQL Management,264.0,9781904811039,Mastering Phpmyadmin for Effective MySQL Management 2e,316.0,9781847191601,0
+1281,bn_712,B1689,Master Microsoft Access Visually,686.0,9780764560484,Mastering Microsoft Access for Windows 95,1171.0,9780782117646,0
+929,bn_535,B1690,"New Perspectives on Microsoft Office Access 2003, Comprehensive, Second Edition / Edition 2",792.0,9780619268114,"New Perspectives on Microsoft Office Access 2003 with VBA, Advanced",542.0,9780619206734,0
+5230,bn_2858,B1692,"Database Systems: Principles, Design and Implementation",592.0,9780023996658,Database Principles and Design,544.0,9781844805402,0
+5132,bn_2800,B1699,Understanding dBase IV,880.0,9780895885098,Understanding Oracle,672.0,9780895885340,0
+4357,bn_2349,B1720,FileMaker Pro 10 Bible,816.0,9780470429006,Filemaker Pro 2.0/2.1 Bible,700.0,9781568842011,0
+664,bn_355,B1724,SQL Functions: Programmer's Reference,790.0,9780764569012,SQL Functions Programmer's Reference (Programmer to Programmer),790.0,9780764569012,1
+1722,bn_1002,B1724,"Ado 2.6, Programmer's Reference",689.0,9781861004635,SQL Functions Programmer's Reference (Programmer to Programmer),790.0,9780764569012,0
+2504,bn_1406,B1734,"New Perspectives on Microsoft Access 2000, Comprehensive Enhanced / Edition 2",680.0,9780619044305,"New Perspectives on Microsoft Access 2010, Comprehensive (New Perspectives Series: Individual Office Applications)",832.0,9780538798471,0
+3107,bn_1712,B1736,Professional Microsoft SQL Server 2012 Analysis Services with MDX and DAX,1176.0,9781118101100,MDX Solutions: With Microsoft SQL Server Analysis Services 2005 and Hyperion Essbase,744.0,9780471748083,0
+1279,bn_711,B1769,Beginning PHP and MySQL E-Commerce: From Novice to Professional / Edition 2,707.0,9781590598641,Beginning MySQL Database Design and Optimization: From Novice to Professional,520.0,9781590593325,0
+1542,bn_866,B1769,Beginning VB 2005 Databases: From Novice to Professional,491.0,9781590598108,Beginning MySQL Database Design and Optimization: From Novice to Professional,520.0,9781590593325,0
+3795,bn_2052,B1769,Beginning SQL Queries: From Novice to Professional / Edition 1,240.0,9781590599433,Beginning MySQL Database Design and Optimization: From Novice to Professional,520.0,9781590593325,0
+556,bn_312,B1784,Administrator's Guide to Microsoft SQL Server 6.5,469.0,9781882419531,Administrator's Guide to SQL Server 2005,648.0,9780321397973,0
+4011,bn_2162,B1795,The ABCs of Microsoft Access,297.0,9780782111897,The Microsoft Access Handbook,58.0,9780078820144,0
+905,bn_515,B1799,Oracle8 Data Warehousing,686.0,9780078825118,Data Warehousing For Dummies,384.0,9780470407479,0
+169,bn_77,B1805,Microsoft Access 2013 Step By Step,448.0,9780735669086,Microsoft Access 2013 Step by Step,448.0,9780735669086,1
+2542,bn_1446,B1805,Microsoft Access 2000 Bible,1272.0,9780764532863,Microsoft Access 2013 Step by Step,448.0,9780735669086,0
+3915,bn_2117,B1805,Running Microsoft Access 2000,1072.0,9781572319349,Microsoft Access 2013 Step by Step,448.0,9780735669086,0
+4342,bn_2341,B1805,Help! Microsoft Access,1006.0,9781562760991,Microsoft Access 2013 Step by Step,448.0,9780735669086,0
+574,bn_320,B1840,Access 97 for Windows 95,164.0,9781562435004,10 Minute Guide to Access for Windows 95,178.0,9780789705556,0
+4076,bn_2210,B1840,Visual Guide to Microsoft Access for Windows 95,816.0,9781566042864,10 Minute Guide to Access for Windows 95,178.0,9780789705556,0
+3591,bn_1933,B1842,Microsoft SQL Server 2012 Reporting Services,1030.0,9780735658202,Programming Microsoft  SQL Server 2005,950.0,9780735619234,0
+3060,bn_1696,B1877,SQL For Dummies,480.0,9781118607961,SQL For Dummies,480.0,9781118607961,1
+4455,bn_2379,B1877,ACT! 2006 For Dummies,394.0,9780471774549,SQL For Dummies,480.0,9781118607961,0
+2591,bn_1460,B1878,FileMaker Pro 14: The Missing Manual,972.0,9781491917480,FileMaker Pro 14: The Missing Manual,972.0,9781491917480,1
+783,bn_434,B1882,Oracle9i: A Beginner's Guide,535.0,9780072192797,Oracle DBA 101: A Beginner's Guide,128.0,9781581127645,0
+2182,bn_1212,B1883,Teach Yourself VISUALLY Access 2007,303.0,9780470045916,Teach Yourself VISUALLY Dreamweaver CS3,320.0,9780470144756,0
+4930,bn_2627,B1898,Microsoft Data Warehousing: Building Distributed Decision Support Systems,384.0,9780471327615,Decision Support Systems and Data Warehouses,212.0,9788122414547,0
+1201,bn_664,B1912,PHP and MySQL by Example,912.0,9780138006020,PHP and MySQL by Example,912.0,9780131875081,0
+1394,bn_785,B1929,Learning SQL,338.0,9780596520830,Learning C# 3.0,696.0,9780596521066,0
+1751,bn_1034,B1937,Sams Teach Yourself Microsoft SQL Server 2000 in 21 Days,918.0,9780672324697,Sams Teach Yourself Microsoft Access 2000 in 24 Hours,432.0,9780672312892,0
+2702,bn_1513,B1942,Microsoft SQL Server 2008 Reporting Services Step by Step,576.0,9780735626478,Microsoft SQL Server 2008 Analysis Services Step by Step (Step by Step Developer),448.0,9780735626201,0
+2044,bn_1158,B1944,Programming Microsoft SQL Server 2008,1024.0,9780735638198,Holistic Data Warehousing on Microsoft SQL Server 2008,386.0,9780980874242,0
+3426,bn_1874,B1957,Alison Balter's Mastering Access 2002 Enterprise Development,802.0,9780672321139,Alison Balter's Mastering Microsoft Office Access 2007 Development,1248.0,9780672329326,0
+1904,bn_1113,B1970,Microsoft SQL Server 2000 DBA Survival Guide,1008.0,9780672320071,Microsoft SQL Server 2008: A Beginner's Guide,709.0,9780071546386,0
+5469,bn_2960,B1970,Microsoft SQL Server 2008 Step by Step,544.0,9780735626041,Microsoft SQL Server 2008: A Beginner's Guide,709.0,9780071546386,0
+3636,bn_1949,B1986,Mastering SQL Server 2008,792.0,9780470289044,Designing SQL Server 2000 Databases,608.0,9781928994190,0
+4974,bn_2659,B1986,SQL Server 2008 Database Design Tutorial,,2940016392455,Designing SQL Server 2000 Databases,608.0,9781928994190,0
+3855,bn_2072,B1987,Learning SQL,231.0,9780135287040,Learning SPARQL,386.0,9781449371432,0
+2841,bn_1608,B2001,Oracle PL/SQL Language Pocket Reference,99.0,9781565924574,Oracle PL/SQL Language Pocket Reference (Pocket Reference (O'Reilly)),180.0,9780596514044,0
+1851,bn_1086,B2012,SAP Database Administration with MS SQL Server 2000,,9781592290055,Microsoft SQL Server 2000 Database Administrator's Guidebook,480.0,9780130614308,0
+2279,bn_1247,B2012,Microsoft SQL Server 2000 Administrator's Pocket Consultant,480.0,9780735611290,Microsoft SQL Server 2000 Database Administrator's Guidebook,480.0,9780130614308,0
+1914,bn_1117,B2015,"Sap Pm Interview Questions, Answers, And Explanations: Sap Plant Maintenance Certification Review",152.0,9781933804132,"mySQL Database Programming Interview Questions, Answers, and Explanations: mySQL Database Certification Review Guide",124.0,9781933804590,0
+4315,bn_2337,B2027,Relational Database Systems,470.0,9780444877185,Intelligent Database Systems,464.0,9780201877366,0
+5052,bn_2744,B2027,Fund Database Systems,873.0,9780805317480,Intelligent Database Systems,464.0,9780201877366,0
+5470,bn_2960,B2048,Microsoft SQL Server 2008 Step by Step,544.0,9780735626041,Microsoft SQL Server 2000 Weekend Crash Course,408.0,9780764548406,0
+2585,bn_1459,B2051,Troubleshooting Sql,384.0,9780072134896,Oracle Troubleshooting,464.0,9780078823886,0
+2110,bn_1183,B2063,Mastering Reflex,336.0,9780895883483,Mastering Hadoop,398.0,9781783983643,0
+500,bn_276,B2070,Oracle PL/SQL Programming,1200.0,9780596553142,Oracle Database 11g PL/SQL Programming Workbook (Oracle Press),512.0,9780071493697,0
+1165,bn_633,B2073,The dBASE IV Programmers Instant Reference,544.0,9780895885388,dBASE IV: Complete Reference for Programmers,640.0,9781556151651,0
+4470,bn_2389,B2083,Microsoft Office: Access 2003 Professional Results,400.0,9780072229653,Microsoft Office Access 2003 QuickSteps,224.0,9780072232295,0
+4499,bn_2404,B2126,"New Perspectives on Microsoft Office Access 2007, Comprehensive / Edition 3",816.0,9781423905899,Microsoft Ofice Access 2007: Basic (Crisp Comprehensive),212.0,9781426019203,0
+5315,bn_2913,B2126,Go! with Microsoft Office Access 2003 Comprehensive / Edition 1,,9780132438018,Microsoft Ofice Access 2007: Basic (Crisp Comprehensive),212.0,9781426019203,0
+1599,bn_911,B2135,Java Programming with Oracle SQLJ,400.0,9780596000875,Oracle Server Programming,464.0,9780201877502,0
+3483,bn_1885,B2144,Oracle Application Server 10G Essentials,288.0,9780596006211,Oracle Application Server 10g Web Development (Oracle Press),747.0,9780072255119,0
+2294,bn_1256,B2145,"Intelligent Data Engineering and Automated Learning - IDEAL 2006: 7th International Conference, Burgos, Spain, September 20-23, 2006, Proceedings",1450.0,9783540454854,"Intelligent Data Engineering and Automated Learning -- IDEAL 2014: 15th International Conference, Salamanca, Spain, September 10-12, 2014, Proceedings ... Applications, incl. Internet/Web, and HCI)",508.0,9783319108391,0
+3967,bn_2141,B2153,Pro Oracle Database 11g Administration,720.0,9781430229711,Pro Oracle Spatial for Oracle Database 11g,824.0,9781430242871,0
+3332,bn_1828,B2159,"Microsoft SQL Server 2005: A Beginner""s Guide",704.0,9780072260939,Mastering Microsoft SQL Server 2005,1056.0,9780782143805,0
+1835,bn_1062,B2170,XML and SQL: Developing Web Applications / Edition 1,256.0,9780201657968,XML and SQL: Developing Web Applications,256.0,9780201657968,1
+679,bn_366,B2194,Beginning Oracle SQL,459.0,9781430271970,Beginning Oracle Programming,1000.0,9781861006905,0
+1931,bn_1129,B2219,Oracle8i for Windows NT Starter Kit,481.0,9780072122480,Oracle8I for Windows Nt Starter Kit (Oracle Press Series),688.0,9780072122480,1
+2359,bn_1309,B2220,Oracle: A Beginner's Guide,522.0,9780078821226,NHibernate 3 Beginner's Guide,368.0,9781849516020,0
+5046,bn_2729,B2223,"Beginning Power BI with Excel 2013: Self-Service Business Intelligence Using Power Pivot, Power View, Power Query, and Power Map",324.0,9781430264453,"Beginning Power BI with Excel 2013: Self-Service Business Intelligence Using Power Pivot, Power View, Power Query, and Power Map",324.0,9781430264453,1
+4170,bn_2253,B2224,Principles of Database Systems,484.0,9780716780694,Relational Database Principles,310.0,9780826457134,0
+4764,bn_2546,B2224,Relational Database Theory,389.0,9780805302493,Relational Database Principles,310.0,9780826457134,0
+5313,bn_2909,B2224,The Paradox Relational Database Advisor,304.0,9780830638598,Relational Database Principles,310.0,9780826457134,0
+22,bn_5,B2228,Microsoft Access 97-Visual Basic Step by Step,379.0,9781572313194,Microsoft Access 2010 Step by Step,448.0,9780735626928,0
+2200,bn_1220,B2228,Microsoft ADO.NET 4 Step by Step,440.0,9780735638884,Microsoft Access 2010 Step by Step,448.0,9780735626928,0
+4586,bn_2460,B2228,Microsoft Access 2.0 by PicTorial,240.0,9780133768497,Microsoft Access 2010 Step by Step,448.0,9780735626928,0
+3776,bn_2043,B2237,Oracle9i For Dummies,432.0,9780764508806,Oracle PL / SQL For Dummies,432.0,9780764599576,0
+2602,bn_1467,B2243,Microsoft Access Instant Reference,280.0,9780782112139,SQL Instant Reference,384.0,9780782125399,0
+817,bn_462,B2255,Dynamic Web Application Development Using PHP and MySQL / Edition 1,656.0,9781844807536,Dynamic Web Application Development Using PHP and MySQL,656.0,9781844807536,1
+392,bn_213,B2258,Oracle Database 11g SQL / Edition 1,688.0,9780071498500,Oracle Database 11g R2: SQL Tuning,578.0,9781936930029,0
+63,bn_20,B2264,Getting Started with MariaDB,100.0,9781782168096,Getting Started with NoSQL,142.0,9781849694988,0
+745,bn_410,B2264,Getting Started with Couchbase Server,90.0,9781449331061,Getting Started with NoSQL,142.0,9781849694988,0
+1548,bn_876,B2267,Access 2.0 (Teach Yourself),480.0,9781558283510,Access 7 (Teach Yourself Computing),190.0,9780340697504,0
+3272,bn_1791,B2272,Visual FoxPro Certification Exams Study Guide,185.0,9781930919044,MySQL Certification Study Guide,648.0,9780672326325,0
+1989,bn_1150,B2288,Microsoft Access 2010 Step by Step,448.0,9780735626928,Microsoft Access 2010 Plain & Simple,288.0,,0
+1990,bn_1150,B2296,Microsoft Access 2010 Step by Step,448.0,9780735626928,Microsoft Access 2007 Explained,256.0,9780859345903,0
+3387,bn_1847,B2296,Microsoft Access 97,,9780030237218,Microsoft Access 2007 Explained,256.0,9780859345903,0
+5093,bn_2781,B2298,The dBASE IV Quick Reference Guide,200.0,9780936862835,dBASE IV: Easy Reference Guide,96.0,9780538626774,0
+4261,bn_2302,B2306,DB2 9 for Developers,550.0,9781583470718,TIBCO Spotfire for Developers,162.0,9781782179832,0
+158,bn_72,B2312,Access VBA Programming / Edition 1,464.0,9780072231977,Access VBA Programming,464.0,9780072231977,1
+349,bn_188,B2312,Professional Access 2013 Programming,888.0,9781118530832,Access VBA Programming,464.0,9780072231977,0
+4765,bn_2546,B2327,Relational Database Theory,389.0,9780805302493,Introduction to Relational Databases,416.0,9780072229240,0
+1849,bn_1083,B2346,Advanced Oracle SQL Tuning: The Definitive Reference,782.0,9780991638604,Advanced Oracle Utilities: The Definitive Reference (Oracle In-Focus series),300.0,9780979795138,0
+1421,bn_804,B2356,MySQL Crash Course,336.0,9780672327124,SQL Weekend Crash Course,360.0,9780764549014,0
+4695,bn_2528,B2356,Access 2003 Programming Weekend Crash Course,504.0,9780764539756,SQL Weekend Crash Course,360.0,9780764549014,0
+2193,bn_1218,B2371,Pro SQL Server 2012 Reporting Services,516.0,9781430238102,Microsoft SQL Server 2000 Reporting Services (Database),704.0,9780072232165,0
+3198,bn_1756,B2371,Professional Microsoft SharePoint 2007 Reporting with SQL Server 2008 Reporting Services,480.0,9780470481899,Microsoft SQL Server 2000 Reporting Services (Database),704.0,9780072232165,0
+736,bn_400,B2381,SQL: The Complete Reference,1008.0,9780072118452,"Oracle: The Complete Reference, Electronic Edition",1136.0,9780078822858,0
+737,bn_400,B2408,SQL: The Complete Reference,1008.0,9780072118452,BusinessObjects XI (Release 2): The Complete Reference,672.0,9780072262650,0
+1374,bn_774,B2410,Inside Microsoft SQL Server 2005: T-SQL Querying,640.0,9780735623132,Inside Microsoft SQL Server 2008 T-SQL Querying (Developer Reference),832.0,9780735626034,0
+1182,bn_642,B2412,Oracle Database 10g New Features,264.0,9780072229479,Oracle9i New Features,244.0,9780072223859,0
+1586,bn_907,B2430,Inside Microsoft SQL Server 6.5,400.0,9781572313316,Microsoft SQL Server 6 Unleashed,1008.0,9780672309038,0
+3540,bn_1909,B2430,Microsoft SQL Server 2012 Bible,1416.0,9781118106877,Microsoft SQL Server 6 Unleashed,1008.0,9780672309038,0
+3465,bn_1882,B2433,Microsoft Office Access 2003,566.0,9780470069042,Microsoft Access 2003 (Marquee Series),152.0,9780763820701,0
+1823,bn_1049,B2443,Microsoft Access 97,488.0,9780760051573,Microsoft Access 2010 Inside Out,1488.0,,0
+4082,bn_2211,B2459,SQL Server 2012 Reporting Services Blueprints,246.0,9781849685085,Microsoft SQL Server 2012 Reporting Services (Developer Reference),1030.0,9780735658202,0
+4258,bn_2297,B2467,Sams Teach Yourself OLE DB and ADO in 21 Days,9.78067231084e+12,9780672310836,Sams Teach Yourself Microsoft SQL Server 7 in 21 Days,800.0,9780672312908,0
+3305,bn_1813,B2500,Access 2007 VBA Programmer's Reference,1152.0,9780470047033,Access 2010 Programmer's Reference,1272.0,9780470591666,0
+262,bn_117,B2509,Pro SQL Server Reporting Services,320.0,9781590594230,Protecting SQL Server Data,268.0,9781906434274,0
+4130,bn_2236,B2514,Microsoft Access 2003,544.0,9780072834321,GO Series: Microsoft Access 2003 Volume 1,480.0,9780131434271,0
+521,bn_292,B2515,Microsoft SQL Server 7 Administrator's Guide,770.0,9780761513896,Microsoft SQL Server 2008 Management and Administration,912.0,9780672330445,0
+2281,bn_1247,B2515,Microsoft SQL Server 2000 Administrator's Pocket Consultant,480.0,9780735611290,Microsoft SQL Server 2008 Management and Administration,912.0,9780672330445,0
+5439,bn_2950,B2527,Understanding and Using dBase II and dBase III,448.0,9780893039172,Understanding dBASE III,300.0,9780895882677,0
+785,bn_434,B2535,Oracle9i: A Beginner's Guide,535.0,9780072192797,Oracle: A Beginner's Guide,522.0,9780078821226,0
+3940,bn_2121,B2536,Relational Databases,256.0,9780137718580,Relational Database Writings 1985-1989,528.0,9780201508819,0
+4238,bn_2291,B2536,"Relational Database Writings, 1991-1994 / Edition 1",542.0,9780201824599,Relational Database Writings 1985-1989,528.0,9780201508819,0
+5043,bn_2718,B2570,Introduction to Paradox 4.0,240.0,9781565270664,Introduction to dBASE IV,250.0,9780134828947,0
+2661,bn_1485,B2573,Professional SQL Server 2012 Internals and Troubleshooting,576.0,9781118177655,Professional SQL Server 2012 Internals and Troubleshooting,576.0,9781118177655,1
+2454,bn_1376,B2577,The Data Warehouse Lifecycle Toolkit / Edition 2,672.0,9780470149775,The Data Warehouse Lifecycle Toolkit,672.0,9780470149775,1
+153,bn_67,B2578,Microsoft SQL Server 2008 Reporting Services,896.0,9780071548083,Microsoft SQL Server 2000 Unleashed,1512.0,9780672319976,0
+2052,bn_1158,B2578,Programming Microsoft SQL Server 2008,1024.0,9780735638198,Microsoft SQL Server 2000 Unleashed,1512.0,9780672319976,0
+1444,bn_817,B2585,Access 97 Macro and VBA Handbook (Developer's Handbook Series),1074.0,9780782119770,Access 97 Developers Handbook,1584.0,9780782119411,0
+3542,bn_1909,B2603,Microsoft SQL Server 2012 Bible,1416.0,9781118106877,Microsoft SQL Server 2005 Unleashed,1752.0,9780672328244,0
+3618,bn_1934,B2603,Microsoft SQL Server 2000 Unleashed,1472.0,9780672319976,Microsoft SQL Server 2005 Unleashed,1752.0,9780672328244,0
+4228,bn_2281,B2603,Microsoft SQL Server 2012 Internals,982.0,9780735658561,Microsoft SQL Server 2005 Unleashed,1752.0,9780672328244,0
+4329,bn_2340,B2603,Microsoft SQL Server 6 Unleashed,1008.0,9780672309038,Microsoft SQL Server 2005 Unleashed,1752.0,9780672328244,0
+1044,bn_593,B2607,Database Developer's Guide with Visual C++ 2,880.0,9780672306136,Oracle: A Database Developer's Guide 2/E,447.0,9780138414207,0
+579,bn_320,B2627,Access 97 for Windows 95,164.0,9781562435004,Access 97: For Windows 95/NT (Mastering),1140.0,9780782119244,0
+4369,bn_2355,B2627,"Microsoft Access for Windows 95, with CD-ROM (Mastering)",1119.0,9780782117646,Access 97: For Windows 95/NT (Mastering),1140.0,9780782119244,0
+68,bn_25,B2628,"Professional ADO.NET 2: Programming with SQL Server 2005, Oracle, and MySQL",648.0,9780764584374,Professional SQL Server 2005 Programming,912.0,9780764584343,0
+1305,bn_722,B2631,Exploring Microsoft Access 97,416.0,9780137542277,Microsoft Access (Training Guide),128.0,9780273604174,0
+2250,bn_1226,B2631,Microsoft Access 2002,224.0,9780789726315,Microsoft Access (Training Guide),128.0,9780273604174,0
+443,bn_234,B2641,Quick Course in Microsoft Access 97,192.0,9780735610729,Quick Course in Microsoft Access 97 (Education/Training Edition),171.0,9781879399730,0
+4157,bn_2243,B2645,Professional Microsoft SQL Server 2008 Programming,936.0,9780470257029,Professional Microsoft SQL Server 6.5 Admin,493.0,9781874416494,0
+1834,bn_1060,B2677,Microsoft Access 97 Exam Cram: Microsoft Office User Specialist,321.0,9781576102237,Microsoft Access 97 Exam Prep,432.0,9781576102312,0
+2018,bn_1154,B2677,Microsoft Access 97 for Windows,230.0,9781562434700,Microsoft Access 97 Exam Prep,432.0,9781576102312,0
+2251,bn_1226,B2677,Microsoft Access 2002,224.0,9780789726315,Microsoft Access 97 Exam Prep,432.0,9781576102312,0
+1020,bn_573,B2679,Microsoft Office Access 2003,232.0,9780072834307,Microsoft Access 2007 Data Analysis,552.0,9780470104859,0
+2553,bn_1446,B2679,Microsoft Access 2000 Bible,1272.0,9780764532863,Microsoft Access 2007 Data Analysis,552.0,9780470104859,0
+2638,bn_1475,B2679,Microsoft Access 2007 Comprehensive,912.0,9780132327626,Microsoft Access 2007 Data Analysis,552.0,9780470104859,0
+3248,bn_1763,B2679,Microsoft Access 2000,360.0,9780764532900,Microsoft Access 2007 Data Analysis,552.0,9780470104859,0
+4432,bn_2361,B2679,Using Microsoft Access 2010,352.0,9780789742896,Microsoft Access 2007 Data Analysis,552.0,9780470104859,0
+5158,bn_2811,B2679,Microsoft Access 2007 Data Analysis,552.0,9780470104859,Microsoft Access 2007 Data Analysis,552.0,9780470104859,1
+2069,bn_1163,B2709,Hands on Access 2000,372.0,9781884133749,Accessible Access 2000,322.0,9781852333133,0
+1255,bn_695,B2716,Learn SQL Server Administration,258.0,9781556228148,SQL Server 2000 Administration (Book/CD-ROM),586.0,9780072126181,0
+5029,bn_2713,B2721,Getting Started with Oracle SOA B2B Integration: A Hands-On Tutorial,,9781849688871,Getting Started with Oracle Data Integrator 11g: A Hands-on Tutorial,384.0,9781849680684,0
+1827,bn_1049,B2722,Microsoft Access 97,488.0,9780760051573,GO! with Microsoft Access 2010 Brief,288.0,9780136122470,0
+4441,bn_2367,B2722,GO! with Microsoft Access 2013 Introductory / Edition 1,496.0,9780133417487,GO! with Microsoft Access 2010 Brief,288.0,9780136122470,0
+115,bn_43,B2750,Microsoft Office Access 2007 Introductory / Edition 1,672.0,9780073294551,Special Edition Using Microsoft Office Access 2003,1502.0,9780789729521,0
+4578,bn_2456,B2750,Microsoft Office Access 2013 Complete: In Practice / Edition 1,864.0,9780077486921,Special Edition Using Microsoft Office Access 2003,1502.0,9780789729521,0
+325,bn_152,B2773,Running Microsoft Access 2 for Windows,644.0,9781556155925,Microsoft Access for Windows: Step by Step/Book and Disk,378.0,9781556154829,0
+5364,bn_2927,B2773,Microsoft Access 2.0 for Windows,180.0,9780538641326,Microsoft Access for Windows: Step by Step/Book and Disk,378.0,9781556154829,0
+3733,bn_2007,B2781,Access 97 for Windows for Dummies: Quick Reference,226.0,9780764500565,Dummies 101 Access 97 for Windows,272.0,9780764500954,0
+3839,bn_2061,B2804,Microsoft Access 2000,192.0,9780735610668,Microsoft Access 2000 at a Glance (At a Glance (Microsoft)),275.0,9781572319462,0
+463,bn_256,B2809,SQL Server Security Distilled,304.0,9781904347071,SQL Server Security Distilled,376.0,9781590592199,0
+2933,bn_1631,B2812,"SQL Server 2000 Stored Procedure & XML Programming, Second Edition",696.0,9780072228960,"SQL Server 2000 Stored Procedure & XML Programming, Second Edition",696.0,9780072228960,1
+2785,bn_1579,B2813,Personal Oracle Real Application Clusters: Create Oracle 10g Grid Computing At-Home,200.0,9780976157380,Personal Oracle Real Application Clusters: Create Oracle 10g Grid Computing at-home (Oracle In-Focus series),200.0,9780976157380,1
+831,bn_478,B2816,Access 2000 for Windows For Dummies: Quick Reference,240.0,9780764504457,Access 97 for Windows For Dummies,384.0,9780764500480,0
+2751,bn_1533,B2827,Exploring Microsoft Office Access 2010 Introductory,336.0,9780132092272,Exploring Microsoft Office Access 2003 Comprehensive- Adhesive Bound,624.0,9780131452435,0
+1959,bn_1135,B2830,Access 2002 For Dummies Quick Reference,9.78076450852e+12,9780764508523,Access 2002 For Dummies Quick Reference,240.0,9780764508523,1
+2903,bn_1623,B2830,Access 2003 All-in-One Desk Reference For Dummies,840.0,9780764539886,Access 2002 For Dummies Quick Reference,240.0,9780764508523,0
+3929,bn_2117,B2841,Running Microsoft Access 2000,1072.0,9781572319349,Microsoft Access 2013 Inside Out,848.0,9780735671232,0
+74,bn_31,B2869,SQL Server 2005 Distilled,336.0,9780132704670,SQL Server 2005 Distilled,336.0,9780321349798,0
+3619,bn_1934,B2876,Microsoft SQL Server 2000 Unleashed,1472.0,9780672319976,Data Mining with Microsoft SQL Server 2008,672.0,9780470277744,0
+1457,bn_820,B2891,Sams Teach Yourself Oracle 8 in 21 Days,604.0,9780672311598,Teach Yourself Oracle8 in 21 Days (Sams Teach Yourself...),800.0,9780672311598,1
+4259,bn_2297,B2891,Sams Teach Yourself OLE DB and ADO in 21 Days,9.78067231084e+12,9780672310836,Teach Yourself Oracle8 in 21 Days (Sams Teach Yourself...),800.0,9780672311598,0
+725,bn_396,B2892,Microsoft Access 2000 / Edition 1,344.0,9780201459166,O'Leary Series:  Microsoft Access 2000 Introductory Edition,440.0,9780072337495,0
+984,bn_564,B2903,Introduction to SQL,400.0,9780201175219,Introduction to Ingres,250.0,9780534928698,0
+1378,bn_774,B2908,Inside Microsoft SQL Server 2005: T-SQL Querying,640.0,9780735623132,Inside Microsoft SQL Server 2005: T-SQL Programming (Developer Reference),536.0,9780735621978,0
+4271,bn_2303,B2913,Professional SQL Server 2005 Programming,912.0,9780764584343,SQL SeFor Dummies,408.0,9781118893173,0
+3177,bn_1732,B2933,O'Leary Series: Microsoft Access 2000 Brief Edition,248.0,9780072337518,Interactive Computing Series:  Microsoft Access 2000 Brief Edition,160.0,9780072340754,0
+971,bn_552,B2962,SQL Essentials,294.0,9781590280294,dBASE IV Essentials,304.0,9780830691166,0
+4361,bn_2350,B2966,Common Warehouse Metamodel,288.0,9780471200529,Common Warehouse Metamodel (OMG),288.0,9780471200529,1
+33,bn_8,B2975,"New Perspectives on Microsoft Access 2010, Comprehensive",832.0,9780538798471,"New Perspectives on Microsoft Office Access 2003, Comprehensive (New Perspectives Series)",792.0,9780619206727,0
+5085,bn_2773,B2975,"Your Office: Microsoft Access 2013, Comprehensive / Edition 1",800.0,9780133143034,"New Perspectives on Microsoft Office Access 2003, Comprehensive (New Perspectives Series)",792.0,9780619206727,0
+472,bn_262,B2980,End-User Computing: Concepts and Applications,601.0,9780538704977,Mastering Microcomputers: Core Concepts and Applications,525.0,9780805311709,0
+2560,bn_1448,B2985,Microsoft SQL Server 2008 R2 Analytics & Data Visualization,576.0,9780071601436,Microsoft SQL Server 2008 R2 Analytics & Data Visualization,576.0,9780071601436,1
+4567,bn_2446,B2987,Sams Teach Yourself ADO 2.5 in 21 Days,744.0,9780672318733,Sams Teach Yourself SQL in 24 Hours,432.0,9780672312458,0
+2660,bn_1482,B2998,Microsoft Office Access 2007: Illustrated Introductory / Edition 1,256.0,9781423905189,Microsoft Office Access 2007: Illustrated Introductory (Available Titles Skills Assessment Manager (SAM) - Office 2007),256.0,9781423905189,1

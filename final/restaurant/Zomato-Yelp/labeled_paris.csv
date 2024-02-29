@@ -1,0 +1,1001 @@
+Name_A,Votes_A,Rating_A,Phone_A,Address_A,Zipcode_A,Cuisine_A,Name_B,Votes_B,Rating_B,Phone_B,Address_B,Zipcode_B,Cuisine_B,Gold
+Los Gemelos,46,3.5,(608) 467-6999,"244 Gilman, Madison",53703,Mexican,Los Gemelos,95,3.5,(608) 467-6999,244 W Gilman St,53703,Mexican,1
+Seongbukdong,18,3.4,(213) 738-8977,"3303 W 6th St, Los Angeles",90020,Korean,Seongbukdong,806,4.0,(213) 738-8977,3303 W 6th St,90020,Korean,1
+El Burrito Loco,7,3.0,(608) 203-9670,"745 N High Point Rd, Madison",53717,Mexican,El Burrito Loco,1,4.0,(608) 203-9670,745 N High Point Rd,53717,Mexican,1
+Hubbard Avenue Diner,563,3.7,(608) 831-6800,7445 Hubbard Ave,53562,"Breakfast, Desserts, Diner",Hubbard Avenue Diner,154,3.5,(608) 831-6800,7445 Hubbard Ave,53562,American (New),1
+Harvest,242,3.4,(608) 255-6075,"21 N Pinckney St, Madison",53703,"American, French, Italian",Harvest,161,3.5,(608) 255-6075,21 N Pinckney St,53703,American (New),1
+Alta,383,4.0,(212) 505-7777,"64 West 10th Street, New York",10011,"Mediterranean, Spanish",Alta,1379,4.0,(212) 505-7777,64 W 10th St,10011,Tapas Bars,1
+Del Seoul,237,4.4,(773) 248-4227,"2568 N. Clark Street, Chicago",60614,"Asian, Fusion",Del Seoul,1365,4.0,(773) 248-4227,2568 N Clark St,60614,Korean,1
+The Pikey,48,4.3,(323) 850-5400,"7617 W Sunset Blvd, Los Angeles",90046,British,The Pikey,401,4.0,(323) 850-5400,7617 W Sunset Blvd,90046,British,1
+Cafe Express,172,3.5,(214) 999-9444,"3230 McKinney Avenue, Dallas",75204,"American, Healthy Food, Cafe",Cafe Express,77,3.5,(214) 999-9444,3230 McKinney Ave,75204,American (New),1
+Jane,382,3.9,(212) 254-7000,"100 West Houston Street, New York",10012,American,Jane,2209,4.0,(212) 254-7000,100 W Houston St,10012,"American (Traditional),Traditional American Restaurants,Traditional American Restaurants",1
+Saint Felix Hollywood,58,4.2,(323) 469-5001,"1602 Cahuenga Blvd, Los Angeles",90028,"American, Tapas",Saint Felix,498,4.0,(323) 469-5001,1602 N Cahuenga Blvd,90028,Bars,1
+Ascension Coffee,65,3.8,(214) 741-3211,1621 Oak Lawn Avenue,75207,"Cafe, American",Ascension Coffee,426,4.0,(214) 741-3211,1621 Oak Lawn Ave,75207,Coffee & Tea,1
+Gooseberry on the Square,6,2.5,(608) 467-6552,"1 S Pinckney St, Madison",53703,"Breakfast, Sandwich, Healthy Food",Gooseberry on the Square,6,2.5,(608) 467-6552,1 S Pinckney StSte 104,53703,Sandwiches,1
+Espresso Royale Caffe,10,3.0,(608) 259-0800,"208 State St, Madison",53703,Coffee and Tea,Espresso Royale Caffe,36,3.5,(608) 259-0800,208 State St,53703,Coffee & Tea,1
+Momotaro,21,3.3,(312) 733-4818,"820 W. Lake Street, Chicago",60607,"Japanese, Sushi",Momotaro,300,4.0,(312) 733-4818,820 W Lake St,60607,Sushi Bars,1
+Silver Eagle Bar & Grill,13,2.9,(608) 222-2843,5805 Monona Dr,53716,"American, Burger, Bar Food",Silver Eagle Bar & Grill,18,3.5,(608) 222-2843,5805 Monona Dr,53716,American (Traditional),1
+Babcock Hall Dairy Store,111,4.2,(608) 262-3045,"1605 Linden Dr, Madison",53706,"Desserts, Sandwich",Babcock Hall Dairy Store,30,4.5,(608) 262-3045,1605 Linden Dr,53706,Ice Cream & Frozen Yogurt,1
+Cha-An,73,4.8,(212) 228-8030,"230 East 9th Street, New York",10003,"Japanese, Cafe",Cha-An,1093,4.0,(212) 228-8030,230 E 9th St2nd Fl,10003,"Japanese,Japanese Restaurants,Sushi,Sushi,Japanese Restaurants,Japanese Restaurants",1
+Local,195,3.9,(323) 662-4740,"2943 W Sunset Blvd, Los Angeles",90026,California,Local,651,4.0,(323) 662-4740,2943 W Sunset Blvd,90026,Salad,1
+Knife - The Highland Hotel,42,3.3,(214) 443-9339,"The Highland Hotel, 5300 E Mockingbird Lane, Dallas",75206,"American, Steakhouse",Knife,172,4.0,(214) 443-9339,5300 E Mockingbird Ln,75206,Steakhouses,1
+Glass Nickel Pizza Co,334,3.8,(608) 245-0880,"2916 Atwood Ave, Madison",53704,Pizza,Glass Nickel Pizza,131,4.0,(608) 245-0880,2916 Atwood Ave,53704,Pizza,1
+Taco Diner,261,3.4,(214) 521-3669,"3699 McKinney Avenue, Dallas",75204,Tex-Mex,Taco Diner,283,3.5,(214) 521-3669,3699 McKinney Ave,75204,Mexican,1
+Villains Tavern,65,3.7,(213) 613-0766,"1356 Palmetto St, Los Angeles",90013,"American, Burger, Bar Food",Villains Tavern,971,4.0,(213) 613-0766,1356 Palmetto St,90013,Bars,1
+Vees Cafe,35,3.5,(323) 931-8337,"5418 W Adams Blvd, Los Angeles",90016,American,Vees Cafe,509,4.0,(855) 863-9107,5418 W Adams Blvd,90016,American (New),1
+Honey Butter Fried Chicken,45,3.8,(773) 478-4000,"3361 N. Elston Avenue, Chicago",60618,American,Honey Butter Fried Chicken,686,4.0,(773) 478-4000,3361 N Elston Ave,60618,American (Traditional),1
+Bistango,145,3.9,(212) 725-8484,"415 3rd Avenue, New York",10016,Italian,Bistango,477,4.0,(212) 725-8484,415 3rd Ave,10016,Italian,1
+Ten Bells Tavern,42,3.4,(214) 943-2677,232 W 7th Street,75208,"Mediterranean, Pub Food, American, Seafood, Burger",Ten Bells Tavern,177,4.0,(214) 943-2677,232 W 7th St,75208,Pubs,1
+Yolk,8,3.0,(214) 855-9655,"1722 Routh Street, Dallas",75201,Cafe,Yolk One Arts Plaza,86,4.0,(214) 855-9655,1722 Routh St,75201,Breakfast & Brunch,1
+Silver Mine Subs,26,3.2,(608) 298-9500,"2601 W Beltline Hwy #106, Madison",53713,Sandwich,Silver Mine Subs,28,3.0,(608) 298-9500,2601 W Beltline Hwy,53713,Sandwiches,1
+The Fat Dog,30,3.7,(323) 951-0030,"801 N. Fairfax Ave., Los Angeles",90046,,Fat Dog,387,4.0,(323) 951-0030,801 N Fairfax Ave,90046,American (New),1
+Great American Hero,103,4.1,(214) 521-2070,"4001 Lemmon Avenue, Dallas",75219,"American, Sandwich",Great American Hero,178,4.0,(214) 521-2070,4001 Lemmon Ave,75219,Fast Food,1
+Get Some Burritos,10,2.5,(608) 442-7140,"309 North Henry Street, Madison",53703,Mexican,Get Some Burritos,20,2.5,(608) 442-7140,309 N  Henry St,53703,Mexican,1
+Lupa Osteria Romana,709,3.6,(212) 982-5089,"170 Thompson Street, New York",10012,Italian,Lupa,1064,4.0,(212) 982-5089,170 Thompson St,10012,Italian,1
+Pinches Tacos,164,4.0,(323) 650-0614,8200 W Sunset Blvd,90046,,Pinches Tacos,515,4.0,(323) 650-0614,8200 W Sunset Blvd,90046,Mexican,1
+Batter & Berries,140,3.7,(773) 248-7710,"2748 N. Lincoln Avenue, Chicago",60614,American,Batter & Berries,1004,4.0,(773) 248-7710,2748 N Lincoln Ave,60614,Breakfast & Brunch,1
+Rodeside Grill,109,3.8,(608) 846-1874,6314 Rostad Cir,53598,"American, Breakfast, Mexican",The Rodeside Grill,29,4.0,(608) 846-1874,6317 Rostad Cir,53598,American (Traditional),1
+Feed,120,4.1,(773) 489-4600,2803 W. Chicago Avenue,60622,Southern,Feed,504,4.0,(773) 489-4600,2803 W Chicago Ave,60622,Southern,1
+Pingtung,16,3.4,(323) 866-1866,"7455 Melrose Ave, Los Angeles",90046,"Dim Sum, Japanese",PINGTUNG Eat-in Market,419,4.0,(323) 866-1866,7455 Melrose Ave,90046,Dim Sum,1
+Gemma,48,4.9,(214) 370-9426,"2323 N Henderson Avenue, Suite 109, Dallas",75206,New American,Gemma,166,4.5,(214) 370-9426,2323 N Henderson AveSte 109,75206,American (New),1
+Topo Gigio Ristorante,438,3.8,(312) 266-9355,"1516 N. Wells Street, Chicago",60610,Italian,Topo Gigio Ristorante,567,4.0,(312) 266-9355,1516 N Wells St,60610,Italian,1
+The Social House,58,3.2,(214) 999-0046,"2708 Routh Street, Dallas",75201,American,The Social House,289,4.0,(214) 999-0046,2708 Routh St,75201,American (New),1
+Cactus Mexican Food,104,3.9,(323) 464-5865,"950 Vine St, Los Angeles",90038,"International, Mexican",Cactus Mexican Food,645,4.0,(323) 464-5865,950 Vine St,90038,Mexican,1
+Union Park Dallas,46,3.1,(214) 741-6709,"1311 Main Street, Dallas",75202,"American, Bar Food",Union Park,101,3.5,(214) 741-6709,1311 Main St,75202,American (New),1
+Northern Spy Food Co.,216,3.6,(212) 228-5100,"511 East 12th Street, New York",10009,American,Northern Spy Food Co.,749,4.0,(212) 228-5100,511 E 12th St,10009,American (Traditional),1
+Serious Pizza,217,4.1,(214) 761-9999,"2807 Elm Street, Dallas",75226,Pizza,Serious Pizza,426,4.0,(214) 761-9999,2807 Elm St,75226,Pizza,1
+Mediterranean Cafe,127,3.9,(608) 251-8510,"625 State St, Madison",53703,"Mediterranean, Vegetarian",Mediterranean Cafe,128,4.5,(608) 251-8510,625 State St,53703,Greek,1
+Village Bar,60,3.5,(608) 233-9956,"3801 Mineral Point Rd, Madison",53705,"Burger, Sandwich",Village Bar,30,4.0,(608) 233-9956,3801 Mineral Point Rd,53705,Pubs,1
+Zed451,181,3.7,(312) 266-6691,"739 N. Clark Street, Chicago",60654,"American, Steakhouse",ZED451,925,4.0,(312) 266-6691,739 N Clark St,60654,Steakhouses,1
+Top Round Roast Beef,20,3.6,(323) 549-9945,"1000 South La Brea Avenue, Los Angeles",90019,"American, Desserts, Sandwich",Top Round Roast Beef,445,3.5,(323) 549-9445,1000 S La Brea Ave,90019,Sandwiches,1
+Burrito Drive,130,3.6,(608) 260-8586,"310 S Brearly St, Madison",53703,"Mexican, Tex-Mex",Burrito Drive,81,3.5,(608) 260-8586,310 S Brearly St,53703,Mexican,1
+The Porch,781,4.2,(214) 828-2916,"2912 N Henderson Avenue, Dallas",75206,"American, Burger",The Porch,708,4.0,(214) 828-2916,2912 N Henderson Ave,75206,Southern,1
+Legends Sports Bar & Grill,29,3.2,(608) 831-4463,"439 Grand Canyon Drive, Madison",53719,"American, Pizza",Legends Sports Bar & Grill,20,3.0,(608) 831-4463,439 Grand Canyon Dr,53719,Sports Bars,1
+Curry House,120,3.7,(213) 620-0855,"123 Astronaut E S Onizuka St, Los Angeles",90012,Japanese,Curry House,896,4.0,(213) 620-0855,123 S Onizuka StSte 204,90012,Japanese,1
+La Sirena Clandestina,35,3.6,(312) 226-5300,"954 W. Fulton Market, Chicago",60607,"Latin American, Brazilian",La Sirena Clandestina,272,4.0,(312) 226-5300,954 W Fulton Market,60607,Latin American,1
+Cafe Brazil,218,3.6,(214) 747-2730,"2815 Elm Street, Dallas",75226,"American, Tex-Mex, Coffee and Tea",Cafe Brazil,164,3.5,(214) 747-2730,2815 Elm St,75226,Breakfast & Brunch,1
+Dough Pizzeria Napoletana,252,3.8,(972) 788-4600,"11909 Preston Road, Suite 1444, Dallas",75230,"Italian, Pizza",Dough Pizzeria Napoletana,201,4.0,(972) 788-4600,11909 Preston RdSte 1444,75230,Pizza,1
+The Addiction Bistro,69,3.7,(323) 203-1793,"408 N La Cienega Blvd, Los Angeles",90048,"Burger, German",The Addiction Bistro,671,4.0,(323) 203-1793,408 N LA Cienega Blvd,90048,Burgers,1
+Pizza Pit Extreme,38,3.0,(608) 259-1500,"1614 Monroe St., Madison",53711,"Fast Food, Italian, Pizza",Pizza Pit Extreme,21,3.5,(608) 251-4412,1614 Monroe St,53711,"Pizza,Pizza,Pizza,Pizza,Pizza,Pizza",1
+Le Grainne Cafe,282,3.8,(646) 486-3000,"183 9th Avenue, New York",10011,"Cafe, French",Le Grainne Cafe,453,4.0,(646) 486-3000,183 9th Ave,10011,French,1
+Weary Traveler Freehouse,644,4.3,(608) 442-6207,"1201 Williamson St, Madison",53703,Bar Food,The Weary Traveler Freehouse,348,4.0,(608) 442-6207,1201 Williamson St,53703,American (New),1
+Pippali,10,3.0,(212) 689-1999,"129 East 27th Street, New York, NY",10016,Indian,Pippali,381,4.0,(212) 689-1999,129 E 27th St,10016,Indian,1
+Ground Zero,37,3.6,(608) 294-8668,"744 Williamson St Ste 1, Madison",53703,Coffee and Tea,Ground Zero,50,4.0,(608) 294-8668,744 Williamson St,53703,Coffee & Tea,1
+Lobster Place,123,4.5,(212) 255-5672,"Chelsea Market, 75 9th Avenue, New York",10011,"Seafood, Sushi",The Lobster Place,791,4.0,(917) 983-0695,Chelsea Market75 9th Ave,10011,Seafood Markets,1
+Churchkey Bar and Grill,10,2.7,(608) 251-0444,"626 University Ave., Madison",53715,"American, Burger, Bar Food",Churchkey Bar and Grill,18,3.5,(608) 259-0444,626 University Ave,53715,Bars,1
+Cane Rosso,448,3.7,(214) 741-1188,"2612 Commerce Street, Suite 101, Dallas",75226,"Pizza, Italian",Cane Rosso,967,4.0,(214) 741-1188,2612 Commerce St,75226,Pizza,1
+Bottlefork,20,3.3,(312) 955-1900,"441 N. Clark Street, Chicago",60626,"American, Bar Food",Bottlefork,437,4.0,(312) 955-1900,441 N Clark,60626,American (New),1
+Girl & the Goat,1292,4.2,(312) 492-6262,"809 W. Randolph Street, Chicago",60607,New American,Girl & the Goat,4501,4.5,(312) 492-6262,809 W Randolph St,60607,American (New),1
+Springers,37,3.3,(608) 205-9300,3097 Sunnyside St,53589,"American, Sandwich, Steakhouse",Springers,21,3.5,(608) 205-9300,3097 Sunnyside St,53589,American (Traditional),1
+Wingstop,15,3.0,(608) 258-9464,"1234 Regent St., Madison",53715,"American, Bar Food",Wingstop,20,3.0,(608) 258-9464,1234 Regent St,53715,Chicken Wings,1
+Theory,96,3.5,(312) 644-0004,"9 W. Hubbard Street, Chicago",60654,"American, BBQ, Sandwich",Theory,401,4.0,(312) 644-0004,9 W Hubbard St,60654,Sports Bars,1
+Brasserie V,483,4.1,(608) 255-8500,"1923 Monroe St., Madison",53711,"European, French",Brasserie V,221,4.0,(608) 255-8500,1923 Monroe St,53711,Belgian,1
+Frontier,91,4.6,(773) 772-4322,"1072 N. Milwaukee Avenue, Chicago",60642,Southern,Frontier,582,3.5,(773) 772-4322,1072 N Milwaukee Ave,60642,American (New),1
+Happy Wok,34,3.3,(608) 833-3488,"429 Commerce Dr, Madison",53719,Chinese,Happy Wok,13,3.5,(608) 833-3488,429 Commerce Dr,53719,Chinese,1
+GreenRiver,8,3.3,(312) 337-0101,"Northwestern Memorial Hospital, 259 E. Erie Street, 18th Floor, Chicago",60611,New American,GreenRiver,24,4.5,(312) 337-0101,259 E Erie St18th Fl,60611,Cocktail Bars,1
+Cafe Bella,68,4.6,(773) 292-5040,"3311 W. Fullerton Avenue, Chicago",60647,"Cafe, American",Cafe Bella,245,4.0,(773) 292-5040,3311 W Fullerton Ave,60647,Latin American,1
+Si Tapas,303,3.9,(214) 720-0324,"2207 Allen Street, Dallas",75204,"Spanish, Tapas",Si Tapas,371,4.0,(214) 720-0324,2207 Allen St,75204,Spanish,1
+Balena,109,3.7,(312) 867-3888,"1633 N. Halsted Street, Chicago",60614,Italian,Balena,597,4.0,(312) 867-3888,1633 N Halsted St,60614,Italian,1
+Parigi,247,3.9,(214) 521-0295,"3311 Oak Lawn Avenue, Dallas",75219,"New American, French, Italian",Parigi Restaurant,129,4.0,(214) 521-0295,3311 Oak Lawn AveSte 102,75219,Italian,1
+Panera Bread,78,3.6,(608) 826-0808,"601 Junction Rd Ste 12, Madison",53717,Sandwich,Panera Bread,19,3.5,(608) 826-0808,601 Junction Road,53717,Sandwiches,1
+Saigon Noodle,230,4.1,(608) 827-9120,"6754 Odana Rd, Madison",53719,Vietnamese,Saigon Noodles,214,4.0,(608) 827-9120,6754 Odana Rd,53719,Vietnamese,1
+Capitol Chophouse,111,3.6,(608) 255-0165,"9 E Wilson St, Madison",53703,Steakhouse,Capitol Chophouse,56,3.5,(608) 255-0165,9 E Wilson St,53703,Steakhouses,1
+Atera,47,3.8,(212) 226-1444,"77 Worth Street, New York",10013,American,Atera,120,4.5,(212) 226-1444,77 Worth St,10013,Lounges,1
+Kavanaugh's Esquire Club,56,3.5,(608) 249-0193,"1025 N Sherman Ave, Madison",53704,"Seafood, Steakhouse",Esquire Club,29,3.0,(608) 249-0193,1025 N Sherman Ave,53704,Steakhouses,1
+Coalfire,169,4.0,(312) 226-2625,"1321 W. Grand Avenue, Chicago",60642,Pizza,Coalfire Pizza,786,4.0,(312) 226-2625,1321 W Grand Ave,60642,Pizza,1
+Colori Kitchen,98,4.4,(213) 622-5950,"429 W 8th St, Los Angeles",90014,Italian,Colori Kitchen,1102,4.0,(213) 622-5950,429 W 8th St,90014,Italian,1
+Sunda,470,3.9,(312) 644-0500,"110 W. Illinois Street, Chicago",60654,Asian,Sunda,1766,4.0,(312) 644-0500,110 W Illinois St,60654,Asian Fusion,1
+Rare Steakhouse,43,2.2,(608) 204-9000,"14 W Mifflin St, Madison",53703,"Seafood, Steakhouse",Rare Steakhouse,70,4.0,(608) 204-9000,14 W Mifflin St,53703,Steakhouses,1
+Jordandal Cookhouse,35,3.9,(608) 848-3298,"600 W Verona Ave, suite 6",53593,"International, Sandwich",Jordandal Cookhouse,48,4.5,(608) 848-3298,600 W Verona Ave,53593,American (Traditional),1
+The Bongo Room,668,3.9,(773) 489-0690,"1470 N. Milwaukee Avenue, Chicago",60622,American,The Bongo Room,1197,4.0,(773) 489-0690,1470 N Milwaukee Ave,60622,American (New),1
+Lao Sze Chuan,472,3.8,(312) 326-5040,"2172 S. Archer Avenue, Chicago",60616,"Asian, Chinese",Lao Sze Chuan,1036,3.5,(331) 248-3524,2172 S Archer Ave,60616,Szechuan,1
+Ducks Eatery,87,3.6,(212) 432-3825,"351 East 12th Street, New York",10003,"Cajun, Fusion",Ducks Eatery,359,4.0,(212) 432-3825,351 E 12th St,10003,French,1
+Eastside Market Italian Deli,92,4.2,(213) 250-2464,"1013 Alpine Street, Los Angeles",90012,"Italian, Sandwich",Eastside Market,692,4.5,(213) 250-2464,1013 Alpine St,90012,Italian,1
+Aloha Hawaiian Barbecue,27,3.1,(214) 521-8868,"5610 Lemmon Avenue, Suite A1, Dallas",75209,"BBQ, Hawaiian",Aloha Hawaiian Barbecue,176,4.0,(214) 521-8868,5610 Lemmon AveSte A1,75209,Barbeque,1
+Wildfire,435,3.9,(312) 787-9000,"159 W. Erie Street, Chicago",60654,"American, Steakhouse, Seafood",Wildfire,774,4.0,(312) 787-9000,159 W Erie St,60654,"American (Traditional),遊園地,ショッピングセンター",1
+The Village Bakery and Cafe,65,3.6,(323) 662-8600,"3119 Los Feliz Blvd., Los Angeles",90039,"Breakfast, Coffee and Tea",The Village Bakery and Cafe,727,4.0,(323) 662-8600,3119 Los Feliz Blvd,90039,Bakeries,1
+Ippudo,1346,4.3,(212) 388-0088,"65 4th Avenue, New York",10003,Ramen,Ippudo NY,7588,4.0,(212) 388-0088,65 4th Ave,10003,"Ramen,Ramen",1
+Java Cat,60,3.8,(608) 223-5553,"3918 Monona Dr, Madison",53716,Coffee and Tea,Java Cat,44,4.0,(608) 223-5553,3918 Monona Dr,53716,Coffee & Tea,1
+DMK Burger Bar,393,3.9,(773) 360-8686,"2954 N. Sheffield Avenue, Chicago",60657,Burger,DMK Burger Bar,1549,4.0,(773) 360-8686,2954 N Sheffield Ave,60657,Burgers,1
+Olea,209,3.8,(718) 643-7003,"171 Lafayette Avenue, Brooklyn",11238,"Mediterranean, Tapas",Olea,528,4.0,(718) 643-7003,171 Lafayette Ave,11238,Mediterranean,1
+Argus Bar Grille,23,3.1,(608) 256-4141,"123 E. Main St., Madison",53703,Bar Food,Argus,37,3.5,(608) 256-4141,123 E Main St,53703,Bars,1
+Chilam Balam,166,3.8,(773) 296-6901,"3023 N. Broadway Street, Chicago",60657,"Mexican, Tapas",Chilam Balam,554,3.5,(773) 296-6901,3023 N Broadway St,60657,Mexican,1
+Locanda Verde,576,4.1,(212) 925-3797,"377 Greenwich Street, New York",10013,Italian,Locanda Verde,1113,4.0,(212) 925-3797,377 Greenwich St,10013,Italian,1
+Sala Thai,345,4.5,(608) 246-1889,"36 S Fair Oaks Ave, Madison",53714,Thai,Sala Thai,71,4.0,(608) 246-1889,36 S Fair Oaks Ave,53714,Thai,1
+The Blind Butcher,60,3.8,(214) 887-0000,"1919 Greenville Avenue, Dallas",75206,New American,Blind Butcher,228,4.0,(214) 887-0000,1919 Greenville Ave,75206,American (New),1
+Gilt Bar,201,4.7,(312) 464-9544,"230 W. Kinzie Street, Chicago",60654,New American,Gilt Bar,1109,4.0,(312) 464-9544,230 W Kinzie St,60654,American (New),1
+Five Guys Burgers and Fries,167,3.6,(608) 255-2520,"517 State St., Madison",53703,Fast Food,Five Guys Burgers and Fries,59,3.5,(608) 255-2520,517 State St,53703,Burgers,1
+Gyu-Kaku Japanese BBQ,110,3.7,(312) 266-8929,"210 E. Ohio Street, Chicago",60611,"Asian, BBQ, Japanese",Gyu-Kaku Japanese BBQ,899,4.0,(312) 266-8929,210 E Ohio St,60611,Japanese,1
+Wonder Bar Steakhouse,96,3.5,(608) 256-9430,"232 E. Olin Ave., Madison",53713,Steakhouse,Wonder Bar Steakhouse,73,4.0,(608) 256-9430,222 E Olin Ave,53713,Steakhouses,1
+Saint Ann Restaurant & Bar,200,3.3,(214) 782-9807,"2501 N Harwood Street, Dallas",75201,"American, European, International",Saint Ann,275,3.0,(214) 782-9807,2501 N Harwood St,75201,American (New),1
+Twin Anchors,531,4.0,(312) 266-1616,"1655 N. Sedgwick Street, Chicago",60614,"American, BBQ",Twin Anchors Restaurant & Tavern,525,4.0,(312) 266-1616,1655 N Sedgwick St,60614,American (Traditional),1
+Slurping Turtle,285,3.7,(312) 464-0466,"116 W. Hubbard Street, Chicago",60654,"Japanese, Tapas, Ramen",Slurping Turtle,984,3.5,(312) 464-0466,116 W Hubbard St,60654,Japanese,1
+Masa of Echo Park,336,4.1,(213) 989-1558,"1800 W Sunset Blvd, Los Angeles",90026,"Italian, Pizza, Vegetarian",Masa of Echo Park,2604,4.0,(213) 989-1558,1800 W Sunset Blvd,90026,American (New),1
+Kollege Klub,24,2.3,(608) 257-3611,"529 N Lake St, Madison",53703,American,The Kollege Klub,26,2.5,(608) 257-3611,529 N Lake St,53703,American (New),1
+Oishii,423,3.9,(214) 599-9448,"2525 Wycliff Avenue, Dallas",75219,"Japanese, Sushi, Vietnamese",Oishii,254,3.5,(214) 599-9448,2525 Wycliff AveSte 110,75219,Sushi Bars,1
+Tre Soldi,64,3.9,(312) 664-0212,"212 E. Ohio Street, Chicago",60611,"Italian, Pizza",Tre Soldi,173,4.0,(312) 664-0212,212 E Ohio St,60611,Italian,1
+Oasis,62,3.4,(214) 361-8120,"5945 Greenville Avenue, Dallas",75206,Cafe,Oasis Restaurant,87,4.0,(214) 361-8120,5945 Greenville Ave,75206,Breakfast & Brunch,1
+Tacos Y Mas,73,3.8,(214) 824-8079,"5419 Ross Avenue, Dallas",75206,Mexican,Tacos Y Mas,132,3.5,(214) 824-8079,5419 Ross Ave,75206,Mexican,1
+Sake Bar Hagi,248,4.0,(212) 764-8549,"152 W 49th Street, New York",10019,"Asian, Japanese",Sake Bar Hagi,1257,4.0,(212) 764-8549,152 W 49th St,10019,Japanese,1
+Plan Check Kitchen + Bar,140,4.0,(310) 288-6500,"1800 Sawtelle Blvd, Los Angeles",90025,Burger,Plan Check Kitchen + Bar,1748,4.0,(310) 444-1411,1800 Sawtelle Blvd,90025,American (New),1
+Mot Hai Ba,85,3.7,(972) 638-7468,"6047 Lewis Street, Dallas",75206,"Asian, Vietnamese",Mot Hai Ba,185,4.0,(972) 638-7468,6047 Lewis St,75206,Vietnamese,1
+Mexicali,172,3.8,(214) 341-9405,"11277 E Northwest Highway, Dallas",75238,Tex-Mex,Mexicali Restaurant,77,4.0,(214) 341-9405,11277 E NW HwySte 148,75238,Tex-Mex,1
+Takito Kitchen,26,3.1,(773) 687-9620,"2013 W. Division Street, Chicago",60622,Mexican,Takito Kitchen,282,4.0,(773) 687-9620,2013 W Division St,60622,Mexican,1
+The Dawson,34,3.3,(312) 243-8955,"730 W. Grand Avenue, Chicago",60654,New American,The Dawson,406,4.0,(312) 243-8955,730 W Grand Ave,60654,American (Traditional),1
+Soot Bull Jeep,220,3.8,(213) 387-3865,"3136 W 8th St, Los Angeles",90005,"Asian, BBQ, Korean",Soot Bull Jeep,722,4.0,(213) 387-3865,3136 W 8th St,90005,Korean,1
+Remedy,46,3.9,(469) 294-4012,"2010 Greenville Avenue, Suite B, Dallas",75206,"American, Desserts",Remedy,215,4.0,(469) 294-4012,2010B Greenville Ave,75206,American (Traditional),1
+Koryo Kalbi Korean BBQ,129,3.9,(972) 406-0087,"2560 Royal Lane, Suite 105, Dallas",75229,Korean,Koryo Kalbi Korean BBQ,406,4.0,(972) 406-0087,2560 Royal LnSte 105,75229,Korean,1
+Eldorado Grill,210,3.8,(608) 280-9378,"744 Williamson St, Madison",53703,"BBQ, Southwestern, Tex-Mex",Eldorado Grill,180,4.0,(608) 280-9378,744 Williamson St,53703,Tex-Mex,1
+Malatesta Trattoria,191,3.7,(212) 741-1207,"649 Washington Street, New York",10014,Italian,Malatesta Trattoria,841,4.0,(212) 741-1207,649 Washington St,10014,Italian,1
+Fundamental LA,54,4.6,(310) 444-7581,"1303 Westwood Blvd, Los Angeles",90024,American,fundamental LA,665,4.0,(310) 444-7581,1303 Westwood Blvd,90024,American (New),1
+Taco Bell,38,2.3,(608) 827-6574,"421 Commerce Dr, Madison",53719,Fast Food,Taco Bell,8,1.5,(608) 277-2411,698 S. Whitney Way,53719,Tex-Mex,1
+Forequarter,155,3.9,(608) 609-4717,"708 1/4 E Johnson St, Madison",53703,,Forequarter,174,4.0,(608) 609-4717,708 E Johnson,53703,American (New),1
+Kenichi,184,3.3,(214) 871-8883,"2400 Victory Park Lane, Dallas",75219,"Asian, Japanese, Sushi",Kenichi,184,3.5,(214) 871-8883,2400 Victory Park Ln,75219,Sushi Bars,1
+Cafe Istanbul,236,3.5,(214) 902-0919,"5450 W Lovers Lane, Dallas",75209,"Mediterranean, Middle Eastern, Turkish",Cafe Istanbul,114,3.5,(214) 902-0919,5450 W Lovers Ln,75209,Middle Eastern,1
+Peggy Sue BBQ,227,3.6,(214) 987-9188,"6600 Snider Plaza, Dallas",75205,"American, BBQ",Peggy Sue BBQ,167,3.5,(214) 987-9188,6600 Snider Plz,75205,"Barbeque,American (Traditional),Italian",1
+Barrio Chino,274,3.9,(212) 228-6710,"253 Broome Street, New York",10002,Mexican,Barrio Chino,825,4.0,(212) 228-6710,253 Broome St,10002,Mexican,1
+The Bayou,143,3.5,(608) 294-9404,"117 S, Butler St., Madison",53703,"Seafood, Cajun",The Bayou,52,3.5,(608) 294-9404,117 S Butler St,53703,Cajun/Creole,1
+By Chloe,7,3.1,(212) 290-8000,"185 Bleecker Street, New York",10012,"Vegetarian, Healthy Food",by Chloe,230,4.0,(212) 290-8000,185 Bleecker St,10012,Vegan,1
+Xiomara on Melrose,60,3.5,(323) 461-0601,"6101 Melrose Ave, Los Angeles",90038,"Cuban, Mediterranean, Spanish",Xiomara,198,4.0,(323) 461-0601,6101 Melrose Ave,90038,Cuban,1
+Ramen-san,31,3.4,(312) 377-9950,"59 W. Hubbard Street, Chicago",60654,"Japanese, Ramen",Ramen-san,539,3.5,(312) 377-9950,59 W Hubbard St,60654,Ramen,1
+Tuome,6,3.1,(646) 833-7811,"536 E 5th Street, New York",10009,Asian,Tuome,141,4.5,(646) 833-7811,536 E 5th St,10009,American (New),1
+Project Pie,11,3.1,(469) 547-1257,"6030 Luther Lane, Suite 110, Dallas",75225,"Desserts, Pizza",Project Pie,48,4.5,(469) 547-1257,6030 Luther Ln,75225,Pizza,1
+The Bedford,47,3.4,(773) 235-8800,"1612 W. Division Street, Chicago",60622,New American,The Bedford,534,3.5,(773) 235-8800,1612 W Division St,60622,Bars,1
+Bao Dim Sum House,88,4.0,(323) 655-6556,"8256 Beverly Blvd., Los Angeles",90048,"Asian, Chinese, Dim Sum",Bao Dim Sum House,1418,4.0,(323) 655-6556,8256 Beverly Blvd,90048,Dim Sum,1
+Feast,301,3.7,(773) 772-7100,"1616 N. Damen Avenue, Chicago",60647,American,Feast,760,3.5,(773) 772-7100,1616 N Damen Ave,60647,Breakfast & Brunch,1
+12 Chairs,108,3.5,(212) 254-8640,"56 MacDougal Streeet, New York",10012,Mediterranean,12 Chairs,211,4.0,(212) 254-8640,56 MacDougal St,10012,Middle Eastern,1
+Spot,16,3.1,(608) 251-7768,"827 Johnson St, Madison",53703,American,The Spot,52,4.0,(608) 251-7768,827 E Johnson St,53703,Bars,1
+Chicken Lips,14,3.1,(608) 837-6721,5508 County Rd N Ste 3,53590,Bar Food,Chicken Lips,23,4.5,(608) 837-6721,5508 County Rd NSte 3,53590,Chicken Wings,1
+Ink.Sack,109,4.7,(323) 655-7225,"8360 Melrose Ave, Los Angeles",90069,"American, Fast Food, Sandwich",Ink,1523,4.0,(323) 651-5866,8360 Melrose AveSte 101,90069,American (New),1
+Taj Indian Restaurant,59,3.8,(608) 268-0772,"1256 S Park St, Madison",53715,Indian,Taj Indian Restaurant,52,3.5,(608) 268-0772,1256 S Park St,53715,Indian,1
+Green Lantern Restaurant,54,3.4,(608) 838-4730,4412 Siggelkow Rd,53558,American,Green Lantern Restaurant,39,3.5,(608) 838-4730,4412 Siggelkow Rd,53558,American (Traditional),1
+Blue Palms Brewhouse,67,4.3,(323) 464-2337,"6124 Hollywood Blvd, Los Angeles",90028,"American, Sandwich",Blue Palms Brewhouse,622,4.0,(323) 464-2337,6124 Hollywood Blvd,90028,Gastropubs,1
+Smoke Daddy,504,3.7,(773) 772-6656,"1804 W. Division Street, Chicago",60622,"American, BBQ",Smoke Daddy,911,3.5,(773) 772-6656,1804 W Division St,60622,"Barbeque,Burgers,American (Traditional),Wine Bars,Wine Bars",1
+Athenian Room,463,4.1,(773) 348-5155,"807 W. Webster Avenue, Chicago",60614,Greek,Athenian Room,477,4.0,(773) 348-5155,807 W Webster Ave,60614,Greek,1
+Marc Forgione,178,3.8,(212) 941-9401,"134 Reade Street, New York",10013,American,Marc Forgione,615,4.0,(212) 941-9401,134 Reade St,10013,"American (New),Hardware Stores,Coffee & Tea,Lounges",1
+Fat Rice,56,3.7,(773) 661-9170,"2957 W. Diversey Avenue, Chicago",60647,Asian,Fat Rice,411,4.0,(773) 661-9170,2957 W Diversey Ave,60647,Asian Fusion,1
+Osteria Mozza,669,3.9,(323) 297-0100,"6602 Melrose Ave, Los Angeles",90038,Italian,Osteria Mozza,1969,4.0,(323) 297-0100,6602 Melrose Ave,90038,Italian,1
+Barry's Food From Galilee,173,4.1,(214) 750-0330,"6710 Snider Plaza, Dallas",75205,Middle Eastern,Food From Galilee,68,4.0,(214) 750-0330,6710 Snider Plz,75205,Middle Eastern,1
+Posto,267,3.8,(212) 716-1200,"310 2nd Avenue, New York",10003,Pizza,Posto,439,4.0,(212) 716-1200,310 2nd Ave,10003,Pizza,1
+La Bamba,19,2.8,(608) 277-9522,"710 S Gammon Rd, Madison",53719,Mexican,La Bamba,42,3.0,(608) 277-9522,710 S Gammon Rd,53719,Mexican,1
+Original Pancake House,231,3.6,(214) 528-7215,"2900 Lemmon Avenue, Dallas",75204,American,The Original Pancake House,200,3.5,(214) 528-7215,2900 Lemmon AveSte 200,75204,Breakfast & Brunch,1
+Vintage Spirits & Grill,32,3.3,(608) 250-0700,"529 University Ave, Madison",53703,American,Vintage Spirits & Grill,42,4.0,(608) 250-0700,529 University Ave,53703,Bars,1
+Maharana,93,3.9,(608) 246-8525,"1707 Thierer Rd, Madison",53704,"Indian, Vegetarian",Maharana Indian Restaurant,11,3.5,(608) 246-8525,1707 Theirer Rd,53704,Indian,1
+Market Table,182,3.7,(212) 255-2100,"54 Carmine Street, New York",10014,"Mediterranean, American",Market Table,615,4.0,(212) 255-2100,54 Carmine St,10014,"American (New),American (New)",1
+City Cafe,71,3.7,(214) 351-2233,"5757 West Lovers Lane, Dallas",75209,"American, Cafe",City Cafe,34,3.5,(214) 351-2233,5757 W Lovers Ln,75209,American (New),1
+Alinea,878,4.1,(312) 867-0110,"1723 N. Halsted Street, Chicago",60614,New American,Alinea,1362,4.5,(312) 867-0110,1723 N Halsted St,60614,Japanese,1
+Dream Cafe,453,3.7,(214) 954-0486,"2800 Routh Street, Suite 170, Dallas",75201,"American, Cafe",Dream Cafe,397,3.5,(214) 954-0486,2800 Routh StSte 170,75201,Breakfast & Brunch,1
+Petty Cash Taqueria,39,3.4,(323) 933-5300,"7360 Beverly Blvd, Los Angeles",90036,Mexican,Petty Cash Taqueria,461,3.5,(323) 933-5300,7360 Beverly Blvd,90036,Mexican,1
+Bottega Louie,1676,4.2,(213) 802-1470,"700 S Grand Ave, Los Angeles",90017,Italian,Bottega Louie,11751,4.0,(213) 802-1470,700 S Grand Ave,90017,Italian,1
+Perch,83,3.6,(213) 802-1770,"448 S Hill St, Los Angeles",90013,"American, French",Perch,3132,4.0,(213) 802-1770,448 S Hill St,90013,Lounges,1
+Cochon Volant,11,3.0,(312) 754-6560,"Hyatt Centric Hotel, 100 W. Monroe Street, Chicago",60603,French,Cochon Volant,116,4.0,(312) 754-6560,100 W Monroe St,60603,French,1
+Penne Pomodoro,150,3.8,(214) 373-9911,"6815 Snider Plaza, Dallas",75205,Italian,Penne Pomodoro,88,3.5,(214) 373-9911,6815 Snider Plz,75205,Italian,1
+The Winchester,16,3.2,(773) 698-8703,"1001 N. Winchester Avenue, Chicago",60622,American,The Winchester,160,3.5,(773) 698-8703,1001 N Winchester Ave,60622,American (Traditional),1
+Great Dane Pub,5,2.7,(608) 243-9614,"4000 International Lane, Madison",53704,"American, Bar Food",Great Dane Pub & Brewing Co.,39,2.5,(608) 246-3380,4000 International Ln,53704,Pubs,1
+Hopdoddy,54,4.7,(214) 871-2337,"3227 McKinney Avenue, Dallas",75204,"Burger, American",Hopdoddy Burger Bar,282,4.0,(214) 871-2337,3227 McKinney AveSte 102,75204,Burgers,1
+Sage Organic Vegan,98,4.7,(213) 989-1718,"1700 W Sunset Blvd, Los Angeles",90026,Vegetarian,Sage Organic Vegan Bistro,1077,4.0,(213) 989-1718,1700 Sunset Blvd,90026,Vegan,1
+Farmhouse,96,3.6,(312) 280-4960,"228 W. Chicago Avenue, Chicago",60654,American,Farmhouse,832,4.0,(312) 280-4960,228 W Chicago Ave,60654,American (Traditional),1
+Num Pang Sandwich Shop,160,3.6,(212) 255-3271,"28 E 12th Street, New York",10003,"Cambodian, Sandwich",Num Pang Sandwich Shop,1222,4.0,(646) 791-0439,28 E 12th St,10003,Cambodian,1
+Sycamore Kitchen,45,4.2,(323) 935-2977,"143 S La Brea Ave, Los Angeles",90036,"Breakfast, French",The Sycamore Kitchen,545,4.0,(323) 939-0151,143 S La Brea Ave,90036,Cafes,1
+Hibiscus,456,4.0,(214) 827-2927,"2927 N Henderson Avenue, Dallas",75206,New American,Hibiscus,405,4.0,(214) 827-2927,2927 N Henderson Ave,75206,"American (New),Pizza,Southern,Gastropubs",1
+Proof + Pantry,14,3.0,(214) 880-9940,"1722 Routh Street, Suite 102, Dallas",75201,New American,Proof + Pantry,90,3.5,(214) 880-9940,1722 Routh StSte 102,75201,"Cocktail Bars,Seafood",1
+Pistola,15,2.7,(323) 951-9800,"8022 W 3rd St, Los Angeles",90048,Italian,Pistola,182,4.0,(323) 951-9800,8022 W 3rd St,90048,Italian,1
+Conte Di Savoia,101,3.7,(773) 666-3471,1438 W. Taylor Street,60607,"Desserts, Italian, Sandwich",Conte Di Savoia,168,4.5,(312) 666-3471,1438 W Taylor St,60607,Delis,1
+Artopolis,278,3.9,(312) 559-9000,"306 S. Halsted Street, Chicago",60661,"Greek, Mediterranean",Artopolis,608,4.0,(312) 559-9000,306 S Halsted St,60661,Bakeries,1
+Fireside Pies,167,3.4,(214) 357-3800,7709 Inwood Road,75209,Pizza,Fireside Pies,84,4.0,(214) 357-3800,7709 Inwood Rd,75209,Pizza,1
+Chez Nanou,21,3.2,(608) 283-4266,"805 Williamson St, Madison",53703,"French, International",Chez Nanou,41,4.0,(608) 283-4266,805 Williamson St,53703,French,1
+Favela Cubana,97,3.6,(212) 777-6500,"543 LaGuardia Place, New York",10012,"Brazilian, Cuban, Latin American",Cuba,960,4.0,(212) 420-7878,222 Thompson St,10012,"Cuban,Latin American Restaurants,Mexican Restaurants,Latin American Restaurants,Cuban Restaurants",1
+Le Parisien,70,4.0,(212) 889-5489,"163 E 33rd Street, New York",10016,French,Le Parisien,611,4.0,(212) 889-5489,163 E 33rd St,10016,French,1
+Yakitori Taisho,219,4.0,(212) 228-5086,"5 St. Marks Place, New York",10003,Japanese,Yakitori Taisho,1225,4.0,(212) 228-5086,5 Saint Marks Pl,10003,Japanese,1
+Joe Allen,251,3.7,(212) 581-6464,"326 West 46th Street, New York, NY",10036,Burger,Joe Allen,220,4.0,(212) 581-6464,326 W 46th St,10036,"American (Traditional),Italian",1
+Salum,162,4.1,(214) 252-9604,"4152 Cole Avenue, Suite 103, Dallas",75204,New American,Salum Restaurant,96,4.0,(214) 252-9604,4152 Cole AveSte 103,75204,American (New),1
+Pecan Lodge,515,4.0,(214) 748-8900,"2702 Main Street, Dallas",75226,BBQ,Pecan Lodge,960,4.0,(214) 748-8900,2702 Main St,75226,Sandwiches,1
+Cafe Beaujolais,374,4.3,(323) 255-5111,"1712 Colorado Blvd, Los Angeles",90041,French,Cafe Beaujolais,1040,4.5,(323) 255-5111,1712 Colorado Blvd,90041,French,1
+Eagle Crest Bar,37,3.3,(608) 244-5413,"3710 County Road T, Madison",53704,"American, Bar Food",Eagle Crest Bar,14,3.5,(608) 244-5413,3710 County Rd T,53704,Dive Bars,1
+Saigon Shack,41,4.4,(212) 228-0588,"114 MacDougal Street, New York",10012,Vietnamese,Saigon Shack,1224,4.0,(212) 228-0588,114 Macdougal St,10012,Vietnamese,1
+The Side Door Grill and Tap,11,3.1,(608) 257-3300,"240 West Gilman Street, Madison",53703,"Burger, Pizza",The Side Door Grill and Tap,57,4.0,(608) 310-4800,240 W Gilman St,53703,American (Traditional),1
+Sarku Japan,15,3.2,(608) 243-8686,"89 E Towne Mall, Madison",53704,Japanese,Sarku Japan,5,4.0,(608) 243-8686,89 E Towne Mall,53704,Japanese,1
+Asian Mint,713,3.7,(214) 363-6655,"11617 N Central Expressway, Dallas",75243,"Asian, Thai",Asian Mint,393,4.0,(214) 363-6655,11617 N Central ExpySte 135,75243,Asian Fusion,1
+Wood Spoon,285,4.1,(213) 629-1765,"107 West 9th St, Los Angeles",90015,"Brazilian, International",Wood Spoon,1134,4.0,(213) 629-1765,107 W 9th St,90015,Brazilian,1
+Knuckle & Claw,7,3.1,(323) 407-6142,"3112 Sunset Blvd, Los Angeles",90026,Seafood,Knuckle & Claw,242,4.0,(323) 407-6142,3112 W. Sunset Blvd,90026,Seafood,1
+Blue Moon Bar & Grill,174,3.8,(608) 233-0441,"2535 University Ave, Madison",53705,"Burger, Sandwich",Blue Moon Bar & Grill,49,4.0,(608) 233-0441,2535 University Ave,53705,Burgers,1
+Clinton Street Baking Company,503,4.1,(646) 602-6263,"4 Clinton Street, New York",10002,"American, Bakery, Desserts",Clinton Street Baking Company,2827,4.0,(646) 602-6263,4 Clinton St,10002,Breakfast & Brunch,1
+Five Leaves,317,3.9,(718) 383-5345,"18 Bedford Avenue, Brooklyn",11222,"New American, Australian",Five Leaves,1015,4.0,(718) 383-5345,18 Bedford Ave,11222,"Breakfast & Brunch,Bars",1
+Tei Tei Robata Bar,218,3.7,(214) 828-2400,"2906 N Henderson Avenue, Dallas",75206,"Japanese, Sushi",Tei Tei Robata,360,4.5,(214) 828-2400,2906 N Henderson Ave,75206,Japanese,1
+Santouka Ramen,118,4.1,(310) 391-1101,"3760 S Centinela Ave, Los Angeles",90066,"Japanese, Ramen",Santouka Ramen,1865,4.5,(310) 391-1101,3760 S Centinela Ave,90066,Ramen,1
+Da Andrea,149,3.9,(212) 367-1979,"35 W 13th Street, New York",10011,"Italian, Seafood",Da Andrea,453,4.0,(212) 367-1979,35 W 13th St,10011,Italian,1
+Tank Noodle,249,3.7,(773) 878-2253,"4953 N. Broadway Street, Chicago",60640,Vietnamese,Tank Noodle Restaurant,1242,4.0,(773) 878-2253,4953 N Broadway,60640,Vietnamese,1
+Sushiya,129,3.4,(214) 744-9600,"1306 Elm Street, Dallas",75202,"Japanese, Sushi",Sushiya,104,4.0,(214) 744-9600,1306 Elm St,75202,Sushi Bars,1
+Tru,238,3.5,(312) 202-0001,"676 N. St. Clair Street, Chicago",60611,French,Tru,556,4.5,(312) 202-0001,676 N St. Clair St,60611,American (New),1
+Mad City Frites,9,2.8,(608) 204-6150,"320 State St, Madison",53703,Bar Food,Mad City Frites,39,4.0,(608) 204-6150,320 State St,53703,Belgian,1
+Blue Cow Kitchen & Bar,63,4.2,(213) 621-2249,"350 S Grand Ave, Los Angeles",90071,"Burger, Vegetarian",Blue Cow Kitchen,814,4.0,(213) 621-2249,350 S Grand Ave,90071,American (New),1
+Becks Prime,73,3.3,(972) 661-8681,"5931 Forest Lane, Dallas",75230,"American, Burger",Becks Prime,77,3.5,(972) 661-8681,5931 Forest Ln,75230,American (Traditional),1
+Ipanema,182,3.6,(212) 730-5848,"43 West 46th Street, New York",10036,"Brazilian, Portuguese",Ipanema Restaurant,424,4.0,(646) 791-7171,43 W 46th St,10036,Brazilian,1
+Chicago Bagel Authority,152,3.8,(773) 248-9606,"953 W. Armitage Avenue, Chicago",60614,"American, Bagels, Sandwich",Chicago Bagel Authority,530,4.0,(773) 248-9606,953 W Armitage Ave,60614,"Bagels,Cucina messicana",1
+Faith & Flower,60,4.6,(213) 239-0642,"705 W 9th St, Los Angeles",90015,California,Faith & Flower,915,4.0,(213) 239-0642,705 W 9th St,90015,American (New),1
+Neighborhood Services,365,3.9,(214) 350-5027,"5027 W Lovers Lane, Dallas",75209,New American,Neighborhood Services,251,4.0,(214) 350-5027,5027 W Lovers Ln,75209,American (New),1
+Badmaash,32,3.5,(213) 221-7466,"108 West 2nd St, Los Angeles",90012,Indian,Badmaash,725,4.0,(213) 221-7466,108 W 2nd StSte 104,90012,Indian,1
+Suehiro Cafe,94,3.6,(213) 626-9132,"337 E 1st St, Los Angeles",90012,"Asian, Chinese, Japanese",Suehiro Cafe,877,4.0,(213) 626-9132,337 E 1st St,90012,Japanese,1
+Seoul Garden,92,3.6,(972) 484-6090,"2502 Royal Lane, Dallas",75229,Korean,Seoul Garden,156,4.0,(972) 484-6090,2502 Royal LnSte 103,75229,Korean,1
+Bistrot Zinc,210,3.7,(312) 337-1131,"1131 N. State Street, Chicago",60610,"European, French",Bistrot Zinc,426,4.0,(312) 337-1131,1131 N State St,60610,French,1
+Baldwin Street Grille,38,3.5,(608) 442-8400,"1304 E Washington Ave, Madison",53703,"Burger, Bar Food, Sandwich",Baldwin Street Grille,37,4.0,(608) 442-8400,1304 E Washington Ave,53703,Bars,1
+The Springs,9,3.3,(213) 223-6226,"608 Mateo St, Los Angeles",90021,Vegetarian,The Springs,212,4.0,(213) 223-6226,608 Mateo St,90021,Vegan,1
+Gulfstream,527,4.1,(310) 553-3636,"10250 Santa Monica Boulevard, Los Angeles",90067,"American, Seafood, California",Gulfstream,530,4.0,(310) 553-3636,10250 Santa Monica Blvd,90067,American (New),1
+Casa Enrique,58,4.7,(347) 448-6040,"5-48 49th Avenue, Queens",11101,Mexican,Casa Enrique,416,4.0,(347) 448-6040,5-48 49th Ave,11101,Mexican,1
+Barley & Brass,4,2.7,(312) 763-9600,"2015 W. Division Street, Chicago",60622,"New American, Bar Food",Barley & Brass,95,4.0,(312) 763-9600,2015 W Division St,60622,Cocktail Bars,1
+El Rey Del Grill,42,3.6,(214) 559-3668,"4535 Maple Avenue, Dallas",75219,"Mexican, Vegetarian",El Rey Del Grill,79,4.0,(214) 559-3668,4535 Maple Ave,75219,Mexican,1
+Chico's Villa Tap,12,3.1,(608) 244-9627,"2302 Packers Ave, Madison",53704,Bar Food,Villa Tap,16,4.0,(608) 244-9627,2302 Packers Ave,53704,Dive Bars,1
+Kobawoo,38,3.8,(213) 389-7300,"698 S Vermont Ave, Los Angeles",90005,Korean,Kobawoo House,761,4.0,(213) 389-7300,698 S Vermont AveSte 109,90005,Korean,1
+Buck & Badger Northwoods Lodge,20,2.8,(608) 230-7999,"115 State St, Madison",53703,"Burger, Seafood",Buck & Badger,38,3.0,(608) 230-7999,115 State St,53703,Comfort Food,1
+Savor,50,3.3,(214) 306-5597,"2000 Woodall Rodgers Freeway, Suite 403, Dallas",75201,American,Savor Gastropub,300,3.5,(214) 306-5597,2000 Woodall Rodgers Fwy,75201,Gastropubs,1
+Fette Sau,476,4.1,(718) 963-3404,"354 Metropolitan Avenue, Brooklyn",11211,"American, BBQ",Fette Sau,1818,4.0,(718) 963-3404,354 Metropolitan Ave,11211,Barbeque,1
+Mohawk Bend,122,3.8,(213) 483-2337,"2141 W Sunset Blvd, Los Angeles",90026,"American, Breakfast, Vegetarian",Mohawk Bend,1411,4.0,(213) 483-2337,2141 W Sunset Blvd,90026,"Gastropubs,Pubs,Breweries",1
+Ink,259,3.9,(323) 651-5866,"8360 Melrose Ave, Los Angeles",90069,,Ink,1523,4.0,(323) 651-5866,8360 Melrose AveSte 101,90069,American (New),1
+Nova,144,3.8,(214) 484-7123,"1417 W Davis Street, Dallas",75208,"Pizza, Pub Food",Nova,175,4.0,(214) 484-7123,1417 W Davis St,75208,Gastropubs,1
+EVO Kitchen,22,3.4,(323) 375-3390,"7950 Sunset Blvd Ste 104, Los Angeles",90046,"Pizza, California",EVO Kitchen,342,4.0,(323) 375-3390,7950 Sunset BlvdSte 104,90046,American (New),1
+Handlebar,249,3.8,(773) 384-9546,"2311 W. North Avenue, Chicago",60647,"American, Bar Food",Handlebar,959,4.0,(773) 384-9546,2311 W North Ave,60647,Vegetarian,1
+Almar,105,3.7,(718) 855-5288,"111 Front Street, Brooklyn",11201,"Cafe, Diner, Italian",AlMar,190,4.0,(718) 855-5288,111 Front St,11201,Italian,1
+Scarpetta,301,4.0,(212) 691-0555,"355 West 14th Street, New York",10014,Italian,Scarpetta,1200,4.0,(212) 691-0555,355 W 14th St,10014,Italian,1
+Nostrano,131,3.6,(608) 395-3295,"111 S Hamilton St, Madison",53703,Italian,Nostrano,153,4.0,(608) 395-3295,111 S Hamilton St,53703,Mediterranean,1
+Rockfish Seafood Grill,82,3.3,(214) 823-8444,"5331 E Mockingbird Lane, First Level, Dallas",75206,Seafood,Rockfish Seafood Grill,67,3.5,(214) 823-8444,5331 E Mockingbird LnSte 160,75206,Seafood,1
+Piccolo Angolo,158,3.7,(212) 229-9177,"621 Hudson Street, New York",10014,Italian,Piccolo Angolo,311,4.0,(212) 229-9177,621 Hudson St,10014,Italian,1
+HuHot Mongolian Grill,153,3.6,(608) 827-7110,"610 Junction Rd, Madison",53717,"Asian, Chinese",HuHot Mongolian Grill,76,3.0,(608) 827-7110,610 Junction Rd,53717,Mongolian,1
+Caracas Arepa Bar,130,4.1,(718) 218-6050,"291 Grand Street, Brooklyn",11211,"Latin American, Venezualan",Caracas Arepa Bar,625,4.0,(718) 218-6050,291 Grand St,11211,Latin American,1
+Aroma,115,3.8,(323) 644-2833,"2903 W Sunset Blvd, Los Angeles",90026,Italian,Aroma Restaurant,241,4.5,(323) 644-2833,2903 W Sunset Blvd,90026,Italian,1
+Tacos Y Mas,73,3.8,(214) 824-8079,"5419 Ross Avenue, Dallas",75206,Mexican,Tacos Y Mas,16,4.0,(972) 807-2466,2820 Greenville Ave,75206,Mexican,1
+Macs,12,3.0,(608) 318-8823,2804 Prairie Lakes Dr Ste 106,53590,American,MACS,62,3.5,(608) 318-8823,2804 Prairie Lakes DrSte 106,53590,American (New),1
+Little Goat Diner,438,4.2,(312) 888-3455,"820 W. Randolph Street, Chicago",60607,"New American, Bakery",Little Goat,2081,4.0,(312) 888-3455,820 W Randolph St,60607,Diners,1
+Swad,44,3.6,(608) 819-9650,"6007 Monona Dr, Madison",53716,Indian,Swad,82,4.5,(608) 819-6950,6007 Monona Dr,53716,Indian,1
+i Fratelli Pizza,169,3.7,(214) 720-0070,"2815 Allen Street, Suite 124, Dallas",75204,Pizza,i Fratelli Pizza,106,4.0,(214) 720-0070,2815 Allen StSte 124,75204,Italian,1
+Mariscos Jalisco,27,3.4,(323) 528-6701,"3040 E Olympic Blvd, Los Angeles",90023,Seafood,Mariscos Jalisco,345,4.5,(323) 528-6701,3040 E Olympic Blvd,90023,"Mexican,Beer, Wine & Spirits",1
+The Must,34,3.5,(213) 628-2000,"117 Winston St, Los Angeles",90013,,The Must,375,4.0,(213) 628-2000,117 Winston St,90013,American (New),1
+All About the Bread,38,3.9,(323) 930-8989,"7111 Melrose Ave, Los Angeles",90046,Sandwich,All About the Bread,638,4.0,(323) 930-8989,7111 Melrose Ave,90046,Sandwiches,1
+The Fix Burger,107,3.8,(323) 661-8494,"2520 Hyperion Ave, Los Angeles",90027,Burger,The Fix Burger,474,4.0,(323) 661-8494,2520 Hyperion Ave,90027,Burgers,1
+Sripraphai,610,4.0,(718) 899-9599,"6413 39th Avenue, Queens",11377,"Asian, Thai",SriPraPhai Thai Restaurant,1669,4.0,(718) 899-9599,6413 39th Ave,11377,Thai,1
+Cafe El Tapatio,351,4.2,(773) 327-5475,"3400 N. Ashland Avenue, Chicago",60657,Mexican,Cafe El Tapatio,499,4.0,(773) 327-5475,3400 N Ashland Ave,60657,Mexican,1
+Soba-Ya,178,3.6,(212) 533-6966,"229 East 9th Street, New York",10003,Japanese,Soba-ya,930,4.0,(212) 533-6966,229 E 9th St,10003,"Japanese,Japanese,Sushi Bars,Japanese,Japanese,Japanese",1
+Local,145,3.7,(214) 752-7500,"2936 Elm Street, Dallas",75226,New American,Local,176,4.0,(214) 752-7500,2936 Elm St,75226,American (New),1
+Momo Italian Kitchen,183,3.9,(972) 234-6800,"8989 Forest Lane, Suite130, Dallas",75243,"Italian, Pizza",MoMo Italian Kitchen,115,4.0,(972) 234-6800,8989 Forest LnSte 130,75243,Italian,1
+Madison Sourdough Company,82,3.9,(608) 442-8009,"916 Williamson St, Madison",53703,"Breakfast, Coffee and Tea",Madison Sourdough,152,4.0,(608) 442-8009,916 Williamson St,53703,Bakeries,1
+Dish,223,3.8,(214) 522-3474,"ILLUME, 4123 Cedar Springs Road, Suite 110, Dallas",75219,New American,DISH Cedar Springs,310,4.0,(214) 522-3474,4123 Cedar Springs RdSte 110,75219,American (New),1
+Pappadeaux Seafood Kitchen,172,4.0,(214) 358-1912,"10428 Lombardy Lane, Dallas",75220,"Seafood, Southern, Cajun",Pappadeaux Seafood Kitchen,190,4.0,(214) 358-1912,10428 Lombardy Ln,75220,Seafood,1
+Home Restaurant,319,3.7,(323) 669-0211,"1760 Hillhurst Ave, Los Angeles",90027,American,Home Restaurant - Los Feliz,1590,4.0,(323) 669-0211,1760 Hillhurst Ave,90027,Breakfast & Brunch,1
+Sofra Family Bistro,133,3.8,(608) 836-6614,7457 Elmwood Ave,53562,"European, Mediterranean, Eastern European",Sofra Family Bistro,73,4.0,(608) 836-6614,7457 Elmwood Ave,53562,"Breakfast & Brunch,Italian",1
+Las Islas Del Mar,36,3.2,(608) 298-7687,"5696 Monona Dr, Madison",53716,"Mexican, Seafood",Las Islas Del Mar,23,4.0,(608) 298-7687,5696 Monona Dr,53716,Seafood,1
+Si Lom Thai Asian Fusion,77,4.2,(214) 780-0983,"3300 Oak Lawn Avenue, Suite 110, Dallas",75219,"Asian, Thai, Fusion",Si Lom,285,4.0,(214) 780-0983,3300 Oak Lawn AveSte 110,75219,Thai,1
+Good 2 Go Taco,465,4.2,(214) 519-9110,"1146 Peavy Road, Dallas",75218,Mexican,Good 2 Go Taco,415,4.0,(214) 519-9110,1146 Peavy Rd,75218,Breakfast & Brunch,1
+Big Star,695,4.1,(773) 235-4039,"1531 N. Damen Avenue, Chicago",60622,Mexican,Big Star,2294,3.5,(773) 235-4039,1531 N Damen,60622,Mexican,1
+Three Aces,95,4.4,(312) 243-1577,"1321 W. Taylor Street, Chicago",60607,American,Three Aces,620,4.0,(312) 243-1577,1321 W Taylor St,60607,Italian,1
+Supper,394,3.7,(212) 477-7600,"156 E 2nd Street, New York",10009,Italian,Supper,860,4.0,(212) 477-7600,156 E 2nd St,10009,Italian,1
+Fish Bar,109,3.8,(773) 687-8177,"2956 N. Sheffield Avenue, Chicago",60657,Seafood,Fish Bar,704,4.0,(773) 687-8177,2956 N Sheffield Ave,60657,Seafood,1
+Bolsa,786,3.8,(214) 367-9367,"614 W Davis Street, Suite 100, Dallas",75208,New American,Bolsa,731,4.0,(214) 367-9367,614 W Davis St,75208,American (New),1
+FoodLab,51,4.7,(323) 851-7120,7253 Santa Monica Blvd,90046,"Breakfast, Sandwich, Healthy Food",Foodlab,414,4.0,(323) 851-7120,7253 Santa Monica Blvd,90046,Coffee & Tea,1
+Beatrix,63,3.7,(312) 284-1377,"519 N. Clark Street, Chicago",60654,American,Beatrix,763,4.0,(312) 284-1377,519 North Clark Street,60654,American (New),1
+Burger Bar,173,4.0,(312) 255-0055,"1578 N. Clybourn Avenue, Chicago",60642,"Burger, American",Burger Bar Chicago,747,4.0,(312) 255-0055,1578 N Clybourn Ave,60642,Burgers,1
+Dryhop Brewers,32,3.4,(773) 857-3155,"3155 N. Broadway Street, Chicago",60657,"American, Bar Food",DryHop Brewers,385,4.0,(773) 857-3155,3155 N Broadway,60657,Breweries,1
+Alligator Cafe,315,3.9,(214) 821-6900,"9540 Garland Road, Suite 362, Dallas",75218,"Cajun, Seafood",Alligator Cafe,277,4.0,(214) 821-6900,9540 Garland RdSte 362,75218,Cajun/Creole,1
+Bayou,209,4.1,(718) 273-4383,1072 Bay Street,10305,"American, Cajun",Bayou,219,4.0,(718) 273-4383,1072 Bay St,10305,"Cajun/Creole,Spanish",1
+Mesa,68,3.5,(214) 941-4246,"118 W Jefferson Boulevard, Dallas",75208,Latin American,Mesa,183,4.0,(214) 941-4246,118 W Jefferson Blvd,75208,Mexican,1
+DeSano Pizza,38,3.7,(323) 913-7000,"4959 Santa Monica Blvd, Los Angeles",90029,"Italian, Pizza",DeSano Pizza Bakery,384,4.5,(323) 913-7000,4959 Santa Monica Blvd,90029,Pizza,1
+Reikyu,109,3.6,(214) 823-3772,"5321 E Mockingbird Lane, Second Level, Dallas",75206,"Japanese, Sushi",Reikyu Sushi & Bar,92,3.5,(214) 823-3772,5321 E Mockingbird LnSte 200,75206,Sushi Bars,1
+Commissary,33,3.6,(213) 368-3065,"3515 Wilshire Blvd, Los Angeles",90010,California,Commissary,568,3.5,(213) 368-3030,The Line Hotel3515 Wilshire Blvd,90010,American (New),1
+Souk,43,3.3,(469) 458-2233,"3011 Gulden Lane, Suite 114, Dallas",75212,Moroccan,Souk,206,3.5,(469) 458-2233,3011 Gulden LnSte 114,75212,Moroccan,1
+Cafe Katja,99,3.7,(212) 219-9545,"79 Orchard Street, New York",10002,"German, European",Cafe Katja,558,4.5,(212) 219-9545,79 Orchard St,10002,German,1
+Noodles & Company,149,3.6,(608) 257-6393,"232 State St, Madison",53703,"Asian, Mediterranean",Noodles & Company,43,3.5,(608) 257-6393,232 State St,53703,Comfort Food,1
+Wendigo,25,3.4,(608) 205-2775,121 E Main St,53589,"American, Bar Food",Wendigo,55,4.5,(608) 205-2775,121 East Main St,53589,American (New),1
+Perkins Restaurant & Bakery,8,2.5,(608) 251-7550,"1410 Damon Rd, Madison",53713,American,Perkins Restaurant & Bakery,20,2.5,(608) 251-7550,1410 Damon Rd,53713,American (Traditional),1
+Antique Taco,161,3.9,(773) 687-8697,"1360 N. Milwaukee Avenue, Chicago",60622,Taco,Antique Taco,750,4.0,(773) 687-8697,1360 N Milwaukee Ave,60622,Mexican,1
+Hong Kong Cafe,144,3.6,(608) 259-1668,"2 S Mills St, Madison",53715,"Asian, Chinese",Hong Kong Cafe,43,3.5,(608) 259-1668,2 S Mills St,53715,Chinese,1
+HomeTown Buffet,69,3.2,(608) 244-3632,"1745 Parkside Dr, Madison",53704,American,HomeTown Buffet,22,2.5,(608) 244-3632,1745 Parkside Dr,53704,Buffets,1
+Vickery Park,129,3.6,(214) 827-1432,"2810 N Henderson Avenue, Dallas",75206,American,Vickery Park,243,4.0,(214) 827-1432,2810 N Henderson Ave,75206,Bars,1
+Toro Sushi,518,4.0,(773) 348-4877,"2546 N. Clark Street, Chicago",60614,"Japanese, Sushi",Toro Sushi,905,4.0,(773) 348-7255,2546 N Clark St,60614,Sushi Bars,1
+The Grape,380,3.8,(214) 828-1981,"2808 Greenville Avenue, Dallas",75206,New American,The Grape Restaurant,402,4.0,(214) 828-1981,2808 Greenville Ave,75206,American (New),1
+Buona Terra,245,4.2,(773) 289-3800,"2535 N. California Avenue, Chicago",60647,Italian,Buona Terra Ristorante,510,4.5,(773) 289-3800,2535 N California Ave,60647,Italian,1
+Gato,25,3.5,(212) 334-6400,"324 Lafayette Street, New York",10012,"Mediterranean, Spanish",Gato,533,4.0,(212) 334-6400,324 Lafayette St,10012,Mediterranean,1
+The Mint,213,3.3,(214) 219-6468,"4246 Oak Lawn Avenue, Dallas",75219,"Asian, Desserts, Thai",The Mint,196,4.0,(214) 219-6468,4246 Oak Lawn Ave,75219,Thai,1
+GT Fish & Oyster,212,3.9,(312) 929-3501,"531 N. Wells Street, Chicago",60654,"American, Seafood",GT Fish & Oyster,1047,4.0,(312) 929-3501,531 N Wells St,60654,Seafood,1
+Village Pizzeria,157,3.8,(323) 465-5566,"131 N Larchmont Blvd, Los Angeles",90004,"Italian, Pizza",Village Pizzeria,993,4.0,(323) 465-5566,131 N Larchmont Blvd,90004,Pizza,1
+The Good Fork,211,3.8,(718) 643-6636,"391 Van Brunt Street, Brooklyn",11231,"American, Korean",The Good Fork,290,4.0,(718) 643-6636,391 Van Brunt St,11231,American (New),1
+Rose Water,130,3.8,(718) 783-3800,"787 Union Street, Brooklyn",11215,New American,Rose Water Restaurant,422,4.0,(718) 783-3800,787 Union St,11215,American (New),1
+Ocean Prime,225,3.3,(214) 965-0440,"2101 Cedar Springs Road, Dallas",75201,"Seafood, Steakhouse",Ocean Prime,289,4.0,(214) 965-0440,2101 Cedar Springs Rd,75201,Seafood,1
+Draft House Bar & Restaurant,95,3.5,(608) 848-3158,1010 Enterprise Dr,53593,"American, Burger, Sandwich",Draft House Bar & Restaurant,31,3.5,(608) 848-3158,1010 Enterprise Dr,53593,American (Traditional),1
+Laurel Tavern,61,3.6,(608) 233-1043,"2505 Monroe St, Madison",53711,"American, Bar Food",Laurel Tavern,28,3.0,(608) 233-1043,2505 Monroe St,53711,American (Traditional),1
+Piggie Pies Pizza & Pasta,141,3.4,(214) 821-6465,"5315 Greenville Avenue, Dallas",75206,Italian,Piggie Pies Pizza & Pasta,150,4.0,(214) 821-6465,5315 Greenville AveSte 120B,75206,Pizza,1
+Wirtshaus,39,3.9,(323) 931-9291,"345 N La Brea Ave, Los Angeles",90036,German,Wirtshaus,472,4.0,(323) 931-9291,345 N La Brea Ave,90036,German,1
+Bestia,102,4.0,(213) 514-5724,"2121 7th Pl, Los Angeles",90021,Italian,Bestia,2407,4.5,(213) 514-5724,2121 E 7th Pl,90021,Italian,1
+Uchi,18,3.3,(214) 855-5454,"2817 Maple Avenue, Dallas",75201,"Japanese, Sushi",Uchi,196,4.5,(214) 855-5454,2817 Maple Ave,75201,Japanese,1
+Cemitas Puebla,16,3.0,(312) 455-9200,"817 W. Fulton Market, Chicago",60607,Mexican,Cemitas Puebla,119,4.0,(312) 455-9200,817 W Fulton Market,60607,Mexican,1
+Picca Peruvian Cantina,237,4.1,(310) 277-0133,"9575 W Pico Blvd, Los Angeles",90035,Peruvian,Picca,1190,4.0,(310) 277-0133,9575 W Pico Blvd,90035,Peruvian,1
+Cento,40,3.4,(608) 284-9378,"122 W Mifflin St, Madison",53703,Italian,Cento,119,4.0,(608) 284-9378,122 W Mifflin St,53703,Italian,1
+Super Chix,6,2.7,(972) 788-0660,"14999 Preston Road, Suite 226 D, Dallas, TX",75254,American,Super Chix,137,4.0,(972) 788-0660,14999 Preston RdSte 226,75254,Ice Cream & Frozen Yogurt,1
+Chego,174,4.5,(310) 287-0337,"727 North Broadway, Los Angeles",90012,"Asian, Korean",Chego!,987,4.0,(323) 380-8680,727 N BroadwayUnit 117,90012,Asian Fusion,1
+Crossroads at House of Blues,31,3.1,(214) 978-2583,"2200 N Lamar Street, Dallas",75202,American,House of Blues,321,3.5,(214) 978-2583,2200 N Lamar St,75202,Music Venues,1
+The Free House Pub,77,3.7,(608) 831-5000,1902 Parmenter Street,53562,American,The Free House Pub,75,4.0,(608) 831-5000,1902 Parmenter St,53562,American (New),1
+20 Feet Seafood Joint,112,3.8,(972) 707-7442,"1160 Peavy Road, Dallas",75218,Seafood,20 Feet Seafood Joint,280,4.0,(972) 707-7442,1160 Peavy Rd,75218,Seafood,1
+Bryan Street Tavern,95,3.9,(214) 821-4447,"4315 Bryan Street, Dallas",75204,"American, Pizza, Pub Food",Bryan Street Tavern,216,4.0,(214) 821-4447,4315 Bryan St,75204,Pizza,1
+Taco Bros,7,3.0,(608) 422-5075,"604 University Ave, Madison",53715,"Mexican, California",The Taco Bros,26,4.0,(608) 422-5075,604 E University Ave,53715,Mexican,1
+Original Pancake House,295,3.9,(608) 231-3666,"5518 University Ave, Madison",53705,Breakfast,Original Pancake House,98,4.0,(608) 231-3666,5518 University Ave,53705,Breakfast & Brunch,1
+The Capital Grille,267,3.5,(214) 303-0500,"500 Crescent Court, Dallas",75201,"Seafood, Steakhouse",The Capital Grille,268,4.5,(214) 303-0500,500 Crescent Ct,75201,Steakhouses,1
+Yu Chun Chic Naeng Myun,16,3.4,(213) 382-3815,"3185 W Olympic Blvd, Los Angeles",90006,Korean,Yu Chun Chic Naeng Myun,679,4.0,(213) 382-3815,3185 W Olympic Blvd,90006,Korean,1
+Pizzanista!,54,3.3,(213) 627-1430,"2019 E. 7th St., Los Angeles",90021,"Pizza, Vegetarian",Pizzanista!,491,4.0,(213) 627-1430,2019 E 7th St,90021,Pizza,1
+Carriage House,70,3.5,(773) 384-9700,"1700 W. Division Street, Chicago",60622,Southern,Carriage House,487,4.0,(773) 384-9700,1700 W Division St,60622,Southern,1
+Badger Bowl,6,2.9,(608) 274-6662,"506 E. Badger Rd., Madison",53713,,Badger Bowl,13,3.5,(608) 274-6662,506 E Badger Rd,53713,"Bowling,Locales para eventos,Hoteles",1
+Tanoshii Ramen & Bar,66,3.2,(214) 651-6800,"2724 Commerce Street, Dallas",75226,"Japanese, Ramen",Tanoshii Ramen,341,3.0,(214) 651-6800,2724 Commerce St,75226,Ramen,1
+Redbird,24,3.4,(213) 788-1191,"114 E 2nd St, Los Angeles",90012,American,Redbird,372,4.0,(213) 788-1191,114 E 2nd St,90012,Cocktail Bars,1
+Stanton Social,472,4.0,(212) 995-0099,"99 Stanton Street, New York",10002,"New American, International",The Stanton Social,2149,4.0,(212) 995-0099,99 Stanton St,10002,Tapas/Small Plates,1
+Green House Market,12,3.2,(214) 809-5977,"8687 North Central Expressway, Dallas",75225,"Coffee and Tea, Sandwich, Healthy Food",Green House Market,81,4.5,(214) 809-5977,8687 N Central Expy,75225,American (New),1
+The Factory Kitchen,33,3.4,(213) 996-6000,"1300 Factory Place # 101, Los Angeles",90013,Italian,The Factory Kitchen,555,4.0,(213) 996-6000,1300 Factory PlSte 101,90013,Italian,1
+Seasons 52,40,3.6,(214) 361-5252,"NorthPark Mall, 8687 North Central Expressway, Suite B307, Dallas",75225,New American,Seasons 52,152,4.0,(214) 361-5252,8687 N Central ExpySte  B307,75225,American (New),1
+JiST Cafe,7,3.2,(213) 792-2116,"116 Judge John Aiso St., Los Angeles",90012,Breakfast,JiST Cafe,505,4.0,(213) 792-2116,116 Judge John Aiso St,90012,American (New),1
+Sweet Maple Cafe,251,3.8,(312) 243-8908,"1339 W. Taylor Street, Chicago",60607,American,Sweet Maple Cafe,537,4.0,(312) 243-8908,1339 W Taylor St,60607,American (Traditional),1
+RPM Italian,300,3.7,(312) 222-1888,"52 W. Illinois Street, Chicago",60654,Italian,RPM Italian,1631,4.0,(312) 222-1888,52 W Illinois St,60654,Italian,1
+Elbow Room,65,4.2,(214) 828-9488,"3010 Gaston Avenue, Dallas",75226,"American, Pizza",The Elbow Room,126,4.0,(214) 828-9488,3010 Gaston Ave,75226,Dive Bars,1
+Boqueria,658,3.7,(212) 255-4160,"53 W 19th Street, New York",10011,"Spanish, Tapas",Boqueria,789,4.0,(212) 255-4160,53 W 19th St,10011,Spanish,1
+Marrakesh Restaurant,35,3.3,(608) 238-7111,"5510 University Ave, Madison",53705,"Mediterranean, Middle Eastern, Moroccan",Marrakesh,25,2.5,(608) 238-7111,5510 University Ave,53705,Moroccan,1
+Bolsa,786,3.8,(214) 367-9367,"614 W Davis Street, Suite 100, Dallas",75208,New American,Bolsa Mercado,100,4.5,(214) 942-0451,634 W Davis St,75208,Cafes,1
+The Standard Pour,53,3.3,(214) 935-1370,"2900 McKinney Avenue, Dallas",75204,American,The Standard Pour,212,3.5,(214) 935-1370,2900 McKinney Ave,75204,Lounges,1
+Players Sports Bar & Grill,15,3.2,(608) 244-9722,"2013 Winnebago St, Madison",53704,Bar Food,Players Sports Bar,17,4.5,(608) 244-9722,2013 Winnebago St,53704,Sports Bars,1
+Dunlays on Clark,153,3.7,(773) 883-6000,"2600 N. Clark Street, Chicago",60614,American,Dunlays on Clark,360,4.0,(773) 883-6000,2600 N Clark St,60614,Burgers,1
+El Carmen,62,4.0,(323) 852-1552,"8138 W 3rd St, Los Angeles",90048,Mexican,El Carmen,689,4.0,(323) 852-1552,8138 W 3rd St,90048,Mexican,1
+Yuca Bar & Restaurant,211,3.9,(212) 982-9533,"111 Avenue A, New York",10009,"Cuban, Mexican, Bar Food",Yuca Bar & Restaurant,1214,4.0,(212) 982-9533,111 Avenue A,10009,Latin American,1
+Stephan Pyles,429,3.5,(214) 580-7000,"1807 Ross Avenue, Suite 200, Dallas",75201,"New American, Southwestern",Stephan Pyles,410,4.0,(214) 580-7000,1807 Ross Ave,75201,American (New),1
+The Smith,125,3.7,(212) 644-2700,"956 2nd Avenue, New York",10022,American,The Smith,909,4.0,(212) 644-2700,956 2nd Ave,10022,American (Traditional),1
+Capital Tap Haus,74,3.4,(608) 310-1010,"107 State Street, Madison",53703,"American, Bar Food",Capital Tap Haus,82,3.0,(608) 310-1010,107 State St,53703,Breweries,1
+Barbrix,122,3.9,(323) 662-2442,"2442 Hyperion Ave, Los Angeles",90027,California,Barbrix,744,4.0,(323) 662-2442,2442 Hyperion Ave,90027,Wine Bars,1
+Siena Tavern,110,3.8,(312) 595-1322,51 W. Kinzie Street,60654,Italian,Siena Tavern,862,4.0,(312) 595-1322,51 W Kinzie St,60654,"Italian,Sportbars,Sportbars,Amerikaans (traditioneel)",1
+Bar Siena,12,3.2,(312) 492-7775,"832 W. Randolph Street, Chicago",60607,"Italian, Pizza",Bar Siena,179,4.0,(312) 492-7775,832 W Randolph St,60607,Italian,1
+Almondine,68,4.1,(718) 797-5026,"85 Water Street, Brooklyn",11201,French,Almondine Bakery,247,4.0,(718) 797-5026,85 Water St,11201,Bakeries,1
+El Cochinito,128,4.0,(323) 668-0737,"3508 W Sunset Blvd, Los Angeles",90026,Cuban,El Cochinito Restaurant,390,4.0,(323) 668-0737,3508 W Sunset Blvd,90026,"Cuban,Bakeries,Seafood,American (New),American (New),Seafood",1
+El Cocotero,94,3.4,(212) 206-8930,"228 West 18th Street, New York",10011,"Latin American, Venezualan",El Cocotero,355,4.0,(212) 206-8930,228 W 18th St,10011,Latin American,1
+EDO Garden,64,3.3,(608) 226-9828,6309 Monona Dr,53716,"Japanese, Sushi, Teriyaki",Edo Garden Monona,49,3.0,(608) 226-9828,6309 Monona Dr,53716,Japanese,1
+Maialino,278,4.0,(212) 777-2410,"Gramercy Park Hotel, 2 Lexington Avenue, New York",10010,Italian,Maialino,904,4.0,(212) 777-2410,2 Lexington Ave,10010,Italian,1
+Zankou Chicken,348,3.9,(323) 665-7842,"5065 W Sunset Blvd, Los Angeles",90027,"Fast Food, Armenian",Zankou Chicken - Hollywood,788,3.5,(323) 665-7842,5065 Sunset Blvd,90027,Mediterranean,1
+Takara 88,12,3.1,(608) 203-8866,1900 Cayuga St Ste 101,53562,"Japanese, Sushi",Takara 88,12,3.0,(608) 203-8866,1900 Cayuga StSte 101,53562,Japanese,1
+Balthazar,4029,3.7,(212) 965-1414,"80 Spring Street, New York",10012,"French, Cafe, Bakery",Balthazar Restaurant,2002,4.0,(212) 965-1414,80 Spring St,10012,French,1
+The Purple Pig,1723,4.6,(312) 464-1744,"500 N. Michigan Avenue, Chicago",60611,"Mediterranean, Tapas",The Purple Pig,3619,4.0,(312) 464-1744,500 N Michigan Ave,60611,Tapas/Small Plates,1
+The Bristol,306,4.0,(773) 862-5555,"2152 N. Damen Avenue, Chicago",60647,New American,The Bristol,881,4.0,(773) 862-5555,2152 N Damen Ave,60647,American (New),1
+Lucia,179,3.9,(214) 948-4998,"408 W Eighth Street, Suite 101, Dallas",75208,Italian,Lucia,238,4.5,(214) 948-4998,408 W 8th St,75208,Italian,1
+Hong Kong Station,11,3.0,(608) 661-8288,"1441 Regent St, Madison",53711,Chinese,Hong Kong Station,27,3.5,(608) 661-8288,1441 Regent St,53711,Chinese,1
+Las Palmas Mexican Restaurant,133,3.6,(773) 289-4991,"1835 W. North Avenue, Chicago",60622,"Latin American, Mexican",Las Palmas,540,4.0,(773) 289-4991,1835 W North Ave,60622,Mexican,1
+Roka Akor,87,3.8,(312) 477-7652,"456 N. Clark Street, Chicago",60654,"Japanese, Steakhouse, Sushi",Roka Akor - Chicago,625,4.0,(312) 477-7652,456 N Clark St,60654,Sushi Bars,1
+Sushi Enya,25,3.3,(213) 626-3692,"343 E. 1st Street, Los Angeles",90012,Japanese,Sushi Enya,546,4.5,(213) 626-3692,343 E 1st St,90012,Japanese,1
+The Cellar At Beecher's Handmade Cheese,22,3.2,(212) 466-3340,"Beecher's Handmade Cheese, 900 Broadway, New York",10003,American,The Cellar,365,4.0,(212) 466-3340,900 Broadway900 Broadway,10003,Wine Bars,1
+The Free Man Cajun Cafe & Lounge,85,3.5,(214) 377-9893,"2626 Commerce Street, Dallas",75226,Cajun,The Free Man,207,3.5,(214) 377-9893,2626 Commerce St,75226,Cajun/Creole,1
+Merchant,208,3.5,(608) 259-9799,"121 S Pinckney St, Madison",53703,International,Merchant Madison,293,4.0,(608) 259-9799,121 S Pinckney St,53703,Cocktail Bars,1
+Flying Fish,184,3.7,(214) 696-3474,"6126 Luther Lane, Dallas",75225,Seafood,Flying Fish,113,4.0,(214) 696-3474,6126 Luther Ln,75225,Seafood,1
+Terrine,15,3.4,(323) 746-5130,"8265 Beverly Blvd, Los Angeles",90048,American,Terrine,306,4.0,(323) 746-5130,8265 Beverly Blvd,90048,French,1
+Spitz,118,3.8,(213) 613-0101,"371 E 2nd St, Los Angeles",90012,Middle Eastern,Spitz - Little Tokyo,1206,4.0,(213) 613-0101,371 E 2nd St,90012,Bars,1
+La Mestiza,198,3.7,(608) 826-0178,"6644 Odana Rd, Madison",53719,Mexican,La Mestiza,117,4.0,(608) 826-0178,6644 Odana Rd,53719,Mexican,1
+Imperial Garden Chinese Restaurant,124,3.5,(608) 238-6445,2039 Allen Blvd,53562,Chinese,Imperial Garden,53,3.0,(608) 238-6445,2039 Allen Blvd,53562,Chinese,1
+Local Oak,14,3.0,(214) 946-4625,"409 N Zang Boulevard, Dallas",75208,American,The Local Oak,93,4.0,(214) 946-4625,409 N Zang Blvd,75208,American (Traditional),1
+Bridge House Tavern On The River,100,3.8,(312) 644-0283,"32 N. Clark Street, Chicago",60654,"New American, American",Bridge House Tavern,433,4.0,(312) 644-0283,321 N Clark St,60654,American (New),1
+Shinsei,196,3.6,(214) 352-0005,"7713 Inwood Road, Dallas",75209,"Japanese, Sushi",Shinsei,167,4.0,(214) 352-0005,7713 Inwood Rd,75209,Asian Fusion,1
+Turquoise,138,3.9,(773) 549-3523,"2147 W. Roscoe Street, Chicago",60618,"Mediterranean, Sandwich",Turquoise Restaurant,461,4.0,(773) 549-3523,2147 W Roscoe St,60618,Turkish,1
+Taqueria Guadalajara,245,4.0,(608) 250-1824,"1033 S Park St, Madison",53715,Mexican,Taqueria Guadalajara,234,4.0,(608) 250-1824,1033 S Park St,53715,Mexican,1
+Pacific Dining Car,97,3.5,(213) 483-6000,"1310 W 6th St, Los Angeles",90017,American,Pacific Dining Car,764,3.5,(213) 483-6000,1310 W 6th St,90017,Steakhouses,1
+Black Eyed Pea,68,3.3,(214) 521-4580,3857 Cedar Springs Road,75219,"American, Southern",Black Eyed Pea,80,3.5,(214) 521-4580,3857 Cedar Springs Rd,75219,American (Traditional),1
+Tipsy Cow,123,3.6,(608) 287-1455,"102 King St, Madison",53703,"American, Burger",The Tipsy Cow,193,4.0,(608) 287-1455,102 King St,53703,Bars,1
+Larchmont Bungalow,74,4.2,(323) 461-1528,"107 N Larchmont Blvd, Los Angeles",90004,American,Larchmont Bungalow,2019,4.0,(323) 461-1528,107 N Larchmont Blvd,90004,Sandwiches,1
+Go! Go! Curry,80,3.6,(212) 730-5555,"273 W 38th Street, New York",10018,Japanese,Go! Go! Curry!,1018,4.0,(212) 730-5555,273 W 38th St,10018,Japanese,1
+Pizza Lounge,99,3.3,(214) 887-6900,"841 Exposition Avenue, Dallas",75226,"Pizza, Sandwich",Pizza Lounge,207,3.5,(214) 887-6900,841 Exposition Ave,75226,Pizza,1
+Sushi Kyoto,103,3.3,(214) 520-9991,"6429 Hillcrest Avenue, Dallas",75205,"Japanese, Sushi",Sushi Kyoto,48,3.5,(214) 520-9991,6429 Hillcrest Ave,75205,Sushi Bars,1
+Fair Trade Coffee House,30,3.2,(608) 268-0477,"418 State St, Madison",53703,Coffee and Tea,Fair Trade Coffee,47,3.5,(608) 268-0477,418 State St,53703,Coffee & Tea,1
+Tre Kronor,281,3.9,(773) 267-9888,"3258 W. Foster Avenue, Chicago",60625,"Scandinavian, Swedish",Tre Kronor,515,4.0,(773) 267-9888,3258 W Foster Ave,60625,Breakfast & Brunch,1
+CBD Provisions - The Joule,71,3.5,(214) 261-4500,"The Joule, 1530 Main Street, Dallas",75201,"New American, Southern, Beverages",CBD Provisions,400,4.0,(214) 261-4500,1530 Main St,75201,Brasseries,1
+Bandera,999,4.0,(312) 644-3524,"535 N. Michigan Avenue, Chicago",60611,"American, Southwestern, BBQ",Bandera Restaurant,1171,4.0,(312) 644-3524,535 N Michigan Ave,60611,Jazz & Blues,1
+25 Degrees,58,4.4,(312) 943-9700,"736 N. Clark Street, Chicago",60654,"American, Burger",25 Degrees,533,4.0,(312) 943-9700,736 N Clark St,60654,Burgers,1
+Baboush,134,3.5,(214) 599-0707,"3636 McKinney Avenue, Suite 160, Dallas",75204,Moroccan,Baboush,250,4.0,(214) 599-0707,3636 Mckinney AveSte 160,75204,Moroccan,1
+Wild Salsa,149,3.5,(214) 741-9453,"1800 Main Street, Suite 100, Dallas",75201,Mexican,Wild Salsa,284,3.5,(214) 741-9453,1800 Main StSte 100,75201,Mexican,1
+Green Papaya,357,3.6,(214) 521-4811,"3211 Oak Lawn Avenue, Suite B, Dallas",75219,"Asian, Vietnamese, Fusion",Green Papaya,222,3.5,(214) 521-4811,3211 Oak Lawn AveSte B,75219,Vietnamese,1
+Nookies,216,3.7,(312) 337-2454,"1746 N. Wells Street, Chicago",60614,American,Nookies,441,4.0,(312) 337-2454,1746 N Wells St,60614,Breakfast & Brunch,1
+BCD Tofu House,77,4.3,(212) 967-1900,"5 West 32nd Street, New York",10001,Korean,BCD Tofu House,837,4.0,(212) 967-1900,5W 32nd St,10001,Korean,1
+Mr. Brews Taphouse,33,3.2,(608) 824-9600,"610 Junction Rd, Madison",53717,"American, Burger",Mr. Brews Taphouse All American Burgers,70,4.0,(608) 824-9600,610 Junction RdSte 107,53717,Pubs,1
+Cookshop,527,3.7,(212) 924-4440,"156 10th Avenue, New York",10011,American,Cookshop,1219,4.0,(212) 924-4440,156 10th Ave,10011,American (New),1
+Local Table,13,3.0,(213) 488-2654,"800 S Figueroa St, Los Angeles",90017,,Local Table,696,4.0,(213) 488-2654,800 S Figueroa StSte 103,90017,American (New),1
+Taco Stop,23,3.1,(972) 971-4859,"1900 Irving Boulevard, Dallas",75207,"Fast Food, Mexican",Taco Stop,83,4.0,(972) 971-4859,1900 Irving Blvd,75207,Mexican,1
+Asian House,11,3.1,(608) 268-0005,"1 Dempsey Rd, Madison",53714,"Asian, Chinese",Asian House,16,3.0,(608) 268-0005,1 Dempsey RdSte 3,53714,Chinese,1
+Sundown Saloon,7,2.9,(608) 242-9646,"57 S Stoughton Rd, Madison",53714,"Breakfast, Sandwich",Sundown Saloon,2,3.0,(608) 242-9646,57 S Stoughton Rd,53714,Bars,1
+Tuk Tuk,131,4.1,(718) 472-5598,"4906 Vernon Boulevard, Queens, NY",11101,Thai,Tuk Tuk,429,4.0,(718) 472-5597,4906 Vernon Blvd,11101,Thai,1
+Beso,263,3.9,(718) 816-8162,11 Schuyler Street,10301,"Spanish, Tapas",Beso,242,4.0,(718) 816-8162,11 Schuyler St,10301,Spanish,1
+Cielito Lindo,35,3.6,(213) 687-4391,"23 Olvera St, Los Angeles",90012,"Fast Food, Mexican",Cielito Lindo,383,4.0,(213) 687-4391,E-23 Olvera StSte E,90012,Mexican,1
+Burguesa Burger,50,3.8,(214) 748-7376,"710 Fort Worth Avenue, Dallas",75208,Burger,Burguesa Burger,72,4.0,(214) 748-7376,710 Ft. Worth Ave,75208,"Burgers,Burgers",1
+The Park,129,4.0,(213) 482-9209,"1400 W Sunset Blvd, Los Angeles",90026,,The Park,528,4.0,(213) 482-9209,1400 Sunset Blvd,90026,American (New),1
+Au Cheval,265,4.8,(312) 929-4580,"800 W. Randolph Street, Chicago",60607,"Burger, New American, Diner",Au Cheval,2062,4.0,(312) 929-4580,800 W Randolph S,60607,American (New),1
+Good Food,17,3.2,(608) 217-5227,"E Main St & S Pinckney St, Madison",53703,"Sandwich, Vegetarian",Good Food,40,5.0,(608) 217-5227,33 E Main St,53703,Street Vendors,1
+Nook Restaurant,144,3.9,(212) 247-5500,"746 9th Avenue, New York",10019,New American,Nook,688,4.0,(212) 247-5500,746 9th Ave,10019,American (New),1
+Coal Vines,422,3.6,(214) 855-4999,"2404 Cedar Springs Road, Dallas",75201,"American, Italian, Pizza",Coal Vines,217,3.5,(214) 855-4999,2404 Cedar Springs RdSte 500,75201,Pizza,1
+Wako Donkasu,33,3.7,(213) 381-9256,"3377 Wilshire Blvd, Los Angeles",90010,"Japanese, Korean",Wako Donkasu,449,4.0,(213) 381-9256,3377 Wilshire BlvdSte 112,90010,Japanese,1
+Westville,270,3.6,(212) 741-7971,"210 W 10th Street, New York",10014,American,Westville,755,4.0,(212) 741-7971,210 W 10th St,10014,Salad,1
+Jack the Horse Tavern,184,3.9,(718) 852-5084,"66 Hicks Street, Brooklyn",11201,American,Jack the Horse Tavern,277,4.0,(718) 852-5084,66 Hicks St,11201,American (New),1
+Davanti Enoteca,336,4.5,(312) 226-5550,"1359 W. Taylor Street, Chicago",60607,Italian,Davanti Enoteca,937,4.0,(312) 226-5550,1359 W Taylor St,60607,Italian,1
+Original Italian Cafe,144,3.7,(214) 651-7000,"115 Field Street, Dallas",75202,"Italian, Pizza",Original Italian Cafe,69,3.5,(214) 651-7000,115 S Field St,75202,Pizza,1
+Avec,838,3.9,(312) 377-2002,"615 W. Randolph Street, Chicago",60661,Mediterranean,Avec,1496,4.5,(312) 377-2002,615 W Randolph St,60661,French,1
+Luxbar,163,3.6,(312) 642-3400,"18 E. Bellevue Street, Chicago",60611,"American, Burger",Luxbar,556,3.5,(312) 642-3400,18 E Bellevue Pl,60611,American (Traditional),1
+Fromagination,60,3.7,(608) 255-2430,"12 S Carroll St, Madison",53703,"American, French, Sandwich",Fromagination,138,4.0,(608) 255-2430,12 S Carroll St,53703,Cheese Shops,1
+Diner,319,3.9,(718) 486-3077,"85 Broadway, Brooklyn",11211,"American, Diner",Diner,592,4.0,(718) 486-3077,85 Broadway,11211,American (New),1
+Blue Mesa Grill,214,3.4,(214) 378-8686,"7700 W Northwest Hwy, Dallas",75225,Southwestern,Blue Mesa Grill,187,3.5,(214) 378-8686,7700 W NW Hwy,75225,Mexican,1
+Lockhart Smokehouse,317,3.4,(214) 944-5521,"400 W Davis Street, Dallas",75208,BBQ,Lockhart Smokehouse,797,4.0,(214) 944-5521,400 W Davis St,75208,Barbeque,1
+Red Robin Gourmet Burgers,53,3.4,(608) 301-0435,"2440 E Springs Dr, Madison",53704,"American, Burger, Sandwich",Red Robin Gourmet Burgers,25,3.5,(608) 301-0435,2440 East Springs Drive,53704,Burgers,1
+Al Wazir Chicken,73,4.1,(323) 856-0660,6051 Hollywood Blvd,90028,"Mediterranean, Middle Eastern",Al Wazir Chicken,334,4.0,(323) 856-0660,6051 Hollywood Blvd,90028,Middle Eastern,1
+Great China,36,3.2,(608) 244-9988,"619 N Sherman Ave, Madison",53704,Chinese,Great China,14,2.5,(608) 244-9988,619 N Sherman Ave,53704,Chinese,1
+Public,235,3.7,(212) 343-0918,"210 Elizabeth Street, New York",10012,"Australian, New American",Public,893,4.0,(212) 343-7011,210 Elizabeth St,10012,"American (Traditional),Lounges,American (New),Lounges",1
+The Meatball Shop,582,4.4,(212) 982-8895,"84 Stanton Street, New York",10002,"American, Italian, Sandwich",The Meatball Shop,2283,4.0,(212) 982-8895,84 Stanton St,10002,Italian,1
+The Great Dane Pub & Brewing Co.,59,3.6,(608) 442-1333,"876 Jupiter Drive, Madison",53718,American,Great Dane Pub & Brewing Co,65,3.5,(608) 442-1333,876 Jupiter Dr,53718,Gastropubs,1
+The Publican,842,4.1,(312) 733-9555,"837 W. Fulton Market, Chicago",60607,American,The Publican,2217,4.0,(312) 733-9555,837 W Fulton Market,60607,American (New),1
+Rodeo Goat,78,3.5,(214) 741-4628,"1926 Market Center Boulevard, Dallas",75207,"Burger, American",Rodeo Goat,407,4.0,(214) 741-4628,1926 Market Center Blvd,75207,Burgers,1
+Caracas Arepa Bar,841,4.0,(212) 529-2314,"93 E 7th Street, New York",10009,"Latin American, Venezualan",Caracas Arepa Bar,2228,4.0,(212) 529-2314,93 1/2 E 7th St,10009,Venezuelan,1
+Cafe La Bellitalia,346,4.1,(608) 243-1200,"1026 N Sherman Ave, Madison",53704,"Italian, Pizza",Cafe La Bellitalia,65,4.0,(608) 243-1200,1026 N Sherman Ave,53704,Italian,1
+Sushi Box,102,3.8,(608) 232-1432,"2433 University Ave, Madison",53726,"Japanese, Sushi",Sushi Box,46,4.0,(608) 232-1432,2433 University Ave,53726,Sushi Bars,1
+Russ & Daughters Cafe,39,4.4,(212) 475-4881,"127 Orchard Street, New York",10002,Jewish,Russ & Daughters Cafe,263,4.0,(212) 475-4881,127 Orchard St,10002,Breakfast & Brunch,1
+Freemans,417,3.6,(212) 420-0012,"8 Rivington Street, New York",10002,American,Freemans,1336,4.0,(212) 420-0012,191 Chrystie StSte 2F,10002,Breakfast & Brunch,1
+Texadelphia,102,3.4,(214) 265-8044,"5500 Greenville Avenue, Suite 600, Dallas",75206,Sandwich,Texadelphia,71,4.0,(214) 265-8044,5500 Greenville AveSte 600,75206,Sandwiches,1
+Grand Lux Cafe,323,3.7,(972) 385-3114,"Galleria Dallas, 13420 Dallas Pkwy, Level One, Dallas",75240,American,Grand Lux Cafe,298,3.5,(972) 385-3114,13420 N Dallas Pkwy,75240,Desserts,1
+Monsieur Marcel,83,4.2,(323) 939-7792,"6333 W 3rd St, Los Angeles",90036,"American, French, Sandwich",Monsieur Marcel,466,4.0,(323) 939-7792,Farmers Market6333 W 3rd St,90036,Specialty Food,1
+Fork Chicago,83,3.5,(773) 751-1500,"4600 N. Lincoln Avenue, Chicago",60625,New American,Fork,709,4.0,(773) 751-1500,4600 N Lincoln Ave,60625,American (New),1
+Monsoon Siam 2,22,3.3,Not Available,"2045 Atwood Ave, Madison",53704,Thai,Monsoon Siam,82,4.0,(608) 284-9282,2045 Atwood AveSte 109,53704,Thai,1
+Cafe Pacific,202,3.7,(214) 526-1170,"24 Highland Park Village, Dallas",75205,"Seafood, Steakhouse, American",Cafe Pacific,82,4.0,(214) 526-1170,24 Highland Park Village,75205,Seafood,1
+Rascal,17,3.2,(323) 933-3229,"801 S La Brea Ave, Los Angeles",90036,Sandwich,Rascal,440,4.0,(323) 933-3229,801 S LA Brea Ave,90036,"American (New),Florists,Dive Bars,Bikes,Trainers,Mexican",1
+Irish Pub,8,2.9,(608) 256-6071,"317 State St Ste A, Madison",53703,Irish,Irish Pub,14,3.5,(608) 256-6071,317 State St,53703,Pubs,1
+Southport Grocery & Cafe,190,4.2,(773) 665-0100,"3552 N. Southport Avenue, Chicago",60657,"American, Cafe",Southport Grocery & Cafe,678,4.0,(773) 665-0100,3552 N Southport Ave,60657,"Grocery,Coffee & Tea,Pet Services",1
+Red Hot & Blue,190,3.4,(214) 368-7427,"9810 N Central Expressway, Suite 600, Dallas",75231,"BBQ, Burger, Seafood",Red Hot & Blue,183,3.5,(214) 368-7427,9810 N Central ExpySte 600,75231,Barbeque,1
+Bread Winners,1254,4.0,(214) 754-4940,"3301 McKinney Avenue, Dallas",75204,"American, Bakery",Bread Winners Cafe & Bakery,820,4.0,(214) 754-4940,3301 McKinney Ave,75204,American (New),1
+Jade Garden,38,3.0,(608) 260-9890,"1109 S Park St, Madison",53715,Chinese,Jade Garden,31,3.0,(608) 260-9890,1109 S Park St,53715,Chinese,1
+LA Rose Cafe,11,3.3,(323) 662-4024,"4749 Fountain Ave, Los Angeles",90029,International,LA Rose Cafe,534,4.5,(323) 662-4024,4749 Fountain Ave,90029,Filipino,1
+Hometown Bar-B-Que,23,3.3,(347) 294-4644,"454 Van Brunt Street, Brooklyn",11231,BBQ,Hometown Bar-B-Que,395,4.0,(347) 294-4644,454 Van Brunt St,11231,Barbeque,1
+Poppy + Rose,6,2.9,(213) 995-7799,"765 Wall St, Los Angeles",90014,Healthy Food,Poppy + Rose,470,4.0,(213) 995-7799,765 Wall St,90014,"Breakfast & Brunch,Venues & Event Spaces",1
+Noodles in the Pot,143,3.8,(773) 975-6177,"2453 N. Halsted Street, Chicago",60614,Thai,Noodles In the Pot,456,4.0,(773) 975-6177,2453 N Halsted St,60614,Thai,1
+A La Brasa,17,3.0,(608) 251-1700,"15 N Broom St, Madison",53703,Mexican,A La Brasa,44,4.5,(608) 251-1700,15 N Broom St,53703,Latin American,1
+Genwa Korean BBQ,152,4.2,(323) 549-0760,"5115 Wilshire Blvd #A, Los Angeles",90036,"BBQ, Korean",Genwa Korean BBQ,1950,4.5,(323) 549-0760,5115 Wilshire Blvd,90036,Korean,1
+The Grey Dog,20,3.1,(212) 966-1060,"244 Mulberry Street, New York",10012,American,The Grey Dog,284,4.0,(212) 966-1060,244 Mulberry St,10012,Coffee & Tea,1
+Sushi Muramoto,506,4.1,(608) 441-1090,"546 N Midvale Blvd, Madison",53705,"Japanese, Sushi",Sushi Muramoto,162,4.0,(608) 441-1090,546 N Midvale Blvd,53705,Sushi Bars,1
+Cafe Madrid,274,3.6,(214) 528-1731,"4501 Travis Street, Dallas",75205,"Spanish, Tapas",Cafe Madrid,177,3.5,(214) 528-1731,4501 Travis St,75205,Spanish,1
+Rising Sons,74,3.6,(608) 661-4334,"617 State St, Madison",53703,"Asian, Thai",Rising Sons Deli,59,3.0,(608) 661-4334,617 State St,53703,Thai,1
+Library Bar,79,3.7,(213) 614-0053,"630 W 6th St Ste 116A, Los Angeles",90017,Burger,Library Bar,1386,4.0,(213) 614-0053,630 W 6th StSte 116-A,90017,Lounges,1
+Fat Sal’s,14,3.2,(855) 682-4373,"1300 North Highland Avenue, Los Angeles",90028,"Sandwich, California, Deli",Fat Sal’s,789,4.0,(855) 682-4373,1300 N Highland Ave,90028,Sandwiches,1
+La Paella,67,3.7,(323) 951-0745,"476 S San Vicente Blvd, Los Angeles",90048,"Spanish, Tapas",LA Paella,421,4.0,(323) 951-0745,476 S San Vicente Blvd,90048,Spanish,1
+Liberty Burger,200,3.9,(972) 239-2100,"Forestwood Center, 5211 Forest Lane, Dallas",75244,"Burger, American",Liberty Burger,235,4.0,(972) 239-2100,5211 Forest Ln,75244,Burgers,1
+Rubirosa,149,4.2,(212) 965-0500,"235 Mulberry Street, New York",10012,"Italian, Pizza",Rubirosa,784,4.0,(212) 965-0500,235 Mulberry St,10012,Italian,1
+Pera Turkish Kitchen,100,3.7,(972) 267-4444,"17479 Preston Road, Suite, Dallas",75252,"Mediterranean, Turkish, Middle Eastern",Pera Turkish Kitchen,209,4.5,(972) 267-4444,17479 Preston Rd,75252,Mediterranean,1
+Mott Street,12,3.2,(773) 687-9977,"1401 N. Ashland Avenue, Chicago",60622,"Asian, New American",Mott St,259,4.0,(773) 687-9977,1401 N Ashland Ave,60622,Asian Fusion,1
+Sapori Trattoria,263,4.0,(773) 832-9999,"2701 N. Halsted Street, Chicago",60614,Italian,Sapori Trattoria,1307,4.5,(312) 967-9358,2701 N Halsted St,60614,Italian,1
+Lekka,71,4.0,(972) 735-8642,"17606 Preston Road, Dallas",75252,"Mediterranean, Sandwich",Lekka,93,4.0,(972) 735-8642,17606 Preston Rd,75252,Cafes,1
+Osteria Papavero,170,3.7,(608) 255-8376,"128 E Wilson St, Madison",53703,Italian,Osteria Papavero,103,4.0,(608) 255-8376,128 E Wilson St,53703,Italian,1
+Crema Cafe,99,3.8,(608) 224-1150,"4124 Monona Dr, Madison",53716,"Breakfast, Coffee and Tea",Crema Cafe,127,4.0,(608) 224-1150,4124 Monona Dr,53716,Breakfast & Brunch,1
+Ada Street,109,4.5,(773) 697-7069,"1664 N. Ada Street, Chicago",60642,New American,Ada Street,340,4.5,(773) 697-7069,1664 N Ada St,60642,Bars,1
+Quaker Steak & Lube,208,3.5,(608) 831-5823,2259 Deming Way,53562,"American, Burger, Steakhouse",Quaker Steak & Lube,91,3.5,(608) 831-5823,2259 Deming Way,53562,American (Traditional),1
+Riko Peruvian Cuisine,18,3.2,(212) 643-7555,"409 8th Avenue, New York",10001,"Peruvian, Latin American, Seafood",Riko Peruvian Cuisine,217,4.0,(212) 643-7555,409 8th Ave,10001,Peruvian,1
+Brickhouse BBQ,239,3.4,(608) 257-7675,"408 West Gorham St., Madison",53703,"American, BBQ",Brickhouse BBQ,159,3.0,(608) 257-7675,408 W Gorham St,53703,Barbeque,1
+The Grey Dog's Coffee,83,3.8,(212) 229-2345,"242 West 16th Street, New York, NY",10011,American,The Grey Dog,598,4.0,(212) 229-2345,242 W 16th St,10011,Breakfast & Brunch,1
+E Bar Tex Mex,38,3.5,(214) 824-3227,"1901 N Haskell Avenue, Suite 120, Dallas",75204,Tex-Mex,E Bar Tex Mex,239,4.5,(214) 824-3227,1901 N Haskell AveSte 120,75204,Mexican,1
+Kitchen,131,3.7,(323) 664-3663,"4348 Fountain Ave, Los Angeles",90029,"American, California",The Kitchen,1002,4.0,(323) 664-3663,4348 Fountain Ave,90029,American (New),1
+Root & Bone,27,3.3,(646) 682-7080,"200 E 3rd Street, New York",10009,"Southern, Cafe",Root & Bone,554,4.0,(646) 682-7076,200 E 3rd St,10009,Southern,1
+Pepe Giallo,103,3.7,(212) 242-6055,"253 10th Avenue, New York, NY",10001,Italian,Pepe Giallo,323,4.0,(212) 242-6055,253 10th Ave,10001,Italian,1
+Galli Restaurant,48,3.5,(212) 966-9288,"45 Mercer Street, New York, NY",10013,"Italian, Cafe",Galli,434,4.0,(212) 966-9288,45 Mercer St,10013,Italian,1
+Asian Kitchen,56,3.3,(608) 255-0571,"449 State St Ste E, Madison",53703,"Asian, Chinese, Vegetarian",Asian Kitchen,50,3.0,(608) 255-0571,449 State St,53703,Chinese,1
+Happy Wok,30,3.3,(608) 241-8166,"17 Eastpark Ct, Madison",53718,Chinese,Happy Wok,8,4.0,(608) 241-8166,17 Eastpark Ct,53718,Chinese,1
+Spiegel,9,2.9,(212) 228-2894,"26 1st Avenue, New York",10009,"American, Cafe",Spiegel,124,4.0,(212) 228-2894,26 1st Ave,10009,American (New),1
+Tacos Baja Ensenada,52,4.8,(323) 887-1980,"5385 Whittier Blvd, Los Angeles",90022,Mexican,Tacos Baja Ensenada,754,4.5,(323) 887-1980,5385 Whittier Blvd,90022,Mexican,1
+Balzem,6,3.0,(646) 837-7033,"202 Mott Street, New York",10012,"Mediterranean, Tapas",Balzem,119,4.0,(646) 837-7033,202 Mott St,10012,Mediterranean,1
+Crostini Sandwiches,34,3.4,(608) 241-4284,"231 North Street, Madison",53704,"Italian, Sandwich",Crostini Sandwiches,39,4.0,(608) 241-4284,231 North St,53704,Sandwiches,1
+Thai Lotus Kitchen,123,3.7,(214) 520-9385,"3851 Cedar Springs Road, Dallas",75219,"Asian, Thai",Thai Lotus Kitchen,101,4.0,(214) 520-9385,3851 Cedar Springs RdSte D,75219,Thai,1
+Ha Long Bay,1012,4.9,(608) 255-2868,"1353 Williamson St., Madison",53703,"Asian, Thai, Vietnamese",Ha Long Bay Vietnamese & Thai Bistro,326,4.0,(608) 255-2868,1353 Williamson St,53703,Vietnamese,1
+Volare,694,3.8,(312) 410-9900,"201 E. Grand Avenue, Chicago",60611,Italian,Volare Ristorante Italiano,1131,4.0,(312) 410-9900,201 E Grand Ave,60611,Italian,1
+Maracas Cocina Mexicana,234,3.8,(214) 748-7140,2914 Main Street,75226,"Mexican, Tex-Mex",Maracas,126,4.0,(214) 748-7140,2914 Main St,75226,Mexican,1
+Queens Comfort,106,4.2,(718) 728-2350,"40-09 30th Avenue, Queens",11103,Southern,Queens Comfort,1018,4.0,(718) 728-2350,40-09 30th Ave,11103,Breakfast & Brunch,1
+Beyond Sushi,29,3.4,(646) 861-2889,"229 E 14th Street, New York",10003,"Sushi, Vegetarian",Beyond Sushi,638,4.5,(646) 861-2889,229 E 14th St,10003,Vegetarian,1
+Bite Cafe,150,4.1,(773) 395-2483,"1039 N. Western Avenue, Chicago",60622,New American,Bite Cafe,676,4.0,(773) 395-2483,1035 N Western Ave,60622,American (New),1
+Gale Street Inn,286,4.0,(773) 725-1300,4914 N. Milwaukee Avenue,60630,"American, BBQ, Steakhouse",Gale Street Inn,396,4.0,(773) 725-1300,4914 N Milwaukee Ave,60630,American (Traditional),1
+Frasca Pizzeria and Wine Bar,191,4.0,(773) 248-5222,"3358 N. Paulina Street, Chicago",60657,"Italian, Pizza",Frasca,549,4.0,(773) 248-5222,3358 N Paulina St,60657,Wine Bars,1
+Little Katana,119,3.5,(214) 443-9600,"4527 Travis Street, Dallas",75205,"Asian, Japanese, Korean, Sushi",Little Katana,152,4.0,(214) 443-9600,4527 Travis St,75205,Sushi Bars,1
+Next Door Brewing Company,11,3.0,(608) 729-3683,"2439 Atwood Avenue, Madison",53704,Bar Food,Next Door Brewing Company,91,3.5,(608) 729-3683,2439 Atwood Ave,53704,Breweries,1
+Brocach Irish Pub,208,3.6,(608) 255-2015,"7 W Main St, Madison",53703,"Bar Food, Irish",Brocach,175,3.5,(608) 255-2015,7 W Main St,53703,Irish,1
+Silverlake Ramen,21,3.4,(323) 660-8100,"2927 W Sunset Blvd, Los Angeles",90026,"Asian, Japanese",Silverlake Ramen,1263,4.0,(323) 660-8100,2927 W Sunset Blvd,90026,Ramen,1
+Eat This Cafe,40,3.6,(323) 999-2003,"6547 Santa Monica Blvd, Los Angeles",90038,"Sandwich, Vegetarian, Healthy Food",Eat This Cafe,415,4.0,(323) 999-2003,6547 Santa Monica Blvd,90038,"Breakfast & Brunch,Performing Arts",1
+Smith and Mills,86,3.9,(212) 219-8568,"71 N Moore Street, New York",10013,American,Smith and Mills,213,4.0,(212) 226-2515,71 N Moore St,10013,Lounges,1
+Spacca Napoli,545,3.9,(773) 878-2420,"1769 W. Sunnyside Avenue, Chicago",60640,"Pizza, Italian",Spacca Napoli,973,4.0,(773) 878-2420,1769 W Sunnyside Ave,60640,Pizza,1
+Freebirds,595,3.7,(214) 265-9992,"5500 Greenville Avenue, Dallas",75206,Tex-Mex,Freebirds World Burrito,137,4.0,(214) 265-9992,5500 Greenville AveSte 209,75206,Mexican,1
+Royal China,429,3.7,(214) 361-1771,"6025 Royal Lane, Suite 201, Dallas",75230,"Asian, Chinese",Royal China,403,4.0,(214) 361-1771,6025 Royal LnSte 201,75230,Chinese,1
+Ginger Thai,257,4.0,(214) 887-6175,"6434 E Mockingbird Lane, Suite 111, Dallas",75214,Thai,Ginger Thai Cuisine,70,3.5,(214) 887-6175,6434 E Mockingbird LnSte 111,75214,Thai,1
+Flat Top Grill,195,3.5,(608) 236-0500,"538 N Midvale Blvd, Madison",53705,"Vegetarian, Fusion",Flat Top Grill,95,3.0,(608) 236-0500,Hilldale Shopping Center538 N Midvale Blvd,53705,Gluten-Free,1
+Buddakan,1493,3.9,(212) 989-6699,"75 9th Avenue, New York",10011,"Chinese, Fusion, Asian",Buddakan,2585,4.0,(212) 989-6699,75 9th Ave,10011,Chinese,1
+Cocina Real,25,3.3,(608) 831-0528,2518 Allen Blvd,53562,Mexican,Cocina Real,14,3.5,(608) 831-0528,2518 Allen Blvd,53562,Mexican,1
+Brooklyn Bagel & Coffee Company,156,3.8,(718) 204-0141,"35-05 Broadway, Queens",11106,Bagels,Monument Lane,247,4.0,(212) 255-0155,103 Greenwich Ave,10014,American (New),0
+L. WoodsTap & Pine Lodge,227,4.0,(847) 677-3350,"7110 N. Lincoln Avenue, Chicago",60712,"American, BBQ",Acadia,271,4.0,(312) 360-9500,1639 S Wabash Ave,60616,American (New),0
+Metro Diner,149,4.1,(212) 866-0800,"2641 Broadway, New York",10025,"Diner, American",Fraboni’s Italian Specialties & Delicatessen,21,3.0,(608) 256-0546,822 Regent St,53715,Italian,0
+Aroma Coffee & Tea,696,4.1,(818) 508-7377,4360 Tujunga Ave,91604,"Coffee and Tea, Desserts",Masque Dallas,3,4.5,(469) 573-3244,2533 McKinney Ave,75201,Cocktail Bars,0
+20 Feet Seafood Joint,112,3.8,(972) 707-7442,"1160 Peavy Road, Dallas",75218,Seafood,Maria’s Pizza,28,4.0,(608) 835-5455,134 S Main St,53575,Pizza,0
+Maysville,52,4.0,(646) 490-8240,"17 West 26th Street, New York",10010,American,Wako Donkasu,382,4.0,(213) 387-9256,2904 W Olympic Blvd,90006,Korean,0
+The Spotted Pig,2125,3.8,(212) 620-0393,"314 W 11th Street, New York",10014,Burger,The Nodding Donkey Greenville,96,3.5,(214) 347-7182,5600 SMU BlvdSte 120,75206,American (New),0
+Mason's on Main,30,3.1,(608) 291-0631,113 South Main St,53575,"American, Seafood, Steakhouse",The Nodding Donkey Greenville,96,3.5,(214) 347-7182,5600 SMU BlvdSte 120,75206,American (New),0
+Tam's Egg Roll,69,3.4,(214) 373-9691,"7722 Forest Lane, Dallas",75230,"Asian, Chinese",Lotus,393,4.0,(213) 478-0090,3742 S Flower St,90007,Hookah Bars,0
+Sheffield's,104,3.7,(773) 281-4989,"3258 N. Sheffield Avenue, Chicago",60657,BBQ,Plata’s Restaurant at Bridges Golf Course,1,4.0,(608) 244-1822,2702 Shopko Dr,53704,Bars,0
+La Pizza & La Pasta - Eataly,52,3.9,(212) 539-0205,"Eataly, 200 5th Avenue, New York",10010,"Italian, Pizza",The Tradewinds Social Club,32,4.0,(214) 337-9075,2843 W Davis St,75211,Dive Bars,0
+Best Thai,63,3.4,(214) 373-8113,"5959 Royal Lane, Dallas",75230,Thai,Mapo Kkak Doo Gee Restaurant,209,4.0,(213) 736-6668,3611 W 6th St,90020,Korean,0
+Michael's Frozen Custard,7,2.9,(608) 222-4110,"3826 Atwood Ave, Madison",53714,"American, Burger, Desserts",Saigon Sandwich Madison,13,4.5,(608) 515-8564,273 N Charter St,53715,Food Trucks,0
+The Hampton Social,11,3.2,(312) 464-0500,"353 W. Hubbard Street, Chicago",60654,"Seafood, American",Sushi Muramoto,162,4.0,(608) 441-1090,546 N Midvale Blvd,53705,Sushi Bars,0
+Bub City,63,3.6,(312) 610-4200,"435 N. Clark Street, Chicago",60654,"American, BBQ, Seafood",Cooper’s Craft & Kitchen,227,4.0,(646) 606-2384,87 2nd Ave,10003,Bars,0
+Sophia's Bakery & Cafe,89,4.1,(608) 259-1506,"831 E Johnson St, Madison",53703,Breakfast,Sunroom Cafe,123,3.5,(608) 255-1555,638 State St,53703,Breakfast & Brunch,0
+Plaka Mediterranean Grill,125,4.0,(718) 505-0515,"75-61 31st Avenue, Queens",11370,"Greek, Mediterranean",Torteria Insurgentes,58,4.5,(214) 366-2624,3701 W Northwest HwySte 310,75220,Mexican,0
+Crave Fishbar,33,3.6,(646) 895-9585,"945 2nd Avenue, New York",10022,Seafood,Bludso’s Bar & Que,801,4.0,(323) 931-2583,609 N La Brea Ave,90036,Barbeque,0
+EN Japanese Brasserie,157,3.8,(212) 647-9196,"435 Hudson Street, New York",10014,"Japanese, Sushi",Smoky Jon’s #1 BBQ,160,4.0,(608) 249-7427,2310 Packers Ave,53704,Barbeque,0
+Gelato Bar,59,4.6,(818) 487-1717,4342 Tujunga Ave,91604,"Desserts, Ice Cream",Gigi’s Bakery & Café,372,4.0,(213) 483-6152,2200 W Temple St,90026,Bakeries,0
+Villa Blanca Restaurant,194,3.5,(310) 859-7600,9601 Brighton Way,90210,"Asian, Italian, Mediterranean",Monte’s Grill & Pub,22,3.5,(608) 845-9669,608A W Verona Ave,53593,"American (Traditional),Hotels",0
+Applewood,279,3.8,(718) 788-1014,"501 11th Street, Brooklyn",11215,New American,Howard Wang’s Uptown,161,3.5,(214) 954-9558,3223 Lemmon AveSte 103,75204,Cantonese,0
+Klassik Tavern,74,3.9,(608) 845-6471,410 w verona ave,53593,"American, Sandwich, Steakhouse",Ohana Poké Co,33,4.0,(323) 953-2820,2852 W Sunset Blvd,90026,Hawaiian,0
+Nan Xiang Xiao Long Bao,152,4.6,(718) 321-3838,"38-12 Prince Street, Queens",11354,Chinese,Malaparte,142,4.0,(212) 255-2122,753 Washington St,10014,Italian,0
+Flub A Dub Chubs,117,4.0,(773) 857-6500,"3021 N. Broadway Street, Chicago",60657,"American, Burger",Dairyland Family Restaurant,14,3.0,(608) 222-9232,716 Cottage Grove Rd,53716,American (New),0
+BonChon Chicken,74,4.0,(212) 221-3339,"207 W 38th Street, New York",10018,"Korean, BBQ",Gentleman’s,252,4.5,(310) 837-8401,10002 National Blvd,90034,Butcher,0
+Kenichi,184,3.3,(214) 871-8883,"2400 Victory Park Lane, Dallas",75219,"Asian, Japanese, Sushi",Highland Park Cafeteria,70,3.5,(214) 324-5000,1200 N Buckner Blvd,75218,Southern,0
+Renga-Tei,151,4.5,(847) 675-5177,3956 W. Touhy Avenue,60712,Japanese,Nabeeya,209,4.0,(213) 622-5750,766 S Santee St,90014,Sushi Bars,0
+Umami Burger,227,4.4,(323) 469-3100,"1520 N. Cahuenga Blvd #7, Los Angeles",90028,"American, Burger",Mia’s Tex-Mex Restaurant,488,4.0,(214) 526-1020,4322 Lemmon Ave,75219,Tex-Mex,0
+Taza Grill,85,3.2,(972) 934-9767,"12817 Preston Road, Dallas",75230,"Greek, Lebanese, Mediterranean",Brothers Sandwich Shop,78,4.5,(213) 383-9900,3274 W 6th St,90020,Sandwiches,0
+Original Thai,84,4.1,(818) 506-0789,11363 Riverside Dr,91602,Thai,HomeTown Buffet,22,2.5,(608) 244-3632,1745 Parkside Dr,53704,Buffets,0
+El Taco Grande,153,3.7,(630) 406-8415,6 N. River Street,60510,Mexican,Blind Weasel,227,4.0,(323) 549-9488,850 S La Brea Ave,90036,Gastropubs,0
+Brocach Irish Pub,208,3.6,(608) 255-2015,"7 W Main St, Madison",53703,"Bar Food, Irish",Surawon,128,4.0,(213) 383-7317,2833 W Olympic Blvd,90006,Korean,0
+Jake Melnick's Corner Tap,255,4.0,(312) 266-0400,"41 E. Superior Street, Chicago",60611,"American, BBQ, Bar Food",Sapp Coffee Shop,544,4.5,(323) 665-1035,5183 Hollywood Blvd,90027,Thai,0
+Nico Osteria - Thomson Hotels Chicago,51,3.7,(312) 994-7100,"Thomson Hotels Chicago, 1015 N. Rush Street",60611,"Italian, Seafood",Qariah Lebanese Restaurant & Lounge,115,3.5,(214) 826-4444,1811 Greenville AveSte 145,75206,Middle Eastern,0
+Little Italy Pizza,44,3.8,(212) 362-8822,"2047 Broadway, New York",10023,"Italian, Pizza",The Green Table,407,4.0,(212) 741-6623,Chelsea Market75 9th Ave,10011,Vegetarian,0
+Sura,135,3.7,(212) 665-8888,"2656 Broadway, New York",10025,Thai,Bodhi Thai,45,4.5,(312) 492-8424,1800 S Jefferson,60616,Thai,0
+RIstorante Saint Ambroeus,176,3.7,(212) 570-2211,"1000 Madison Avenue, New York",10021,"Cafe, Italian",Park Tavern,140,3.5,(312) 243-4276,1645 W Jackson Blvd,60612,"American (New),American (Traditional),American (New),American (New),Gastropubs",0
+Dotty Dumpling's Dowry,728,4.0,(608) 259-0000,"317 N Frances St, Madison",53703,"American, Burger",Shake Shack,1971,4.0,(646) 747-8770,366 Columbus Ave,10024,Burgers,0
+David Burke Kitchen,105,3.6,(212) 201-9119,"23 Grand Street, New York",10013,American,Toby’s Supper Club,58,4.0,(608) 222-6913,3717 S Dutch Mill Rd,53718,American (Traditional),0
+Epicerie Boulud,41,3.3,(212) 595-9606,"1900 Broadway, New York",10023,"French, Desserts, Ice Cream, Sandwich",Thirteen XIII Soju Bar,58,4.5,(323) 272-3432,4121 W Olympic Blvd,90019,Bars,0
+Trailercakes Cupcakes,42,3.5,(214) 789-1642,"3001 Knox Street, Suite 101",75205,Desserts,The Knuckle Down Saloon,12,4.5,(608) 222-7800,2513 Seiferth Rd,53716,Pubs,0
+Thai Market,168,4.1,(212) 280-4575,"960 Amsterdam Avenue, New York",10025,Thai,Mia Figlia,189,4.0,(773) 792-8300,5304 W Devon Ave,60646,Italian,0
+Mama's Secret Bakery & Cafe,24,3.4,(323) 424-3482,"8314 W. 3rd Street, Los Angeles",90048,"Breakfast, Mediterranean, Turkish",Duke Of Perth,478,4.0,(773) 477-1741,2913 N Clark St,60657,Pubs,0
+Sombrero,73,2.2,(212) 586-4853,"303 West 48th Street, New York",10036,"Taco, Mexican",Scarpetta,1200,4.0,(212) 691-0555,355 W 14th St,10014,Italian,0
+Three of Cups,82,3.6,(212) 388-0059,"83 1st Avenue, New York",10003,"Italian, Pizza",Cubana Socíal,327,4.0,(718) 782-3334,70 N 6th St,11249,Cuban,0
+Bob's Big Boy,125,3.6,(818) 772-2627,8876 Corbin Ave,91324,Burger,KFC,6,1.0,(608) 222-6771,604 Cottage Grove Road,53716,Fast Food,0
+Westway Diner,118,3.5,(212) 582-7661,"614 9th Avenue, New York",10036,"Diner, American",Taco Borracho,136,3.5,(469) 547-2047,300 N Akard St,75201,Mexican,0
+Little Italy Pizzeria,111,3.6,(212) 730-7575,"55 W 45th Street, New York",10036,Pizza,Nish Nush,314,4.5,(212) 964-1318,88 Reade St,10013,Middle Eastern,0
+Luna Park,185,3.7,(323) 934-2110,"672 S La Brea Ave, Los Angeles",90036,American,Culver’s,10,3.5,(608) 268-0211,4401 Cottage Grove Rd,53716,Ice Cream & Frozen Yogurt,0
+E Bar Tex Mex,38,3.5,(214) 824-3227,"1901 N Haskell Avenue, Suite 120, Dallas",75204,Tex-Mex,Lillie’s Victorian Bar & Restaurant,604,4.0,(212) 957-4530,249 W 49th St,10019,Lounges,0
+Spring Garden Restaurant,34,2.9,(608) 437-7470,520 Springdale St,53572,American,Piccoli Trattoria,263,4.5,(718) 788-0066,522 6th Ave,11215,"Italian,Italian",0
+Salamone's Italian Pizzeria,70,3.5,(920) 563-9217,1245 Madison Ave,53538,"Italian, Pizza",Ondal 2,344,4.0,(323) 933-3228,4566 W Washington Blvd,90016,Korean,0
+Per Se,700,4.1,(212) 823-9335,"Time Warner Center, 10 Columbus Circle, 4th Floor, New York",10019,French,ISA Japanese Restaurant,129,4.0,(323) 879-9536,916 S La Brea Ave,90036,Sushi Bars,0
+Burrito Drive,130,3.6,(608) 260-8586,"310 S Brearly St, Madison",53703,"Mexican, Tex-Mex",Locanda Verde,1113,4.0,(212) 925-3797,377 Greenwich St,10013,Italian,0
+Cafe Pacific,202,3.7,(214) 526-1170,"24 Highland Park Village, Dallas",75205,"Seafood, Steakhouse, American",Govinda’s Vegetarian,90,4.5,(718) 855-6714,305 Schermerhorn St,11217,Vegetarian,0
+Forlini's Restaurant,304,4.2,(212) 349-6779,"93 Baxter Street, New York",10013,Italian,Carroll Place,299,4.0,(212) 260-1700,157 Bleecker St,10012,Gastropubs,0
+Mudville 9,45,3.4,(212) 964-9464,"126 Chambers Street, New York",10007,"American, Burger, Bar Food, Sandwich",Shawarma Garden,103,4.0,(773) 904-8897,1951 W Division St,60622,Middle Eastern,0
+Tertulia,126,3.8,(646) 559-9909,"359 Sixth Avenue, New York",10014,Spanish,Ladonia Cafe,10,5.0,(917) 754-3397,Mifflin and Pinckney,53703,Vegan,0
+Bavarian Lodge,273,4.1,(630) 241-4701,1800 Ogden Avenue,60532,"Burger, German, Bar Food",Dune,170,4.5,(323) 486-7073,3143 Glendale Blvd,90039,Falafel,0
+Posto,267,3.8,(212) 716-1200,"310 2nd Avenue, New York",10003,Pizza,Franki’s Pizza & Pasta,71,4.0,(469) 335-0345,11722 Marsh Ln,75229,Italian,0
+Stephan Pyles,429,3.5,(214) 580-7000,"1807 Ross Avenue, Suite 200, Dallas",75201,"New American, Southwestern",Smithfield,278,4.0,(212) 929-9677,138 W 25th St,10001,Pubs,0
+Bread Winners,1254,4.0,(214) 754-4940,"3301 McKinney Avenue, Dallas",75204,"American, Bakery",Flaming Wok,30,3.5,(608) 240-1085,4237 Lien RdSte H,53704,Chinese,0
+Fearing's - The Ritz-Carlton,329,3.5,(214) 922-4848,"The Ritz-Carlton, 2121 McKinney Avenue, Dallas",75201,New American,Library Mall,4,5.0,(608) 263-1884,728 State St,53706,Food Stands,0
+Chip's Old Fashioned Hamburgers,26,3.1,(469) 334-0785,6115 La Vista Drive,75214,"American, Burger",I Panini Di Ambra,225,4.5,(323) 463-1200,5633 Hollywood Blvd,90028,Bakeries,0
+Tacos Delta,111,3.8,(323) 664-2848,"3806 W Sunset Blvd, Los Angeles",90026,"Mexican, Tex-Mex",Madison’s,72,3.5,(608) 229-0900,119 King St,53703,"American (New),Fish & Chips,Gastropubs,Lounges,Tapas Bars,Asian Fusion",0
+Tom's Restaurant,306,3.8,(718) 636-9738,"782 Washington Avenue, Brooklyn",11238,"American, Diner",Sumo Sushi & Hibachi Grill,72,4.5,(773) 477-8510,2936 N Broadway,60657,Sushi Bars,0
+Alfredo's Pizza,87,4.1,(972) 307-1678,"4043 Trinity Mills Road, Dallas",75287,"Italian, Pizza",La Oaxaqueña,137,4.0,(773) 545-8585,3382 N Milwaukee Ave,60641,Mexican,0
+Pitcher's Pub,14,3.1,(608) 271-9702,"323 W Beltline Hwy, Madison",53713,Bar Food,Desperados Mexican Restaurant,267,4.0,(214) 363-1850,4818 Greenville Ave,75206,Mexican,0
+La Bonne Soupe,387,3.8,(212) 586-7650,"48 W 55th Street, New York",10019,French,Cool Beans Coffee Cafe,40,4.5,(608) 244-8414,1748 Eagan Rd,53704,Coffee & Tea,0
+Frasca Pizzeria and Wine Bar,191,4.0,(773) 248-5222,"3358 N. Paulina Street, Chicago",60657,"Italian, Pizza",Room 55,87,4.5,(718) 897-0055,75-01 88th St,11385,American (New),0
+Doughnut Plant,795,4.4,(212) 505-3700,"379 Grand Street, New York",10002,Donuts,Burger King,17,1.5,(608) 241-0311,2655 E Washington Ave,53704,Fast Food,0
+Chicago French Market,57,3.9,(312) 575-0306,131 N. Clinton Street,60661,"Asian, Indian, Sandwich, Desserts, Belgian",Brooklyn Star,421,4.0,(718) 599-9899,593 Lorimer St,11211,Southern,0
+Grace,21,3.1,(312) 234-9494,"652 W. Randolph Street, Chicago",60661,New American,The Gage,1832,4.0,(312) 372-4243,24 S Michigan Ave,60603,Gastropubs,0
+CF Food Kitchen and Catering,35,3.6,(818) 363-5781,16205 Devonshire St.,91344,American,Ana & Sophie’s,32,4.5,(718) 858-0600,194 Court St,11201,Cafes,0
+Wondee Siam V,83,3.5,(212) 531-1788,"969 Amsterdam Avenue, New York",10025,"Thai, Asian",The Tipsy Cow,193,4.0,(608) 287-1455,102 King St,53703,Bars,0
+Marigold Kitchen,574,4.1,(608) 661-5559,"118 S Pinckney St, Madison",53703,"Breakfast, Sandwich",Balthazar Restaurant,2002,4.0,(212) 965-1414,80 Spring St,10012,French,0
+Bistronomic,82,3.9,(312) 944-8400,"840 N. Wabash Avenue, Chicago",60611,French,Estrella Negra,371,4.0,(773) 227-5993,2346 W Fullerton Ave,60647,Latin American,0
+Next Door Brewing Company,11,3.0,(608) 729-3683,"2439 Atwood Avenue, Madison",53704,Bar Food,Falafel Corner,107,4.0,(213) 252-4435,698 Irolo StSte 103,90005,Falafel,0
+BluFish Sushi Bistro,150,4.0,(847) 272-7990,"Plaza Del Prado, 2733 Pfingsten Road",60026,"Sushi, Japanese",Tacos Y Mas,16,4.0,(972) 807-2466,2820 Greenville Ave,75206,Mexican,0
+Sapporo Restaurant,176,3.8,(212) 869-8972,"Times Square, 152 W 49th Street, New York",10019,Japanese,Fish N Go,44,4.5,(773) 961-8235,4749 N Pulaski Rd,60625,Seafood,0
+Crooked Tree Coffeehouse,109,3.7,(214) 953-1142,"2414 Routh Street, Dallas",75201,"Coffee and Tea, Desserts",The Sycamore Kitchen,545,4.0,(323) 939-0151,143 S La Brea Ave,90036,Cafes,0
+Wafflaki Belgian Waffles,10,3.0,(212) 600-5960,"97 Trinity Place, New York",10006,"Desserts, Belgian, American",Turntable Chicken Jazz,925,4.0,(212) 714-9700,314 5th Ave2nd Fl,10001,Chicken Wings,0
+C & M Cafe,19,3.3,(310) 694-1516,"3272 Motor Ave, Los Angeles",90034,"Breakfast, Coffee and Tea, Sandwich",Cosmic Café,440,4.0,(214) 521-6157,2912 Oak Lawn Ave,75219,Vegetarian,0
+Grom Gelato,74,3.7,(212) 974-3444,"1796 Broadway, New York",10019,"Ice Cream, Ice Cream, Desserts",BeeHive Oven Biscuit Cafe,272,4.5,(347) 987-4960,182 S 2nd St,11211,Southern,0
+Rosa Mexicano,944,3.7,(212) 977-7700,"61 Columbus Avenue, New York",10023,Mexican,Rusty Taco,327,3.5,(214) 613-0508,4802 Greenville Ave,75206,Mexican,0
+Curry in a Hurry,99,3.4,(212) 683-0900,"119 Lexington Avenue, New York",10016,Indian,Mickey’s Tavern,138,4.0,(608) 251-9964,1524 Williamson St,53703,Pubs,0
+Addis Abeba,153,3.7,(847) 328-5411,1322 Chicago Avenue,60201,"African, Ethiopian",Fat Dog,387,4.0,(323) 951-0030,801 N Fairfax Ave,90046,American (New),0
+Callahan's Sports Pub,20,3.0,(608) 241-0147,"1902 Bartillon Dr, Madison",53704,Bar Food,Sammy’s Bar-B-Q,104,4.0,(214) 880-9064,2126 Leonard St,75201,Barbeque,0
+Maison Kayser,36,3.5,(212) 979-1600,"921 Broadway, New York",10010,"French, Bakery, Cafe",Falbo Bros Pizza Sherman,6,3.0,(608) 223-9800,1207 N Sherman Avenue,53704,Italian,0
+Knuckle & Claw,7,3.1,(323) 407-6142,"3112 Sunset Blvd, Los Angeles",90026,Seafood,The Foodshop,11,5.0,(323) 871-8833,147 N Western Ave,90004,Korean,0
+Dave's Italian Kitchen,386,3.8,(847) 864-6000,1635 Chicago Avenue,60201,"Italian, Pizza, Sandwich",99 Favor Taste,563,4.0,(646) 682-9122,285 Grand St,10002,Chinese,0
+Venice Beach Wines,66,3.7,(310) 606-2529,529 Rose Ave,90291,Mediterranean,Blazing Stone Pizza,59,4.5,(323) 276-3939,3501 Monterey Rd,90032,Pizza,0
+Colori Kitchen,98,4.4,(213) 622-5950,"429 W 8th St, Los Angeles",90014,Italian,Park Tavern,140,3.5,(312) 243-4276,1645 W Jackson Blvd,60612,"American (New),American (Traditional),American (New),American (New),Gastropubs",0
+Wirtshaus,39,3.9,(323) 931-9291,"345 N La Brea Ave, Los Angeles",90036,German,Parigi Restaurant,129,4.0,(214) 521-0295,3311 Oak Lawn AveSte 102,75219,Italian,0
+Morrie O'Malley's,57,3.7,(773) 247-2700,"3501 S. Union Avenue, Chicago",60609,"American, Burger, Ice Cream",The Publican,2217,4.0,(312) 733-9555,837 W Fulton Market,60607,American (New),0
+Rosa Mexicano,301,3.5,(212) 533-3350,"9 E 18th Street, New York",10003,Mexican,Hunky’s,192,4.0,(214) 522-1212,3940 Cedar Springs Dr,75219,Burgers,0
+Fresco,133,3.5,(608) 663-7374,"227 State St, Madison",53703,American,State & Allen Kitchen+Bar,191,3.5,(214) 239-1990,2400 Allen St,75204,American (Traditional),0
+Sauk Prairie Eagle Inn,72,3.5,(608) 643-4516,655 Water St,53578,"American, Breakfast, Diner",Mexique,550,4.0,(312) 850-0288,1529 W Chicago Ave,60622,French,0
+Happy Wok,34,3.3,(608) 833-3488,"429 Commerce Dr, Madison",53719,Chinese,Outback Steakhouse,25,3.0,(608) 829-0505,279 Junction Road,53717,Steakhouses,0
+Morton's The Steakhouse,183,3.6,(212) 972-3315,"551 5th Avenue, New York",10017,"Seafood, Steakhouse, Bar Food",Red Bamboo,1162,4.0,(212) 260-1212,140 W 4th St,10012,Vegetarian,0
+Il Cielo,88,3.5,(310) 276-9990,9018 Burton Way,90211,Italian,Pat O’Malley’s Jet Room,56,4.0,(608) 268-5010,3606 Corben Ct,53704,Diners,0
+Joanne Trattoria,173,3.5,(212) 721-0068,"70 W 68th Street, New York",10023,Italian,El Pollo Regio,17,4.0,(214) 570-8484,8136 Spring Valley Rd,75240,Mexican,0
+Rocco's Tavern,47,3.5,(818) 985-9876,12514 Ventura Blvd,91604,Italian,Hot Wings Cafe,506,4.0,(323) 930-1233,7011 Melrose Ave,90038,Chicken Wings,0
+Las Ramblas,159,3.7,(646) 415-7924,"170 W 4th Street, New York",10014,"Spanish, Tapas",Herb,79,4.5,(773) 944-9050,5424 N Broadway St,60640,Thai,0
+Ed's Lobster Bar,206,4.0,(212) 343-3236,"222 Lafayette Street, New York",10012,"American, Seafood",Bread & Wine,266,4.0,(773) 866-5266,3732 W Irving Park Rd,60618,American (New),0
+Cantina Laredo,48,3.2,(972) 973-4280,"3200 East Airfield Drive, DFW Airport",75261,Tex-Mex,Ojeda’s,198,3.5,(214) 528-8383,4617 Maple Ave,75219,"Mexican,Mexican Restaurants,Mexican Restaurants",0
+Leaning Tower Pizza & Pasta,116,4.1,(818) 986-9701,"14120 Ventura Blvd, Los Angeles",91423,"Italian, Pizza",Stephan Pyles,410,4.0,(214) 580-7000,1807 Ross Ave,75201,American (New),0
+Sherlock's Baker St. Pub & Grill,49,3.4,(214) 692-1111,"9100 N Central Expressway, Dallas",75231,"Bar Food, British",MangoSeed Restaurant,353,4.0,(347) 529-1080,757 Flatbush Ave,11226,Caribbean,0
+Trenchermen,100,3.9,(773) 661-1540,"2039 W. North Avenue, Chicago",60647,New American,Javier’s Gourmet Mexicano,288,3.5,(214) 521-4211,4912 Cole Ave,75205,Mexican,0
+Mr Robert's,5,2.8,(608) 249-1660,"2116 Atwood Ave, Madison",53704,Burger,Gyu-Kaku Japanese BBQ,593,4.0,(646) 692-6297,321 W 44th St,10036,Japanese,0
+LA Market,65,3.8,(213) 765-8630,"900 W Olympic Blvd Fl 1, Los Angeles",90015,California,Baby Back Shak,84,4.0,(214) 428-7427,1800 S Akard St,75215,Barbeque,0
+ilili Restaurant,288,4.3,(212) 683-2929,"236 5th Avenue, New York",10001,"Lebanese, Mediterranean",Nam Nam,289,4.5,(718) 302-9200,109 Montrose Ave,11206,Vietnamese,0
+Lucali,361,4.1,(718) 858-4086,"575 Henry Street, Brooklyn",11231,Pizza,Berry Que,120,4.5,(323) 462-7888,1707 N. Las Palmas Ave.,90028,Juice Bars & Smoothies,0
+TAC Quick Thai Kitchen,111,4.0,(773) 327-5253,"3930 N. Sheridan Road, Chicago",60613,"Asian, Thai",Hyperion Public,437,4.0,(323) 761-6440,2538 Hyperion Ave,90027,Gastropubs,0
+Muddy Leek,25,3.4,(310) 838-2281,8631 Washington Blvd,90232,California,Northside Family Restaurant,9,3.0,(608) 244-5663,1201 N Sherman Ave,53704,American (Traditional),0
+BXL Cafe,101,3.8,(212) 768-0200,"125 W 43rd Street, New York",10036,"Belgian, European",Meerut Kabob House,14,4.5,(972) 243-5407,11276 Harry Hines Blvd,75229,Indian,0
+California Donuts,9,3.2,(323) 871-0778,"5753 Hollywood Blvd, Los Angeles",90028,,Noodles & Company,43,3.5,(608) 257-6393,232 State St,53703,Comfort Food,0
+Hi-Life Bar & Grill,101,3.6,(212) 787-7199,"477 Amsterdam Avenue, New York",10024,"American, Fusion, Sushi",Steep & Brew,58,4.0,(608) 256-2902,544 State St,53703,Coffee & Tea,0
+West New Malaysia Restaurant,77,3.7,(212) 964-0284,"48 Bowery Street, New York",10013,Malaysian,Coney Shack,127,4.5,(347) 856-8356,2909 W 8th St,11224,Food Trucks,0
+Belmont Casino,7,3.0,(920) 563-4646,29 Sherman Ave W,53538,Bar Food,Jon & Vinny’s,236,3.5,(323) 334-3369,412 N Fairfax AveApt 12,90036,Italian,0
+Redstone American Grill,113,3.6,(630) 268-0313,13 Lincoln Court,60181,"American, BBQ",Newell’s Deli,1,5.0,(608) 890-1256,35 N Park St,53715,Delis,0
+Mario's Peruvian Seafood Restaurant,49,4.0,(562) 902-8299,15720 Imperial Hwy,90638,"Latin American, Seafood",Tap Room At Hawks Landing,9,4.0,(608) 848-5751,88 Hawks Landing Cir,53593,American (New),0
+Brooklyn Bowl,90,3.5,(718) 963-3369,"61 Wythe Ave, Brooklyn",11211,"American, Southern",Cochon Volant,116,4.0,(312) 754-6560,100 W Monroe St,60603,French,0
+The Standard Grill,402,3.8,(212) 645-4100,"The Standard High Line, 848 Washington Street, New York",10014,"French, American",Kush Sake Bar,123,4.5,(213) 265-7609,1356 Allison Ave,90026,Japanese,0
+Einstein Bros Bagels,40,3.3,(608) 257-9828,"652 State St, Madison",53703,"Coffee and Tea, Sandwich",China Kitchen,6,3.0,(608) 826-4432,6608 Mineral Point Rd,53705,Chinese,0
+Sevilla,167,3.6,(212) 243-9513,"62 Charles Street, New York",10014,"Spanish, Seafood",Sweetsalt,653,4.0,(818) 509-7790,10218 Riverside Dr,91602,Sandwiches,0
+Blueberry Hill Pancake House,70,4.0,(630) 734-1300,"7340 Route 83, Chicago",60561,American,The People’s Last Stand,212,4.0,(214) 370-8755,5319 E Mockingbird LnSte 210,75206,Bars,0
+King Torta,88,4.3,(323) 222-7006,"4507 Valley Blvd, Los Angeles",90032,Mexican,Dickey’s Barbecue Pit,14,3.5,(608) 827-9000,8225 Greenway BlvdSte 120,53562,Barbeque,0
+Good 2 Go Taco,465,4.2,(214) 519-9110,"1146 Peavy Road, Dallas",75218,Mexican,Taverna Kyclades,415,4.0,(212) 432-0011,228 1st Ave,10009,Greek,0
+Trestle on Tenth,98,3.9,(212) 645-5659,"242 10th Avenue, New York",10001,"European, New American, French",Daikokuya,736,4.0,(310) 575-4999,2208 Sawtelle Blvd,90064,Ramen,0
+Aranda's,127,4.0,(608) 842-0683,"142 Market Street, Deforest",53532,Mexican,Ten Bells Tavern,177,4.0,(214) 943-2677,232 W 7th St,75208,Pubs,0
+Pok Pok Phat Thai,8,3.2,(213) 628-3071,"727 N Broadway, Los Angeles",90012,Thai,The Fix Burger,474,4.0,(323) 661-8494,2520 Hyperion Ave,90027,Burgers,0
+Brick House Tavern + Tap,103,3.4,(630) 963-1104,1461 Butterfield Road,60515,"American, Burger, Bar Food",The Cooper’s Tavern,264,3.5,(608) 256-1600,20 W Mifflin St,53703,American (New),0
+Tropicalia Brazilian Grill,121,3.8,(323) 644-1798,"1966 Hillhurst Ave, Los Angeles",90027,"Brazilian, Latin American",Ginger Root,10,2.5,(608) 890-3000,1308 W Dayton St,53715,Asian Fusion,0
+Phoenix,298,3.8,(312) 328-0848,"2131 S. Archer Avenue, Chicago",60616,"Asian, Chinese, Dim Sum",Monti’s,381,4.5,(773) 942-6012,4757 N Talman Ave,60625,Cheesesteaks,0
+Folliero Pizza & Italian Food,149,3.8,(323) 254-0505,"5566 N Figueroa St, Los Angeles",90042,"Italian, Pizza",The Aberdeen Tap,214,4.5,(312) 929-3845,440 N Aberdeen St,60642,Bars,0
+Weber Grill Restaurant,174,3.4,(630) 953-8880,2331 Fountain Square Drive,60148,"Steakhouse, American",Pig And Khao,625,4.0,(347) 704-2398,68 Clinton St,10002,Filipino,0
+Iron Wok,84,3.3,(972) 818-7667,"4520 Frankford Road, Suite 100, Dallas",75287,Chinese,Pollos El Brasero,67,4.0,(213) 381-6060,2281 W Pico Blvd,90006,Peruvian,0
+Kuma's Corner,1554,4.3,(773) 604-8769,"2900 W. Belmont Avenue, Chicago",60618,"Burger, American",Cali’s,25,4.5,(213) 944-0075,534 S Westmoreland AveSte 104,90020,Korean,0
+Hara Sushi,68,3.9,(310) 820-1021,"12222 willshire blvd, Los Angeles",90025,Japanese,Ñaño Ecuadorian Kitchen,146,4.5,(646) 649-4678,691 10th Ave,10036,Latin American,0
+Bodrum,178,3.5,(212) 799-2806,"584 Amsterdam Avenue, New York",10024,"Mediterranean, Turkish",Two 8 Two,399,4.0,(718) 596-2282,282 Atlantic Ave,11201,Burgers,0
+Joe's Crab Shack,91,3.3,(847) 517-1212,2000 E. Golf Road,60173,Seafood,Frankie’s,56,4.0,(214) 741-1919,1303 Main St,75202,Sports Bars,0
+Del Posto,454,3.8,(212) 497-8090,"85 10th Avenue, New York",10011,Italian,Le Parisien,611,4.0,(212) 889-5489,163 E 33rd St,10016,French,0
+Superba Snack Bar,99,3.8,(310) 399-6400,533 Rose Ave,90291,"Italian, California",Han Dynasty,590,4.0,(212) 390-8685,90 3rd Ave,10003,Szechuan,0
+Taylor's Steak House,181,3.8,(213) 382-8449,"3361 W 8th St, Los Angeles",90005,"American, Steakhouse",Los Mexicans de Europa,1,4.0,(608) 826-8532,475 N Charter St,53706,Spanish,0
+Terroni,19,3.4,(323) 954-0300,"802 South Spring St 1st Floor, Los Angeles",90015,"Italian, Pizza",Nana,730,4.0,(312) 929-2486,3267 S Halsted St,60608,American (New),0
+Bangkok Cuisine,10,3.1,(608) 250-6280,"600 Williamson St., Madison",53703,Thai,Hakka Bakka,37,4.5,(872) 802-3968,1251 W Fullerton Ave,60614,Indian,0
+Y.O. Ranch Steakhouse,194,3.4,(214) 744-3287,702 Ross Avenue,75202,"American, Steakhouse",Sun Nong Dan,138,4.5,(213) 365-0303,3470 W 6th StSte 7,90020,Korean,0
+Stacked,145,4.1,(708) 422-5555,5273 W. 95th Street,60453,"American, Burger, Sandwich",Five Guys Burgers and Fries,59,3.5,(608) 255-2520,517 State St,53703,Burgers,0
+Zuzu Cafe,60,3.9,(608) 260-9898,"1336 Drake St, Madison",53715,"Desserts, Sandwich",Le Barricou,728,4.0,(718) 782-7372,533 Grand St,11211,Breakfast & Brunch,0
+Schmackary's,88,4.7,(646) 801-9866,"362 W 45th Street, New York, NY",10036,"Coffee and Tea, Desserts",Uno Pizzeria & Grill,34,3.5,(608) 244-3266,3010 Crossroads Drive,53718,Pizza,0
+P.F. Chang's,125,3.4,(972) 818-3336,"18323 Dallas Parkway, Dallas",75287,"Asian, Chinese, Vegetarian",Pho Crimson,141,3.5,(469) 547-5443,3000 Blackburn StSte 140C,75204,Vietnamese,0
+Aureole,204,3.6,(212) 319-1660,"135 W 42nd Street, New York",10036,New American,Cosmo’s Bar & Lounge,131,4.0,(214) 826-4200,1212 Skillman St,75206,Pizza,0
+New Japan Take Out,80,4.3,(310) 477-0557,"11283 Santa Monica Blvd, Los Angeles",90025,"Japanese, Sushi",Lamarca Cheese Shop,55,4.5,(212) 673-7920,161 E 22nd St,10010,Cheese Shops,0
+Claudette,8,3.0,(212) 868-2424,"24 Fifth Avenue, New York",10003,French,Umami Burger,873,3.5,(213) 413-8626,852 S Broadway,90015,Burgers,0
+St. Anselm,59,3.6,(718) 384-5054,"355 Metropolitan Ave, Brooklyn",11211,"American, Steakhouse",Bandera Restaurant,1171,4.0,(312) 644-3524,535 N Michigan Ave,60611,Jazz & Blues,0
+Shamrock Bar,25,3.3,(608) 255-5029,"117 W Main St, Madison",53703,Bar Food,The Shakespeare,151,4.0,(646) 837-6779,24 E 39th St,10016,Pubs,0
+Nook Restaurant,144,3.9,(212) 247-5500,"746 9th Avenue, New York",10019,New American,Urban Blend,25,4.5,(978) 304-5094,Antioch Church805 Elm St,75202,Cafes,0
+Rick's Old Fashioned Burgers,46,3.4,(214) 348-8400,"11620 Plano Road, Dallas",75243,"American, Burger",Christy’s Landing,16,3.0,(608) 222-5391,2952 Waubesa Ave,53711,American (Traditional),0
+Leystra's Venture Restaurant,30,3.4,(608) 643-2004,200 Phillips Blvd,53583,Diner,Sala Thai,71,4.0,(608) 246-1889,36 S Fair Oaks Ave,53714,Thai,0
+Panera Bread,50,3.4,(818) 762-2226,12131 Ventura Blvd,91604,Sandwich,Urban Taco,275,3.5,(214) 922-7080,3411 McKinney Ave,75204,Mexican,0
+Bella Blu,148,3.5,(212) 988-4624,"967 Lexington Avenue, New York",10021,"Italian, Mediterranean, Pizza",Wolfnights,271,4.0,(646) 669-8070,99 Rivington St,10002,Sandwiches,0
+Vinnie's Pizzeria,111,3.5,(718) 782-7078,"148 Bedford Ave, Brooklyn",11249,"Italian, Pizza",Truck Yard,498,4.0,(469) 500-0139,5624 Sears St,75206,"Food Trucks,Burgers,Burgers,Burgers,Burgers,Burgers",0
+Village Bar,60,3.5,(608) 233-9956,"3801 Mineral Point Rd, Madison",53705,"Burger, Sandwich",Wurstküche,6856,4.0,(213) 687-4444,800 E 3rd St,90013,Hot Dogs,0
+Panera Bread,50,3.4,(818) 762-2226,12131 Ventura Blvd,91604,Sandwich,Amalia’s Restaurant,224,4.0,(323) 644-1515,751 N Virgil Ave,90029,Latin American,0
+Lucky's Famous Burgers,91,3.7,(212) 247-6717,"370 W 52nd Street, New York",10019,"American, Burger",Organic Corner Cafe,48,4.5,(213) 250-5550,1001 Wilshire Blvd,90017,Cafes,0
+District Pub,11,3.0,(818) 732-7319,"5249 Lankershim Blvd, Los Angeles",91601,"Burger, Bar Food",Victory Tavern,90,3.0,(214) 432-1900,2501 N Houston St,75219,American (New),0
+By Chloe,7,3.1,(212) 290-8000,"185 Bleecker Street, New York",10012,"Vegetarian, Healthy Food",Torchy’s Tacos,169,3.5,(972) 354-8226,Casa Linda Plaza9440 Garland Rd,75218,Tex-Mex,0
+Yolk,8,3.0,(214) 855-9655,"1722 Routh Street, Dallas",75201,Cafe,The Golden State,1150,4.0,(323) 782-8331,426 N Fairfax Ave,90036,Burgers,0
+Joanne Trattoria,173,3.5,(212) 721-0068,"70 W 68th Street, New York",10023,Italian,The Madison Blind,11,4.5,(608) 257-4391,601 Langdon St,53703,American (New),0
+Pizzeria Brandi,87,3.7,(312) 794-5900,"67 E. Cermak Road, Chicago",60616,"Italian, Pizza",Charlatan,155,4.0,(312) 818-2073,1329 W Chicago Ave,60642,Italian,0
+Indie Cafe,294,3.8,(773) 561-5577,"5951 N. Broadway Street, Chicago",60660,"Asian, Japanese, Thai, Sushi",Chipotle Mexican Grill,26,3.5,(608) 242-7334,4628 E Washington Ave,53704,Mexican,0
+Reynard,27,3.4,(718) 460-8004,"Wythe Hotel, 80 Wythe Avenue, Brooklyn",11211,American,Five-Sixty,527,3.5,(214) 571-5784,Reunion Tower300 E Reunion Blvd,75207,Asian Fusion,0
+Fair Oaks Diner,37,3.5,(608) 216-5160,"44 S Fair Oaks Ave, Madison",53714,"Breakfast, Diner, Sandwich",Fontano Foods,99,4.5,(312) 421-4474,1058 W Polk St,60607,Sandwiches,0
+Headquarters Bar & Grill,13,3.1,(608) 291-0750,101 Concord Dr,53575,"Burger, Bar Food",Guelaguetza Restaurante,941,4.0,(213) 427-0608,3014 W Olympic Blvd,90006,Mexican,0
+Community Tavern,12,3.0,(773) 283-6080,"4038 N. Milwaukee Avenue, Chicago",60641,New American,Jimmy John’s,7,2.5,(608) 242-0736,1791 Thierer Rd,53704,Sandwiches,0
+Anna's Pizzeria,166,4.0,(608) 825-2660,1609 W Main St,53590,Pizza,Kenichi,184,3.5,(214) 871-8883,2400 Victory Park Ln,75219,Sushi Bars,0
+The Pikey,48,4.3,(323) 850-5400,"7617 W Sunset Blvd, Los Angeles",90046,British,Café Orlin,1442,4.0,(212) 777-1447,41 St Marks Pl,10003,Breakfast & Brunch,0
+R.J. Grunts,352,3.8,(773) 929-5363,"2056 N. Lincoln Park West, Chicago",60614,"American, Burger",Forno Pizzeria E Trattoria,85,4.5,(718) 424-1200,52-27 69th St,11378,Italian,0
+Milk Bar Brooklyn,67,3.5,(718) 230-0844,"620 Vanderbilt Avenue, Brooklyn",11238,"Cafe, American",Nick’s Bar & Restaurant,59,3.5,(608) 255-5450,226 State St,53703,Bars,0
+Papa John's Pizza,28,3.1,(608) 257-7272,"515 University Ave, Madison",53703,"Fast Food, Pizza",Community Los Feliz,189,4.5,(323) 913-0478,2044 Hillhurst Ave,90027,Sandwiches,0
+Grotta Azzurra Ristorante,283,3.5,(212) 925-8775,"177 Mulberry Street, New York",10013,Italian,Original Market Diner,206,3.5,(214) 521-0992,4434 Harry Hines Blvd,75219,American (Traditional),0
+Tacombi at Fonda Nolita,136,4.3,(917) 727-0179,"267 Elizabeth Street, New York",10012,"Latin American, Mexican",House of Macau,69,4.0,(323) 745-5038,1600 Vine St,90028,Chinese,0
+Hearth,201,3.7,(646) 602-1300,"403 East 12th Street, New York",10009,"Italian, American",Turntable Chicken Jazz,925,4.0,(212) 714-9700,314 5th Ave2nd Fl,10001,Chicken Wings,0
+Capannari Ice Cream,199,4.2,(847) 392-2277,10 S. Pine Street,60056,"Desserts, Ice Cream",Lavash Mediterranean Grill,36,4.0,(312) 631-3484,651 W Washington Blvd,60661,"Mediterranean,Airlines",0
+KJ's Curry Bowl,21,3.0,(608) 841-1005,"7005 Tree Lane, Madison",53717,Asian,Buckingham’s Bar & Grill,10,3.0,(608) 251-4744,802 Regent St,53715,Sports Bars,0
+Once Upon a Tart,118,3.5,(212) 387-8869,"135 Sullivan Street, New York",10012,Desserts,Steak Escape,1,4.0,(608) 249-7600,213 East Towne Mall,53704,Steakhouses,0
+Hillstone,1059,3.8,(214) 691-8991,"8300 Preston Road, Suite A, Dallas",75225,"American, Seafood, Steakhouse",Lazy Dog Restaurant & Bar,74,4.5,(469) 754-1300,5100 Beltline RdSte 500,75254,Bars,0
+Madison's,37,2.9,(608) 229-0900,"119 King St, Madison",53703,"American, Burger, Bar Food",Cafe La Bellitalia,65,4.0,(608) 243-1200,1026 N Sherman Ave,53704,Italian,0
+Benny's Tacos & Chicken Rotisserie,54,3.9,(310) 670-8226,"7101 W Manchester Ave, Los Angeles",90045,"Fast Food, Mexican",Perch,3132,4.0,(213) 802-1770,448 S Hill St,90013,Lounges,0
+Umami Food Cart,4,3.0,(608) 819-6319,"700 State St, Madison",53703,Asian,mEAT Streeterville,173,4.0,(773) 328-8320,215 E Chestnut St,60611,"American (New),American (New)",0
+Ben Ash Delicatessen,153,1.7,(212) 265-1818,"857 7th Avenue, New York",10019,Sandwich,Salt & Fat,837,4.0,(718) 433-3702,41-16 Queens Blvd,11104,American (New),0
+Rise n Shine Cafe,30,3.6,(818) 352-5755,9685 Sunland Blvd,91040,American,Bricolage,89,4.5,(718) 230-1835,162 5th Ave,11217,Vietnamese,0
+Westwood Tavern & Tap,90,3.4,(847) 969-9500,1385 Meacham Road,60173,"American, Asian, Burger, Sushi",KaGaYa,483,4.5,(213) 617-1016,418 E 2nd St,90012,Japanese,0
+Bel Air Bar & Grill,43,3.4,(310) 440-5544,"662 N Sepulveda Blvd, Los Angeles",90049,"American, California",Marigold Kitchen,357,4.0,(608) 661-5559,118 S Pinckney St,53703,Breakfast & Brunch,0
+Coolhaus,20,3.4,(310) 424-5559,8588 Washington Blvd.,90232,Desserts,RM Champagne Salon,335,4.0,(312) 243-1199,116 N Green St,60607,Champagne Bars,0
+Govinda's Natural Food,83,4.3,(310) 836-1269,"3764 Watseka Ave, Los Angeles",90034,"Indian, Vegetarian",Gigi’s Bakery & Café,372,4.0,(213) 483-6152,2200 W Temple St,90026,Bakeries,0
+Four Belly,12,3.0,(773) 661-6182,"3227 N. Clark Street, Chicago",60657,"Asian, BBQ, Japanese",Wirtshaus,472,4.0,(323) 931-9291,345 N La Brea Ave,90036,German,0
+Blind Faith Cafe,235,3.6,(847) 328-6875,525 Dempster Street,60201,Vegetarian,Firexbox,158,4.0,(214) 503-8888,9918 Plano Rd,75238,Japanese,0
+Caffe Napoli,106,3.4,(212) 226-8705,"191 Hester Street, New York",10013,Italian,Berlins,286,4.5,(323) 746-5409,8474 W 3rd St,90048,Bubble Tea,0
+Vapiano,43,3.3,(312) 384-1960,"44 S. Wabash Avenue, Chicago",60603,"Italian, Pizza",Powerplant Super Food Cafe,158,4.5,(323) 965-2233,5671 W Pico Blvd,90019,Gluten-Free,0
+Kismat Indian Restaurant,320,3.9,(212) 795-8633,"603 Fort Washington Avenue, New York",10040,Indian,Rockwell’s Neighborhood Grill,305,4.0,(773) 509-1871,4632 N Rockwell St,60625,American (New),0
+Wasabi,55,3.5,(773) 227-8180,"2115 N. Milwaukee Avenue, Chicago",60647,"Asian, Japanese, Sushi, Ramen",Capriotti’s Sandwich Shop,30,3.5,(608) 833-5551,610 Junction RdSte 113,53717,Sandwiches,0
+Vientiane Palace,178,3.6,(608) 255-2848,"151 W Gorham St, Madison",53703,Thai,Home Style Taste Chinese,69,4.0,(312) 949-9328,3205 S Halsted St,60608,Chinese,0
+Noodles in the Pot,143,3.8,(773) 975-6177,"2453 N. Halsted Street, Chicago",60614,Thai,Milio’s Sandwiches,5,3.0,(608) 245-2700,4292 E Towne Blvd,53704,Sandwiches,0
+Cowboy Chicken,193,4.0,(214) 234-0505,"5315 Greenville Avenue, Dallas",75206,American,Holy Ravioli,15,4.5,(214) 696-3993,4446 Lovers Ln,75225,Italian,0
+Hack's Sports Page,22,3.3,(608) 835-8611,126 Braun Rd,53575,American,Applebee’s,15,2.5,(608) 271-5450,660 S Whitney Way,53711,Sports Bars,0
+Gyu-Kaku,164,3.6,(212) 475-2989,"34 Cooper Square, New York",10003,"Asian, Japanese",Pizza Pit Extreme,12,3.5,(608) 271-3333,6628 Odana Rd,53719,"Pizza,Pizza,Pizza,Pizza",0
+Circo,132,3.7,(212) 265-3626,"120 W 55th Street, New York",10019,"Italian, Pizza",Jay’s Bar,211,4.0,(323) 666-1898,4321 Sunset Blvd,90029,Bars,0
+Inatteso Pizzabar Casano,213,4.1,(212) 267-8000,"28 West Street, New York",10004,"Italian, Pizza",Loi Estiatorio,43,5.0,(212) 713-0015,132 W 58th St,10019,Greek,0
+Spiegel,9,2.9,(212) 228-2894,"26 1st Avenue, New York",10009,"American, Cafe",Pokito,15,4.5,(917) 909-1542,155 S 4th St,11211,Bars,0
+Angelo's Ristorante Italiano,79,3.9,(818) 998-7728,20539 Devonshire St,91311,Italian,Gogo’s Bistro,98,4.0,(323) 980-0632,2415 E Cesar Chavez Ave,90033,American (New),0
+Irish Pub,8,2.9,(608) 256-6071,"317 State St Ste A, Madison",53703,Irish,Public School 214,329,4.0,(214) 599-6234,3700 McKinney Ave.Suite 148,75204,American (New),0
+Barlo,32,3.5,(424) 214-1063,"1697 Pacific Ave, Los Angeles",90291,"Breakfast, Tapas",The Nodding Donkey Greenville,96,3.5,(214) 347-7182,5600 SMU BlvdSte 120,75206,American (New),0
+Ponty Bistro,84,3.5,(212) 777-1616,"218 3rd Avenue, New York",10003,"African, French",Sottocasa Pizzeria,349,4.5,(718) 852-8758,298 Atlantic Ave,11201,Pizza,0
+J. Alexander's Restaurant,154,3.7,(630) 573-8180,1410 16th Street,60523,Steakhouse,Cane Rosso,967,4.0,(214) 741-1188,2612 Commerce St,75226,Pizza,0
+Easy Slider,17,3.3,(214) 668-1910,"Location Varies, Dallas",75212,Burger,Mercado Merimar,1,5.0,(608) 310-5858,807 S Gammon Rd,53719,Mexican,0
+Ara On,67,3.7,(312) 781-7300,"160 W. Adams Street, Chicago",60603,"French, Asian, Sushi",St. Mazie,90,4.0,(718) 384-4807,345 Grand St Williamsburg,11211,"Bars,Cafés",0
+Tribeca Grill,252,3.6,(212) 941-3900,"375 Greenwich Street, New York",10013,"American, Mediterranean",The Winchester,160,3.5,(773) 698-8703,1001 N Winchester Ave,60622,American (Traditional),0
+Top Notch Beefburger,297,4.4,(773) 445-7218,"2116 W. 95th Street, Chicago",60643,"American, Burger","Taste of The Caribbean, LA",28,4.5,(323) 378-3311,1642 N Cahuenga Blvd,90028,Caribbean,0
+Miss Korea BBQ,95,3.6,(212) 594-4963,"10 West 32nd Street, New York",10001,"Korean, BBQ",Kuby’s Sausage House,197,4.0,(214) 363-2231,6601 Snider Plz,75205,Meat Shops,0
+En Hakkore,17,3.2,(773) 772-9880,"1840 N. Damen Avenue, Chicago",60622,Korean,Lowcountry,28,4.5,(773) 996-9997,3343 N Clark St,60657,Cajun/Creole,0
+Sofra Kabab Express,55,3.7,(310) 838-8833,"10821 Venice Blvd., Los Angeles",90034,Turkish,Bulgogi Hut,222,4.0,(213) 388-1988,3600 Wilshire BlvdSte 100C,90010,Korean,0
+Vees Cafe,35,3.5,(323) 931-8337,"5418 W Adams Blvd, Los Angeles",90016,American,Mike’s Sandwich Shop,91,4.0,(323) 264-0444,1717 S Soto St,90023,Sandwiches,0
+Jimmy's Food Store,379,4.6,(214) 823-6180,"4901 Bryan Street, Dallas",75206,"Italian, Sandwich",Falafel & Grill,236,4.0,(773) 292-8888,1317 N Milwaukee Ave,60622,"Middle Eastern,Men's Clothing,Lounges",0
+Isabella's,304,3.7,(212) 724-2100,"359 Columbus Avenue, New York",10024,"American, Mediterranean",Best Fish Taco In Ensenada,1652,4.0,(323) 466-5552,1650 Hillhurst Ave,90027,Mexican,0
+Tropicalia Brazilian Grill,121,3.8,(323) 644-1798,"1966 Hillhurst Ave, Los Angeles",90027,"Brazilian, Latin American",Seafood Express,93,4.5,(213) 483-2122,2122 Beverly Blvd,90057,Seafood,0
+Schneid's Sports Bar & Grill,6,2.9,(608) 271-3644,2952 Fish Hatchery Rd,53713,American,Blaze Fast Fire’d Pizza,216,4.5,(773) 348-6255,953 W Belmont,60657,Pizza,0
+Asahi Ramen,114,3.6,(310) 479-2231,"2027 Sawtelle Blvd, Los Angeles",90025,"Japanese, Ramen",Cafe Porta Alba,119,4.0,(608) 441-0202,Hilldale Mall558 N Midvale Blvd,53705,Pizza,0
+Benvenuto's Italian Grill,134,3.5,(608) 278-7800,2949 Triverton Pike Dr,53711,Italian,Pizza Bella,6,1.5,(608) 259-0786,1437 Regent St,53711,Pizza,0
+Rollapalooza,110,3.7,(773) 281-6400,"3344 N. Halsted Street, Chicago",60657,"Sushi, Japanese",Iguana Café,508,4.0,(312) 432-0663,517 N Halsted St,60642,Creperies,0
+Il Gattopardo,154,3.4,(212) 246-0412,"13 W 54 Street, #15, New York",10019,Italian,Homestead On The Roof,164,4.0,(773) 332-2354,1924 W Chicago Ave,60622,American (New),0
+The Lion,77,3.4,(212) 353-8400,"62 W 9th Street, New York, NY",10011,"American, Italian",Awoolim,68,4.0,(213) 388-0053,"Koreatown Plaza928 S Western Ave, Ste 125",90006,Korean,0
+Rosie's Coffee Bar and Bakery,35,3.4,(608) 441-7673,"4604 Monona Dr, Madison",53716,"Coffee and Tea, Sandwich",Hook Line & Sinker,244,3.5,(214) 965-0707,3103 Lemmon Ave,75204,Seafood,0
+DMK Burger Bar,393,3.9,(773) 360-8686,"2954 N. Sheffield Avenue, Chicago",60657,Burger,Takumi Japanese Restaurant,141,4.0,(608) 663-3899,4222 E Towne Blvd,53704,Japanese,0
+Chicago Q,303,4.0,(312) 642-1160,"1160 N. Dearborn Street, Chicago",60610,"American, BBQ",Tsuri,111,4.5,(323) 935-1517,7015 Melrose Ave,90038,Sushi Bars,0
+Paoli Schoolhouse Shops & Cafe,17,3.2,(608) 848-6261,6857 Paoli Rd.,53508,"American, Cafe",Tacos Tequilas,167,4.0,(773) 278-9901,2919 N Milwaukee Ave,60618,Mexican,0
+Tara's Himalayan Cuisine Express,4,2.7,(323) 766-9775,"1277 W Jefferson Blvd, Los Angeles",90007,Indian,Go 4 Food,472,4.0,(312) 842-8688,212 W 23rd St,60616,Chinese,0
+Gyu-Kaku,157,3.6,(818) 501-5400,14455 Ventura Blvd,91423,"BBQ, Japanese, Korean",Casa de Lara,36,3.5,(608) 251-7200,341 State St,53703,Mexican,0
+Lavo,132,3.4,(212) 750-5588,"39 East 58th Street, New York, NY",10022,"Italian, Steakhouse",Metro Cafe,41,5.0,(323) 785-1010,Hollywood Production Center1149 N Gower St,90038,Cafes,0
+Big & Little's,37,3.9,(773) 857-6677,"1034 W. Belmont Avenue, Chicago",60657,"Sandwich, Burger, Taco, Mexican",Kaze,70,4.0,(214) 987-2333,7525 Greenville Ave,75231,Japanese,0
+Pomodoro Trattoria,126,4.0,(310) 445-9998,"1393 Westwood Blvd, Los Angeles",90024,Italian,Record Grill,30,4.0,(214) 742-1353,605 Elm St,75202,American (Traditional),0
+Urban Ramen,15,3.3,(323) 512-6077,"7300 Sunset Blvd, Los Angeles",90046,"Asian, Japanese",Saigon Sandwich Madison,13,4.5,(608) 515-8564,273 N Charter St,53715,Food Trucks,0
+Jersey Mike's,89,3.5,(214) 692-6981,"5521 Greenville Avenue, Dallas",75206,Sandwich,Endless Summer,72,4.0,(917) 947-8787,525 DeKalb Ave,11205,Sandwiches,0
+Haldi,7,2.9,(212) 213-9615,"102 Lexington Avenue, New York, NY",10016,Indian,Kofte Piyaz,119,4.5,(347) 227-7036,881 5th Ave,11232,Ethnic Food,0
+Bugatti Ristorante,110,3.5,(214) 350-2470,"3802 W Northwest Highway, Dallas",75220,Italian,The New Moon,178,4.0,(213) 624-0186,102 W 9th St,90015,Chinese,0
+Dani's House of Pizza,198,4.3,(718) 846-2849,"81-28 Lefferts Boulevard, Queens",11415,Pizza,Tank Noodle Restaurant,1242,4.0,(773) 878-2253,4953 N Broadway,60640,Vietnamese,0
+The Wormhole Coffee,86,4.3,(773) 661-2468,"1462 N. Milwaukee Avenue, Chicago",60622,Cafe,Tarboush Mediterranean Grill,52,4.0,(773) 770-3599,1608 W North Ave,60622,Mediterranean,0
+Forlini's Restaurant,304,4.2,(212) 349-6779,"93 Baxter Street, New York",10013,Italian,Freshii,43,4.0,(608) 821-0209,422 Gammon Pl,53719,Salad,0
+Falbo Bros. Pizzeria,7,3.0,(608) 204-2723,"1207 N Sherman Ave, Madison",53704,"Pizza, Sandwich",Noshi Sushi,901,4.0,(323) 469-3458,4430 Beverly Blvd,90004,Sushi Bars,0
+Tex Tubbs Taco Palace,120,3.6,(608) 242-1800,"2009 Atwood Ave, Madison",53704,"Mexican, Tex-Mex",Athens Gyros,4,2.0,(608) 442-5999,1614 Monroe St,53711,Greek,0
+Chi's Chinese,57,3.9,(818) 886-6928,9635 Reseda Blvd,91324,Chinese,LYFE Kitchen,377,4.0,(312) 836-5933,413 N Clark St,60654,American (New),0
+Roladin Bakery & Cafe,36,3.5,(818) 345-3443,"19365 victory blvd, Reseda",91335,Mediterranean,Kathy De’s Deli,38,4.5,(773) 373-2688,3642 S Parnell Ave,60609,Delis,0
+Blvd 16,80,3.9,(310) 474-7765,"10740 Wilshire Blvd, Los Angeles",90024,"American, Seafood, California",Forage Kitchen,2,3.0,(608) 260-0088,665 State St,53703,Salad,0
+Rose Cafe,147,3.6,(310) 399-0711,220 Rose Ave,90291,"American, Vegetarian, California",The Fountain,59,3.5,(608) 250-1998,122 State St,53703,Pubs,0
+Song,813,3.8,(718) 965-1108,"295 5th Avenue, Brooklyn",11215,Thai,Bubbles’ Doubles,6,4.0,(608) 279-9068,2 East Mifflin St,53703,Food Trucks,0
+Jones Hollywood,143,4.1,(323) 850-1726,7205 Santa Monica Blvd,90046,Italian,Benvenuto’s Italian Grill,30,3.0,(608) 241-1144,1849 Northport Dr,53704,Italian,0
+Caspiy,58,3.5,(718) 616-1399,"1309 Avenue Z, Brooklyn",11235,"European, Eastern European",Inspiration Kitchens,397,4.5,(773) 275-0626,4715 N Sheridan Rd,60640,Breakfast & Brunch,0
+Garcia's Restaurant,441,3.7,(773) 769-5600,"4749 N. Western Avenue, Chicago",60625,Mexican,Mapo Kkak Doo Gee Restaurant,209,4.0,(213) 736-6668,3611 W 6th St,90020,Korean,0
+Schnipper's Quality Kitchen,235,4.4,(212) 921-2400,"620 8th Avenue, New York",10018,American,Lucky’s Bar & Grille,15,3.0,(608) 250-8989,1421 Regent St,53711,Sports Bars,0
+Zinque,30,3.4,(310) 437-0970,"600 Venice Blvd, Los Angeles",90291,French,El Flamin’ Taco,417,4.0,(213) 718-1790,505 S Vermont Ave,90020,Mexican,0
+Oakcrest Tavern,132,4.2,(608) 233-1243,"5371 Old Middleton Rd, Madison",53705,"American, Burger",Monona Garden Family Restaurant,23,4.0,(608) 223-9707,6501 Bridge Rd,53713,American (Traditional),0
+Red Curry,48,3.6,(972) 820-7775,"3628 Frankford Road, Suite 255, Dallas",75287,Thai,Southpaw’s Organic Café,63,4.0,(214) 987-0351,6009 Berkshire Ln,75225,Salad,0
+AJ's Hot Dogs & Gyros,48,3.6,(815) 485-8922,342 W. Maple Street,60451,Greek,Mercado Hollywood,193,4.5,(323) 512-2500,3413 Cahuenga Blvd W,90068,Mexican,0
+All India Cafe,51,4.1,(310) 442-5250,"12113 Santa Monica Blvd, Los Angeles",90025,Indian,Press Box Grill,151,3.5,(214) 747-8226,1623 Main St,75201,Sports Bars,0
+The Butcher's Daughter,41,3.6,(212) 219-3434,"19 Kenmare Street, New York",10012,"Beverages, Vegetarian",Windy City Cafe,176,4.0,(312) 492-8010,1062 W Chicago Ave,60642,Breakfast & Brunch,0
+Mott Street,12,3.2,(773) 687-9977,"1401 N. Ashland Avenue, Chicago",60622,"Asian, New American",Preston Hollow Grill,25,4.5,(469) 930-8212,4343 W Northwest HwySte 300,75220,American (New),0
+My Thai,68,4.3,(818) 352-1979,"8654 Foothill Blvd, Sunland",91040,Thai,Jerry’s Wood-Fired Dogs,105,4.0,(214) 750-7053,6340 Gaston Ave,75214,Hot Dogs,0
+Totonno's,133,3.8,(718) 372-8606,"1524 Neptune Avenue, Brooklyn",11224,"Italian, Pizza",Café Sabarsky,309,4.0,(212) 288-0665,Neue Galerie1048 5th Ave,10028,"German,German,Museums,Austrian,Wine Bars,Modern European",0
+Izakaya Honda-Ya,73,3.5,(213) 625-1184,"333 S Alameda St # 314, Los Angeles",90013,"Japanese, Sushi, Tapas",Podhalanka,285,4.0,(773) 486-6655,1549 W Division St,60642,Polish,0
+Hub 51,463,3.7,(312) 828-0051,"51 W. Hubbard Street, Chicago",60654,"International, New American",Ginger Thai Cuisine,70,3.5,(214) 887-6175,6434 E Mockingbird LnSte 111,75214,Thai,0
+Bozu,169,3.6,(718) 384-7770,"296 Grand Street, Brooklyn, NY",11211,"Japanese, Sushi, Tapas",Hunky’s,192,4.0,(214) 522-1212,3940 Cedar Springs Dr,75219,Burgers,0
+Chicago Cut Steakhouse,188,4.2,(312) 329-1800,"300 N. LaSalle Street, Chicago",60654,"Steakhouse, Seafood",Chilango Mexican Street Food,121,4.5,(312) 846-6216,1437 W Taylor St,60607,Mexican,0
+Hunan Express,85,3.5,(214) 754-4747,"5323 Harry Hines Boulevard, Dallas",75235,"Asian, Chinese",YUJI Ramen,24,5.0,(718) 302-0598,150 Ainslie St,11211,Ramen,0
+Maggiano's Little Italy,199,4.0,(818) 887-3777,6100 Topanga Canyon Blvd,91367,Italian,Estrella Negra,371,4.0,(773) 227-5993,2346 W Fullerton Ave,60647,Latin American,0
+Vinoteque on Melrose,95,4.0,(310) 860-6060,"7469 Melrose Ave, Los Angeles",90046,"American, Spanish, California",Opus Lounge,60,4.0,(608) 441-6787,116 King St,53703,Lounges,0
+Cousins Subs,14,3.1,(608) 291-0900,990 Janesville Street,53575,Sandwich,Project Pie,48,4.5,(469) 547-1257,6030 Luther Ln,75225,Pizza,0
+Alfie's Inn,173,3.6,(630) 858-2506,425 Roosevelt Road,60137,American,Bistro Les Amis,217,4.0,(212) 226-8645,180 Spring St,10012,French,0
+Sweet Baby Ray's,152,3.8,(847) 437-9555,800 E. Higgins Road,60007,BBQ,Endless Summer,72,4.0,(917) 947-8787,525 DeKalb Ave,11205,Sandwiches,0
+King Taco,108,3.8,(323) 264-4067,"4504 E 3rd St, Los Angeles",90022,Mexican,Hunky’s Hamburgers,133,4.0,(214) 941-3322,321 N Bishop Ave,75208,Burgers,0
+The Berghoff,409,3.7,(312) 427-3170,"17 W. Adams Street, Chicago",60603,"German, American",Plan Check Kitchen + Bar,1748,4.0,(310) 444-1411,1800 Sawtelle Blvd,90025,American (New),0
+AA Jing,126,3.8,(212) 245-0800,"689 9th Avenue, New York, NY",10036,"Sushi, Japanese",Kobawoo House,761,4.0,(213) 389-7300,698 S Vermont AveSte 109,90005,Korean,0
+Two Hands,21,3.1,(917) 475-1815,"164 Mott Street, New York",10013,"Australian, Cafe",25 Degrees,1510,4.0,(323) 785-7244,Hollywood Roosevelt Hotel7000 Hollywood Blvd,90028,Burgers,0
+Potbelly,108,4.2,(773) 582-1234,"Chicago Midway International Airport, Main Terminal, Boulevard, Chicago",60638,Sandwich,Spaghetti Incident,62,4.5,(646) 896-1446,231 Eldridge St,10002,Italian,0
+Havana Central,384,3.6,(212) 398-7440,"151 W 46th Street, New York",10036,Cuban,U Pick Cafe,67,4.5,(323) 344-7443,4682 York Blvd,90041,Mediterranean,0
+India's Tandoori,36,3.5,(323) 936-2050,"5468 Wilshire Blvd., Los Angeles",90036,"Indian, Pakistani",Old World Sausage Company,20,4.5,(214) 760-9000,"Dallas Farmers Market1010 S Pearl, Ste 2",75201,Delis,0
+Du-Par's,79,3.8,(818) 766-4437,"12036 Ventura Blvd, Los Angeles",91604,"American, Breakfast, Coffee and Tea",The Good Fork,290,4.0,(718) 643-6636,391 Van Brunt St,11231,American (New),0
+MexiBBQ,126,3.5,(718) 626-0333,"37-11 30th Avenue, Queens",11103,"BBQ, Mexican",Masseria Dei Vini,141,4.5,(212) 315-2888,887 9th Ave,10019,Wine Bars,0
+Black Hawk Family Restaurant,12,2.9,(608) 644-8300,E11394 US Hwy 12,53583,American,Resident Taqueria,25,4.5,(972) 685-5280,9661 Audelia RdSte 112,75238,Mexican,0
+Viva Fresh Mexican Grill,59,3.5,(310) 338-9153,"6515 S Sepulveda Blvd, Los Angeles",90045,Mexican,Eno Vino Wine Bar & Bistro,190,4.5,(608) 664-9565,601 Junction Rd,53717,Wine Bars,0
+The Cheesecake Factory,124,3.5,(310) 278-7270,364 N Beverly Dr,90210,American,Plata’s Restaurant at Bridges Golf Course,1,4.0,(608) 244-1822,2702 Shopko Dr,53704,Bars,0
+Tre Kronor,281,3.9,(773) 267-9888,"3258 W. Foster Avenue, Chicago",60625,"Scandinavian, Swedish",Pequod’s Pizzeria,2482,4.0,(773) 327-1512,2207 N Clybourn Ave,60614,Pizza,0
+Tatsu Ramen,30,3.5,(310) 684-2889,"2123 Sawtelle Blvd, Los Angeles",90025,"Japanese, Ramen",Friedman’s,77,4.0,(212) 268-1100,450 10th Ave,10018,Breakfast & Brunch,0
+The Rigby Pub & Grill,48,3.2,(608) 442-1112,"119 E Main St, Madison",53703,"American, Burger, Bar Food",Cafe Habana,2586,4.0,(212) 625-2001,17 Prince St,10012,Cuban,0
+Kushiyu,253,4.0,(818) 609-9050,18713 Ventura Blvd,91356,"BBQ, Japanese, Sushi",The Old Fashioned,961,4.0,(608) 310-4545,23 N Pinckney St,53703,American (Traditional),0
+Shalel Lounge,101,3.9,(212) 873-2300,"65 W 70th Street, New York",10023,Moroccan,The Old Fashioned,961,4.0,(608) 310-4545,23 N Pinckney St,53703,American (Traditional),0
+Home Restaurant,173,3.6,(323) 665-0211,"2500 Riverside Dr, Los Angeles",90039,American,Mémé Mediterranean,341,4.0,(646) 692-8450,581 Hudson St,10014,Mediterranean,0
+El Cantinero,86,3.2,(212) 255-9378,"86 University Place, New York, NY",10003,Mexican,Heartland Grill,11,2.5,(608) 258-9505,706 John Nolen Dr,53713,American (Traditional),0
+Sul & Beans,6,3.1,(213) 385-5510,"621 Western Ave, Los Angeles",90005,Coffee and Tea,Pera Turkish Kitchen,209,4.5,(972) 267-4444,17479 Preston Rd,75252,Mediterranean,0
+Kokopelli,29,3.4,(773) 698-7670,"1324 N. Milwaukee Avenue, Chicago",60622,Mexican,Kabayo Cham Bada,56,4.0,(323) 645-7668,201 N Western Ave,90004,Seafood,0
+Cinco de Mayo,51,3.6,(310) 391-5354,11204 Washington Place,90230,Mexican,Jimmy John’s,5,3.0,(608) 251-6789,527 State St,53703,Sandwiches,0
+Agave,171,3.5,(212) 989-2100,"140 7th Avenue South, New York",10014,"American, Mexican",The Kitchen Chicago,161,4.0,(312) 836-1300,316 N Clark St,60654,American (New),0
+Apple Villa Famous Pancake House,101,3.5,(847) 765-2000,3101 N. Barrington Road,60192,American,Della Terra,313,4.0,(323) 933-7675,7675 Beverly Blvd,90036,Italian,0
+Grimaldi's Pizzeria,43,3.4,(214) 987-1173,"8060 Park Lane, Suite 105",75231,"Italian, Pizza",Ming Place China Bistro,164,3.5,(214) 350-8188,5715 Lemmon AveSte 3,75209,Chinese,0
+Gargiulo's,160,3.8,(718) 266-4891,"2911 West 15th Street, Brooklyn",11224,Italian,Manila Social Club,31,4.5,(718) 384-4396,2 Hope St,11211,"Filipino,Cafes",0
+Nookies Too,133,3.6,(773) 327-1400,"2112 N. Halsted Street, Chicago",60614,American,Nitty Gritty Birthday Bar,95,3.0,(608) 251-2521,223 N Frances St,53703,Burgers,0
+Dragonfly - Hotel Zaza,137,3.4,(214) 550-9500,"Hotel Zaza, 2332 Leonard Street, Dallas",75201,New American,Samurai Papa,78,4.5,(718) 599-7171,32 Varet St,11206,Ramen,0
+Chan Dara,73,3.7,(323) 467-1052,"310 N Larchmont Blvd, Los Angeles",90004,Thai,Giuseppina’s,163,4.5,(718) 499-5052,691 6th ave,11215,Pizza,0
+L'Ecole Restaurant,156,3.8,(212) 219-3300,"462 Broadway, New York",10013,French,Son of a Gun,1214,4.0,(323) 782-9033,8370 W 3rd St,90048,Seafood,0
+"Pastoral Artisan Cheese, Bread & Wine",69,4.6,(312) 658-1250,"53 E. Lake Street, Chicago",60601,"Sandwich, European",Taqueria Kermes,208,4.5,(347) 463-9263,66-36 Fresh Pond Rd,11385,Mexican,0
+Red Lobster,90,3.3,(212) 730-6706,"5 Times Square, New York",10036,Seafood,Podhalanka,285,4.0,(773) 486-6655,1549 W Division St,60642,Polish,0
+Christy's Landing,26,3.0,(608) 222-5391,"2952 Waubesa Ave, Madison",53711,"Burger, Pizza, Sandwich",My Pie,185,4.5,(212) 317-1850,696 Lexington Ave,10022,Italian,0
+Millions of Milkshakes,87,3.6,Not Available,"8910 Santa Monica Blvd, Los Angeles",90069,Desserts,The Monkey’s Paw,144,4.0,(773) 413-9314,2524 N Southport Ave,60614,Bars,0
+Egg Shack,56,4.4,(708) 389-8590,"1727 W. 127th Street, Chicago",60827,Cafe,Five Leaves,1015,4.0,(718) 383-5345,18 Bedford Ave,11222,"Breakfast & Brunch,Bars",0
+Maria Pia,121,3.7,(212) 765-6463,"319 W 51st Street, New York",10019,Italian,Inspiration Kitchens,126,4.5,(773) 801-1110,3504 W Lake St,60624,American (New),0
+Il Capriccio on Vermont,115,3.8,(323) 662-5900,"1757 N Vermont Ave, Los Angeles",90027,Italian,Carmine’s Pizza,89,3.5,(214) 520-6000,2006 San Jacinto St,75201,Pizza,0
+Capri Steak House,27,3.2,(920) 623-4818,126 S Ludington St,53925,Steakhouse,JINYA Ramen Bar,266,4.0,(323) 954-6477,5168 Wilshire Bld,90036,Ramen,0
+Blue Ribbon Sushi,420,3.7,(212) 343-0404,"119 Sullivan Street, New York",10012,"Sushi, Japanese",Sandbar Cantina and Grill,45,4.0,(214) 647-1424,317 S 2nd Ave,75226,Bars,0
+Petey's Burger,171,4.2,(718) 267-6300,"3017 30th Avenue, Queens",11102,"Burger, Fast Food",El Burrito Loco,1,4.0,(608) 203-9670,745 N High Point Rd,53717,Mexican,0
+Bone Daddy's House Of Smoke,652,3.6,(214) 575-3050,"8856 Spring Valley Road, Dallas",75240,BBQ,Francisco’s Mexican Cantina,59,3.5,(608) 294-1100,121 E Main St,53703,Mexican,0
+Spork,31,2.9,(214) 643-6871,"6110 Frankford Road, Dallas",75252,"Sandwich, Healthy Food, American",Wendigo,55,4.5,(608) 205-2775,121 East Main St,53589,American (New),0
+Madame Matisse,68,3.7,(323) 662-4862,"3536 W Sunset Blvd, Los Angeles",90026,"French, International, California",Gyu-Kaku Japanese BBQ,18,4.5,(312) 982-2840,1364 W. Randolph St,60607,Japanese,0
+Maman,24,3.4,(212) 226-0700,"239 Centre Street, New York",10013,"Cafe, French",Mohawk Bend,1411,4.0,(213) 483-2337,2141 W Sunset Blvd,90026,"Gastropubs,Pubs,Breweries",0
+Ruby's Diner,25,3.4,(323) 382-7829,"100 Citadel Dr Ste 222, Commerce",90040,"American, Burger, Diner",Fools Gold NYC,125,4.0,(212) 673-2337,145 E Houston St,10002,Gastropubs,0
+The Kunjip,192,3.6,(212) 564-6845,"32 W 32nd Street, New York",10001,Korean,Giuseppina’s,163,4.5,(718) 499-5052,691 6th ave,11215,Pizza,0
+Armani/Ristorante 5th Avenue,41,3.2,(212) 207-1902,"717 5th Avenue, New York",10022,"Italian, Mediterranean",Proof + Pantry,90,3.5,(214) 880-9940,1722 Routh StSte 102,75201,"Cocktail Bars,Seafood",0
+Irish Pub,8,2.9,(608) 256-6071,"317 State St Ste A, Madison",53703,Irish,The Punchbowl,244,4.5,(323) 666-1123,4645 Melbourne Ave,90027,Live/Raw Food,0
+Baisi Thai,56,3.2,(312) 642-5030,"900 Shops, 900 N. Michigan Avenue, 6th Floor, Chicago",60611,"Thai, Japanese, Chinese",Olympic Noodle,238,4.0,(323) 931-0007,4008 W Olympic Blvd,90019,Korean,0
+Village Yokocho,117,4.0,(212) 598-3041,"8 Stuyvesant Street, New York",10003,Japanese,Backyard Bowls,83,4.5,(323) 746-5404,8303 Beverly Blvd,90048,Breakfast & Brunch,0
+La Hacienda Ranch,166,3.4,(972) 248-2424,"17390 Preston Road, Dallas",75252,Mexican,Eastwick,155,4.0,(347) 987-3188,112 Graham Ave,11206,American (New),0
+Topper's Pizza,18,3.3,(608) 274-4444,"6291 McKee Rd., Suite F",53719,"Pizza, Sandwich",Kabob Shack,96,4.5,(718) 387-7111,182 Havemeyer St,11211,Afghan,0
+Bread Winners,1254,4.0,(214) 754-4940,"3301 McKinney Avenue, Dallas",75204,"American, Bakery",Kinjiro,99,4.5,(213) 229-8200,Honda Plaza424 E 2nd St,90012,Japanese,0
+10Below Ice Cream,7,3.1,(212) 965-1336,"10 Mott Street, New York, NY",10013,Ice Cream,Lulu & Po,115,4.5,(917) 435-3745,154 Carlton Ave,11205,"American (New),French,Beer, Wine & Spirits,Italian,Beer, Wine & Spirits,American (New)",0
+Doughnut Plant,795,4.4,(212) 505-3700,"379 Grand Street, New York",10002,Donuts,Go 4 Food,472,4.0,(312) 842-8688,212 W 23rd St,60616,Chinese,0
+Verve Coffee Roasters / Juice Served Here,4,2.9,(213) 455-5991,"833 S Spring St, Los Angeles",90014,"Coffee and Tea, Beverages",Guadalupe’s Place,53,4.5,(323) 462-3329,5028 Melrose Ave,90038,Mexican,0
+The General Greene,156,3.4,(718) 222-1510,"229 DeKalb Avenue, Brooklyn",11205,New American,Savor Gastropub,300,3.5,(214) 306-5597,2000 Woodall Rodgers Fwy,75201,Gastropubs,0
+Royal Thai,537,3.8,(214) 691-3555,"5500 Greenville Avenue, Suite 608, Dallas",75206,Thai,La Catrina Cafe,72,4.0,(312) 473-0038,1011 W 18th St,60608,Cafes,0
+Moy Goy Inn,109,4.2,(708) 354-5992,719 W. Hillgrove Avenue,60525,Chinese,El Paisa Cocina Mexicana,10,4.5,(214) 366-9789,10840 Harry Hines Blvd,75220,Mexican,0
+Bonnie's Grill,360,4.0,(718) 369-9527,"278 5th Avenue, Brooklyn",11215,"American, Burger",Takuma’s Burgers,64,4.5,(213) 864-9305,2939 W Sunset Blvd,90026,Burgers,0
+Joe's Pizza,247,4.1,(212) 366-1182,"7 Carmine Street, New York",10014,Pizza,ORD Pizzeria,128,4.0,(773) 327-9200,1607 W Montrose Ave,60613,Pizza,0
+Hama Sushi Restaurant,88,3.5,(310) 396-8783,213 Windward Ave,90291,"Asian, Japanese, Sushi",La Victoria,79,4.0,(214) 827-0101,1605 N Haskell Ave,75204,Mexican,0
+Apollonia's Pizzeria,8,3.2,(323) 937-2823,"5176 Wilshire Blvd, Los Angeles",90036,"Italian, Pizza",Mercado,483,4.0,(323) 944-0947,7910 W 3rd St,90048,Mexican,0
+Menchie's Frozen Yogurt,208,4.0,(818) 985-9150,"4849 Laurel Canyon Blvd, Valley Village",91607,Desserts,Chili’s Bar & Grill,18,3.0,(608) 242-9300,4344 E Towne Blvd,53704,Bars,0
+Bob's Steak and Chop House - Omni Hotel Dallas,82,3.7,(214) 652-4800,"Omni Hotel Dallas, 555 South Lamar Street, Dallas",75202,Steakhouse,The Boiling Crab,1631,4.0,(213) 389-2722,3377 Wilshire BlvdSte 115,90010,Seafood,0
+Weber Grill Restaurant,603,3.6,(312) 467-9696,"Hilton Garden Inn, 539 N. State Street, Chicago",60654,Steakhouse,ilili,1596,4.0,(212) 683-2929,236 5th Ave,10001,Mediterranean,0
+Los Tacos No. 1,71,4.6,(212) 256-0343,"Chelsea Market, 75 9th Avenue, New York",10011,Taco,Ipanema Restaurant,424,4.0,(646) 791-7171,43 W 46th St,10036,Brazilian,0
+Zinc Cafe,6,3.2,(323) 825-5381,"580 Mateo St, Los Angeles",90013,"Breakfast, Pizza, California",Francesca’s Al Lago,81,3.5,(608) 255-6000,111 Martin Luther King Jr Blvd,53703,Italian,0
+Moy Goy Inn,109,4.2,(708) 354-5992,719 W. Hillgrove Avenue,60525,Chinese,Adrienne’s Pizzabar,853,4.0,(212) 248-3838,54 Stone St,10004,Pizza,0
+Uncle Darrow's Cajun Creole Eatery,60,3.7,(310) 306-4862,"2560 Lincoln Blvd, Venice",90291,"Seafood, Southern",Ippudo NY,7588,4.0,(212) 388-0088,65 4th Ave,10003,"Ramen,Ramen",0
+Paris Baguette,29,3.4,(212) 244-0404,"6 West 32nd Street, New York",10001,"Cafe, Bakery",Snuffer’s Restaurant & Bar,70,3.5,(214) 265-9911,8411 Preston RdSte 112,75225,Burgers,0
+Amorino Beverly Hills,4,3.2,(424) 335-0317,9605 S Santa Monica Blvd,90210,,Seoul Garden Restaurant,378,4.0,(213) 386-8477,1833 W Olympic Blvd,90006,Korean,0
+Seasons 52,170,3.8,(847) 517-5252,1770 E. Higgins Road,60173,New American,The Food Sermon Kitchen,53,4.5,(718) 484-7555,355 Rogers Ave,11225,Caribbean,0
+P.F. Chang's,421,3.6,(214) 265-8669,"NorthPark Center, 8697 North Central Expressway, Level One, Dallas",75225,"Asian, Chinese",Luna’s Tortilla Factory,57,4.0,(214) 747-2661,8524 Harry Hines Blvd,75235,Mexican,0
+Monkey King Noodle Co.,49,3.4,(469) 206-3658,"3014 Main Street, Dallas",75226,"Asian, Chinese",First Draft,207,4.0,(312) 461-1062,649 S Clark St,60605,Bars,0
+Sweet Georgia Brown,1258,4.5,(214) 375-2020,"2840 E Ledbetter Drive, Dallas",75216,BBQ,Y O Ranch Steakhouse,320,4.0,(214) 744-3287,702 Ross Ave,75202,Steakhouses,0
+Lark Cake Shop,39,3.5,(323) 667-2968,"3337 West Sunset Boulevard, Los Angeles",90026,,Wingstop,20,3.0,(608) 258-9464,1234 Regent St,53715,Chicken Wings,0
+Maria's Mexican Restaurant,54,3.4,(773) 992-2288,"9440 Foster Avenue, Chicago",60656,"Mexican, Seafood",Winslow’s,34,4.5,(214) 559-4470,3908 Cedar Springs Rd,75219,Pizza,0
+Absolute Bagels,277,4.4,(212) 932-2052,"2788 Broadway, New York",10025,Bagels,Holy Ravioli,15,4.5,(214) 696-3993,4446 Lovers Ln,75225,Italian,0
+Ocean Prime,225,3.3,(214) 965-0440,"2101 Cedar Springs Road, Dallas",75201,"Seafood, Steakhouse",Print,500,4.0,(212) 757-2224,653 11th Ave,10036,American (New),0
+Kenichi,184,3.3,(214) 871-8883,"2400 Victory Park Lane, Dallas",75219,"Asian, Japanese, Sushi",Avilas Mexican Restaurant,226,4.0,(214) 520-2700,4714 Maple Ave,75219,Mexican,0
+Carmine's,60,3.5,(310) 441-4706,"10463 Santa Monica Blvd, Los Angeles",90025,Italian,Madison Food Explorers,10,5.0,(608) 444-3050,2406 Upham St,53704,American (Traditional),0
+Plush Horse Ice Cream,94,4.6,(708) 448-0550,12301 South 86th Ave,60464,"Desserts, Ice Cream",YUJI Ramen,24,5.0,(718) 302-0598,150 Ainslie St,11211,Ramen,0
+Bobtail Ice Cream Company,158,4.1,(773) 880-7372,"2951 N. Broadway Street, Chicago",60657,Ice Cream,Blackjack Pizza,9,4.5,(214) 565-1025,2536 Mrtn Lthr Kng Jr,75215,Pizza,0
+Cici's Cafe,141,4.2,(818) 881-6704,"18912 Ventura Blvd, Los Angeles",91356,"American, Breakfast",Shojin Downtown,1106,4.5,(213) 617-0305,333 S Alameda StSte 310,90013,Japanese,0
+Feed,120,4.1,(773) 489-4600,2803 W. Chicago Avenue,60622,Southern,Balzem,119,4.0,(646) 837-7033,202 Mott St,10012,Mediterranean,0
+Chocolat Restaurant and Lounge,66,3.3,(212) 222-4545,"2217-23 Frederick Douglass Boulevard, New York",10026,American,Sunshine Restaurant,77,4.5,(323) 462-4646,861 N Western Ave,90029,Thai,0
+Buddakan,1493,3.9,(212) 989-6699,"75 9th Avenue, New York",10011,"Chinese, Fusion, Asian",Jack’s Wife Freda,124,4.0,(646) 669-9888,50 Carmine St,10014,American (New),0
+Sesame Inn,65,3.6,(708) 229-2373,2941 W. 95th Street,60805,"Chinese, Japanese, Thai, Sushi",Wah’s Golden Hen,210,4.5,(323) 661-0093,709 N Virgil Ave,90029,Chinese,0
+Carl's Cakes LLC,29,3.4,(608) 825-3377,110 Market St,53590,,Mekelburg’s,38,4.5,(718) 399-2337,293 Grand Ave,11238,Specialty Food,0
+Spacca Napoli,545,3.9,(773) 878-2420,"1769 W. Sunnyside Avenue, Chicago",60640,"Pizza, Italian",Pizza Pit,2,1.0,(608) 222-5001,13 Atlas Ct,53714,Pizza,0
+Randazzo's Clam Bar,219,3.7,(718) 615-0010,"2023 Emmons Avenue, Brooklyn",11235,"Seafood, Italian",Cindi’s NY Delicatessen Restaurant & Bakery,88,4.0,(972) 241-9204,3565 Forest Ln,75234,Delis,0
+SOBs,31,3.2,(212) 243-4940,"204 Varick Street, New York",10014,"Caribbean, Latin American",Bob’s Steak & Chop House,69,4.0,(214) 652-4800,555 S Lamar St,75202,Steakhouses,0
+Park's BBQ,116,4.0,(213) 380-1717,"955 S Vermont Ave, Los Angeles",90006,"Asian, BBQ, Korean",Fabulous Freddies Italian Eatery,224,3.5,(312) 808-0147,701 W 31st St,60616,Pizza,0
+Jekyll and Hyde,107,2.6,(212) 989-7701,"91 7th Avenue South, New York",10014,Pub Food,Bernie’s Lunch & Supper,41,4.0,(312) 624-9892,660 N Orleans St,60654,Mediterranean,0
+Corner Bistro,782,3.7,(212) 242-9502,"331 W 4th Street, New York",10014,"Burger, Bar Food",Lakewood Landing,121,4.0,(214) 823-2410,5818 Live Oak St,75214,Dive Bars,0
+John's Pizza of Times Square,1391,3.9,(212) 391-6840,"260 W 44th Street, New York",10036,"Italian, Pizza",Halverson’s Supper Club,12,3.5,(608) 873-3001,1965 Barber Dr,53589,American (Traditional),0
+Four Cafe,68,4.1,(323) 550-1988,2122 1/2 Colorado Blvd,90041,"Sandwich, California",Twisted Root Burger Co.,299,4.0,(214) 361-2910,5609 SMU BlvdSuite 102,75206,"Burgers,墨西哥菜,快餐車",0
+Start,80,3.4,(214) 265-1411,"4814 Greenville Avenue, Dallas",75206,"Fast Food, American",Wendy’s,6,3.5,(608) 271-8789,633 S Gammon Rd,53719,Fast Food,0
+Lido,92,3.4,(646) 490-8575,"2168 Frederick Douglass Boulevard, New York",10026,Italian,La 1st St Taqueria,65,4.5,(323) 262-9787,1843 1/2 E 1st St,90033,Mexican,0
+Sardi's,214,3.9,(212) 221-8440,"234 W 44th Street, New York",10036,"American, Seafood",Mexique,550,4.0,(312) 850-0288,1529 W Chicago Ave,60622,French,0
+Bonnie's Grill,360,4.0,(718) 369-9527,"278 5th Avenue, Brooklyn",11215,"American, Burger",Bao Dim Sum House,1418,4.0,(323) 655-6556,8256 Beverly Blvd,90048,Dim Sum,0
+Palermo Ristorante Italiano,178,3.7,(323) 663-1178,"1858 N Vermont Ave, Los Angeles",90027,Italian,Sammy’s Bar-B-Q,104,4.0,(214) 880-9064,2126 Leonard St,75201,Barbeque,0
+Connie's Pizza,155,3.6,(312) 614-4020,"2373 S. Archer Avenue, Chicago",60616,"Italian, Pizza",Villa-O,275,3.5,(214) 780-1880,4514 Travis StSte 132,75205,Italian,0
+The Assembly,119,3.6,(847) 843-3993,"2570 Hassell Road, Hoffman Estates",60169,"American, Burger",Open Sesame,275,4.5,(323) 525-1698,7458 Beverly Blvd,90036,Mediterranean,0
+Bodhi Thai Bistro,115,4.1,(708) 484-9250,6211 W. Roosevelt Road,60402,Thai,Bistro Dre,241,4.0,(773) 697-9067,2965 N Lincoln Ave,60657,Desserts,0
+Pinot Grill,42,3.4,(213) 842-0048,"135 N Grand Ave, Los Angeles",90012,,Zizi Limona,220,4.0,(347) 763-1463,129 Havemeyer St,11211,Mediterranean,0
+Kalachandji's Restaurant & Palace,391,3.6,(214) 821-1048,"5430 Gurley Avenue, Dallas",75223,Indian,Dugg Burger,95,4.5,(214) 584-6261,9540 Garland RdSte 407,75218,Burgers,0
+Jacob Restaurant Soul Food & Salad Bar,107,4.1,(212) 866-3663,"373 Lenox Avenue, New York",10027,"Southern, Healthy Food",Blowin’ Smoke BBQ Food Cart,12,4.5,(608) 850-9848,East Main and South Pinckney,53703,Barbeque,0
+Catfish Floyd's,92,3.7,(214) 375-3736,"710 E Ann Arbor Avenue, Dallas",75216,"Southern, American",Becco,1683,4.0,(212) 397-7597,355 W 46th St,10036,"Italian,Italian,Italian,Italian,Italian,Italian",0
+Pappas Bar-B-Q,93,3.3,(214) 956-9038,"2231 W NW Highway, Dallas",75220,"American, BBQ",Gonzalez Restaurant,68,4.0,(214) 946-5333,367 W Jefferson Blvd,75208,Tex-Mex,0
+Taboon,152,3.6,(212) 713-0271,"773 10th Avenue, New York",10019,"Mediterranean, Middle Eastern",Stalzy’s Deli,64,3.5,(608) 249-7806,2701 Atwood Ave,53704,Delis,0
+Pizza Guy,66,3.5,(972) 733-1222,"17390 Preston Road, Dallas",75252,Pizza,Big Al’s Smokehouse BBQ,113,3.5,(214) 350-2649,3317 Inwood Rd,75235,Barbeque,0
+The 5 and Diamond Restaurant,64,3.7,(917) 860-4444,"2072 Frederick Douglass Boulevard, New York",10026,"New American, Breakfast, Fusion",OTB,64,4.5,(347) 763-1481,141 BroadwayWilliamsburg,11211,American (New),0
+The Mermaid Inn,165,3.7,(212) 799-7400,"568 Amsterdam Avenue, New York",10024,"American, Seafood",Burger Lounge,137,4.0,(323) 462-2310,217 North Larchmont Blvd,90004,Burgers,0
+Le Village,4,2.8,(212) 539-0231,"127 E 7th Street, New York",10009,French,Providence,1920,4.5,(323) 460-4170,5955 Melrose Ave,90038,Seafood,0
+Sunprint On The Square,18,3.2,(608) 268-0114,"10 W. Mifflin St., Madison",53703,"Breakfast, Coffee and Tea",Parkway Family Restaurant,17,3.5,(608) 255-2355,1221 Ann St,53713,American (New),0
+Five Napkin Burger,1046,4.2,(212) 757-2277,"630 9th Avenue, New York",10036,"American, Burger, Sushi",Ten Eleven Grill,18,4.0,(214) 565-3808,1011 Corinth St,75215,American (Traditional),0
+L'Artusi,253,3.9,(212) 255-5757,"228 West 10th Street, New York",10014,Italian,Local,176,4.0,(214) 752-7500,2936 Elm St,75226,American (New),0
+Uptown Pub,39,3.2,(214) 522-5100,"3605 McKinney Avenue, Dallas",75204,"American, Burger, Sandwich",Hotel Café,479,4.5,(323) 461-2040,1623 1/2 N Cahuenga Blvd,90028,Music Venues,0
+Wu Liang Ye,136,3.5,(212) 398-2308,"36 W 48th Street, New York",10036,Chinese,Draft House Bar & Restaurant,31,3.5,(608) 848-3158,1010 Enterprise Dr,53593,American (Traditional),0
+Anvil Pub,85,3.8,(214) 741-1271,"2638 Elm Street, Dallas",75226,"Bar Food, American",Malaparte,142,4.0,(212) 255-2122,753 Washington St,10014,Italian,0
+Pasta Bowl,165,4.0,(773) 525-2695,"2434 N. Clark Street, Chicago",60614,Italian,Berlin Currywurst,510,4.0,(323) 663-1989,3827 W Sunset Blvd,90026,German,0
+The Chicago Diner,26,3.3,(773) 252-3211,"2333 N. Milwaukee Avenue, Chicago",60647,American,P.F. Chang’s,62,3.0,(608) 831-2488,2237 Deming Way,53562,Chinese,0
+"Joe's Seafood, Prime Steak & Stone Crab",869,4.0,(312) 379-5637,"60 E. Grand Avenue, Chicago",60611,"Steakhouse, Seafood",House of Blues,321,3.5,(214) 978-2583,2200 N Lamar St,75202,Music Venues,0
+Mariano's Hacienda Ranch,310,3.8,(214) 691-3888,"6300 Skillman Street, Building J, Dallas",75231,Tex-Mex,Boqueria,148,4.5,(212) 343-2227,1460 2nd Ave,10075,Tapas/Small Plates,0
+Pacific Burgers,25,3.4,(562) 861-5145,8019 Stewart And Gray Rd,90241,"American, Burger, Mexican",Iron Chef House,260,4.0,(718) 858-8517,92 Clark St,11201,Sushi Bars,0
+Jorge's Tex-Mex,43,3.2,(214) 720-2211,"One Arts Plaza, 1722 Routh Street, Dallas",75201,Tex-Mex,Project Pie,48,4.5,(469) 547-1257,6030 Luther Ln,75225,Pizza,0
+Dixie Kitchen & Bait Shop,111,3.7,(708) 474-1378,2352 E. 172nd Street,60438,Southern,IVY Kitchen,49,4.0,(214) 306-7444,5411 Beltline Rd,75254,American (New),0
+Kyoto's Sushi,46,3.5,(818) 703-9132,"22906 Vanowen St, West Hills",91307,Japanese,Birch,119,4.5,(323) 960-3369,1634 N Cahuenga Blvd,90028,American (New),0
+Carrabba's Italian Grill,100,3.5,(972) 732-7752,"17548 Dallas Parkway, Dallas",75287,"Italian, Pizza, Seafood",Hiatus Urban Barbeque,226,4.5,(323) 879-9700,1292 S La Brea Ave,90019,Barbeque,0
+Big & Little's,37,3.9,(773) 857-6677,"1034 W. Belmont Avenue, Chicago",60657,"Sandwich, Burger, Taco, Mexican",Swine,272,4.0,(212) 255-7675,531 Hudson St,10014,American (New),0
+Pizza Loves Emily,15,3.2,(347) 844-9588,"919 Fulton Street, Brooklyn",11238,"Pizza, American, Burger",The Tradewinds Social Club,32,4.0,(214) 337-9075,2843 W Davis St,75211,Dive Bars,0
+Rapscallion,14,3.2,(469) 291-5660,"2023 Greenville Avenue, Suite 110, Dallas",75206,"New American, Seafood",Kostas Cafe,139,4.0,(214) 987-3225,4914 Greenville Ave,75206,Greek,0
+Naples 15,103,3.5,(608) 250-6330,"15 N Butler St., Madison",53703,Italian,Ardesia,255,4.0,(212) 247-9191,510 W 52nd St,10019,Wine Bars,0
+Lucky's Tavern,128,3.8,(323) 465-8259,6613 Hollywood Blvd,90028,"American, Burger, Pizza",Ambala Grill,9,4.5,(972) 620-1727,11641 Harry Hines BlvdSte 201,75229,Indian,0
+Gemini Bistro,102,3.9,(773) 525-2522,"2075 N. Lincoln Avenue, Chicago",60614,"American, French",Bistro Petit,228,4.0,(718) 782-2582,170 S 3rd St,11211,French,0
+Brass Ring,34,3.3,(608) 256-9359,"701 E Washington Ave Ste 104, Madison",53703,"American, Bar Food",Cabbage Patch,313,4.0,(213) 489-4489,520 W 6th St,90014,American (New),0
+Nickel & Rye,18,3.1,(214) 389-2120,"2523 McKinney Avenue, Dallas",75201,"Bar Food, American, Taco",The Saint Austere,212,4.5,(718) 388-0012,613 Grand St,11211,"Tapas Bars,Italian,Cocktail Bars",0
+John's Cafe,56,4.0,(214) 874-0800,"1733 Greenville Avenue, Dallas",75206,"Burger, Coffee and Tea, Southern",Boeufhaus,71,4.5,(773) 661-2116,1012 N Western Ave,60622,Brasseries,0
+Pantheon Bar,4,2.9,(608) 251-6311,"316 State St, Madison",53703,,Eldorado Grill,180,4.0,(608) 280-9378,744 Williamson St,53703,Tex-Mex,0
+Coral Tree Cafe,51,4.2,(818) 789-8733,17499 Ventura Blvd,91316,"Breakfast, Coffee and Tea",Soot Bull Jeep,722,4.0,(213) 387-3865,3136 W 8th St,90005,Korean,0
+Plancha Taco,28,3.5,(323) 951-9911,"8250 W 3rd St #108, Los Angeles",90048,Mexican,Wurstküche,6856,4.0,(213) 687-4444,800 E 3rd St,90013,Hot Dogs,0
+Triple Crown Restaurant,194,4.0,(312) 842-0088,2217 S. Wentworth Avenue,60616,"Chinese, Dim Sum, Seafood",Estrellón,32,3.5,(608) 251-2111,313 W Johnson St,53703,Spanish,0
+Michael's,114,4.3,(773) 929-4149,"4091 N. Broadway, Chicago",60613,"Pizza, Italian",Double S BBQ,2,4.0,(608) 886-8292,1835 Monroe St,53711,Barbeque,0
+Nick & Sam's Steakhouse,539,3.8,(214) 871-7444,"3008 Maple Avenue, Dallas",75201,"Steakhouse, Seafood, Sushi",Five Tacos,194,4.0,(212) 477-7090,119 St Marks Pl,10009,Mexican,0
+Oceanique,106,3.6,(847) 864-3435,505 Main Street,60202,"French, Seafood",Desperados Mexican Restaurant,267,4.0,(214) 363-1850,4818 Greenville Ave,75206,Mexican,0
+Austin Public,22,3.0,(718) 575-0070,"70-28 Austin Street, Queens",11375,American,Sangria Tapas Y Bar,225,3.5,(214) 520-4863,4524 Cole Ave,75205,Spanish,0
+Johnny Pacific,111,4.0,(818) 885-6927,7574 Winnetka Ave,91306,Latin American,Lee Harvey’s,301,4.0,(214) 428-1555,1807 Gould St,75215,American (Traditional),0
+Plaza Tavern & Grill,56,3.5,(608) 255-6592,"319 N Henry St, Madison",53703,"Burger, Bar Food",Gooseberry on the Square,6,2.5,(608) 467-6552,1 S Pinckney StSte 104,53703,Sandwiches,0
+Pete's Tavern,167,3.8,(212) 473-7676,"129 East 18th Street, New York",10003,"American, Italian, Bar Food",Ginza of Tokyo,48,2.5,(608) 833-8282,6734 Odana Rd,53719,Japanese,0
+Sushi Nakazawa,35,3.5,(212) 924-2212,"23 Commerce Street, New York",10014,"Sushi, Japanese",Taigu,18,3.5,(608) 831-3458,7610 Elmwood Ave,53562,Chinese,0
+Olive Garden,31,3.2,(972) 234-3292,"9079 Vantage Point Drive, Dallas",75243,Italian,CBD Provisions,400,4.0,(214) 261-4500,1530 Main St,75201,Brasseries,0
+Rainforest Cafe,64,2.1,(847) 855-7800,"Gurnee Mills Mall, 6170 W. Grand Avenue",60031,"American, Burger, Sandwich",bopNgrill Belmont,36,4.0,(773) 799-8868,921 W Belmont Ave,60657,Burgers,0
+Yokumon,6,2.9,(310) 838-2739,10818-B Jefferson Boulevard,90230,Desserts,Ichiban Sichuan,121,3.5,(608) 819-8808,610 S Park St,53715,Chinese,0
+Riva Crabhouse,98,3.2,(312) 644-7482,"Navy Pier, 600 E. Grand Avenue, Chicago",60611,"Seafood, Steakhouse",El Luchador,170,4.0,(646) 398-7499,87 South St,10038,Mexican,0
+Waldy's Wood Fired Pizza & Penne,254,3.9,(212) 213-5042,"800 Sixth Avenue, New York",10001,Pizza,Mesa,183,4.0,(214) 941-4246,118 W Jefferson Blvd,75208,Mexican,0
+Ernie's Mexican,99,3.5,(818) 985-4654,4410 Lankershim Blvd,91602,Mexican,Bunker Vietnamese,391,4.0,(718) 386-4282,46-63 Metropolitan Ave,11385,Vietnamese,0
+Portofino Cucina Italiana,91,3.9,(213) 239-9019,"464 S Main St, Los Angeles",90013,Italian,Sarku Japan,2,3.0,(608) 836-0818,108 W Towne Mall,53719,Japanese,0
+Jade Garden Chinese,81,3.5,(214) 821-0675,"4800 Bryan Street, Dallas",75204,"Asian, Chinese",Three Aces,620,4.0,(312) 243-1577,1321 W Taylor St,60607,Italian,0
+Yama,103,3.7,(212) 475-0969,"122 E 17th Street, New York",10003,"Japanese, Sushi",Phò Envy,40,4.0,(214) 987-1468,8611 Hillcrest RdSte 190,75225,Vietnamese,0
+Alegria on Sunset,316,3.7,(323) 913-1422,"3510 W Sunset Blvd, Los Angeles",90026,"Mexican, Southwestern",Barn Joo,567,4.0,(646) 398-9663,893 Broadway,10003,Korean,0
+Baby Blues BBQ,226,3.9,(323) 656-1277,"7953 Santa Monica Blvd, Los Angeles",90046,BBQ,Milk & Honey,151,4.0,(718) 513-0441,1119 Newkirk Ave,11230,Cafes,0
+Georgetown Cupcake,105,4.4,(212) 431-4504,"111 Mercer Street, New York",10012,Desserts,BeeHive Oven Biscuit Cafe,272,4.5,(347) 987-4960,182 S 2nd St,11211,Southern,0
+M Burger,110,3.7,(312) 254-8500,"161 E. Huron Street, Chicago",60611,"American, Burger",The Social House,289,4.0,(214) 999-0046,2708 Routh St,75201,American (New),0
+The Smith,74,3.5,(212) 496-5700,"1900 Broadway, New York",10023,American,Yxta Cocina Mexicana,616,4.0,(213) 596-5579,601 S Central Ave,90021,Mexican,0
+El Basurero,205,3.8,(718) 545-7077,"32-17 Steinway Street, Queens",11103,Colombian,Noshi Sushi,901,4.0,(323) 469-3458,4430 Beverly Blvd,90004,Sushi Bars,0
+B.B.Bop Seoul Kitchen,64,4.2,(214) 812-9342,"5323 Greenville Avenue Suite 5, Dallas",75206,"Asian, Korean",Mexicali Restaurant,77,4.0,(214) 341-9405,11277 E NW HwySte 148,75238,Tex-Mex,0
+Ideya,99,3.6,(718) 636-6770,"636 Carlton Avenue, Brooklyn",11238,"Caribbean, Cuban, Latin American",Ziziki’s,189,4.0,(214) 521-2233,4514 Travis StSte 122,75205,Greek,0
+Shamrock Bar,25,3.3,(608) 255-5029,"117 W Main St, Madison",53703,Bar Food,Upland,246,4.0,(212) 686-1006,345 Park Ave S,10010,American (New),0
+Cabana,365,4.0,(718) 263-3600,107-10 70th Road,11375,"Cuban, Latin American",Campisis,71,3.5,(214) 350-2595,5405 W Lovers Ln,75209,Italian,0
+Miceli's,147,3.6,(323) 851-3344,"3655 Cahuenga Blvd W, Hollywood",90068,Italian,Boqueria,789,4.0,(212) 255-4160,53 W 19th St,10011,Spanish,0
+Ocho Mexican Grill,30,3.4,(888) 988-6246,"630 W 6th St Ste 110A, Los Angeles",90017,Mexican,Soba-ya,930,4.0,(212) 533-6966,229 E 9th St,10003,"Japanese,Japanese,Sushi Bars,Japanese,Japanese,Japanese",0
+Cut,256,3.6,(310) 276-8500,9500 Wilshire Blvd,90212,"Steakhouse, American",Yang San Bak,202,4.0,(213) 365-9689,3601 W 6th St,90020,Korean,0
+Riccardo Trattoria,152,3.7,(773) 549-0038,"2119 N. Clark Street, Chicago",60614,"Italian, Seafood",Print,500,4.0,(212) 757-2224,653 11th Ave,10036,American (New),0
+China King,50,3.9,(920) 623-0113,107 N Ludington St,53925,Chinese,La Palma Puerto Rican Restaurant,89,4.0,(773) 862-0886,1340 N Homan Ave,60651,Latin American,0
+Overland Cafe,143,3.8,(310) 559-9999,"3601 Overland Ave, Los Angeles",90034,"Breakfast, Vegetarian, California",Quesadilla La Reyna del Sur,238,4.0,(773) 235-8807,2235 N Western Ave,60647,Mexican,0
+La Cevicheria,32,3.5,(323) 732-1253,"3809 W Pico Blvd, Los Angeles",90019,Latin American,Ostrich Farm,82,4.0,(213) 537-0657,1525 W Sunset Blvd,90026,American (Traditional),0
+Toloache 50,365,3.8,(212) 581-1818,"251 W 50th Street, New York",10019,Mexican,David Burke Kitchen,869,4.0,(212) 201-9119,23 Grand St,10013,"American (New),American (New),American (New),Steakhouses,American (New),Seafood",0
+Bistrot Zinc,210,3.7,(312) 337-1131,"1131 N. State Street, Chicago",60610,"European, French",Mekong,2,1.5,(608) 250-6280,600 Williamson StSte G,53703,Vietnamese,0
+Dryhop Brewers,32,3.4,(773) 857-3155,"3155 N. Broadway Street, Chicago",60657,"American, Bar Food",Nora Restaurant and Bar,160,4.0,(214) 828-0095,1928 Greenville Ave,75206,Afghan,0
+Baja Fresh Mexican Grill,24,3.2,(818) 762-7326,10760 Riverside Dr,91602,"Fast Food, Mexican, Tex-Mex",The Warehouse Bar & Pizzeria Chicago,21,4.5,(773) 661-6454,1419 W Fullerton Ave,60614,Pizza,0
+Dozika,84,3.6,(847) 869-9740,601 Dempster Street,60201,"Asian, Japanese, Thai",Twisted Root Burger Co.,299,4.0,(214) 361-2910,5609 SMU BlvdSuite 102,75206,"Burgers,墨西哥菜,快餐車",0
+Ricobene's,133,3.7,(312) 225-5555,"252 W. 26th Street, Chicago",60616,"Italian, Pizza, American",Mot Hai Ba,185,4.0,(972) 638-7468,6047 Lewis St,75206,Vietnamese,0
+Cocina Real,25,3.3,(608) 831-0528,2518 Allen Blvd,53562,Mexican,Charcoal BBQ Bourbon & Beer,143,4.0,(323) 300-5500,2611 N Hyperion Ave,90027,Barbeque,0
+L'Apicio,32,3.4,(212) 533-7400,"13 E 1st Street, New York",10003,Italian,T & B Grill,77,5.0,(773) 961-7016,3658 W Lawrence Ave,60625,Latin American,0
+Gold Rush Cafe,149,3.6,(214) 823-6923,"1913 Skillman Street, Dallas",75206,"American, Sandwich",O’Cha Thai Cuisine,119,4.0,(773) 235-6242,2062 N Damen Ave,60647,Thai,0
+Mexican Radio,168,3.5,(212) 343-0140,"19 Cleveland Place, New York",10012,Mexican,Pho Colonial,165,3.0,(469) 480-3059,1623 Main StSte 102,75201,Vietnamese,0
+Cesar's Killer Margaritas,102,3.4,(773) 296-9097,"2924 N. Broadway Street, Chicago",60657,Mexican,RollnGo,168,4.0,(866) 765-5123,6110 Greenville AveSte 100,75206,Vietnamese,0
+Asian House,11,3.1,(608) 268-0005,"1 Dempsey Rd, Madison",53714,"Asian, Chinese",Full Circle Tavern,142,4.5,(214) 208-3435,1319 S Lamar St,75215,American (Traditional),0
+Tenzan,220,3.6,(212) 580-7300,"285 Columbus Avenue, New York",10023,"Japanese, Sushi",KazuNori,829,4.5,(213) 493-6956,421 S Main St,90013,Sushi Bars,0
+Goff's Hamburgers,137,3.3,(214) 520-9133,"6401 Hillcrest Avenue, Dallas",75205,Burger,The Admiralty,3,4.0,(608) 256-9071,The Edgewater666 Wisconsin Ave,53703,French,0
+Neighborhood Services,365,3.9,(214) 350-5027,"5027 W Lovers Lane, Dallas",75209,New American,Newell’s Deli,1,5.0,(608) 890-1256,35 N Park St,53715,Delis,0
+Mon Ami Gabi,150,3.6,(630) 472-1900,"Oak Brook Mall, 260 Oakbrook Center",60523,French,Taste of Tehran,364,4.5,(310) 470-0022,1915 Westwood Blvd,90025,Persian/Iranian,0
+Gyu-Kaku,101,3.9,(310) 659-5760,163 N La Cienega Blvd,90211,"BBQ, Japanese, Korean",Aldo’s Cafe,20,3.5,(608) 204-3943,330 N Orchard St,53715,"Cafes,American (New)",0
+Rock & Reilly's Irish Pub,41,3.5,(310) 360-1400,8911 W. Sunset Blvd.,90069,"British, International, Bar Food",Chicago’s Dog House,270,4.0,(773) 248-3647,816 W Fullerton Ave,60614,Hot Dogs,0
+Houlihan's,167,3.4,(972) 386-0609,"5225 Belt Line Road, Suite 220, Dallas",75254,American,Nickel Diner,1888,4.0,(213) 623-8301,524 S Main St,90013,Diners,0
+Toi on Sunset,182,3.6,(323) 874-8062,"7505 W Sunset Blvd, Los Angeles",90046,Thai,AlMar,190,4.0,(718) 855-5288,111 Front St,11201,Italian,0
+Henry's Tacos,86,3.6,(818) 769-0343,4389 Tujunga Ave,91604,"American, Mexican",El Ranchito,21,4.5,(214) 324-3303,1141 Peavy Rd,75218,Mexican,0
+Wildberry Pancakes & Cafe,318,4.1,(847) 517-4000,1383 N. Meacham Road,60173,American,El Cubanito,192,4.5,(773) 235-2555,2555 N Pulaski Rd,60639,Cuban,0
+Le Zie,209,3.6,(212) 206-8686,"172 7th Avenue, New York",10011,Italian,Wilson’s Bar,16,3.5,(608) 241-2226,2144 Atwood Ave,53704,Sports Bars,0
+Athenian Room,463,4.1,(773) 348-5155,"807 W. Webster Avenue, Chicago",60614,Greek,Holy Ravioli,15,4.5,(214) 696-3993,4446 Lovers Ln,75225,Italian,0
+Ipsento,101,4.0,(773) 904-8177,"2035 N. Western Avenue, Chicago",60647,"Cafe, Sandwich",Las Palmas,540,4.0,(773) 289-4991,1835 W North Ave,60622,Mexican,0
+Sammy's Fish Box,309,3.6,(718) 509-6367,"41 City Island Avenue, Bronx",10464,"American, Seafood",Roberta’s,1502,4.0,(718) 417-1118,261 Moore St,11206,"Pizza,Convenience Stores,Mexican,American (Traditional),Caribbean,American (New)",0
+Fedora Restaurant,100,4.2,(646) 449-9336,"239 W 4th Street, New York",10014,"American, French",Anvil Pub,256,3.5,(214) 741-1271,2638 Elm St,75226,Pubs,0
+Park's BBQ,116,4.0,(213) 380-1717,"955 S Vermont Ave, Los Angeles",90006,"Asian, BBQ, Korean",The Jeffrey Craft Beer & Bites,352,4.0,(212) 355-2337,311 E 60th St,10022,"Bars,Bars,Eetcafés",0
+Milton Family Restaurant,21,3.0,(608) 868-4611,541 Vernal Ave,53563,American,sweetgreen,65,4.5,(347) 987-3863,162 N 4th St,11211,Salad,0
+Fabrocini's Italian,167,4.0,(818) 342-4490,18608 Ventura Blvd,91356,Italian,The Hollywood Corner,490,3.5,(323) 463-2220,1156 N Highland Ave,90038,American (Traditional),0
+Layla's Persian Food,20,3.2,(608) 216-4511,"141 South Butler Street, Madison",53703,Middle Eastern,El Come Taco,164,4.5,(214) 821-3738,2513 N Fitzhugh Ave,75204,Mexican,0
+Dao Thai,191,3.5,(312) 337-0000,"230 E. Ohio Street, Chicago",60611,"Asian, Thai",Frankie’s,206,4.0,(323) 746-4570,7228 Melrose Ave,90046,Italian,0
+Pepolino Ristorante,216,3.8,(212) 966-9983,"281 West Broadway, New York",10013,Italian,El Bolero,87,3.5,(214) 741-1986,1201 Oak Lawn Ave,75207,Mexican,0
+Casa Rubia,24,3.2,(469) 513-6349,"3011 Gulden Lane, Suite 116, Dallas",75212,"Spanish, Tapas",Cafe El Tapatio,499,4.0,(773) 327-5475,3400 N Ashland Ave,60657,Mexican,0
+Tuscany Mediterranean Grill,59,3.2,(608) 270-1684,2969 Cahill Main,53711,"Italian, Mediterranean",Mendocino Farms,759,4.5,(323) 934-4261,175 S Fairfax AveSte B,90036,Sandwiches,0
+MingHin Cuisine,130,3.9,(312) 808-1999,"2168 S. Archer Avenue, Chicago",60616,"Chinese, Dim Sum, Seafood",Bassett Street Brunch Club,206,4.0,(608) 467-5051,444 W Johnson St,53703,Breakfast & Brunch,0
+Mimi's Cafe,58,3.5,(323) 668-1715,"2925 Los Feliz Blvd, Los Angeles",90039,"Breakfast, French, International",Lula Cafe,1371,4.0,(773) 489-9554,2537 N Kedzie Blvd,60647,American (New),0
+Baby Back Blues,183,4.0,(815) 254-6939,23145 W Lincoln Highway Suite 7,60586,BBQ,Osteria Papavero,103,4.0,(608) 255-8376,128 E Wilson St,53703,Italian,0
+Lupe's East LA Kitchen,124,3.7,(212) 966-1326,"110 6th Avenue, New York",10013,Mexican,Bao Bao Cafe,45,4.5,(917) 388-2479,61 Lexington AveUnit B,10010,Cafes,0
+El Mariachi Tequila Bar & Grill,123,3.6,(773) 549-7020,"3420 N. Broadway Street, Chicago",60657,Mexican,Arashi Sushi,474,4.0,(213) 749-1900,1111 S Hope StSte 100,90015,Sushi Bars,0
+Kama Indian Bistro,82,4.0,(708) 352-3300,9 S. La Grange Road,60525,"Indian, Pakistani",Asian Fusion,59,4.0,(424) 298-8247,1710 S Robertson Blvd,90035,Asian Fusion,0
+The Hospitality Sweet,32,3.3,(214) 999-6704,"400 N Ervay Street, Dallas",75201,"Cafe, Desserts",Beezzee,164,4.5,(773) 525-3570,2807 N Sheffield Ave,60657,American (New),0

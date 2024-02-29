@@ -1,0 +1,1325 @@
+ID_A,ID_B,Flag,Name_A,Name_B,Zipcode_A,Zipcode_B,Address_A,Address_B
+325,735,,The Local Chicago,The Local Chicago,60611,60611,"198 E. Delaware Plaza, Chicago",198 E Delaware Pl
+343,749,,Chicago Q,Chicago q,60610,60610,"1160 N. Dearborn Street, Chicago",1160 N Dearborn St
+532,732,,Bite Cafe,Bite Cafe,60622,60622,"1039 N. Western Avenue, Chicago",1035 N Western Ave
+673,746,,The Publican,The Publican,60607,60607,"837 W. Fulton Market, Chicago",837 W Fulton Market
+723,325,,BopNgrill,bopNGrill,60626,60626,"6604 N. Sheridan Road, Chicago",6604 N Sheridan Rd
+737,721,,Southport Grocery & Cafe,Southport Grocery & Cafe,60657,60657,"3552 N. Southport Avenue, Chicago",3552 N Southport Ave
+864,638,,Gale Street Inn,Gale Street Inn,60630,60630,4914 N. Milwaukee Avenue,4914 N Milwaukee Ave
+1111,466,,Garifuna Flava,Garifuna Flava,60629,60629,"2518 W. 63rd Street, Chicago",2518 W 63rd St
+1362,692,,Acanto,Acanto,60603,60603,"18 S. Michigan Avenue, Chicago",18 S Michigan Ave
+1710,1497,,East Hampton Sandwich Co.,East Hampton Sandwich Co,75205,75205,"6912 Snider Plaza, Dallas",6912 Snider Plz
+1818,1504,,Si Lom Thai Asian Fusion,Si Lom,75219,75219,"3300 Oak Lawn Avenue, Suite 110, Dallas",3300 Oak Lawn AveSte 110
+1880,1462,,Highland Park Cafeteria,Highland Park Cafeteria,75218,75218,"1200 N Buckner Road, Dallas",1200 N Buckner Blvd
+1889,1451,,Lekka,Lekka,75252,75252,"17606 Preston Road, Dallas",17606 Preston Rd
+1891,1501,,Wabi House,Wabi House,75206,75206,"1802 Greenville Avenue, Suite 100, Dallas",1802 Greenville AveSte 100
+1987,1509,,Public School 214,Public School 214,75204,75204,"3700 McKinney Avenue, Suite 148, Dallas",3700 McKinney Ave.Suite 148
+2052,1515,,Monkey King Noodle Co.,Monkey King Noodle Co.,75226,75226,"3014 Main Street, Dallas",3014 Main St
+1605,1512,,Hillstone,Hillstone Restaurant,75225,75225,"8300 Preston Road, Suite A, Dallas",8300 A Preston Rd
+332,725,,Quartino,Quartino,60654,60654,"626 N. State Street, Chicago",626 N State St
+542,528,,Sepia,Sepia,60661,60661,"123 N. Jefferson Street, Chicago",123 N Jefferson St
+1017,474,,Sweetwater Tavern and Grille,Sweetwater Tavern and Grille,60601,60601,"Michigan Plaza, 225 N. Michigan Avenue, Chicago",225 N Michigan Ave
+1261,583,,The Bongo Room,The Bongo Room,60605,60605,"1152 S. Wabash Avenue, Chicago",1152 S Wabash Ave
+1489,1078,,Liberty Burger,Liberty Burger,75248,75248,"5181 Keller Springs Road, Dallas",5181 Keller Springs Rd
+1493,1363,,Bistro B,Bistro B,75243,75243,"9780 Walnut Street, Suite 340, Dallas",9780 Walnut StSte 340
+1627,1514,,Cane Rosso,Cane Rosso,75226,75226,"2612 Commerce Street, Suite 101, Dallas",2612 Commerce St
+1657,1500,,Off the Bone Barbeque,Off the Bone Barbeque,75215,75215,"1734 S Lamar Street, Dallas",1734 S Lamar St
+1697,1481,,Texas Spice - Omni Hotel Dallas,Texas Spice,75202,75202,"Omni Hotel Dallas, 555 South Lamar Street, Dallas",555 S Lamar
+2041,1496,,Mad Hatter Cafe,Mad Hatter Cafe,75201,75201,"400 North Saint Paul Street, Suite 120",400 N St. Paul StSte 120
+1619,1436,,Ginger Thai,Ginger Thai Cuisine,75214,75214,"6434 E Mockingbird Lane, Suite 111, Dallas",6434 E Mockingbird LnSte 111
+1638,1138,,Sweet Georgia Brown,Sweet Georgia Brown Bar-B-Que Buffet,75216,75216,"2840 E Ledbetter Drive, Dallas",2840 E Ledbetter Dr
+143,681,,Smoke Daddy,Smoke Daddy,60622,60622,"1804 W. Division Street, Chicago",1804 W Division St
+783,476,,Avec,Avec,60661,60661,"615 W. Randolph Street, Chicago",615 W Randolph St
+1205,744,,Fat Rice,Fat Rice,60647,60647,"2957 W. Diversey Avenue, Chicago",2957 W Diversey Ave
+1272,589,,Lao Sze Chuan,Lao Sze Chuan,60616,60616,"2172 S. Archer Avenue, Chicago",2172 S Archer Ave
+1416,676,,Crisp,Crisp,60657,60657,"2940 N. Broadway Street, Chicago",2940 N Broadway Ave
+1673,1391,,Kitchen LTO,Kitchen LTO,75212,75212,"3011 Gulden Lane, Suite 108, Dallas",3011 Gulden Ln
+1690,1495,,LARK on the Park,Lark On the Park,75201,75201,"2015 Woodall Rodgers Freeway, Dallas",2015 Woodall Rodgers Fwy
+1700,1430,,Cigarz Bona Pizza,Cigarz Bona Pizza,75214,75214,7238 Gaston Avenue,7238 Gaston Ave
+1907,1315,,FireXbox,Firexbox,75238,75238,"9918 Plano Road, Dallas",9918 Plano Rd
+1912,1463,,Cafe Express,Cafe Express,75209,75209,"5600 West Lovers Lane Suite 109, Dallas",5600 W Lovers LnSte 109
+1991,1435,,Original Italian Cafe,Original Italian Cafe,75202,75202,"115 Field Street, Dallas",115 S Field St
+2023,1279,,Saltgrass Steak House,Saltgrass Steak House,75243,75243,"13561 N Central Expressway, Dallas",13561 N Central Expy
+1443,715,0,ENO,Davanti Enoteca River North,60611,60611,"Intercontinental Chicago, 505 N. Michigan Avenue, Chicago",30 E Hubbard St
+59,423,,Community Tavern,Community Tavern,60641,60641,"4038 N. Milwaukee Avenue, Chicago",4038 N Milwaukee Ave
+267,716,,RM Champagne Salon,RM Champagne Salon,60607,60607,"116 N. Green Street, Chicago",116 N Green St
+340,46,,Bottlefork,Bottlefork,60626,60626,"441 N. Clark Street, Chicago",441 N Clark
+577,699,,Zed451,ZED451,60654,60654,"739 N. Clark Street, Chicago",739 N Clark St
+1160,680,,Xoco Bistro,Xoco,60622,60622,"1471 N. Milwaukee Avenue, Chicago",1471 N Milwaukee Ave
+1167,32,,The Angry Crab,The Angry Crab,60659,60659,"5665 N. Lincoln Avenue, Chicago",5665 N Lincoln Ave
+1170,68,,"Pastoral Artisan Cheese, Bread & Wine",Pastoral,60601,60601,"53 E. Lake Street, Chicago",53 E Lake St
+1188,342,,Cochon Volant,Cochon Volant,60603,60603,"Hyatt Centric Hotel, 100 W. Monroe Street, Chicago",100 W Monroe St
+1482,1332,,Cafe Brazil,Cafe Brazil,75226,75226,"2815 Elm Street, Dallas",2815 Elm St
+1692,1270,,The Slow Bone Barbeque,The Slow Bone,75207,75207,"2234 Irving Boulevard, Dallas",2234 Irving Blvd
+1698,1473,,Cafe Express,Cafe Express,75204,75204,"3230 McKinney Avenue, Dallas",3230 McKinney Ave
+1702,1423,,Taco Diner,Taco Diner,75225,75225,4011 Villanova Street,4011 Villanova St
+1913,1355,,Korea House,Korea House,75229,75229,"2598 Royal Lane, Dallas",2598 Royal Ln
+1963,1369,,Becks Prime,Becks Prime,75230,75230,"5931 Forest Lane, Dallas",5931 Forest Ln
+1970,1484,,Pho Colonial,Pho Colonial,75201,75201,"1623 Main Street, Suite 102, Dallas",1623 Main StSte 102
+2071,1403,,Neighborhood Services,Neighborhood Services,75209,75209,"5027 W Lovers Lane, Dallas",5027 W Lovers Ln
+320,451,,Meli Cafe,Meli Cafe & Juice Bar,60661,60661,"301 S. Halsted Street, Chicago",301 S Halsted St
+1443,709,0,ENO,DiSotto Enoteca,60611,60611,"Intercontinental Chicago, 505 N. Michigan Avenue, Chicago",200 E Chestnut St
+1968,1273,,Mexicali,Mexicali Restaurant,75238,75238,"11277 E Northwest Highway, Dallas",11277 E NW HwySte 148
+57,700,,Dunlays on Clark,Dunlays on Clark,60614,60614,"2600 N. Clark Street, Chicago",2600 N Clark St
+1052,443,,Little Bad Wolf,Little Bad Wolf,60660,60660,"1541 W. Bryn Mawr Avenue, Chicago",1541 W Bryn Mawr Ave
+1116,708,,Le Colonial,Le Colonial,60611,60611,"937 N. Rush Street, Chicago",937 N Rush St
+1428,106,,Frontera Fresco,Frontera Fresco,60602,60602,"111 N. State Street, Chicago",111 N State St
+1460,1361,,Dough Pizzeria Napoletana,Dough Pizzeria Napoletana,75230,75230,"11909 Preston Road, Suite 1444, Dallas",11909 Preston RdSte 1444
+1497,1407,,Hoffbrau Steaks,Hoffbrau Steaks,75202,75202,"311 N Market Street, Dallas",311 N Market St
+1666,1135,,Ascension Coffee,Ascension Coffee,75207,75207,1621 Oak Lawn Avenue,1621 Oak Lawn Ave
+1668,887,,Liberty Burger,Liberty Burger,75244,75244,"Forestwood Center, 5211 Forest Lane, Dallas",5211 Forest Ln
+1857,1216,,Pera Turkish Kitchen,Pera Turkish Kitchen,75252,75252,"17479 Preston Road, Suite, Dallas",17479 Preston Rd
+2034,1303,0,Cake Bar at Trinity Groves,Trinity Groves,75212,75212,"3011 Gulden Lane, Suite 117, Dallas",425 Bedford St
+2042,1321,,Big Shucks,Big Shucks,75214,75214,6232 E Mockingbird Lane,6232 E Mockingbird Ln
+2059,1234,,The Varsity Grill,The Varsity Grill,75243,75243,"9310 Forest Lane, Dallas",9310 Forest Ln
+1598,1471,,Original Pancake House,The Original Pancake House,75204,75204,"2900 Lemmon Avenue, Dallas",2900 Lemmon AveSte 200
+2003,1345,,Gonzalez,Gonzalez Restaurant,75208,75208,"367 W Jefferson Boulevard, Dallas",367 W Jefferson Blvd
+101,665,,Gather,Gather,60625,60625,"4539 N. Lincoln Avenue, Chicago",4539 N Lincoln Ave
+457,286,,Naansense,Naansense,60606,60606,"171 N. Wells Street, Chicago",171 N Wells St
+512,591,0,Calo Ristorante,Ora,60640,60640,"5343 N. Clark Street, Chicago",5143 N Clark St
+552,309,,Cafecito,Cafecito,60605,60605,26 E. Congress Parkway,26 E Congress Pkwy
+582,726,,Belly Shack,Belly Shack,60647,60647,"1912 N. Western Avenue, Chicago",1912 N Western Ave
+590,418,,Frontier,Frontier,60642,60642,"1072 N. Milwaukee Avenue, Chicago",1072 N Milwaukee Ave
+606,243,,The Gage,The Gage,60603,60603,"24 S. Michigan Avenue, Chicago",24 S Michigan Ave
+707,727,,Honey Butter Fried Chicken,Honey Butter Fried Chicken,60618,60618,"3361 N. Elston Avenue, Chicago",3361 N Elston Ave
+939,261,,Blackbird,Blackbird,60661,60661,"619 W. Randolph Street, Chicago",619 W Randolph St
+1047,27,,Cafecito,Cafecito,60602,60602,7 N. Wells Street,7 N Wells St
+1083,666,,Wildfire,Wildfire,60654,60654,"159 W. Erie Street, Chicago",159 W Erie St
+1235,493,,Old Town Social,Old Town Social,60610,60610,"455 W. North Avenue, Chicago",455 W North Ave
+1254,673,,Las Palmas Mexican Restaurant,Las Palmas,60622,60622,"1835 W. North Avenue, Chicago",1835 W North Ave
+1469,1467,,Mi Cocina,Mi Cocina,75204,75204,"3699 McKinney Avenue, Dallas",3699 McKinney Ave
+1537,1340,,Dallas Grilled Cheese Co.,Dallas Grilled Cheese Co,75208,75208,"310 W 7th Street, Dallas",310 W 7th St
+1635,1444,,Kenichi,Kenichi,75219,75219,"2400 Victory Park Lane, Dallas",2400 Victory Park Ln
+1653,1393,,Which Wich,Which Wich,75202,75202,"1410 Main Street, Dallas",1410 Main St
+1715,1264,,Tanoshii Ramen & Bar,Tanoshii Ramen,75226,75226,"2724 Commerce Street, Dallas",2724 Commerce St
+1730,1307,,The Dixie House,Dixie House,75214,75214,"6400 Gaston Avenue, Dallas",6400 Gaston Ave
+1775,1379,,The Original Pancake House,The Original Pancake House,75220,75220,"4343 W Northwest Highway, Suite 345",4343 W Northwest HwySte 375
+1784,1452,,Fujiyama Sushi & Yakitori Bar,Fujiyama Sushi & Yakitori Bar,75287,75287,"18217 Midway Road, Dallas",18217 Midway RdSte 108
+1790,1334,,Fish City Grill,Fish City Grill,75230,75230,"10720 Preston Road, Suite 1012, Dallas",10720 Preston Rd
+2051,1304,,Nazca Kitchen,Nazca Kitchen,75231,75231,"8041 Walnut Hill Lane, Suite 854, Dallas",8041 Walnut Hill LnSte 854
+2069,1288,,Opening Bell Coffee,Opening Bell Coffee,75215,75215,"1409 S Lamar Street, Dallas",1409 S Lamar StBasement Ste 012
+337,237,,Ara On,Ara On,60603,60603,"160 W. Adams Street, Chicago",160 W Adams St
+693,682,,Toro Sushi,Toro Sushi,60614,60614,"2546 N. Clark Street, Chicago",2546 N Clark St
+1021,97,,The Portage,The Portage,60634,60634,"3938 N. Central Avenue, Chicago",3938 N Central Ave
+1280,632,,Duke of Perth,Duke Of Perth,60657,60657,"2913 N. Clark Street, Chicago",2913 N Clark St
+1449,667,,Shake Shack,Shake Shack,60611,60611,"66 E. Ohio Street, Chicago",66 E Ohio St
+1563,1293,,Red Hot & Blue,Red Hot & Blue,75231,75231,"9810 N Central Expressway, Suite 600, Dallas",9810 N Central ExpySte 600
+1672,1415,,The Porch,The Porch,75206,75206,"2912 N Henderson Avenue, Dallas",2912 N Henderson Ave
+1689,1459,,CrushCraft Thai Street Eats,Crushcraft Thai Street Eats,75201,75201,"2800 Routh Street, Suite 150, Dallas",2800 Routh StSte 150
+1701,1255,,The Lot,The Lot,75214,75214,7530 E Grand Avenue,7530 E Grand Ave
+1759,1280,,Baby Back Shak,Baby Back Shak,75215,75215,"1800 S Akard Street, Dallas",1800 S Akard St
+1955,1243,,Chino Chinatown,Chino Chinatown,75212,75212,"3011 Gulden Lane, Suite 110, Dallas",3011 Gulden LnSte 110
+553,562,,Big Jones,Big Jones,60640,60640,"5347 N. Clark Street, Chicago",5347 N Clark St
+585,217,,Artopolis,Artopolis,60661,60661,"306 S. Halsted Street, Chicago",306 S Halsted St
+627,651,,Osteria La Madia,Osteria La Madia,60654,60654,"59 W. Grand Avenue, Chicago",59 W Grand Ave
+708,430,,Bistrot Zinc,Bistrot Zinc,60610,60610,"1131 N. State Street, Chicago",1131 N State St
+1567,1205,,Deep Sushi,Deep Sushi,75226,75226,"2624 Elm Street, Dallas",2624 Elm St
+1596,1082,,Rodeo Goat,Rodeo Goat,75207,75207,"1926 Market Center Boulevard, Dallas",1926 Market Center Blvd
+1979,1040,,Fresh Market,Fresh Market,75235,75235,"6300 Harry Hines Boulevard, Dallas",6300 Harry Hines BlvdSte 130
+2028,1309,,Penne Pomodoro,Penne Pomodoro,75205,75205,"6815 Snider Plaza, Dallas",6815 Snider Plz
+1613,1231,,Tupinamba,Tupinamba Cafe,75231,75231,"9665 N Central Expressway, Suite 142, Dallas",9665 N Central ExpwySte 142
+365,647,,GreenRiver,GreenRiver,60611,60611,"Northwestern Memorial Hospital, 259 E. Erie Street, 18th Floor, Chicago",259 E Erie St18th Fl
+626,415,,Table Fifty-Two,Table Fifty-Two,60610,60610,"52 W. Elm Street, Chicago",52 W Elm St
+672,109,,Smoque BBQ,Smoque BBQ,60641,60641,"3800 N. Pulaski Road, Chicago",3800 N Pulaski RdSte 2
+692,655,,Cumin,Cumin,60622,60622,"1414 N. Milwaukee Avenue, Chicago",1414 N Milwaukee Ave
+821,628,,Kaiser Tiger,Kaiser Tiger,60607,60607,"1415 W. Randolph Street, Chicago",1415 W Randolph St
+1303,404,,Acadia,Acadia,60616,60616,"1639 S. Wabash Avenue, Chicago",1639 S Wabash Ave
+1512,1299,,Sangria Tapas Y Bar,Sangria Tapas Y Bar,75205,75205,"4524 Cole Avenue, Dallas",4524 Cole Ave
+1623,1061,,Oak,Oak,75207,75207,"1628 Oak Lawn Avenue, Dallas",1628 Oak Lawn AveSte 110
+1642,1236,,Cafe Istanbul,Cafe Istanbul,75209,75209,"5450 W Lovers Lane, Dallas",5450 W Lovers Ln
+1830,1229,,El Ranchito,El Ranchito,75208,75208,"610 W Jefferson Boulevard, Dallas",610 W Jefferson Blvd
+1937,1437,,El Come Taco,El Come Taco,75204,75204,"2513 N Fitzhugh Avenue, Dallas",2513 N Fitzhugh Ave
+1959,1432,,Smashburger,Smashburger,75201,75201,"2222 McKinney Street, Suite 280, Dallas",2222 McKinney Ave
+1988,1004,,Atomic Pie,Atomic Pie,75238,75238,"9660 Audelia Road, Dallas",9660 Audelia RdSte 117
+2083,1292,,Project Pie,Project Pie,75225,75225,"6030 Luther Lane, Suite 110, Dallas",6030 Luther Ln
+777,639,,Roka Akor,Roka Akor - Chicago,60654,60654,"456 N. Clark Street, Chicago",456 N Clark St
+134,333,,Dinosaur Bar-B-Que,Dinosaur Bar-B-Que,60642,60642,923 W. Weed Street,923 W Weed St
+200,622,,Cobra Lounge,Cobra Lounge,60607,60607,"235 N. Ashland Avenue, Chicago",235 N Ashland Ave
+408,159,,Umai,Umai,60605,60605,"730 S. Clark Street, Chicago",730 S Clark St
+721,549,,Cafe Selmarie,Cafe Selmarie,60625,60625,"4729 N. Lincoln Avenue, Chicago",4729 N Lincoln Ave
+1423,126,,Grace,Grace,60661,60661,"652 W. Randolph Street, Chicago",652 W Randolph St
+1465,1014,,Alligator Cafe,Alligator Cafe,75218,75218,"9540 Garland Road, Suite 362, Dallas",9540 Garland RdSte 362
+1593,1278,,Blue Mesa Grill,Blue Mesa Grill,75225,75225,"7700 W Northwest Hwy, Dallas",7700 W NW Hwy
+1675,1318,,Ravenna Urban Italian Restaurant,Ravenna Urban Italian Restaurant,75202,75202,"1301 Main Street, Dallas",1301 Main St
+1681,1219,,Shinsei,Shinsei,75209,75209,"7713 Inwood Road, Dallas",7713 Inwood Rd
+1696,1154,,Pizza Lounge,Pizza Lounge,75226,75226,"841 Exposition Avenue, Dallas",841 Exposition Ave
+1785,1155,,Momo Italian Kitchen,MoMo Italian Kitchen,75243,75243,"8989 Forest Lane, Suite130, Dallas",8989 Forest LnSte 130
+2085,1397,,Black Eyed Pea,Black Eyed Pea,75219,75219,3857 Cedar Springs Road,3857 Cedar Springs Rd
+1655,1416,,Cremona,Cremona Bistro Kitchen,75204,75204,"2704 Worthington Street, Dallas",2704 Worthington St
+1768,1158,,Amberjax,Amberjax Fish Market Grille,75212,75212,"3011 Gulden Lane, Suite 107, Dallas",3011 Gulden LnSte 107
+187,569,,Uncommon Ground,Uncommon Ground,60613,60613,"3800 N. Clark Street, Chicago",3800 N Clark St
+272,275,,Podhalanka,Podhalanka,60642,60642,"1549 W. Division Street, Chicago",1549 W Division St
+1154,654,,Reno,Reno,60647,60647,"2607 N. Milwaukee Avenue, Chicago",2607 N Milwaukee Ave
+1456,933,,Good 2 Go Taco,Good 2 Go Taco,75218,75218,"1146 Peavy Road, Dallas",1146 Peavy Rd
+1513,1276,,Villa-O,Villa-O,75205,75205,"4514 Travis Street, Dallas",4514 Travis StSte 132
+1529,1141,,Anvil Pub,Anvil Pub,75226,75226,"2638 Elm Street, Dallas",2638 Elm St
+1656,1134,,The Mercury,The Mercury,75230,75230,"11909 Preston Road, Suite 1418, Dallas",11909 Preston RdSte 1418
+502,631,,Bohemian House,Bohemian House {BoHo},60654,60654,"11 W. Illinois Street, Chicago",11 W. Illinois
+950,96,,Greek Islands,Greek Islands Restaurant,60661,60661,"200 S. Halsted Street, Chicago",200 S Halsted St
+1576,1414,,Metropolitan Cafe,The Metropolitan Cafe,75201,75201,"2032 Main Street, Dallas",2030 Main St
+1732,1386,,Gold Rush Cafe,The Gold Rush Cafe,75206,75206,"1913 Skillman Street, Dallas",1913 Skillman St
+280,603,,The Winchester,The Winchester,60622,60622,"1001 N. Winchester Avenue, Chicago",1001 N Winchester Ave
+750,627,,GT Fish & Oyster,GT Fish & Oyster,60654,60654,"531 N. Wells Street, Chicago",531 N Wells St
+1553,1191,,Gordon Biersch Brewery Restaurant,Gordon Biersch Brewery Restaurant,75231,75231,"8060 Park Lane, Suite 125, Dallas",8060 Park LnSte 125
+1577,1051,,Souk,Souk,75212,75212,"3011 Gulden Lane, Suite 114, Dallas",3011 Gulden LnSte 114
+1584,1207,,La Calle Doce,La Calle Doce,75208,75208,"415 West 12th Street, Dallas",415 W 12th St
+1839,1367,,Victory Tavern,Victory Tavern,75219,75219,"2501 N Houston Street, Dallas",2501 N Houston St
+1984,1097,,Princi Italia,Princi Italia,75230,75230,"5959 Royal Lane, Suite 707, Dallas",5959 Royal LnSte 707
+2037,1161,,Suze,Suze,75220,75220,"4345 W Northwest Highway, Dallas",4345 W Northwest Hwy
+2080,1269,,Seoul Garden,Seoul Garden,75229,75229,"2502 Royal Lane, Dallas",2502 Royal LnSte 103
+646,556,,Art of Pizza,The Art of Pizza,60657,60657,"3033 N. Ashland Avenue, Chicago",3033 N Ashland Ave
+1530,1035,,Burger Bueno,Burger Bueno,75240,75240,"13021 Coit Road, Dallas",13021 Coit Rd
+1532,1140,,Stratos Greek Taverna,Stratos Greek Taverna,75220,75220,"2907 W Northwest Highway, Dallas",2907 W Northwest Hwy
+1568,1142,,The Cheesecake Factory,The Cheesecake Factory,75225,75225,"7700 W Northwest Highway, Dallas",7700 W Northwest Hwy
+1583,937,,Asian Mint,Asian Mint,75243,75243,"11617 N Central Expressway, Dallas",11617 N Central ExpySte 135
+1599,858,,Hypnotic Donuts,Hypnotic Donuts,75218,75218,9007 Garland Road,9007 Garland Rd
+1752,1333,,i Fratelli Pizza,i Fratelli Pizza,75204,75204,"2815 Allen Street, Suite 124, Dallas",2815 Allen StSte 124
+1762,1119,,The Free Man Cajun Cafe & Lounge,The Free Man,75226,75226,"2626 Commerce Street, Dallas",2626 Commerce St
+1915,900,,El Bolero,El Bolero,75207,75207,1201 Oak Lawn Avenue,1201 Oak Lawn Ave
+2038,1179,,Chicken Scratch,Chicken Scratch,75208,75208,"2303 Pittman Street, Dallas",2303 Pittman St
+610,382,,Tank Noodle,Tank Noodle Restaurant,60640,60640,"4953 N. Broadway Street, Chicago",4953 N Broadway
+1533,1038,,Luck,LUCK - Local Urban Craft Kitchen,75212,75212,"3011 Gulden Lane, Suite 112, Dallas",3011 Gulden LnSte 112
+1545,1330,,Gui Korean Japanese Bistro & Bar,Gui Korean Japanese Bistro & Bar,75204,75204,"2719 McKinney Avenue, Dallas",2719 McKinney Ave
+1617,1123,,Kona Grill,Kona Grill,75225,75225,"NorthPark Center, 8687 North Central Expressway, Level One, Dallas",Northpark center8687 N Central Exwy
+1766,807,,20 Feet Seafood Joint,20 Feet Seafood Joint,75218,75218,"1160 Peavy Road, Dallas",1160 Peavy Rd
+1940,1149,,City Tavern,City Tavern,75202,75202,"1402 Main Street, Dallas",1402 Main St
+1664,1026,,Zuzu,ZuZu Fresh-Made Tex-Mex,75214,75214,"4140 Abrams Road, Dallas",4140 Abrams Rd
+1939,1074,,Buzzbrews,Buzzbrews Kitchen,75226,75226,"2801 Commerce Street, Dallas",2801 Commerce St
+85,487,,The Reservoir,The Reservoir,60613,60613,844 W. Montrose Avenue,844 W Montrose
+123,573,,Falafel & Grill,Falafel & Grill,60622,60622,"1317 N. Milwaukee Avenue, Chicago",1317 N Milwaukee Ave
+528,611,,Slurping Turtle,Slurping Turtle,60654,60654,"116 W. Hubbard Street, Chicago",116 W Hubbard St
+596,592,,Rose Angelis,Rose Angelis,60614,60614,"1314 W. Wrightwood Avenue, Chicago",1314 W Wrightwood Ave
+636,440,,Bistro Campagne,Bistro Campagne,60625,60625,"4518 N. Lincoln Avenue, Chicago",4518 N Lincoln Ave
+653,161,,Nana,Nana,60608,60608,"3267 S. Halsted Street, Chicago",3267 S Halsted St
+763,86,,MingHin Cuisine,MingHin Cuisine,60616,60616,"2168 S. Archer Avenue, Chicago",2168 S Archer Ave
+820,551,,Cozy Noodles & Rice,Cozy Noodles & Rice,60657,60657,"3456 N. Sheffield Avenue, Chicago",3456 N Sheffield Ave
+1022,198,,Two,TWO,60642,60642,"1132 W. Grand Avenue, Chicago",1132 W Grand Ave
+1487,1184,,Burger House,Burger House,75205,75205,"6913 Hillcrest Avenue, Dallas",6913 Hillcrest Ave
+1511,1297,,Taco Diner,Taco Diner,75204,75204,"3699 McKinney Avenue, Dallas",3699 McKinney Ave
+1712,1157,,Seafood Shack,Seafood Shack,75229,75229,"11625 Webb Chapel Road, Dallas",11625 Webbs Chapel Rd
+2001,1130,,Record Grill,Record Grill,75202,75202,605 Elm Street,605 Elm St
+862,478,,Cho Sun Ok,Cho Sun Ok Restaurant,60618,60618,"4200 N. Lincoln Avenue, Chicago",4200 N Lincoln Ave
+383,548,,Cafe Bella,Cafe Bella,60647,60647,"3311 W. Fullerton Avenue, Chicago",3311 W Fullerton Ave
+835,571,,Mexique,Mexique,60622,60622,"1529 W. Chicago Avenue, Chicago",1529 W Chicago Ave
+1388,600,,Theory,Theory,60654,60654,"9 W. Hubbard Street, Chicago",9 W Hubbard St
+1473,1081,0,Lockhart Smokehouse,Smoke,75208,75208,"400 W Davis Street, Dallas",901 Fort Worth Ave
+1524,976,,Pappadeaux Seafood Kitchen,Pappadeaux Seafood Kitchen,75220,75220,"10428 Lombardy Lane, Dallas",10428 Lombardy Ln
+1534,994,,Meso Maya,Meso Maya,75202,75202,"1611 McKinney Avenue, Dallas",1611 McKinney Ave
+1575,951,,Garden Cafe,Garden Cafe,75214,75214,"5310 Junius Street, Dallas",5310 Junius St
+1611,825,,The Boiling Crab,The Boiling Crab,75243,75243,"10560 Walnut Street, Suite 100, Dallas",10560 Walnut StSte 100
+1631,985,,Meso Maya,Meso Maya,75230,75230,"11909 Preston Road, Suite 1426, Dallas",11909 Preston RdSte 1426
+1749,1081,,Smoke,Smoke,75208,75208,"901 Fort Worth Avenue, Dallas",901 Fort Worth Ave
+1998,768,,FT33,FT33,75207,75207,"617 Hi Line Drive, Suite 250, Dallas",1617 Hi Line DrSte 250
+2086,1171,,Cisco Grill,Cisco Grill,75205,75205,"6630 Snider Plaza, Dallas",6630 Snider Plz
+472,533,,Red Door,Red Door,60647,60647,"2118 N. Damen Avenue, Chicago",2118 N Damen Ave
+525,53,,Topo Gigio Ristorante,Topo Gigio Ristorante,60610,60610,"1516 N. Wells Street, Chicago",1516 N Wells St
+704,543,,Cafe El Tapatio,Cafe El Tapatio,60657,60657,"3400 N. Ashland Avenue, Chicago",3400 N Ashland Ave
+736,585,,Ramen-san,Ramen-san,60654,60654,"59 W. Hubbard Street, Chicago",59 W Hubbard St
+766,587,,Sapori Trattoria,Sapori Trattoria,60614,60614,"2701 N. Halsted Street, Chicago",2701 N Halsted St
+945,93,,Pleasant House Bakery,Pleasant House Bakery,60608,60608,"964 W. 31st Street, Chicago",964 W 31st St
+1109,36,,Chi Cafe,Chi Cafe,60616,60616,"2160-A S. Archer Avenue, Chicago",2160 S Archer AveSte A
+1148,468,,Rockit Burger Bar,Rockit Burger Bar,60613,60613,"3700 N. Clark Street, Chicago",3700 N Clark St
+1183,305,,Spacca Napoli,Spacca Napoli,60640,60640,"1769 W. Sunnyside Avenue, Chicago",1769 W Sunnyside Ave
+1246,544,,Nico Osteria - Thomson Hotels Chicago,Nico Osteria,60611,60611,"Thomson Hotels Chicago, 1015 N. Rush Street",1015 N Rush St
+1594,753,,Fuel City Tacos (Super Tacaso),Fuel City Tacos,75207,75207,"801 S Riverfront Boulevard, Dallas",801 S Riverfront Blvd
+1628,1156,,Peggy Sue BBQ,Peggy Sue BBQ,75205,75205,"6600 Snider Plaza, Dallas",6600 Snider Plz
+1787,1335,,Dallas Chop House,Dallas Chop House,75201,75201,"1717 Main Street, Dallas",1717 Main St
+1928,982,,Sushiya,Sushiya,75202,75202,"1306 Elm Street, Dallas",1306 Elm St
+2079,1353,,Tacos Y Mas,Tacos Y Mas,75206,75206,"5419 Ross Avenue, Dallas",5419 Ross Ave
+211,579,,J.P. Graziano,J.P. Graziano Grocery Co.,60607,60607,"901 W. Randolph Street, Chicago",901 W Randolph St
+523,281,,Tweet,Tweet,60640,60640,"5020 N. Sheridan Road, Chicago",5020 N Sheridan Rd
+644,399,,Tre Kronor,Tre Kronor,60625,60625,"3258 W. Foster Avenue, Chicago",3258 W Foster Ave
+839,536,,Hub 51,Hub 51,60654,60654,"51 W. Hubbard Street, Chicago",51 W Hubbard St
+995,21,,Velvet Taco,Velvet Taco,60610,60610,"1110 N. State Street, Chicago",1110 N State St
+1580,1145,,Cafe Madrid,Cafe Madrid,75205,75205,"4501 Travis Street, Dallas",4501 Travis St
+1639,1204,,Medina Oven & Bar,Medina Oven & Bar,75219,75219,"2304 Victory Park Lane, Dallas",2304 Victory Park Ln
+1922,1065,,C Senor!,C Senor,75208,75208,"330 W Davis Street,  Dallas",330 W Davis St
+1394,71,,Nuevo Leon,Nuevo Leon Restaurant,60608,60608,"1515 W. 18th Street, Chicago",1515 W 18th St
+165,484,,Tre Soldi,Tre Soldi,60611,60611,"212 E. Ohio Street, Chicago",212 E Ohio St
+449,566,,Allende Restaurant,Allende Restaurant,60614,60614,"2408 N. Lincoln Avenue, Chicago",2408 N Lincoln Ave
+506,532,,Sunda,Sunda,60654,60654,"110 W. Illinois Street, Chicago",110 W Illinois St
+546,555,,The Violet Hour,The Violet Hour,60622,60622,"1520 N. Damen Avenue, Chicago",1520 N Damen Ave
+1101,368,,Taco in a Bag,Taco In A Bag,60625,60625,"4703 N. Lincoln Avenue, Chicago",4603 N Lincoln Ave
+1554,1025,,Two Guys From Italy,Two Guys From Italy,75229,75229,"11637 Webb Chapel Road, Dallas",11637 Webb Chapel Rd
+1610,964,,Maracas Cocina Mexicana,Maracas,75226,75226,2914 Main Street,2914 Main St
+1761,935,,La Ventana,La Ventana,75202,75202,"1611 McKinney Avenue, Dallas",1611 McKinney Ave
+2079,1341,,Tacos Y Mas,Tacos Y Mas,75206,75206,"5419 Ross Avenue, Dallas",2820 Greenville Ave
+524,565,,Del Seoul,Del Seoul,60614,60614,"2568 N. Clark Street, Chicago",2568 N Clark St
+569,513,,The Hampton Social,The Hampton Social,60654,60654,"353 W. Hubbard Street, Chicago",353 W Hubbard St
+745,483,,Luxbar,Luxbar,60611,60611,"18 E. Bellevue Street, Chicago",18 E Bellevue Pl
+887,507,,Chilam Balam,Chilam Balam,60657,60657,"3023 N. Broadway Street, Chicago",3023 N Broadway St
+1500,947,,Serious Pizza,Serious Pizza,75226,75226,"2807 Elm Street, Dallas",2807 Elm St
+1501,1339,,Blue Goose Cantina,Blue Goose,75206,75206,"2905 Greenville Avenue, Dallas",2905 Greenville Ave
+1527,993,,Oddfellows,Oddfellows,75208,75208,"316 W 7th Street, Dallas",316 W 7th St
+1729,1058,,Fireside Pies,Fireside Pies,75209,75209,7709 Inwood Road,7709 Inwood Rd
+1777,890,,Lakewood Landing,Lakewood Landing,75214,75214,"5818 Live Oak Street, Dallas",5818 Live Oak St
+1890,1027,,True Food Kitchen,True Food Kitchen,75225,75225,"8383 Preston Center Plaza, Suite 100","The Plaza at Preston Center8383 Preston Ctr Plz, Ste 100"
+2004,1305,,Iron Cactus,Iron Cactus,75201,75201,"1520 Main Street, Dallas",1520 Main St
+167,61,,Carnitas Uruapan,Carnitas Uruapan Restaurant,60608,60608,"1725 W. 18th Street, Chicago",1725 W 18th St
+214,499,,Hutch,Hutch,60657,60657,"3301 N. Clark Street, Chicago",3301 N Clark St
+300,541,,Bom Bolla,Bom Bolla,60622,60622,"1501 N. Milwaukee Avenue, Chicago",1501 N Milwaukee Ave
+587,413,,Gilt Bar,Gilt Bar,60654,60654,"230 W. Kinzie Street, Chicago",230 W Kinzie St
+677,553,,Butcher & The Burger,Butcher & The Burger,60614,60614,"1021 W. Armitage Avenue, Chicago",1021 W Armitage Ave
+684,189,,Hopleaf,Hopleaf,60640,60640,"5148 N. Clark Street, Chicago",5148 N Clark St
+688,346,,Over Easy Cafe,Over Easy Cafe,60625,60625,"4943 N. Damen Avenue, Chicago",4943 N Damen Ave
+1072,226,,Tango Sur,Tango Sur,60613,60613,"3763 N. Southport Avenue, Chicago",3763 N Southport Ave
+1741,824,,Koryo Kalbi Korean BBQ,Koryo Kalbi Korean BBQ,75229,75229,"2560 Royal Lane, Suite 105, Dallas",2560 Royal LnSte 105
+1773,1015,,Flying Fish,Flying Fish,75225,75225,"6126 Luther Lane, Dallas",6126 Luther Ln
+1783,927,,Pecan Lodge,Pecan Lodge,75226,75226,"2702 Main Street, Dallas",2702 Main St
+1908,1106,,Half Shells Oyster Bar & Grill,Half Shells Oyster Bar & Grill,75205,75205,"6617 Snider Plaza, Dallas",6617 Snider Plz
+1958,1336,,Capitol Pub,Capitol Pub,75206,75206,2401 N Henderson Avenue,2401 N Henderson Ave
+1462,1002,,Bread Winners,Bread Winners Cafe & Bakery,75209,75209,"5560 W Lovers Lane, Dallas",5560 W Lovers Ln
+1479,1160,,Parigi,Parigi Restaurant,75219,75219,"3311 Oak Lawn Avenue, Dallas",3311 Oak Lawn AveSte 102
+1560,984,,Bolsa,Bolsa Mercado,75208,75208,"614 W Davis Street, Suite 100, Dallas",634 W Davis St
+1942,845,,Liberty Burger,Liberty Burger Lakewood,75214,75214,"1904 Abrams Parkway, Dallas",1904 Abrams Pkwy
+894,454,,Urbanbelly,Urbanbelly,60607,60607,"1400 W. Randolph Street, Chicago",1400 W Randolph St
+1536,831,,Cane Rosso,Cane Rosso,75214,75214,"7328 Gaston Avenue, Suite 100, Dallas",7328 Gaston AveSte 100
+564,111,,Coalfire,Coalfire Pizza,60642,60642,"1321 W. Grand Avenue, Chicago",1321 W Grand Ave
+52,517,,Taxim,Taxim,60622,60622,"1558 N. Milwaukee Avenue, Chicago",1558 N Milwaukee Ave
+1640,1251,,Press Box Grill,Press Box Grill,75201,75201,"1623 Main Street, Suite 101, Dallas",1623 Main St
+1896,1143,,Thai Lotus Kitchen,Thai Lotus Kitchen,75219,75219,"3851 Cedar Springs Road, Dallas",3851 Cedar Springs RdSte D
+739,387,,Bandera,Bandera Restaurant,60611,60611,"535 N. Michigan Avenue, Chicago",535 N Michigan Ave
+744,90,,Burger Bar,Burger Bar Chicago,60642,60642,"1578 N. Clybourn Avenue, Chicago",1578 N Clybourn Ave
+355,361,,The Boarding House,The Boarding House,60654,60654,720 N. Wells Street,720 N Wells St
+551,479,,Feast,Feast,60647,60647,"1616 N. Damen Avenue, Chicago",1616 N Damen Ave
+1020,72,,Kingsbury Street Cafe,Kingsbury Street Cafe,60642,60642,"1523 N. Kingsbury Street, Chicago",1523 N Kingsbury St
+1634,764,,Cock & Bull Neighborhood Pub,Cock & Bull,75214,75214,"6330 Gaston Avenue, Dallas",6330 Gaston Ave
+1751,918,,LYFE Kitchen,Lyfe Kitchen,75225,75225,"8315 Westchester Dr, Dallas",8315 Westchester Dr
+1977,967,,Taqueria El Si Hay,Taqueria El Si Hay,75208,75208,"601 W Davis Street, Dallas",601 W Davis ST
+1996,1021,,Barry's Food From Galilee,Food From Galilee,75205,75205,"6710 Snider Plaza, Dallas",6710 Snider Plz
+426,504,,Kokopelli,Kokopelli,60622,60622,"1324 N. Milwaukee Avenue, Chicago",1324 N Milwaukee Ave
+948,383,,Soupbox,Soupbox,60611,60611,"50 E. Avenue, Chicago",50 E Chicago Ave
+1005,360,,RPM Italian,RPM Italian,60654,60654,"52 W. Illinois Street, Chicago",52 W Illinois St
+1556,1244,,Saint Ann Restaurant & Bar,Saint Ann,75201,75201,"2501 N Harwood Street, Dallas",2501 N Harwood St
+1798,1147,,Bryan Street Tavern,Bryan Street Tavern,75204,75204,"4315 Bryan Street, Dallas",4315 Bryan St
+2067,821,,El Tizoncito,El Tizoncito,75209,75209,"5150 Lemmon Avenue, Suite 111, Dallas",5150 Lemmon AveSte 111
+2082,1117,,Oishii,Oishii,75219,75219,"2525 Wycliff Avenue, Dallas",2525 Wycliff AveSte 110
+720,422,,Sweet Maple Cafe,Sweet Maple Cafe,60607,60607,"1339 W. Taylor Street, Chicago",1339 W Taylor St
+994,350,,Yolk,Yolk,60611,60611,"355 E. Ohio Street, Chicago",355 E Ohio St
+1135,340,,Turquoise,Turquoise Restaurant,60618,60618,"2147 W. Roscoe Street, Chicago",2147 W Roscoe St
+1369,453,,The Boiler Room,The Boiler Room,60647,60647,"2210 N. California Avenue, Chicago",2210 N California Ave
+1544,1238,,The Capital Grille,The Capital Grille,75201,75201,"500 Crescent Court, Dallas",500 Crescent Ct
+1794,883,,Hopdoddy,Hopdoddy Burger Bar,75225,75225,"6030 Luther Lane, Suite 100, Dallas",6030 Luther LnSte 100
+1887,946,,Mesa,Mesa,75208,75208,"118 W Jefferson Boulevard, Dallas",118 W Jefferson Blvd
+2018,1110,,Great American Hero,Great American Hero,75219,75219,"4001 Lemmon Avenue, Dallas",4001 Lemmon Ave
+13,410,,Conte Di Savoia,Conte Di Savoia,60607,60607,1438 W. Taylor Street,1438 W Taylor St
+844,2,,Ada Street,Ada Street,60642,60642,"1664 N. Ada Street, Chicago",1664 N Ada St
+1864,1298,,Sunrise Asian Cuisine,Sunrise Asian Cuisine,75206,75206,"5631 Alta Avenue, Dallas",5631 Alta Ave
+1905,1195,,Stampede 66,Stampede 66,75201,75201,"1717 McKinney Avenue, Dallas",1717 Mckinney AveSte 100
+498,312,,Sable Kitchen & Bar - Hotel Palomar Chicago,Sable,60654,60654,"Hotel Palomar Chicago, 505 N. State Street, Chicago",505 N State St
+1547,848,,Local,Local,75226,75226,"2936 Elm Street, Dallas",2936 Elm St
+1789,1088,,Ai Sushi Sake Grill,Ai Sushi Sake Grill,75219,75219,"4123 Cedar Springs Road, Suite 102, Dallas",4123 Cedar Springs RdSte 102
+1947,1099,,Edohana Sushi,Edohana Sushi,75204,75204,"3839 McKinney Avenue, Unit 130, Dallas",3839 McKinney AveSte 130
+2063,934,,Ten Bells Tavern,Ten Bells Tavern,75208,75208,232 W 7th Street,232 W 7th St
+517,295,,Frontera Grill,Frontera Grill,60654,60654,"445 N. Clark Street, Chicago",445 N Clark St
+571,273,,Tru,Tru,60611,60611,"676 N. St. Clair Street, Chicago",676 N St. Clair St
+981,458,,Chicago Bagel Authority,Chicago Bagel Authority,60614,60614,"953 W. Armitage Avenue, Chicago",953 W Armitage Ave
+1473,907,,Lockhart Smokehouse,Lockhart Smokehouse,75208,75208,"400 W Davis Street, Dallas",400 W Davis St
+1570,962,,Little Katana,Little Katana,75205,75205,"4527 Travis Street, Dallas",4527 Travis St
+1587,1118,,Ocean Prime,Ocean Prime,75201,75201,"2101 Cedar Springs Road, Dallas",2101 Cedar Springs Rd
+1709,1098,,The Idle Rich Pub,The Idle Rich Pub,75204,75204,"2614 McKinney Avenue, Dallas",2614 McKinney Ave
+1749,907,0,Smoke,Lockhart Smokehouse,75208,75208,"901 Fort Worth Avenue, Dallas",400 W Davis St
+1277,80,,Fork Chicago,Fork,60625,60625,"4600 N. Lincoln Avenue, Chicago",4600 N Lincoln Ave
+657,449,,Bourgeois Pig,Bourgeois Pig Cafe,60614,60614,"738 W. Fullerton Avenue, Chicago",738 W Fullerton Ave
+852,407,,Buona Terra,Buona Terra Ristorante,60647,60647,"2535 N. California Avenue, Chicago",2535 N California Ave
+1475,1275,,Ozona,Ozona Grill & Bar,75206,75206,"4615 Greenville Avenue, Dallas",4615 Greenville Ave
+1680,873,,Lucia,Lucia,75208,75208,"408 W Eighth Street, Suite 101, Dallas",408 W 8th St
+1695,953,,Cafe Pacific,Cafe Pacific,75205,75205,"24 Highland Park Village, Dallas",24 Highland Park Village
+1849,1086,,Hook Line & Sinker,Hook Line & Sinker,75204,75204,"3103 Lemmon Avenue, Dallas",3103 Lemmon Ave
+2060,1112,,Coal Vines,Coal Vines,75201,75201,"2404 Cedar Springs Road, Dallas",2404 Cedar Springs RdSte 500
+236,467,,The Bedford,The Bedford,60622,60622,"1612 W. Division Street, Chicago",1612 W Division St
+834,247,,25 Degrees,25 Degrees,60654,60654,"736 N. Clark Street, Chicago",736 N Clark St
+1458,1265,,Rusty Taco,Rusty Taco,75206,75206,"4802 Greenville Avenue, Dallas",4802 Greenville Ave
+1521,1101,,Wild Salsa,Wild Salsa,75201,75201,"1800 Main Street, Suite 100, Dallas",1800 Main StSte 100
+1607,771,,Braindead Brewing,Braindead Brewing,75226,75226,"2625 Main Street, Dallas",2625 Main St
+1728,1072,,The Standard Pour,The Standard Pour,75204,75204,"2900 McKinney Avenue, Dallas",2900 McKinney Ave
+110,221,,The Purple Pig,The Purple Pig,60611,60611,"500 N. Michigan Avenue, Chicago",500 N Michigan Ave
+593,241,,Tanta,Tanta,60654,60654,"118 W. Grand Avenue, Chicago",118 W Grand Ave
+1649,755,,Angry Dog,Angry Dog,75226,75226,"2726 Commerce Street, Dallas",2726 Commerce St
+1786,1063,,Salum,Salum Restaurant,75204,75204,"4152 Cole Avenue, Suite 103, Dallas",4152 Cole AveSte 103
+1853,862,,Local Oak,The Local Oak,75208,75208,"409 N Zang Boulevard, Dallas",409 N Zang Blvd
+522,213,,Siena Tavern,Siena Tavern,60654,60654,51 W. Kinzie Street,51 W Kinzie St
+654,353,,BellyQ,bellyQ,60607,60607,"1400 W. Randolph Street, Chicago",1400 W Randolph St
+1569,859,,Boulevardier,Boulevardier,75208,75208,"408 N Bishop Avenue, Suite 108, Dallas",408 N Bishop AveSte 108
+1574,1039,,Urban Taco,Urban Taco,75204,75204,"3411 McKinney Avenue, Dallas",3411 McKinney Ave
+1743,1253,,In-N-Out,In-N-Out Burger,75206,75206,"7940 N Central Expressway, Dallas",7940 N Central Expy
+1860,929,,Taverna,Taverna,75205,75205,"3312 Knox Street, Dallas",3312 Knox St
+79,420,,Barley & Brass,Barley & Brass,60622,60622,"2015 W. Division Street, Chicago",2015 W Division St
+589,179,,Lyfe Kitchen,LYFE Kitchen,60654,60654,"419 N. Clark Street, Chicago",413 N Clark St
+1257,202,,Sticky Rice,Sticky Rice,60618,60618,"4018 N. Western Avenue, Chicago",4018 N Western Ave
+1602,795,,Nova,Nova,75208,75208,"1417 W Davis Street, Dallas",1417 W Davis St
+495,287,,Little Goat Bakery,Little Goat,60607,60607,"820 W. Randolph Street, Chicago",820 W Randolph St
+1339,287,,Little Goat Diner,Little Goat,60607,60607,"820 W. Randolph Street, Chicago",820 W Randolph St
+1387,330,,Bar Pastoral,Pastoral,60657,60657,"2947 N. Broadway Street, Chicago",2945 N Broadway
+639,412,,Big Star,Big Star,60622,60622,"1531 N. Damen Avenue, Chicago",1531 N Damen
+840,174,,Three Dots and a Dash,Three Dots and a Dash,60654,60654,"435 N. Clark Street, Chicago",435 N Clark StBack alley on Hubbard St
+904,324,,Fish Bar,Fish Bar,60657,60657,"2956 N. Sheffield Avenue, Chicago",2956 N Sheffield Ave
+1333,386,,Pasta Palazzo,Pasta Palazzo,60614,60614,"1966 N. Halsted Street, Chicago",1966 N Halsted St
+1671,1248,,The Grape,The Grape Restaurant,75206,75206,"2808 Greenville Avenue, Dallas",2808 Greenville Ave
+1916,1052,,Dream Cafe,Dream Cafe,75201,75201,"2800 Routh Street, Suite 170, Dallas",2800 Routh StSte 170
+790,155,,Gyu-Kaku Japanese BBQ,Gyu-Kaku Japanese BBQ,60611,60611,"210 E. Ohio Street, Chicago",210 E Ohio St
+1646,1018,,Komali,Komali,75204,75204,"4152 Cole Avenue, Suite 106, Dallas",4152 Cole Ave
+2000,762,,Stock & Barrel,Stock & Barrel,75208,75208,"316 W Davis Street, Dallas",316 Davis St
+714,129,,Bridge House Tavern On The River,Bridge House Tavern,60654,60654,"32 N. Clark Street, Chicago",321 N Clark St
+726,248,,Bar Takito,Bar Takito,60607,60607,"201 N. Morgan Street, Chicago",201 N Morgan St
+1381,296,,Rangoli,Rangoli,60647,60647,"2421 W. North Avenue, Chicago",2421 W North Ave
+1560,759,,Bolsa,Bolsa,75208,75208,"614 W Davis Street, Suite 100, Dallas",614 W Davis St
+1949,1008,,Village Burger Bar,Village Burger Bar,75204,75204,"3699 McKinney Avenue, Unit 325, Dallas",3699 McKinney Ave
+1439,362,,Simply It Cuisine of Vietnam,Simply It,60614,60614,"2269 N. Lincoln Avenue, Chicago",2269 N Lincoln Ave
+465,225,,Momotaro,Momotaro,60607,60607,"820 W. Lake Street, Chicago",820 W Lake St
+1039,29,,Volare,Volare Ristorante Italiano,60611,60611,"201 E. Grand Avenue, Chicago",201 E Grand Ave
+1245,316,,Dryhop Brewers,DryHop Brewers,60657,60657,"3155 N. Broadway Street, Chicago",3155 N Broadway
+1842,871,,Dive Coastal Cuisine,Dive Coastal Cuisine,75205,75205,"3404 Rankin Street, Dallas",3404 Rankin St
+591,341,,Athenian Room,Athenian Room,60614,60614,"807 W. Webster Avenue, Chicago",807 W Webster Ave
+599,92,,The Bad Apple,The Bad Apple,60618,60618,"4300 N. Lincoln Avenue, Chicago",4300 N Lincoln Ave
+817,370,,The Bongo Room,The Bongo Room,60622,60622,"1470 N. Milwaukee Avenue, Chicago",1470 N Milwaukee Ave
+1466,925,,Original Market Diner,Original Market Diner,75219,75219,"4434 Harry Hines Boulevard, Dallas",4434 Harry Hines Blvd
+1562,1031,,Katy Trail Ice House,Katy Trail Ice House,75201,75201,"3127 Routh Street, Dallas",3127 Routh St
+631,310,,Frasca Pizzeria and Wine Bar,Frasca,60657,60657,"3358 N. Paulina Street, Chicago",3358 N Paulina St
+547,54,,Farmhouse,Farmhouse,60654,60654,"228 W. Chicago Avenue, Chicago",228 W Chicago Ave
+695,276,,Longman & Eagle,Longman & Eagle,60647,60647,"2657 N. Kedzie Avenue, Chicago",2657 N Kedzie Ave
+752,204,,Grange Hall Burger Bar,Grange Hall Burger Bar,60607,60607,"844 W. Randolph Street, Chicago",844 W Randolph St
+1379,355,,Takito Kitchen,Takito Kitchen,60622,60622,"2013 W. Division Street, Chicago",2013 W Division St
+1881,942,,Eureka!,Eureka!,75204,75204,"3700 McKinney Avenue, Suite 126, Dallas",3700 Mckinney AveSte 126
+2010,1211,,Texadelphia,Texadelphia,75206,75206,"5500 Greenville Avenue, Suite 600, Dallas",5500 Greenville AveSte 600
+732,40,,Beatrix,Beatrix,60654,60654,"519 N. Clark Street, Chicago",519 North Clark Street
+1459,1202,,The Blue Fish,The Blue Fish,75206,75206,"3519 Greenville Avenue, Dallas",3519 Greenville Ave
+488,4,,Staropolska Restaurant,Staropolska Restaurant,60618,60618,"3030 N. Milwaukee Avenue, Chicago",3030 N Milwaukee Ave
+801,318,,Balena,Balena,60614,60614,"1633 N. Halsted Street, Chicago",1633 N Halsted St
+1071,172,,Cemitas Puebla,Cemitas Puebla,60607,60607,"817 W. Fulton Market, Chicago",817 W Fulton Market
+1100,15,,The Dawson,The Dawson,60654,60654,"730 W. Grand Avenue, Chicago",730 W Grand Ave
+1399,249,,Ipsento,Ipsento,60647,60647,"2035 N. Western Avenue, Chicago",2035 N Western Ave
+1609,914,,Avanti Ristorante,Avanti Ristorante,75204,75204,"2720 McKinney Avenue, Dallas",2720 McKinney Ave
+1651,774,,Kozy Kitchen,Kozy Kitchen,75205,75205,"4433 McKinney Avenue, Dallas",4433 McKinney Ave
+584,311,,Piece,Piece Brewery and Pizzeria,60622,60622,"1927 W. North Avenue, Chicago",1927 W North Ave
+630,167,,Publican Quality Meats,Publican Quality Meats,60607,60607,"825 W Fulton Market, Chicago",825 W Fulton Market St
+1332,304,,The Peasantry,The Peasantry,60614,60614,"2723 N. Clark Street, Chicago",2723 N Clark St
+1450,11,,Xoco,Xoco,60654,60654,"449 N. Clark Street, Chicago",449 N Clark St
+1588,1005,,The Social House,The Social House,75201,75201,"2708 Routh Street, Dallas",2708 Routh St
+1525,913,,Bangkok City Restaurant,Bangkok City,75204,75204,"4301 Bryan Street, Suite 101, Dallas",4301 Bryan St
+1491,880,,Taco Joint,Taco Joint,75204,75204,"911 N Peak Street, Dallas",911 N Peak St
+1507,897,,Cafe Brazil,Cafe Brazil,75219,75219,"3847 Cedar Springs Road, Dallas",3847 Cedar Springs Rd
+1856,979,,Proof + Pantry,Proof + Pantry,75201,75201,"1722 Routh Street, Suite 102, Dallas",1722 Routh StSte 102
+769,301,,Perennial Virant - Hotel Lincoln,Perennial Virant,60614,60614,"Lincoln Hotel, 1800 N. Lincoln Avenue, Chicago",1800 N Lincoln Ave
+1057,146,0,White Palace Grill,Palace Grill,60607,60607,"1159 S. Canal Street, Chicago",1408 W Madison St
+2027,1174,,Company Cafe & Bar,Company Cafe,75206,75206,"2104 Greenville Avenue, Dallas",2104 Greenville Ave
+1677,973,,Chop House Burger,Chop House Burger,75201,75201,"1501 Main Street, Dallas",1501 Main St
+1801,869,,Baboush,Baboush,75204,75204,"3636 McKinney Avenue, Suite 160, Dallas",3636 Mckinney AveSte 160
+501,298,,Summer House Santa Monica,Summer House,60614,60614,"1954 N. Halsted Street, Chicago",1954 N Halsted St
+857,137,,Ramen Takeya,Ramen Takeya,60607,60607,"819 W. Fulton Market, Chicago",819 W Fulton Market
+879,219,,The Chicago Diner,The Chicago Diner,60647,60647,"2333 N. Milwaukee Avenue, Chicago",2333 N Milwaukee Ave
+991,292,,Aloha Eats,Aloha Eats,60614,60614,"2534 N. Clark Street, Chicago",2534 N Clark St
+1175,250,,Panes Bread Cafe,Panes Bread Cafe,60657,60657,"3002 N. Sheffield Avenue, Chicago",3002 N Sheffield Ave
+1924,1169,,Pho Is For Lovers,Pho Is For Lovers,75206,75206,"5521 Greenville Avenue, Suite 105, Dallas",5521 Greenville AveSte 105
+622,280,,Batter & Berries,Batter & Berries,60614,60614,"2748 N. Lincoln Avenue, Chicago",2748 N Lincoln Ave
+1541,834,,Nonna,Nonna Restaurant,75219,75219,"4115 Lomo Alto Drive, Dallas",4115 Lomo Alto Dr
+1589,1165,,Urban Taco,Urban Taco,75206,75206,"5331 E Mockingbird Lane, Suite 125, Dallas",5331 E Mockingbird LnSte 125
+1827,836,,Malai Kitchen,Malai Kitchen,75204,75204,"3699 McKinney Avenue Suite 319, Dallas",3699 McKinney AveSte 319
+1902,959,,Savor,Savor Gastropub,75201,75201,"2000 Woodall Rodgers Freeway, Suite 403, Dallas",2000 Woodall Rodgers Fwy
+676,197,,Handlebar,Handlebar,60647,60647,"2311 W. North Avenue, Chicago",2311 W North Ave
+1026,128,,Three Aces,Three Aces,60607,60607,"1321 W. Taylor Street, Chicago",1321 W Taylor St
+556,272,,Boka Restaurant & Bar,Boka,60614,60614,"1729 N. Halsted Street, Chicago",1729 N Halsted St
+784,110,,Girl & the Goat,Girl & the Goat,60607,60607,"809 W. Randolph Street, Chicago",809 W Randolph St
+901,210,,Taco Joint,Taco Joint,60614,60614,"1969 N. Halsted Street, Chicago",1969 N Halsted St
+1581,829,,Dish,DISH Cedar Springs,75219,75219,"ILLUME, 4123 Cedar Springs Road, Suite 110, Dallas",4123 Cedar Springs RdSte 110
+1747,822,,Urbano Cafe,Urbano Cafe,75204,75204,"1410 Fitzhugh Avenue, Suite C, Dallas",1410 C Fitzhugh
+1894,1148,,Velvet Taco,Velvet Taco,75206,75206,"3012 N Henderson Avenue, Dallas",3012 N Henderson Ave
+45,206,,Rickshaw Republic,Rickshaw Republic,60614,60614,"2312 N. Lincoln Avenue, Chicago",2312 N Lincoln Ave
+913,104,,Moxee Restaurant & Mad Mouse Brewery,Moxee Restaurant & Mad Mouse Brewery,60607,60607,"724 W. Maxwell Street, Chicago",724 W Maxwell St
+1606,938,,Uchi,Uchi,75201,75201,"2817 Maple Avenue, Dallas",2817 Maple Ave
+751,199,,Mana Food Bar,Mana Food Bar,60622,60622,"1742 W. Division Street, Chicago",1742 W Division St
+1228,98,,Au Cheval,Au Cheval,60607,60607,"800 W. Randolph Street, Chicago",800 W Randolph S
+1389,203,,Noodles in the Pot,Noodles In the Pot,60614,60614,"2453 N. Halsted Street, Chicago",2453 N Halsted St
+1561,813,,Bread Winners,Bread Winners Cafe & Bakery,75204,75204,"3301 McKinney Avenue, Dallas",3301 McKinney Ave
+1850,1125,,Piggie Pies Pizza & Pasta,Piggie Pies Pizza & Pasta,75206,75206,"5315 Greenville Avenue, Dallas",5315 Greenville AveSte 120B
+195,63,,Viaggio Ristorante & Lounge,Viaggio Ristorante & Lounge,60607,60607,"1330 W. Madison Street, Chicago",1330 W Madison St
+1724,806,,Hopdoddy,Hopdoddy Burger Bar,75204,75204,"3227 McKinney Avenue, Dallas",3227 McKinney AveSte 102
+1780,814,,The Mint,The Mint,75219,75219,"4246 Oak Lawn Avenue, Dallas",4246 Oak Lawn Ave
+1782,910,,Stephan Pyles,Stephan Pyles,75201,75201,"1807 Ross Avenue, Suite 200, Dallas",1807 Ross Ave
+538,62,,Davanti Enoteca,Davanti Enoteca,60607,60607,"1359 W. Taylor Street, Chicago",1359 W Taylor St
+1067,166,,Pasta Bowl,The Pasta Bowl,60614,60614,"2434 N. Clark Street, Chicago",2434 N Clark St
+1305,156,,DMK Burger Bar,DMK Burger Bar,60657,60657,"2954 N. Sheffield Avenue, Chicago",2954 N Sheffield Ave
+1477,800,,Si Tapas,Si Tapas,75204,75204,"2207 Allen Street, Dallas",2207 Allen St
+554,121,,Birchwood Kitchen,Birchwood Kitchen,60647,60647,"2211 W. North Avenue, Chicago",2211 W North Ave
+895,165,,Alinea,Alinea,60614,60614,"1723 N. Halsted Street, Chicago",1723 N Halsted St
+1348,132,,Home Bistro,Home Bistro,60657,60657,"3404 N. Halsted Street, Chicago",3404 N Halsted St
+505,39,,Green Street Smoked Meats,Green Street Smoked Meats,60607,60607,"112 N. Green Street, Chicago",112 N Green St
+535,118,,The Bristol,The Bristol,60647,60647,"2152 N. Damen Avenue, Chicago",2152 N Damen Ave
+1328,154,,Feed,Feed,60622,60622,2803 W. Chicago Avenue,2803 W Chicago Ave
+1714,767,,LYFE Kitchen,Lyfe Kitchen - West Village,75204,75204,"3699 McKinney Avenue, Dallas",3699 Mckinney AveSte A-221
+61,149,,Umami Burger,Umami Burger,60622,60622,"1480 N. Milwaukee Avenue, Chicago",1480 N Milwaukee Ave
+574,31,,Bar Siena,Bar Siena,60607,60607,"832 W. Randolph Street, Chicago",832 W Randolph St
+1012,134,,Bricks,Bricks,60614,60614,"1909 N. Lincoln Avenue, Chicago",1909 N Lincoln Ave
+1478,1055,,Trinity Hall,Trinity Hall Irish Pub,75206,75206,"5321 E Mockingbird Lane, Dallas",5321 E Mockingbird Ln
+1616,863,,The Common Table,The Common Table,75201,75201,"2917 Fairmount Street, Dallas",2917 Fairmount St
+1872,1053,,Greenville Avenue Pizza Company,Greenville Avenue Pizza Company,75206,75206,"1923 Greenville Avenue, Dallas",1923 Greenville Ave
+132,102,,Twin Anchors,Twin Anchors Restaurant & Tavern,60614,60614,"1655 N. Sedgwick Street, Chicago",1655 N Sedgwick St
+98,94,,Irazu,Irazu,60647,60647,"1865 N. Milwaukee Avenue, Chicago",1865 N Milwaukee Ave
+402,84,,The Drinkingbird,The Drinkingbird,60614,60614,"2201 N. Clybourn Avenue, Chicago",2201 N Clybourn Ave
+1074,145,,Lockdown Bar & Grill,Lockdown Bar & Grill,60622,60622,"1024 N. Western Avenue, Chicago",1024 N Western Ave
+1125,14,,La Sirena Clandestina,La Sirena Clandestina,60607,60607,"954 W. Fulton Market, Chicago",954 W Fulton Market
+1914,855,,Mercat Bistro,Mercat Bistro,75201,75201,2501 N Harwood St,2501 N Harwood St
+1551,1028,,Tei Tei Robata Bar,Tei Tei Robata,75206,75206,"2906 N Henderson Avenue, Dallas",2906 N Henderson Ave
+1481,751,,Buzzbrews,Buzzbrews Kitchen,75204,75204,"4154 N Central Expressway, Dallas",4154 N Central Expy
+1463,1016,,Cafe Izmir,Cafe Izmir,75206,75206,"3711 Greenville Avenue, Dallas",3711 Greenville Ave
+734,130,,Oiistar,Oiistar,60622,60622,"1385 N. Milwaukee Avenue, Chicago",1385 N Milwaukee Ave
+912,67,,Homeslice,Homeslice,60614,60614,"938 W. Webster Avenue, Chicago",938 W Webster
+1552,783,,CBD Provisions - The Joule,CBD Provisions,75201,75201,"The Joule, 1530 Main Street, Dallas",1530 Main St
+544,52,0,Orange,Range,60614,60614,"2413 N. Clark Street, Chicago",1119 W Webster
+1050,48,,Revolution Brewing,Revolution Brewing,60647,60647,"2323 N. Milwaukee Avenue, Chicago",2323 N Milwaukee Ave
+1691,961,,The Corner Market,The Corner Market,75206,75206,"3426 Greenville Avenue, Dallas",3426 Greenville Ave
+277,91,,Mott Street,Mott St,60622,60622,"1401 N. Ashland Avenue, Chicago",1401 N Ashland Ave
+719,51,,Nookies,Nookies,60614,60614,"1746 N. Wells Street, Chicago",1746 N Wells St
+926,51,0,Nookies Too,Nookies,60614,60614,"2112 N. Halsted Street, Chicago",1746 N Wells St
+628,13,,Lula Cafe,Lula Cafe,60647,60647,"2537 N. Kedzie Boulevard, Chicago",2537 N Kedzie Blvd
+176,82,,Antique Taco,Antique Taco,60622,60622,"1360 N. Milwaukee Avenue, Chicago",1360 N Milwaukee Ave
+1244,9,,Wasabi,Wasabi,60647,60647,"2115 N. Milwaukee Avenue, Chicago",2115 N Milwaukee Ave
+1992,936,,Start,Start,75206,75206,"4814 Greenville Avenue, Dallas",4814 Greenville Ave
+279,41,,Carriage House,Carriage House,60622,60622,"1700 W. Division Street, Chicago",1700 W Division St
+1595,928,,Desperados Mexican Restaurant,Desperados Mexican Restaurant,75206,75206,"4818 Greenville Avenue, Dallas",4818 Greenville Ave
+1625,911,,Aw Shucks Oyster Bar,Aw Shucks,75206,75206,"3601 Greenville Avenue, Dallas",3601 Greenville Ave
+2006,904,,Nora Restaurant and Bar,Nora Restaurant and Bar,75206,75206,"1928 Greenville Avenue, Dallas",1928 Greenville Ave
+2005,894,,Remedy,Remedy,75206,75206,"2010 Greenville Avenue, Suite B, Dallas",2010B Greenville Ave
+1484,879,,Thai Thai,Thai Thai Restaurant,75206,75206,"1731 Greenville Avenue, Dallas",1731 Greenville Ave
+1871,877,,Fireside Pies,Fireside Pies,75206,75206,"2820 N Henderson Avenue, Dallas",2820 N Henderson Ave
+1591,870,,Sundown at Granada,Sundown At Granada,75206,75206,"3520 Greenville Avenue, Dallas",3520 Greenville Ave
+1543,867,,Cowboy Chicken,Cowboy Chicken,75206,75206,"5315 Greenville Avenue, Dallas",5315 Greenville AveSte 125
+1485,842,,The Libertine Bar,Libertine Bar,75206,75206,"2101 Greenville Avenue, Dallas",2101 Greenville Ave
+1528,830,,Vickery Park,Vickery Park,75206,75206,"2810 N Henderson Avenue, Dallas",2810 N Henderson Ave
+1667,816,,Gemma,Gemma,75206,75206,"2323 N Henderson Avenue, Suite 109, Dallas",2323 N Henderson AveSte 109
+1791,811,,Mot Hai Ba,Mot Hai Ba,75206,75206,"6047 Lewis Street, Dallas",6047 Lewis St
+1572,805,,HG Sply Co.,HG Sply Co,75206,75206,"2008 Greenville Avenue, Dallas",2008 Greenville Ave
+2009,780,,Knife - The Highland Hotel,Knife,75206,75206,"The Highland Hotel, 5300 E Mockingbird Lane, Dallas",5300 E Mockingbird Ln
+1480,772,,The Blind Butcher,Blind Butcher,75206,75206,"1919 Greenville Avenue, Dallas",1919 Greenville Ave
+2227,1516,,Meddlesome Moth,Meddlesome Moth,75207,75207,"1621 Oak Lawn Avenue, Dallas",1621 Oak Lawn Ave
+2246,1431,,Resto Gastro Bistro,Resto Gastro Bistro,75212,75212,"3011 Gulden Lane, Suite 104, Dallas","Trinity Groves3011 Gulden Ln, Ste 104"
+2277,1498,,Aloha Hawaiian Barbecue,Aloha Hawaiian Barbecue,75209,75209,"5610 Lemmon Avenue, Suite A1, Dallas",5610 Lemmon AveSte A1
+2400,2149,,Tacos Baja Ensenada,Tacos Baja Ensenada,90022,90022,"5385 Whittier Blvd, Los Angeles",5385 Whittier Blvd
+2426,2366,,Animal,Animal,90036,90036,"435 N Fairfax Ave, Los Angeles",435 N Fairfax Ave
+2516,2328,,Churros Calientes,Churros Calientes,90025,90025,"11521 Santa Monica Blvd., Los Angeles",11521 Santa Monica Blvd
+2530,2348,,El Taurino,El Taurino,90006,90006,"2306 W 11th St, Los Angeles",2306 W 11th St
+2703,2372,,Wood Spoon,Wood Spoon,90015,90015,"107 West 9th St, Los Angeles",107 W 9th St
+2742,2209,,Gushi,Gushi,90024,90024,"978 Gayley Ave, Los Angeles",978 Gayley Ave
+3478,2358,,Guisados,Guisados,90033,90033,"2100 E. Cesar E Chavez Ave., Los Angeles",2100 E Cesar Chavez Ave
+2120,1477,,Reikyu,Reikyu Sushi & Bar,75206,75206,"5321 E Mockingbird Lane, Second Level, Dallas",5321 E Mockingbird LnSte 200
+2177,1508,,Green House Market,Green House Market,75225,75225,"8687 North Central Expressway, Dallas",8687 N Central Expy
+2253,1366,,El Taquito Cafe,El Taquito Cafe,75223,75223,5427 E Grand Avenue,5427 E Grand Ave
+2326,2355,,25 Degrees,25 Degrees,90028,90028,"7000 Hollywood Blvd, Los Angeles",Hollywood Roosevelt Hotel7000 Hollywood Blvd
+2410,2293,,Top Round Roast Beef,Top Round Roast Beef,90019,90019,"1000 South La Brea Avenue, Los Angeles",1000 S La Brea Ave
+2838,2288,,Guisados,Guisados,90026,90026,"1261 Sunset Blvd, Los Angeles",1261 W Sunset Blvd
+3140,1970,,TLT Food,TLT Food,90024,90024,"1116 Westwood Blvd, Los Angeles",1116 Westwood Blvd
+3194,2309,,Izaka-Ya,The IZAKA-YA by KATSU-YA,90048,90048,"8420 west third street, Los Angeles",8420 W 3rd St
+3423,2160,,Daikokuya,Daikokuya,90064,90064,"2208 Sawtelle Boulevard, Los Angeles",2208 Sawtelle Blvd
+3439,2316,,Atwater Village Tavern,Atwater Village Tavern,90039,90039,"3218 Glendale Boulevard, Los Angeles",3216 Glendale Blvd
+3611,2352,,Pinches Tacos,Pinches Tacos,90046,90046,8200 W Sunset Blvd,8200 W Sunset Blvd
+3752,2305,,The Oinkster,The Oinkster,90041,90041,"2005 Colorado Blvd, Los Angeles",2005 Colorado Blvd
+3820,2317,,Hama Sushi,Hama Sushi,90012,90012,"347 E 2nd St, Los Angeles",347 E 2nd St
+3908,2142,,Gulfstream,Gulfstream,90067,90067,"10250 Santa Monica Boulevard, Los Angeles",10250 Santa Monica Blvd
+3940,2301,,ROC Kitchen,ROC Kitchen,90025,90025,"2049 Sawtelle Blvd, Los Angeles",2049 Sawtelle Blvd
+4240,2253,,Industriel,Industriel,90017,90017,"609 S Grand Ave, Los Angeles",609 S Grand Ave
+2118,1479,,The Nodding Donkey,The Nodding Donkey,75204,75204,"2900 Thomas Avenue, Dallas",2900 Thomas Ave
+2155,1438,,Amore Italian,Amore Italian Restaurant,75205,75205,"6931 Snider Plaza, Dallas",6931 Snider Plz
+2267,1491,,Italia Express,Italia Express,75219,75219,"4000A Cedar Springs Road, Dallas",4000 Cedar Springs Rd
+2392,1857,,Hinoki & the Bird,Hinoki & The Bird,90067,90067,"10 Century Dr, Los Angeles",10 W Century Dr
+2529,2294,,The Village Bakery and Cafe,The Village Bakery and Cafe,90039,90039,"3119 Los Feliz Blvd., Los Angeles",3119 Los Feliz Blvd
+2834,2365,,Seongbukdong,Seongbukdong,90020,90020,"3303 W 6th St, Los Angeles",3303 W 6th St
+3178,2048,,Carnitas Michoacan,Carnitas Michoacan,90031,90031,"1901 N Broadway, Los Angeles",1901 N Broadway
+3468,1762,,Ink.Sack,Ink.sack,90069,90069,"8360 Melrose Ave, Los Angeles",8360 Melrose AveSte 107
+3491,2247,,Swingers,Swingers Diner,90048,90048,"8020 Beverly Blvd, Los Angeles",8020 Beverly Blvd
+3586,1762,,Ink,Ink.sack,90069,90069,"8360 Melrose Ave, Los Angeles",8360 Melrose AveSte 107
+3649,2016,,Simpang Asia,Simpang Asia,90034,90034,"10433 National Blvd #213, Los Angeles",10433 National BlvdSte 2
+3656,1824,,Clementine,Clementine,90024,90024,"1751 Ensley Ave, Los Angeles",1751 Ensley Ave
+4054,2239,,Bar & Kitchen,Bar & Kitchen,90017,90017,"819 S Flower St, Los Angeles",O Hotel819 S Flower St
+4253,2138,,Villains Tavern,Villains Tavern,90013,90013,"1356 Palmetto St, Los Angeles",1356 Palmetto St
+4066,2264,,The Little Bear,Little Bear,90021,90021,"1855 Industrial St, Los Angeles",1855 Industrial St
+2115,810,,Spiral Diner & Bakery,Spiral Diner & Bakery,75203,75203,"1101 N Beckley Avenue, Dallas",1101 N Beckley Ave
+2130,1350,,Casa Rubia,Casa Rubia,75212,75212,"3011 Gulden Lane, Suite 116, Dallas",3011 Gulden LnSte 116
+2260,1460,,Freebirds,Freebirds World Burrito,75206,75206,"5500 Greenville Avenue, Dallas",5500 Greenville AveSte 209
+2447,2231,,La Paella,LA Paella,90048,90048,"476 S San Vicente Blvd, Los Angeles",476 S San Vicente Blvd
+2837,2094,,Mariscos Jalisco,Mariscos Jalisco,90023,90023,"3040 E Olympic Blvd, Los Angeles",3040 E Olympic Blvd
+2974,2229,,Pizzanista!,Pizzanista!,90021,90021,"2019 E. 7th St., Los Angeles",2019 E 7th St
+3324,1991,,Ondal 2,Ondal 2,90016,90016,"4566 W Washington Blvd, Los Angeles",4566 W Washington Blvd
+3347,1684,,Craft,Craft,90067,90067,10100 Constellation Blvd,10100 Constellation Blvd
+3487,2015,,Cafe Beaujolais,Cafe Beaujolais,90041,90041,"1712 Colorado Blvd, Los Angeles",1712 Colorado Blvd
+3586,1652,,Ink,Ink,90069,90069,"8360 Melrose Ave, Los Angeles",8360 Melrose AveSte 101
+3715,2276,,Curry House,Curry House,90012,90012,"123 Astronaut E S Onizuka St, Los Angeles",123 S Onizuka StSte 204
+3920,1794,,Fundamental LA,fundamental LA,90024,90024,"1303 Westwood Blvd, Los Angeles",1303 Westwood Blvd
+3985,2204,,Sage Organic Vegan,Sage Organic Vegan Bistro,90026,90026,"1700 W Sunset Blvd, Los Angeles",1700 Sunset Blvd
+4031,1830,,Shintaro,Shintaro Japanese Restaurant,90068,90068,"1900 N Highland Ave, Los Angeles",1900 N Highland AveSte 5
+3468,1652,,Ink.Sack,Ink,90069,90069,"8360 Melrose Ave, Los Angeles",8360 Melrose AveSte 101
+2141,1282,,Sahara Restaurant,Sahara Restaurant,75240,75240,"5441 Alpha Road, Dallas",5441 Alpha RdSte 110
+2218,1475,,TNT Tacos and Tequila,TNT Tacos and Tequila,75201,75201,"2800 Routh Street, Suite 155, Dallas",2800 Routh St
+2550,2281,,The Hollywood Corner,The Hollywood Corner,90038,90038,"1156 N Highland Ave, Los Angeles",1156 N Highland Ave
+2600,2287,,Al Wazir Chicken,Al Wazir Chicken,90028,90028,6051 Hollywood Blvd,6051 Hollywood Blvd
+2728,1689,,Vees Cafe,Vees Cafe,90016,90016,"5418 W Adams Blvd, Los Angeles",5418 W Adams Blvd
+2919,2026,,Food,Food,90064,90064,"10571 Pico Blvd, Los Angeles",10571 Pico Blvd
+3097,2186,,The Original Ramen Burger,The Original Ramen Burger,90004,90004,"239 S Vermont Avenue, Los Angeles, CA",239 S Vermont Ave
+3199,2321,,Aroma Bar and Grill,Aroma Bar and Grill,90046,90046,"7373 W Sunset Blvd, Los Angeles",7373 W Sunset Blvd
+3512,2332,,Shaky Alibi,Shaky Alibi,90036,90036,"7401 Beverly Blvd., Los Angeles",7401 Beverly Blvd
+3574,2223,,Commissary,Commissary,90010,90010,"3515 Wilshire Blvd, Los Angeles",The Line Hotel3515 Wilshire Blvd
+3650,1796,,Santouka Ramen,Santouka Ramen,90066,90066,"3760 S Centinela Ave, Los Angeles",3760 S Centinela Ave
+3845,2289,,Tlayuda L.A.,Tlayuda L.A. Mexican Restaurant,90029,90029,5450 Santa Monica Boulevard,5450 Santa Monica Blvd
+4055,2154,,El Cochinito,El Cochinito Restaurant,90026,90026,"3508 W Sunset Blvd, Los Angeles",3508 W Sunset Blvd
+2224,1349,,Sushi Kyoto,Sushi Kyoto,75205,75205,"6429 Hillcrest Avenue, Dallas",6429 Hillcrest Ave
+2261,1343,,City Cafe,City Cafe,75209,75209,"5757 West Lovers Lane, Dallas",5757 W Lovers Ln
+2262,1121,,Taco Stop,Taco Stop,75207,75207,"1900 Irving Boulevard, Dallas",1900 Irving Blvd
+2459,1986,,Westside Tavern,Westside Tavern,90064,90064,"10850 W. Pico Blvd, Los Angeles",10850 W Pico Blvd
+2816,2267,,Pho 87,Pho 87,90012,90012,"1019 N Broadway, Los Angeles",1019 N  Broadway
+3061,1800,,Hollywood Pies,Hollywood Pies,90035,90035,"6116 1/2 W Pico Blvd, Los Angeles",6116 1/2 W Pico Blvd
+3592,2109,,Perch,Perch,90013,90013,"448 S Hill St, Los Angeles",448 S Hill St
+3635,2184,,Tsujita LA,Tsujita LA Artisan Noodle,90025,90025,"2057 Sawtelle Blvd, Los Angeles",2057 Sawtelle Blvd
+4148,2159,,El Carmen,El Carmen,90048,90048,"8138 W 3rd St, Los Angeles",8138 W 3rd St
+4155,2133,,The Park,The Park,90026,90026,"1400 W Sunset Blvd, Los Angeles",1400 Sunset Blvd
+2511,2133,0,The Park's Finest,The Park,90026,90026,"1267 W Temple Street, Los Angeles",1400 Sunset Blvd
+2422,2215,,Wat Dong Moon Lek Noodle,Wat Dong Moon Lek Noodle,90029,90029,"4356 Fountain Ave, Los Angeles",4356 Fountain Ave
+2761,2220,,Greenleaf Gourmet Chopshop,Greenleaf Gourmet Chopshop,90028,90028,"6201 Hollywood Blvd, Los Angeles",6201 W Hollywood BlvdSte 120
+3331,2120,,Meze,Meze,90039,90039,"2662 Griffith Park Blvd, Los Angeles",2662 Griffith Park Blvd
+3630,2266,,BLD,BLD,90036,90036,"7450 Beverly Blvd, Los Angeles",7450 Beverly Blvd
+3734,2083,,Village Pizzeria,Village Pizzeria,90004,90004,"131 N Larchmont Blvd, Los Angeles",131 N Larchmont Blvd
+3839,2145,,Pacific Dining Car,Pacific Dining Car,90017,90017,"1310 W 6th St, Los Angeles",1310 W 6th St
+3878,2256,,Mitsuru Cafe,Mitsuru Cafe,90012,90012,"117 Japanese Village Plaza Mall, Los Angeles",117 Japanese Village Plz Mall
+3911,2098,,Blossom,Blossom Restaurant,90013,90013,"426 S Main St, Los Angeles",426 S Main St
+4125,2263,,The Fix Burger,The Fix Burger,90027,90027,"2520 Hyperion Ave, Los Angeles",2520 Hyperion Ave
+4168,1556,,Little Beast Restaurant,Little Beast Restaurant,90041,90041,"1496 Colorado Boulevard, Los Angeles",1496 Colorado Blvd
+2738,2248,,Xiomara on Melrose,Xiomara,90038,90038,"6101 Melrose Ave, Los Angeles",6101 Melrose Ave
+2200,1159,,Full Circle Tavern,Full Circle Tavern,75215,75215,"1319 S Lamar Street, Dallas",1319 S Lamar St
+2203,1190,,Mangiamo Italian Restaurant,Mangiamo Italian Restaurant,75230,75230,"Preston Valley, 12835 Preston Road, Suite 220, Dallas",12835 Preston RdSte 220
+2300,1189,,Grand Lux Cafe,Grand Lux Cafe,75240,75240,"Galleria Dallas, 13420 Dallas Pkwy, Level One, Dallas",13420 N Dallas Pkwy
+2301,1346,,El Fenix,El Fenix Mexican Restaurants,75202,75202,"1601 McKinney Avenue, Dallas",1601 McKinney Ave
+3090,2277,,EMC Seafood & Raw Bar,EMC Seafood & Raw Bar,90020,90020,"3500 West 6th St, Los Angeles",3500 W 6th StSte 101
+3295,1933,,Otomisan,Otomisan Restaurant,90033,90033,"2506 1/2 E 1st St, Los Angeles",2506 E 1st St
+3461,2234,,Soot Bull Jeep,Soot Bull Jeep,90005,90005,"3136 W 8th St, Los Angeles",3136 W 8th St
+3905,1826,,Chichen Itza,Chichen Itza Restaurant,90007,90007,"3655 S Grand Ave Ste C6, Los Angeles",3655 S Grand AveSte C6
+4107,1835,,Plan Check Kitchen + Bar,Plan Check Kitchen + Bar,90025,90025,"1800 Sawtelle Blvd, Los Angeles",1800 Sawtelle Blvd
+3901,1550,,Blue Cow Kitchen & Bar,Blue Cow Kitchen,90071,90071,"350 S Grand Ave, Los Angeles",350 S Grand Ave
+2101,1176,,The Grill on the Alley,The Grill on the Alley,75240,75240,"Galleria Dallas, 13270 Dallas Parkway, Level one, Dallas",13270 Dallas Pkwy1155
+2962,2245,,Cielito Lindo,Cielito Lindo,90012,90012,"23 Olvera St, Los Angeles",E-23 Olvera StSte E
+3055,2116,,Wako Donkasu,Wako Donkasu,90010,90010,"3377 Wilshire Blvd, Los Angeles",3377 Wilshire BlvdSte 112
+3104,2039,,Sticky Rice,Sticky Rice,90013,90013,"317 S Broadway Spc C45, Los Angeles",317 S BroadwaySte C-4-5
+4104,1984,,Yxta Cocina Mexicana,Yxta Cocina Mexicana,90021,90021,"601 S Central Ave, Los Angeles",601 S Central Ave
+2228,1328,,Union Park Dallas,Union Park,75202,75202,"1311 Main Street, Dallas",1311 Main St
+2099,1394,,Rockfish Seafood Grill,Rockfish Seafood Grill,75206,75206,"5331 E Mockingbird Lane, First Level, Dallas",5331 E Mockingbird LnSte 160
+2903,2100,,Grub,Grub,90038,90038,"911 Seward St, Los Angeles",911 Seward St
+2981,1893,,Bestia,Bestia,90021,90021,"2121 7th Pl, Los Angeles",2121 E 7th Pl
+3147,1740,,Versailles,Versailles Restaurant,90035,90035,"1415 S La Cienega Blvd, Los Angeles",1415 S La Cienega Blvd
+3755,2166,,Soowon Galbi,Soowon Galbi KBBQ Restaurant,90005,90005,"856 S Vermont Ave, Los Angeles",856 S Vermont AveSte C
+3782,2222,,Genwa Korean BBQ,Genwa Korean BBQ,90036,90036,"5115 Wilshire Blvd #A, Los Angeles",5115 Wilshire Blvd
+3918,2175,,Sapp Coffee Shop,Sapp Coffee Shop,90027,90027,"5183 Hollywood Blvd, Los Angeles",5183 Hollywood Blvd
+4059,2228,,Izakaya Fu-ga,Izakaya Fu-ga,90012,90012,"111 S San Pedro St, Los Angeles",111 S San Pedro St
+4085,2000,,Larchmont Bungalow,Larchmont Bungalow,90004,90004,"107 N Larchmont Blvd, Los Angeles",107 N Larchmont Blvd
+4156,2020,,Aroma,Aroma Restaurant,90026,90026,"2903 W Sunset Blvd, Los Angeles",2903 W Sunset Blvd
+4177,2050,,Panini Cafe,Panini Cafe -Downtown,90015,90015,"600 W 9th St, Los Angeles",600 W 9th St
+2455,2088,,Hot Wings Cafe,Hot Wings Cafe,90038,90038,"7011 Melrose Ave, Los Angeles",7011 Melrose Ave
+2587,2018,,Berlin Currywurst,Berlin Currywurst,90026,90026,"3827 W Sunset Blvd, Los Angeles",3827 W Sunset Blvd
+3193,2078,,LA Rose Cafe,LA Rose Cafe,90029,90029,"4749 Fountain Ave, Los Angeles",4749 Fountain Ave
+3661,2211,,Little Jewel of New Orleans,Little Jewel of New Orleans,90012,90012,"207 Ord St, Los Angeles",207 Ord St
+4075,1996,,Biergarten,Biergarten,90004,90004,"206 N. Western Ave, Los Angeles",206 N Western Ave
+2129,1274,,Crossroads at House of Blues,House of Blues,75202,75202,"2200 N Lamar Street, Dallas",2200 N Lamar St
+2092,885,,Havana Cafe,Havana Cafe,75218,75218,"1152 Buckner Boulevard, Suite 126, Dallas",1152 Buckner BlvdSte J-126
+2275,1064,,Loca Luna Mexican Cuisine,Loca Luna Mexican Cuisine,75240,75240,"5301 Alpha Road, Suite 80, Dallas",5301 Alpha RdSte 80
+3239,2193,,Homegirl Cafe,Homegirl Cafe and Catering,90012,90012,"130 Bruno St, Los Angeles",130 W Bruno  St
+3515,2171,,KyoChon,KyoChon,90020,90020,"3833 W 6th St, Los Angeles",3833 W 6th St
+3597,2035,,Osteria Mozza,Osteria Mozza,90038,90038,"6602 Melrose Ave, Los Angeles",6602 Melrose Ave
+3694,2090,,Bourgeois Pig,Bourgeois Pig,90028,90028,"5931 Franklin Ave, Los Angeles",5931 Franklin Ave
+3847,2010,,Fratelli Cafe,Fratelli Cafe,90046,90046,"7200 Melrose Ave, Los Angeles",7200 Melrose Ave
+4238,2203,,Petty Cash Taqueria,Petty Cash Taqueria,90036,90036,"7360 Beverly Blvd, Los Angeles",7360 Beverly Blvd
+3435,1727,,Dune Kitchen,Dune,90039,90039,"3143 Glendale Blvd, Los Angeles",3143 Glendale Blvd
+4074,1665,,Picca Peruvian Cantina,Picca,90035,90035,"9575 W Pico Blvd, Los Angeles",9575 W Pico Blvd
+2909,2104,,Oo-Kook Korean BBQ,Oo-Kook Korean BBQ,90005,90005,"3385 W. 8th Street, Los Angeles",3385 W 8th St
+2914,2189,,Chego,Chego!,90012,90012,"727 North Broadway, Los Angeles",727 N BroadwayUnit 117
+3360,2200,,Rascal,Rascal,90036,90036,"801 S La Brea Ave, Los Angeles",801 S LA Brea Ave
+3393,1927,,The Oinkster,The Oinkster,90038,90038,"776 Vine St, Los Angeles",776 Vine St
+3536,2008,,Vinoteque on Melrose,Vinoteque On Melrose,90046,90046,"7469 Melrose Ave, Los Angeles",7469 Melrose Ave
+2581,1658,,Faith & Flower,Faith & Flower,90015,90015,"705 W 9th St, Los Angeles",705 W 9th St
+3555,1969,,Library Bar,Library Bar,90017,90017,"630 W 6th St Ste 116A, Los Angeles",630 W 6th StSte 116-A
+3871,1527,,Komodo,Komodo Cafe,90035,90035,"8809 W Pico Blvd, Los Angeles",8809 W Pico Blvd
+3919,1908,,Nickel Diner,Nickel Diner,90013,90013,"524 S Main St, Los Angeles",524 S Main St
+3981,1964,,Vintage Enoteca,Vintage Enoteca,90046,90046,"7554 W Sunset Blvd, Los Angeles",7554 W Sunset Blvd
+3996,1926,,Providence,Providence,90038,90038,"5955 Melrose Ave, Los Angeles",5955 Melrose Ave
+2283,1043,,Alligator Cafe,Alligator Cafe,75226,75226,"2912 Elm Street, Dallas",2912 Elm St
+2298,1365,,Oasis,Oasis Restaurant,75206,75206,"5945 Greenville Avenue, Dallas",5945 Greenville Ave
+2355,1981,,Terrine,Terrine,90048,90048,"8265 Beverly Blvd, Los Angeles",8265 Beverly Blvd
+2384,1930,,Meals By Genet,Meals by Genet,90019,90019,"1053 S Fairfax Ave, Los Angeles",1053 S Fairfax Ave
+3294,1889,,The Must,The Must,90013,90013,"117 Winston St, Los Angeles",117 Winston St
+3431,1942,,Tulip Cafe,Tulip Cafe,90014,90014,"628 St Vincent Ct, Los Angeles",628 Saint Vincent Ct
+3618,2068,,Il Capriccio on Vermont,Il Capriccio on Vermont,90027,90027,"1757 N Vermont Ave, Los Angeles",1757 N Vermont Ave
+3667,2122,,Beer Belly,Beer Belly,90020,90020,"532 S Western Ave, Los Angeles",532 S Western Ave
+2199,1023,,Stonedeck Pizza Pub,Stonedeck Pizza Pub,75226,75226,"2613 Elm Street, Dallas",2613 Elm St
+2238,1233,,Green Papaya,Green Papaya,75219,75219,"3211 Oak Lawn Avenue, Suite B, Dallas",3211 Oak Lawn AveSte B
+2313,1104,,Celebration,Celebration,75209,75209,"4503 West Lovers Lane, Dallas",4503 W Lovers Ln
+2679,2003,,Sadie Kitchen and Lounge,Sadie Kitchen and Lounge,90028,90028,1638 North Las Palmas Ave,1638 N Las Palmas Ave
+3496,2014,,Best Fish Taco in Ensenada,Best Fish Taco In Ensenada,90027,90027,"1650 Hillhurst Ave, Los Angeles",1650 Hillhurst Ave
+3505,1903,,Village Idiot,The Village Idiot,90046,90046,"7383 Melrose Ave, West Hollywood",7383 Melrose Ave
+3634,1894,,BCD Tofu House,BCD Tofu House,90010,90010,"3575 Wilshire Blvd, Los Angeles",3575 Wilshire Blvd
+3842,1962,,Kings Road Cafe,Kings Road Cafe,90048,90048,"8361 Beverly Blvd, Los Angeles",8361 Beverly Blvd
+4014,2103,,Spitz,Spitz - Little Tokyo,90012,90012,"371 E 2nd St, Los Angeles",371 E 2nd St
+2147,990,,Elbow Room,The Elbow Room,75226,75226,"3010 Gaston Avenue, Dallas",3010 Gaston Ave
+2157,1067,,El Corazon de Tejas,El Corazon de Tejas,75208,75208,"110 W Davis Street, Dallas",110 W Davis St
+2292,1092,,Ming Place,Ming Place China Bistro,75209,75209,"5715 Lemmon Avenue, Dallas",5715 Lemmon AveSte 3
+2293,921,,Crossroads Diner,Crossroads Diner,75231,75231,"8121 Walnut Hill Lane, Suite 1100, Dallas",8121 Walnut Hill Ln
+3033,1799,,Zinc Cafe,Zinc Cafe & Market,90013,90013,"580 Mateo St, Los Angeles",580 Mateo St
+3462,1999,,Zankou Chicken,Zankou Chicken - Hollywood,90027,90027,"5065 W Sunset Blvd, Los Angeles",5065 Sunset Blvd
+3778,1847,,Colori Kitchen,Colori Kitchen,90014,90014,"429 W 8th St, Los Angeles",429 W 8th St
+3897,1848,,Bottega Louie,Bottega Louie,90017,90017,"700 S Grand Ave, Los Angeles",700 S Grand Ave
+2100,875,,Bugatti Ristorante,Bugatti Ristorante,75220,75220,"3802 W Northwest Highway, Dallas",3802 W Northwest Hwy
+2139,968,,Cold Beer Company,Cold Beer Company,75226,75226,"3600 Main Street, Dallas",3600 Main St
+2310,977,,Royal China,Royal China,75230,75230,"6025 Royal Lane, Suite 201, Dallas",6025 Royal LnSte 201
+2365,1957,,Honey Pig,Honey Pig,90005,90005,"3400 W 8th St, Los Angeles",3400 W 8th St
+3826,1863,,Black Hogg,Sopressata At Black Hogg,90026,90026,"2852 W Sunset Blvd, Los Angeles",2852 Sunset Blvd
+3835,1810,,M Grill,M Grill,90010,90010,"3832 W Wilshire Blvd, Los Angeles",3832 Wilshire BlvdSte 202
+4187,1744,,B.S. Taqueria,B.S. Taqueria,90014,90014,"514 W 7th St, Los Angeles",514 W 7th St
+4244,1983,,Speranza,Speranza,90027,90027,"2547 Hyperion Ave, Los Angeles",2547 Hyperion Ave
+2217,909,,Super Chix,Super Chix,75254,75254,"14999 Preston Road, Suite 226 D, Dallas, TX",14999 Preston RdSte 226
+3138,1820,,All About the Bread,All About the Bread,90046,90046,"7111 Melrose Ave, Los Angeles",7111 Melrose Ave
+3500,1846,,Road To Seoul,Road To Seoul,90006,90006,"1230 S Western Avenue, Los Angeles",1230 S Western Ave
+3659,1714,,Square One Dining,Square One Dining,90029,90029,"4854 Fountain Ave, Los Angeles",4854 Fountain Ave
+3987,1898,,Pizzeria il Fico,Pizzeria Il Fico,90048,90048,"310 S Robertson Blvd, Los Angeles",310 S Robertson Blvd
+4046,1813,,Cactus Mexican Food,Cactus Mexican Food,90038,90038,"950 Vine St, Los Angeles",950 Vine St
+2232,1215,,E Bar Tex Mex,E Bar Tex Mex,75204,75204,"1901 N Haskell Avenue, Suite 120, Dallas",1901 N Haskell AveSte 120
+2979,1730,,The Factory Kitchen,The Factory Kitchen,90013,90013,"1300 Factory Place # 101, Los Angeles",1300 Factory PlSte 101
+3279,1768,,Seoul Garden,Seoul Garden Restaurant,90006,90006,"1833 W Olympic Blvd, Los Angeles",1833 W Olympic Blvd
+3535,1958,,Sanamluang Cafe,Sanamluang Cafe,90027,90027,"5176 Hollywood Blvd, Los Angeles",5176 Hollywood Blvd
+3620,1921,,Birds,Birds Rotisserie Chicken Cafe & Bar,90028,90028,5925 Franklin Ave,5925 Franklin Ave
+4029,1573,,Jacks N Joe,Jacks N Joe,90007,90007,"2498 S Figueroa St, Los Angeles",2498 S Figueroa St
+4057,2004,,JiST Cafe,JiST Cafe,90012,90012,"116 Judge John Aiso St., Los Angeles",116 Judge John Aiso St
+3770,1895,,Saint Felix Hollywood,Saint Felix,90028,90028,"1602 Cahuenga Blvd, Los Angeles",1602 N Cahuenga Blvd
+4052,1859,,Simplethings Sandwich & Pie Shop,Simplethings,90048,90048,"8310 W Third Street, Los Angeles",8310 W 3rd St
+4067,1948,,OB Bear,OB Bear,90005,90005,"3002 W 7th St, Los Angeles",3002 W 7th St
+4151,1623,,Local Table,Local Table,90017,90017,"800 S Figueroa St, Los Angeles",800 S Figueroa StSte 103
+3002,1636,,DeSano Pizza,DeSano Pizza Bakery,90029,90029,"4959 Santa Monica Blvd, Los Angeles",4959 Santa Monica Blvd
+3909,1809,,Pingtung,PINGTUNG Eat-in Market,90046,90046,"7455 Melrose Ave, Los Angeles",7455 Melrose Ave
+2269,975,,Burguesa Burger,Burguesa Burger,75208,75208,"710 Fort Worth Avenue, Dallas",710 Ft. Worth Ave
+2849,1832,,Knuckle & Claw,Knuckle & Claw,90026,90026,"3112 Sunset Blvd, Los Angeles",3112 W. Sunset Blvd
+2902,1618,,KazuNori,KazuNori,90013,90013,"421 S Main St, Los Angeles",421 S Main St
+3354,1579,,Poppy + Rose,Poppy + Rose,90014,90014,"765 Wall St, Los Angeles",765 Wall St
+3472,1833,,MessHall,MESSHALL,90027,90027,"4500 Los Feliz Blvd, Los Angeles",4500 Los Feliz Blvd
+3607,1773,,Noshi Sushi,Noshi Sushi,90004,90004,"4430 Beverly Blvd, Los Angeles",4430 Beverly Blvd
+4184,1935,,Mexicali Taco & Co,Mexicali Taco & Co,90012,90012,"702 N Figueroa St, Los Angeles",702 N Figueroa St
+3256,1838,,Plancha Taco,Plancha Tacos,90048,90048,"8250 W 3rd St #108, Los Angeles",8250 W 3rd St
+2328,1769,,Night + Market Song,Night + Market Song,90026,90026,"3322 Sunset Blvd, Los Angeles",3322 W Sunset Blvd
+2714,1552,,The Boiling Crab,The Boiling Crab,90010,90010,"3377 Wilshire Blvd. #115, Los Angeles",3377 Wilshire BlvdSte 115
+3114,1920,,Sushi Gen,Sushi Gen,90012,90012,"422 E 2nd St, Los Angeles",422 E 2nd St
+3513,1812,,Robata Jinya,Robata JINYA,90048,90048,"8050 W 3rd St, Los Angeles",8050 West 3rd St
+4198,1784,,Carlitos Gardel,Carlitos Gardel,90046,90046,"7963 Melrose Ave, Los Angeles",7963 Melrose Ave
+2223,882,,The Green Room,The Green Room,75226,75226,2715 Elm Street,2715 Elm St
+2947,1805,,Barbrix,Barbrix,90027,90027,"2442 Hyperion Ave, Los Angeles",2442 Hyperion Ave
+3389,1807,,Blue Plate Oysterette,Blue Plate Oysterette,90048,90048,"8048 W 3rd St, Los Angeles",8048 W 3rd St
+4155,1767,0,The Park,The Park’s Finest,90026,90026,"1400 W Sunset Blvd, Los Angeles",1267 W Temple St
+3022,1544,,Myung Dong Kyoja,Myung Dong Kyoja,90010,90010,"3630 Wilshire Blvd, Los Angeles",3630 Wilshire Blvd
+3565,1731,,Pace Restaurant,Pace,90046,90046,"2100 Laurel Canyon Blvd, Los Angeles",2100 Laurel Canyon Blvd
+3602,1670,,Osteria Mamma,Osteria Mamma,90038,90038,"5732 Melrose Ave, Los Angeles",5732 Melrose Ave
+3629,1787,,Doughboys Cafe & Bakery,Doughboys Cafe & Bakery,90048,90048,"8136 W 3rd St, Los Angeles",8136 W 3rd St
+3727,1781,,Ruen Pair,Ruen Pair,90027,90027,"5257 Hollywood Blvd, Los Angeles",5257 Hollywood Blvd
+3947,1594,,Maccheroni Republic,Maccheroni Republic,90013,90013,"332 S Broadway, Los Angeles",332 S Broadway
+3988,1560,,Kitchen,The Kitchen,90029,90029,"4348 Fountain Ave, Los Angeles",4348 Fountain Ave
+2257,992,,Bistro 31,Bistro 31,75205,75205,"87 Highland Park Village, Suite 200, Dallas",87 Highland Park VillageSte 200
+3391,1517,,SQIRL,Sqirl,90029,90029,"720 N. Virgil Ave. No. 4, Los Angeles",720 N Virgil AveSte 4
+3481,1743,,The Addiction Bistro,The Addiction Bistro,90048,90048,"408 N La Cienega Blvd, Los Angeles",408 N LA Cienega Blvd
+3713,1896,,Suehiro Cafe,Suehiro Cafe,90012,90012,"337 E 1st St, Los Angeles",337 E 1st St
+3899,1668,,Local,Local,90026,90026,"2943 W Sunset Blvd, Los Angeles",2943 W Sunset Blvd
+3064,1546,,La Cevicheria,La Cevicheria,90019,90019,"3809 W Pico Blvd, Los Angeles",3809 W Pico Blvd
+3150,1722,,The Fat Dog,Fat Dog,90046,90046,"801 N. Fairfax Ave., Los Angeles",801 N Fairfax Ave
+3473,1626,,Pine & Crane,Pine & Crane,90026,90026,"1521 Griffith Park Blvd, Los Angeles",1521 Griffith Park Blvd
+3559,1891,,Redbird,Redbird,90012,90012,"114 E 2nd St, Los Angeles",114 E 2nd St
+2958,1742,,Home Restaurant,Home Restaurant - Los Feliz,90027,90027,"1760 Hillhurst Ave, Los Angeles",1760 Hillhurst Ave
+3888,1598,,Myung In Dumplings,Myung In Dumplings,90006,90006,"3109 W Olympic Blvd, Los Angeles",3109 W Olympic BlvdSte B
+4163,1595,,Masa of Echo Park,Masa of Echo Park,90026,90026,"1800 W Sunset Blvd, Los Angeles",1800 W Sunset Blvd
+4209,1904,,Mo Better Burgers,Mo Better Burgers,90036,90036,"901 South La Brea Ave, Ste 2, Los Angeles",901 S La Brea AveSte 2
+2105,1152,,Yolk,Yolk One Arts Plaza,75201,75201,"1722 Routh Street, Dallas",1722 Routh St
+3117,1566,,Kobawoo,Kobawoo House,90005,90005,"698 S Vermont Ave, Los Angeles",698 S Vermont AveSte 109
+2271,1281,,Truck Yard,Truck Yard,75206,75206,"5624 Sears Street, Dallas",5624 Sears St
+2991,1607,,Eat This Cafe,Eat This Cafe,90038,90038,"6547 Santa Monica Blvd, Los Angeles",6547 Santa Monica Blvd
+3507,1662,,The Little Door,The Little Door,90048,90048,"8164 W 3rd St, Los Angeles",8164 W 3rd St
+3707,1687,,EVO Kitchen,EVO Kitchen,90046,90046,"7950 Sunset Blvd Ste 104, Los Angeles",7950 Sunset BlvdSte 104
+4093,1567,,Yu Chun Chic Naeng Myun,Yu Chun Chic Naeng Myun,90006,90006,"3185 W Olympic Blvd, Los Angeles",3185 W Olympic Blvd
+2923,1656,,Prado,Prado Restaurant,90004,90004,"244 North Larchmont Boulevard, Los Angeles",244 N Larchmont Blvd
+2189,776,,Seasons 52,Seasons 52,75225,75225,"NorthPark Mall, 8687 North Central Expressway, Suite B307, Dallas",8687 N Central ExpySte  B307
+2636,1580,,Mohawk Bend,Mohawk Bend,90026,90026,"2141 W Sunset Blvd, Los Angeles",2141 W Sunset Blvd
+2806,1876,,Cafe Verona,Cafe Verona,90036,90036,"201 S La Brea Ave, Los Angeles",201 S La Brea Ave
+3583,1725,,Stout,Stout,90028,90028,"1544 N Cahuenga Blvd, Los Angeles",1544 N Cahuenga Blvd
+3631,1676,,FoodLab,Foodlab,90046,90046,7253 Santa Monica Blvd,7253 Santa Monica Blvd
+3950,1661,,Cooks County,Cooks County,90048,90048,"8009 Beverly Blvd, Los Angeles",8009 Beverly Blvd
+2389,1873,,Tinga,Tinga,90036,90036,"142 S La Brea, Los Angeles",142 S La Brea Ave
+2906,1752,,Sushi Enya,Sushi Enya,90012,90012,"343 E. 1st Street, Los Angeles",343 E 1st St
+4157,1576,,Forage,Forage,90026,90026,"3823 W Sunset Blvd, Los Angeles",3823 W Sunset Blvd
+2401,1724,,Papilles,Papilles Bistro,90028,90028,"6221 Franklin Ave, Los Angeles",6221 Franklin Ave
+2548,1647,,Cafe Gratitude,Cafe Gratitude - Larchmont,90004,90004,"639 N Larchmont Blvd, Los Angeles",639 N Larchmont Blvd
+2648,1539,,Guelaguetza,Guelaguetza Restaurante,90006,90006,"3014 W Olympic Blvd, Los Angeles",3014 W Olympic Blvd
+2347,1837,,Ham Ji Park,Ham Ji Park,90020,90020,"3407 W 6th St Ste 101-C, Los Angeles",3407 W 6th StSte 101C
+3966,1867,,Monsieur Marcel,Monsieur Marcel,90036,90036,"6333 W 3rd St, Los Angeles",Farmers Market6333 W 3rd St
+4114,1746,,Eastside Market Italian Deli,Eastside Market,90012,90012,"1013 Alpine Street, Los Angeles",1013 Alpine St
+2304,1044,,Pappadeaux Seafood Kitchen,Pappadeaux Seafood Kitchen,75219,75219,"3520 Oak Lawn Avenue, Dallas",3520 Oak Lawn Ave
+3311,1548,,Silverlake Ramen,Silverlake Ramen,90026,90026,"2927 W Sunset Blvd, Los Angeles",2927 W Sunset Blvd
+3673,1625,,Cha Cha Cha,Cha Cha Cha,90004,90004,"656 N Virgil Ave, Los Angeles",656 N Virgil Ave
+4100,1631,,The Pikey,The Pikey,90046,90046,"7617 W Sunset Blvd, Los Angeles",7617 W Sunset Blvd
+2315,920,,Abacus,Abacus,75205,75205,"4511 McKinney Avenue, Dallas",4511 McKinney Ave
+3736,1630,,Badmaash,Badmaash,90012,90012,"108 West 2nd St, Los Angeles",108 W 2nd StSte 104
+3336,1605,,Bao Dim Sum House,Bao Dim Sum House,90048,90048,"8256 Beverly Blvd., Los Angeles",8256 Beverly Blvd
+3541,1620,,Yang Chow,Yang Chow,90012,90012,"819 N Broadway, Los Angeles",819 N Broadway
+4058,1828,,Pampas Grill,Pampas Grill,90036,90036,"6333 W 3rd St, Los Angeles",6333 W 3rd StSte 618
+2552,1782,,Han Bat Sul Lung Tang,Han Bat Sul Lung Tang,90020,90020,"4163 W 5th St, Los Angeles",4163 W 5th St
+2625,1641,,Cleo,Cleo,90028,90028,"1717 Vine St, Los Angeles",1717 Vine St
+4191,1558,,Tatsu Ramen,Tatsu Ramen,90046,90046,"7111 Melrose Ave, Los Angeles",7111 Melrose Ave
+3575,1583,,Son of a Gun Restaurant,Son of a Gun,90048,90048,"8370 W 3rd St, Los Angeles",8370 W 3rd St
+3582,1815,,Yuko Kitchen,Yuko Kitchen,90036,90036,"5484 Wilshire Blvd, Los Angeles",5484 Wilshire Blvd
+3823,1600,,Fat Sal’s,Fat Sal’s,90028,90028,"1300 North Highland Avenue, Los Angeles",1300 N Highland Ave
+3443,1589,,I Panini di Ambra,I Panini Di Ambra,90028,90028,"5633 Hollywood Blvd, Los Angeles",5633 Hollywood Blvd
+3577,1543,,Marugame Monzo,Marugame Monzo,90012,90012,"329 E 1st St., Los Angeles",329 E 1st St
+4060,1570,,Blue Palms Brewhouse,Blue Palms Brewhouse,90028,90028,"6124 Hollywood Blvd, Los Angeles",6124 Hollywood Blvd
+2191,917,,El Rey Del Grill,El Rey Del Grill,75219,75219,"4535 Maple Avenue, Dallas",4535 Maple Ave
+3497,1536,,Daikokuya,Daikokuya,90012,90012,"327 E 1st St, Los Angeles",327 E 1st St
+3203,1710,,Pizzeria Mozza,Pizzeria Mozza,90036,90036,"641 N Highland Ave, Los Angeles",641 N Highland Ave
+2701,1692,,Wirtshaus,Wirtshaus,90036,90036,"345 N La Brea Ave, Los Angeles",345 N La Brea Ave
+2670,1645,,Angelini Osteria,Angelini Osteria,90036,90036,"7313 Beverly Blvd, Los Angeles",7313 Beverly Blvd
+3158,1601,,The Golden State,The Golden State,90036,90036,"426 N Fairfax Avenue, Los Angeles",426 N Fairfax Ave
+2208,939,,Taco Borracho,Taco Borracho,75201,75201,"300 N Akard Street, Dallas",300 N Akard St
+2254,817,,Shell Shack,Shell Shack,75204,75204,"2916 McKinney Avenue, Dallas",2916 Mckinney Ave
+2893,1581,,Pita Bar & Grill,Pita Bar & Grill,90036,90036,"519 N Fairfax Ave, Los Angeles",519 N Fairfax Ave
+3654,1523,,Sycamore Kitchen,The Sycamore Kitchen,90036,90036,"143 S La Brea Ave, Los Angeles",143 S La Brea Ave
+2368,1520,,Open Sesame,Open Sesame,90036,90036,"7458 Beverly Blvd, Los Angeles",7458 Beverly Blvd
+4751,3210,,Saigon Noodle,Saigon Noodles,53719,53719,"6754 Odana Rd, Madison",6754 Odana Rd
+4838,3217,,Banzo,Banzo,53704,53704,"2105 Sherman Ave, Madison",2105 Sherman Ave
+4895,3216,,Cafe Porta Alba,Cafe Porta Alba,53705,53705,"558 N. Midvale Blvd (Hilldale Mall), Madison",Hilldale Mall558 N Midvale Blvd
+4938,2943,,Rodeside Grill,The Rodeside Grill,53598,53598,6314 Rostad Cir,6317 Rostad Cir
+5026,3165,,Draft House Bar & Restaurant,Draft House Bar & Restaurant,53593,53593,1010 Enterprise Dr,1010 Enterprise Dr
+5195,3187,,Takara 88,Takara 88,53562,53562,1900 Cayuga St Ste 101,1900 Cayuga StSte 101
+5378,3197,,Spartan Pizza,Spartan Pizza,53558,53558,5813 Main St,5813 Main St
+5565,3184,,Prairie Diner,Prairie Diner,53590,53590,1034 Windsor St,1034 Windsor St
+5651,3174,,Pizza Bella,Pizza Bella,53711,53711,"1437 Regent St, Madison",1437 Regent St
+5870,3638,,Salt & Fat,Salt & Fat,11104,11104,"41-16 Queens Boulevard, Queens",41-16 Queens Blvd
+6239,4035,,Bayou,Bayou,10305,10305,1072 Bay Street,1072 Bay St
+6246,3891,,Taverna Kyclades,Taverna Kyclades,11105,11105,3307 Ditmars Boulevard,3307 Ditmars Blvd
+6307,3466,,MangoSeed,MangoSeed Restaurant,11226,11226,"757 Flatbush Avenue, Brooklyn",757 Flatbush Ave
+6599,4018,,Juni,Juni,10016,10016,"Hotel Chandler, 12 E 31st Street",12 E 31st St
+6690,4030,,Maialino,Maialino,10010,10010,"Gramercy Park Hotel, 2 Lexington Avenue, New York",2 Lexington Ave
+6714,3890,,Flat Top,Flat Top,10027,10027,"1241 Amsterdam Avenue, New York",1241 Amsterdam Ave
+6856,4042,,Ippudo,Ippudo NY,10003,10003,"65 4th Avenue, New York",65 4th Ave
+5387,2861,,Humble. Sweet & Savory Pies,Humble,53726,53726,"10 South Allen St, Madison",10 S Allen St
+4381,3117,,Sundown Saloon,Sundown Saloon,53714,53714,"57 S Stoughton Rd, Madison",57 S Stoughton Rd
+4385,3161,,Greenbush Bar,Greenbush Bar,53715,53715,"914 Regent St, Madison",914 Regent St
+4563,3208,,Bandung Indonesian Restaurant,Bandung Indonesian Restaurant,53703,53703,"600 Williamson St, Madison",600 Williamson StSte M
+4840,3207,,Blue Moon Bar & Grill,Blue Moon Bar & Grill,53705,53705,"2535 University Ave, Madison",2535 University Ave
+4841,3201,,Tienda Los Gemelos,Tienda Los Gemelos,53719,53719,"6713 Odana Rd Ste 8, Madison",6713 Odana RdSte 8
+4858,3183,,Bonfyre American Grille,Bonfyre American Grille,53713,53713,"2601 West Beltline Highway, Madison",2601 W Beltline Hwy
+4936,3127,,Eno Vino Wine Bar & Bistro,Eno Vino Wine Bar & Bistro,53717,53717,"601 Junction Rd, Madison",601 Junction Rd
+5143,2935,,Green Lantern Restaurant,Green Lantern Restaurant,53558,53558,4412 Siggelkow Rd,4412 Siggelkow Rd
+5804,4028,,Piccolo Angolo,Piccolo Angolo,10014,10014,"621 Hudson Street, New York",621 Hudson St
+6002,4031,,Peter Luger Steak House,Peter Luger Steak House,11211,11211,"178 Broadway, Brooklyn",178 Broadway
+6144,3780,,The Thirsty Koala,The Thirsty Koala,11105,11105,"35-12 Ditmars Boulevard, Queens",35-12 Ditmars Blvd
+6244,3942,,El Cocotero,El Cocotero,10011,10011,"228 West 18th Street, New York",228 W 18th St
+6816,3977,,Red Bamboo,Red Bamboo,10012,10012,"140 W 4th Street, New York",140 W 4th St
+4831,3172,,Wonder Bar Steakhouse,Wonder Bar Steakhouse,53713,53713,"232 E. Olin Ave., Madison",222 E Olin Ave
+5015,3144,,Chipotle Mexican Grill,Chipotle Mexican Grill,53562,53562,"8422 Old Sauk Road, Madison",8422 Old Sauk Rd
+5053,2991,,Athens Gyros,Athens Gyros,53597,53597,5420 Willow Road,5420 Willow Rd
+5130,3001,,Pine Cone Restaurant,Pine Cone Restaurant,53532,53532,6162 US Highway 51,6162 US Hwy 51
+5295,3077,,Springers,Springers,53589,53589,3097 Sunnyside St,3097 Sunnyside St
+5308,2857,,Happy Wok,Happy Wok,53718,53718,"17 Eastpark Ct, Madison",17 Eastpark Ct
+5561,3160,,Sarku Japan,Sarku Japan,53719,53719,"111 W Towne Mall, Madison",108 W Towne Mall
+6444,3906,,Mercato,Mercato,10018,10018,"352 W 39th Street, New York",352 W 39th St
+6518,3986,0,Ootoya,Ootoya Greenwich Village,10003,10003,"8 W 18th Street, New York",41 E 11th St
+6805,4000,,BCD Tofu House,BCD Tofu House,10001,10001,"5 West 32nd Street, New York",5W 32nd St
+4871,3138,,Crema Cafe,Crema Cafe,53716,53716,"4124 Monona Dr, Madison",4124 Monona Dr
+4976,2437,,Sushi Box,Sushi Box,53726,53726,"2433 University Ave, Madison",2433 University Ave
+5131,3129,,Tuscany Mediterranean Grill,Tuscany Mediterranean Grill,53711,53711,2969 Cahill Main,2969 Cahill Main
+5182,2858,,Fair Oaks Diner,Fair Oaks Diner,53714,53714,"44 S Fair Oaks Ave, Madison",44 S Fair Oaks Ave
+5360,3205,,Baldwin Street Grille,Baldwin Street Grille,53703,53703,"1304 E Washington Ave, Madison",1304 E Washington Ave
+5642,3004,,Wendigo,Wendigo,53589,53589,121 E Main St,121 East Main St
+5707,3049,,Mr. Brews Taphouse,Mr. Brews Taphouse,53593,53593,Hometown Circle,611 Hometown CirSte 104
+6062,4046,,Cafe Katja,Cafe Katja,10002,10002,"79 Orchard Street, New York",79 Orchard St
+6138,3970,,Yakiniku West,Yakiniku West,10003,10003,"218 E 9th Street, New York",218 E 9th St
+6232,3851,,Pippali,Pippali,10016,10016,"129 East 27th Street, New York, NY",129 E 27th St
+6322,4021,,Walter Foods,Walter Foods,11211,11211,"253 Grand Street, Brooklyn, NY",253 Grand St
+6379,3455,,Sripraphai,SriPraPhai Thai Restaurant,11377,11377,"6413 39th Avenue, Queens",6413 39th Ave
+5313,3213,,The Green Owl Cafe,The Green Owl,53704,53704,"1970 Atwood Ave, Madison",1970 Atwood Ave
+4954,3111,,EDO Garden,Edo Garden Monona,53716,53716,6309 Monona Dr,6309 Monona Dr
+4983,3202,,Mermaid Cafe,Mermaid Cafe,53704,53704,"1929 Winnebago St, Madison",1929 Winnebago St
+5131,3126,,Tuscany Mediterranean Grill,Tuscany Mediterranean Grill,53711,53711,2969 Cahill Main,2969 Cahill Main
+5300,3173,,House Of Mei,House of Mei,53590,53590,120 E.Main Street,120 E Main St
+5383,3139,,Happy Wok,Happy Wok,53713,53713,2409 W Broadway,2409 W Broadway
+5708,2795,,Asian House,Asian House,53714,53714,"1 Dempsey Rd, Madison",1 Dempsey RdSte 3
+6346,3713,,The Smith,The Smith,10022,10022,"956 2nd Avenue, New York",956 2nd Ave
+6852,3715,,Sakagura,Sakagura,10017,10017,"211 E 43rd Street, New York",211 E 43rd St
+5735,3204,,Brocach Irish Pub,Brocach,53703,53703,"7 W Main St, Madison",7 W Main St
+5021,3090,,The Roman Candle,The Roman Candle Pizzeria,53711,53711,2685 Research Park Drive,2685 Research Park Dr
+5093,3009,,Klassik Tavern,The Klassik Tavern,53593,53593,410 w verona ave,410 W Verona Ave
+5170,3203,,Echo Tap & Grill,Echo Tap & Grill,53703,53703,"554 W Main St, Madison",554 W Main St
+5382,2996,,Teriyaki Sushi Express,Teriyaki Sushi Express,53713,53713,3044 Fish Hatchery Rd,3044 Fish Hatchery Rd
+6513,4029,,The MasalaWala,The MasalaWala,10002,10002,"179 Essex Street, New York",179 Essex St
+6552,3874,,Chuko,Chuko,11238,11238,"552 Vanderbilt Avenue, Brooklyn",552 Vanderbilt Ave
+6684,3916,,Atrium Dumbo,Atrium DUMBO,11201,11201,"15 Main Street, Brooklyn, NY",15 Main St
+6750,3666,,The Cannibal,The Cannibal,10016,10016,"113 East 29th Street, New York",113 E 29th St
+6784,3957,,Ofrenda,Ofrenda,10014,10014,"113 7th Avenue South, New York",113 7th Ave S
+4311,2158,,Pistola,Pistola,90048,90048,"8022 W 3rd St, Los Angeles",8022 W 3rd St
+4440,3200,,Natt Spil,Natt Spil,53703,53703,"211 King St, Madison",211 King St
+4904,3088,,Atlantis Taverna,Atlantis Taverna,53590,53590,239 E Main St,239 E Main St
+4907,3114,,Nitty Gritty Restaurant & Bar,Nitty Gritty Restaurant & Bar,53562,53562,1021 N Gammon Rd,1021 N Gammon Rd
+5304,2762,,Jordandal Cookhouse,Jordandal Cookhouse,53593,53593,"600 W Verona Ave, suite 6",600 W Verona Ave
+5451,3043,,El Burrito Loco,El Burrito Loco,53717,53717,"745 N High Point Rd, Madison",745 N High Point Rd
+5559,3096,,Silver Eagle Bar & Grill,Silver Eagle Bar & Grill,53716,53716,5805 Monona Dr,5805 Monona Dr
+6164,3931,,Beyond Sushi,Beyond Sushi,10003,10003,"229 E 14th Street, New York",229 E 14th St
+6241,3852,,12 Chairs,12 Chairs,10012,10012,"56 MacDougal Streeet, New York",56 MacDougal St
+4279,2034,,The Springs,The Springs,90021,90021,"608 Mateo St, Los Angeles",608 Mateo St
+4785,3194,,43 North,43 North,53703,53703,"108 King St., Madison",108 King St
+5522,3109,,Which Wich,Which Wich,53562,53562,2177 Deming Way,2177 Deming Way
+5837,3672,,The Good Fork,The Good Fork,11231,11231,"391 Van Brunt Street, Brooklyn",391 Van Brunt St
+5916,3642,,Bistango,Bistango,10016,10016,"415 3rd Avenue, New York",415 3rd Ave
+6543,3753,,Pepe Giallo,Pepe Giallo,10001,10001,"253 10th Avenue, New York, NY",253 10th Ave
+6787,3545,,The Flatiron Room,Flatiron Room,10010,10010,"37 W 26th Street, New York",37 W 26th St
+6832,3847,,Aquagrill,Aquagrill,10012,10012,"210 Spring Street, New York",210 Spring Street
+5915,3778,,Rose Water,Rose Water Restaurant,11215,11215,"787 Union Street, Brooklyn",787 Union St
+4451,2989,,Casa Del Sol,Casa Del Sol,53711,53711,3040 Cahill Main,3040 Cahill Main
+4496,2590,,Sala Thai,Sala Thai,53714,53714,"36 S Fair Oaks Ave, Madison",36 S Fair Oaks Ave
+5007,2390,,The Great Dane Pub & Brewing Co.,Great Dane Pub & Brewing Co,53718,53718,"876 Jupiter Drive, Madison",876 Jupiter Dr
+5350,3008,,Chicken Lips,Chicken Lips,53590,53590,5508 County Rd N Ste 3,5508 County Rd NSte 3
+5414,2902,,Monona Garden Family Restaurant,Monona Garden Family Restaurant,53713,53713,"6501 Bridge Rd, Madison",6501 Bridge Rd
+5480,3150,,Forequarter,Forequarter,53703,53703,"708 1/4 E Johnson St, Madison",708 E Johnson
+6802,3818,,Alta,Alta,10011,10011,"64 West 10th Street, New York",64 W 10th St
+4291,2117,,Marouch,Marouch Restaurant,90029,90029,"4905 Santa Monica Blvd, Los Angeles",4905 Santa Monica Blvd.
+5813,3981,,Stanton Social,The Stanton Social,10002,10002,"99 Stanton Street, New York",99 Stanton St
+5228,2407,,Cottage Cafe,Cottage Cafe,53714,53714,"915 Atlas Ave, Madison",915 Atlas Ave
+5233,2949,,China Kitchen,China Kitchen,53705,53705,"6606 Mineral Pt Rd, Madison",6608 Mineral Point Rd
+5335,3116,,Fromagination,Fromagination,53703,53703,"12 S Carroll St, Madison",12 S Carroll St
+5438,2956,,Macs,MACS,53590,53590,2804 Prairie Lakes Dr Ste 106,2804 Prairie Lakes DrSte 106
+6058,3437,,Upland,Upland,10010,10010,"345 Park Avenue South, New York",345 Park Ave S
+6170,3873,,Robataya NY,Robataya NY,10003,10003,"231 E 9th Street, New York",231 E 9th St
+6457,3704,,ilili Restaurant,ilili,10001,10001,"236 5th Avenue, New York",236 5th Ave
+6536,3802,,Cafecito,Cafecito,10009,10009,"185 Avenue C, New York",185 Avenue C
+4270,2012,,Arashi Sushi,Arashi Sushi,90015,90015,"1111 S Hope St #100, Los Angeles",1111 S Hope StSte 100
+4807,2455,,Babcock Hall Dairy Store,Babcock Hall Dairy Store,53706,53706,"1605 Linden Dr, Madison",1605 Linden Dr
+5648,3092,,Cocina Real,Cocina Real,53562,53562,2518 Allen Blvd,2518 Allen Blvd
+6568,3861,,The Odeon,The Odeon,10013,10013,"145 W Broadway, New York",145 W Broadway
+4921,2891,,Olive Garden,Olive Garden Italian Restaurant,53717,53717,"7017 Mineral Point Rd, Madison",7017 Mineral Point Rd
+4316,2139,,Tropicalia Brazilian Grill,Tropicalia Brazilian Grill,90027,90027,"1966 Hillhurst Ave, Los Angeles",1966 Hillhurst Ave
+4979,2381,,Brothers Three Bar & Grill,Brothers Three Bar & Grill,53714,53714,"614 N Fair Oaks Ave, Madison",614 N Fair Oaks Ave
+5257,2900,,A8 China,A8 China,53715,53715,"608 University Ave, Madison",608 University Ave
+5714,2837,,Perkins Restaurant & Bakery,Perkins Restaurant & Bakery,53713,53713,"1410 Damon Rd, Madison",1410 Damon Rd
+6323,3920,,The Grey Dog,The Grey Dog,10014,10014,"49 Carmine Street, New York",49 Carmine St
+6738,3726,,Margon,Margon,10036,10036,"136 W 46th Street, New York",136 W 46th St
+6390,3854,0,Craft,Cooper’s Craft & Kitchen,10003,10003,"43 E 19th Street, New York",87 2nd Ave
+4864,2940,,Curry in the Box,Curry in the Box,53711,53711,3050 Cahill Main Ste 4,3050 Cahill MainSte 3
+5589,2815,,Silver Mine Subs,Silver Mine Subs,53713,53713,"2601 W Beltline Hwy #106, Madison",2601 W Beltline Hwy
+5686,2893,,Churchkey Bar and Grill,Churchkey Bar and Grill,53715,53715,"626 University Ave., Madison",626 University Ave
+6478,3407,,Tuk Tuk,Tuk Tuk,11101,11101,"4906 Vernon Boulevard, Queens, NY",4906 Vernon Blvd
+6623,3662,,The Red Cat,The Red Cat,10011,10011,"227 10th Avenue, New York",227 10th Ave
+4975,2808,,Outback Steakhouse,Outback Steakhouse,53717,53717,"279 Junction Rd, Madison",279 Junction Road
+5125,3039,,Alchemy,Alchemy,53704,53704,"1980 Atwood Ave., Madison",1980 Atwood Ave
+5535,3058,,Claddagh Irish Pub,Claddagh Irish Pub,53562,53562,1611 Aspen Cmns,1611 Aspen Commons
+5887,3741,,Nook Restaurant,Nook,10019,10019,"746 9th Avenue, New York",746 9th Ave
+6137,3531,,Riko Peruvian Cuisine,Riko Peruvian Cuisine,10001,10001,"409 8th Avenue, New York",409 8th Ave
+5481,2782,,Coliseum Bar,The Coliseum Bar & Banquet,53713,53713,"232 E Olin Ave, Madison",232 E Olin Ave
+4846,3053,,Imperial Garden Chinese Restaurant,Imperial Garden,53562,53562,2039 Allen Blvd,2039 Allen Blvd
+5225,2916,,Mickies Dairy Bar,Mickies Dairy Bar,53711,53711,"1511 Monroe St, Madison",1511 Monroe St
+5536,2913,,China Inn,China Inn,53716,53716,"4702 Cottage Grove Rd, Madison",4702 Cottage Grove Rd
+6417,3844,0,Kellogg's Diner,Diner,11211,11211,"514 Metropolitan Avenue, Brooklyn",85 Broadway
+6855,3844,,Diner,Diner,11211,11211,"85 Broadway, Brooklyn",85 Broadway
+5070,2985,,Taco Bell,Taco Bell,53719,53719,"421 Commerce Dr, Madison",698 S. Whitney Way
+6095,3346,,Casa Enrique,Casa Enrique,11101,11101,"5-48 49th Avenue, Queens",5-48 49th Ave
+6240,3361,,Hometown Bar-B-Que,Hometown Bar-B-Que,11231,11231,"454 Van Brunt Street, Brooklyn",454 Van Brunt St
+6373,3815,,NGam,Ngam,10003,10003,"99 3rd Avenue, New York",99 3rd Ave
+6631,3382,,Le Parisien,Le Parisien,10016,10016,"163 E 33rd Street, New York",163 E 33rd St
+6840,3600,,Lobster Place,The Lobster Place,10011,10011,"Chelsea Market, 75 9th Avenue, New York",Chelsea Market75 9th Ave
+4929,2720,,Panera Bread,Panera Bread,53717,53717,"601 Junction Rd Ste 12, Madison",601 Junction Road
+5047,2963,,Thai Noodles,Thai Noodles,53719,53719,5957 Mckee Rd,5957 Mckee RdSte 3
+6779,3640,,Becco,Becco,10036,10036,"355 West 46th Street, New York",355 W 46th St
+4423,2685,,Badger Bowl,Badger Bowl,53713,53713,"506 E. Badger Rd., Madison",506 E Badger Rd
+5135,2819,,Dairyland Family Restaurant,Dairyland Family Restaurant,53716,53716,"716 Cottage Grove Rd, Madison",716 Cottage Grove Rd
+5954,3306,,Olea,Olea,11238,11238,"171 Lafayette Avenue, Brooklyn",171 Lafayette Ave
+6112,3679,,Scarpetta,Scarpetta,10014,10014,"355 West 14th Street, New York",355 W 14th St
+6329,3237,,Mu Ramen,Mu Ramen,11101,11101,1209 Jackson Avenue,12-09 Jackson Ave
+5687,2709,,Silly Yak Bakery & Bread Barn,The Silly Yak Bakery & Bread Barn,53717,53717,"7866 Mineral Point Rd, Madison",7866 Mineral Point Rd
+4882,3038,0,Short Stack Eatery,Short Stack Eatery,53703,53703,"251 State St, Madison",301 W Johnson St
+4946,2955,,The Flying Hound Alehouse,The Flying Hound Alehouse,53719,53719,6317 McKee Rd,6317 McKee Rd
+4985,2682,,Bourbon Street Grille,Bourbon Street Grille,53713,53713,6312 Metropolitan Ln,6308 Metropolitan Ln
+5231,2814,,Jade Garden,Jade Garden,53715,53715,"1109 S Park St, Madison",1109 S Park St
+5486,2775,,Perkins Restaurant & Bakery,Perkins Restaurant & Bakery,53705,53705,"5237 University Ave, Madison",5237 University Ave
+5845,3574,,Le Village,Le Village,10009,10009,"127 E 7th Street, New York",127 E 7th St
+6779,3635,,Becco,Becco,10036,10036,"355 West 46th Street, New York",355 W 46th St
+6837,3501,,Colicchio & Sons,Colicchio & Sons Tap Room,10011,10011,"85 10th Avenue, New York",85 10th Ave
+4850,2785,,Swad,Swad,53716,53716,"6007 Monona Dr, Madison",6007 Monona Dr
+5070,2947,,Taco Bell,Taco Bell,53719,53719,"421 Commerce Dr, Madison",421 Commerce Drive
+5487,2831,,Campus Biryani & Gyros,Campus Biryani & Gyros,53711,53711,"1437 Regent St, Madison",1437 Regent St
+5802,3512,,Totto Ramen,Totto Ramen,10019,10019,"366 W 52nd Street, New York",366 W 52nd St
+6101,3660,,The Little Owl,The Little Owl,10014,10014,"90 Bedford Street, New York",90 Bedford St
+6778,3498,,Umami Burger,Umami Burger,10011,10011,"432 Sixth Avenue, New York",432 6th Ave
+6811,3266,,Buttermilk Channel,Buttermilk Channel,11231,11231,"524 Court Street, Brooklyn",524 Court St
+4996,2828,,Gates & Brovi,Gates & Brovi,53711,53711,"3502 Monroe St, Madison",3502 Monroe St
+5004,2992,,Cold Fusion,Cold Fusion,53562,53562,2644 Branch St,2644 Branch St
+5103,3016,,The Fountain,The Fountain,53703,53703,"122 State St, Madison",122 State St
+5982,3760,,Saigon Shack,Saigon Shack,10012,10012,"114 MacDougal Street, New York",114 Macdougal St
+6410,3489,,The Grey Dog's Coffee,The Grey Dog,10011,10011,"242 West 16th Street, New York, NY",242 W 16th St
+5640,3003,,Great Dane Pub,Great Dane Pub & Brewing Co.,53704,53704,"4000 International Lane, Madison",4000 International Ln
+4863,2646,,HuHot Mongolian Grill,HuHot Mongolian Grill,53717,53717,"610 Junction Rd, Madison",610 Junction Rd
+5151,2809,,Pizza Pit Extreme,Pizza Pit Extreme,53711,53711,"1614 Monroe St., Madison",1614 Monroe St
+5240,2776,,Heritage Bakery & Cafe,Heritage Bakery & Cafe,53716,53716,"4674 Cottage Grove Road, Madison",4674 Cottage Grove Rd
+5865,3754,,Balzem,Balzem,10012,10012,"202 Mott Street, New York",202 Mott St
+6033,3685,,Moto,Café Moto,11211,11211,"394 Broadway, Brooklyn",394 Broadway
+4396,2984,,Quaker Steak & Lube,Quaker Steak & Lube,53562,53562,2259 Deming Way,2259 Deming Way
+5151,2799,,Pizza Pit Extreme,Pizza Pit Extreme,53711,53711,"1614 Monroe St., Madison",1614 Monroe St
+5177,2734,,Java Cat,Java Cat,53716,53716,"3918 Monona Dr, Madison",3918 Monona Dr
+5524,3005,,Lao Laan-Xang Restaurant,Lao Laan-Xang Restaurant,53703,53703,"1146 Williamson St, Madison",1146 Williamson St
+5857,3536,,Supper,Supper,10009,10009,"156 E 2nd Street, New York",156 E 2nd St
+6678,3536,0,Bobwhite Lunch & Supper Counter,Supper,10009,10009,"94 Avenue C, New York",156 E 2nd St
+4910,2994,,Tempest Oyster Bar,Tempest Oyster Bar,53703,53703,"120 E Wilson St, Madison",120 E Wilson St
+5048,2980,,Prairie Cafe & Bakery,Prairie Cafe & Bakery,53562,53562,6720 Frank Lloyd Wright Ave,6720 Frank Lloyd Wright Ave
+5552,2575,,Firehouse Subs,Firehouse Subs,53713,53713,"1403 Emil Street, Madison",1403 Emil St.
+5913,3623,,Bouley,Bouley,10013,10013,"163 Duane Street, New York",163 Duane St
+4474,2970,,Villa Dolce,Villa Dolce,53562,53562,1828 Parmenter St,1828 Parmenter St
+4912,2983,,Madison Sourdough Company,Madison Sourdough,53703,53703,"916 Williamson St, Madison",916 Williamson St
+4939,2973,,HomeTown Buffet,HomeTown Buffet,53704,53704,"1745 Parkside Dr, Madison",1745 Parkside Dr
+6082,3737,,Burger & Barrel,Burger & Barrel,10012,10012,"25 W Houston Street, New York",25 W Houston St
+6221,3588,,Cafe Gitane,Cafe Gitane,10014,10014,"The Jane Hotel, 113 Jane Street",113 Jane St
+6820,3613,,Nyonya,Nyonya,10013,10013,"199 Grand Street, New York",199 Grand St
+4326,1821,,Stella Barra,Stella Barra Pizzeria,90028,90028,"6372 West Sunset Boulevard, Los Angeles",6372 W Sunset Blvd
+6567,3481,,Nai Tapas,Nai Tapas Bar,10009,10009,"174 1st Avenue, New York",174 1st Ave
+4995,2582,,New Seoul Korean Restaurant,New Seoul Korean,53717,53717,"721 N High Point Rd, Madison",721 N High Point Rd
+5268,2535,,Parkway Family Restaurant,Parkway Family Restaurant,53713,53713,"1221 Ann St, Madison",1221 Ann St
+5902,3366,,Trattoria Trecolori,Trattoria Trecolori,10036,10036,"254 W 47th Street, New York",254 W 47th St
+4596,2638,,Glass Nickel Pizza Co.,Glass Nickel Pizza,53705,53705,"5003 University Ave Ste 170, Madison",5003 University AveSte 170
+5337,2725,,The Taco Shop,The Taco Shop,53715,53715,"604 University Ave, Madison",604 University Ave
+5451,2562,,El Burrito Loco,El Burrito Loco Restaurant,53717,53717,"745 N High Point Rd, Madison",745 N High Point Rd
+4962,2493,,El Pastor,El Pastor,53713,53713,"2010 S Park St, Madison",2010 S Park St
+5032,2727,,Copper Top Restaurant,Copper Top Restaurant,53711,53711,"5401 W Beltline Hwy, Madison",5401 W Beltline Hwy
+5184,2635,,Marrakesh Restaurant,Marrakesh,53705,53705,"5510 University Ave, Madison",5510 University Ave
+5484,2961,,The Side Door Grill and Tap,The Side Door Grill and Tap,53703,53703,"240 West Gilman Street, Madison",240 W Gilman St
+4818,2950,,Umami Ramen & Dumpling Bar,Umami Ramen & Dumpling Bar,53703,53703,"923 Williamson St., Madison",923 Williamson St
+4857,2938,,Vin Santo,Vin Santo,53562,53562,7462 Hubbard Ave,7462 Hubbard Ave
+5294,2804,,Legends Sports Bar & Grill,Legends Sports Bar & Grill,53719,53719,"439 Grand Canyon Drive, Madison",439 Grand Canyon Dr
+5426,2514,,Las Islas Del Mar,Las Islas Del Mar,53716,53716,"5696 Monona Dr, Madison",5696 Monona Dr
+6042,3576,,Russ & Daughters Cafe,Russ & Daughters Cafe,10002,10002,"127 Orchard Street, New York",127 Orchard St
+6207,3684,,The Bao,The Bao,10003,10003,"13 Saint Marks Place, New York",13 St Marks Pl
+5071,2425,,Mediterranean Hookah Lounge,Mediterranean Hookah Lounge and Cafe,53713,53713,"77 Sirloin Strip, Madison",77 Sirloin Strip
+5562,2928,,Good Food,Good Food,53703,53703,"E Main St & S Pinckney St, Madison",33 E Main St
+6109,3528,,Rye,Rye,11211,11211,"247 S 1st Street, Brooklyn",247 S 1st St
+6316,3543,,Chalk Point Kitchen,Chalk Point Kitchen,10013,10013,"527 Broome Street, New York",527 Broome St
+4729,2543,,Oliva,Oliva,53717,53717,"751 N High Point Rd, Madison",751 N High Point Rd
+4891,2922,,Hubbard Avenue Diner,Hubbard Avenue Diner,53562,53562,7445 Hubbard Ave,7445 Hubbard Ave
+4900,2927,,A La Brasa,A La Brasa,53703,53703,"15 N Broom St, Madison",15 N Broom St
+5424,2694,,Inka Heritage,Inka Heritage,53715,53715,"602 South Park Street, Madison",602 S Park St
+5376,2933,,Cracker Barrel,Cracker Barrel Old Country Store,53704,53704,"2147 E Springs Dr, Madison",2147 E Springs Dr
+5408,2585,,Itzza Pizza,Itzza Pizza,53705,53705,"2825 University Ave, Madison",2825 University Ave
+5491,2917,,Sofra Family Bistro,Sofra Family Bistro,53562,53562,7457 Elmwood Ave,7457 Elmwood Ave
+6275,3242,,Almar,AlMar,11201,11201,"111 Front Street, Brooklyn",111 Front St
+5074,2929,,Olive Garden,Olive Garden Italian Restaurant,53704,53704,"4320 East Town Boulevard, Madison",4320 E Towne Blvd
+5088,2774,,Haveli,Haveli Restaurant,53719,53719,5957 McKee Road,5957 McKee Rd
+4551,2568,,Flat Top Grill,Flat Top Grill,53705,53705,"538 N Midvale Blvd, Madison",Hilldale Shopping Center538 N Midvale Blvd
+4883,2906,,The Free House Pub,The Free House Pub,53562,53562,1902 Parmenter Street,1902 Parmenter St
+5065,2757,,Happy Wok,Happy Wok,53719,53719,"429 Commerce Dr, Madison",429 Commerce Dr
+5146,2622,,Laurel Tavern,Laurel Tavern,53711,53711,"2505 Monroe St, Madison",2505 Monroe St
+5011,2475,,Mr. Brews Taphouse,Mr. Brews Taphouse All American Burgers,53717,53717,"610 Junction Rd, Madison",610 Junction RdSte 107
+4851,2755,,Ginza of Tokyo West,Ginza of Tokyo,53719,53719,"6734 Odana Rd, Madison",6734 Odana Rd
+5110,2584,,Taste of India,Taste of India,53711,53711,"2623 Monroe St, Ste 150, Madison",2623 Monroe St
+5232,2899,,Fair Trade Coffee House,Fair Trade Coffee,53703,53703,"418 State St, Madison",418 State St
+5574,2677,,Wingstop,Wingstop,53715,53715,"1234 Regent St., Madison",1234 Regent St
+6401,3645,,Boqueria,Boqueria,10012,10012,"171 Spring Street, New York",171 Spring St
+6467,3441,,Sweet Chick,Sweet Chick,11211,11211,"164 Bedford Avenue, Brooklyn",164 Bedford Avenue
+6841,3627,,Momofuku Ko,Momofuku Ko,10003,10003,"8 Extra Place, New York",8 Extra Pl
+5602,2462,,Pho Nam,Pho Nam Noodle House,53717,53717,"610 Junction Rd Suite 109, Madison",610 Junction RdSte 109
+5312,2581,,The Wise,The Wise,53711,53711,"1501 Monroe St, Madison",Hotel Red1501 Monroe St
+5613,2409,,La Baguette,La Baguette,53717,53717,"7424 Mineral Point Rd, Madison",7424 Mineral Point Rd
+4390,2912,,Steak Escape,Steak Escape,53704,53704,"213 E Towne Mall, Madison",213 East Towne Mall
+4629,2711,0,Pancake Cafe,Pancake Cafe,53719,53719,6220 Nesbitt Rd Ste B,724 S Gammon Rd
+4848,2894,,Nostrano,Nostrano,53703,53703,"111 S Hamilton St, Madison",111 S Hamilton St
+5635,2668,,Hong Kong Cafe,Hong Kong Cafe,53715,53715,"2 S Mills St, Madison",2 S Mills St
+6127,3595,,Bistro Les Amis,Bistro Les Amis,10012,10012,"180 Spring Street, New York",180 Spring St
+4914,2862,,Dhaba Indian Bistro,Dhaba Indian Bistro,53562,53562,"8333 Greenway Blvd, Ste 100",8333 Greenway BlvdSte 100
+5139,2555,,Bonefish Grill,Bonefish Grill,53711,53711,"7345 Mineral Point Rd, Madison",7345 Mineral Point Rd
+5162,2698,,La Bamba,La Bamba,53719,53719,"710 South Gammon Road, Madison",710 S Gammon Rd
+5390,2698,,La Bamba,La Bamba,53719,53719,"710 S Gammon Rd, Madison",710 S Gammon Rd
+5618,2490,,Fit 2 Eat,Fit 2 Eat,53705,53705,"3742 Speedway Road, Madison",3742 Speedway Rd
+6824,3429,,Marc Forgione,Marc Forgione,10013,10013,"134 Reade Street, New York",134 Reade St
+5603,2892,,Kollege Klub,The Kollege Klub,53703,53703,"529 N Lake St, Madison",529 N Lake St
+4849,2652,,EDO Japanese Restaurant,Edo Japanese Restaurant,53715,53715,"532 S Park St, Madison",532 S Park St
+4930,2675,,LongHorn Steakhouse,LongHorn Steakhouse,53719,53719,"418 South Gammon Road, Madison",418 S Gammon Rd
+5180,2550,,Pizza Brutta,Pizza Brutta,53711,53711,"1805 Monroe St, Madison",1805 Monroe St
+5513,2473,,Original Pancake House,Original Pancake House,53705,53705,"5518 University Ave, Madison",5518 University Ave
+4913,2643,,QQ Express,QQ Express,53715,53715,"1401 University Ave, Madison",1401 University Ave
+6118,3453,,Mezetto,Mezetto,10002,10002,"161 East Houston Street, New York",161 E Houston St
+6761,3420,,Smith and Mills,Smith and Mills,10013,10013,"71 N Moore Street, New York",71 N Moore St
+6821,3388,,Extra Virgin,Extra Virgin,10014,10014,"259 W 4th Street, New York",259 W 4th St
+5105,2545,,Chang Jiang,Chang Jiang Restaurant,53711,53711,2935 S Fish Hatchery Rd Ste 9,5710 Raymond Rd
+4796,2645,,The Melting Pot,The Melting Pot,53719,53719,"6816 Odana Rd, Madison",6816 Odana Rd
+5470,2882,0,Silver Mine Subs,Silver Mine Subs,53703,53703,"328 W Gorham St, Madison",311 N Frances St
+5446,2458,,La Brioche,La Brioche True Food,53705,53705,"2862 University Ave, Madison",2862 University Ave
+5094,2508,,Suwanasak Thai Cuisine,Suwanasak,53711,53711,"811 S. Gammon Rd., Madison",811 S Gammon Rd
+5117,2457,,Wings Over Madison,Wings Over Madison,53705,53705,"2739 University Ave, Madison",2739 University Ave
+5561,2642,,Sarku Japan,Sarku Japan,53719,53719,"111 W Towne Mall, Madison",111 W Towne Mall
+5723,2880,,Irish Pub,Irish Pub,53703,53703,"317 State St Ste A, Madison",317 State St
+5735,2880,,Brocach Irish Pub,Irish Pub,53703,53703,"7 W Main St, Madison",317 State St
+5156,2633,,The Library,The Library Cafe & Bar,53715,53715,"320 N Randall Ave, Madison",320 N Randall Ave
+4926,2632,,Taj Indian Restaurant,Taj Indian Restaurant,53715,53715,"1256 S Park St, Madison",1256 S Park St
+5396,2872,,Chez Nanou,Chez Nanou,53703,53703,"805 Williamson St, Madison",805 Williamson St
+5768,2623,,Sa-Bai Thong,Sa-Bai Thong West,53719,53719,"6802 Odana Rd, Madison",6802 Odana Rd
+5063,2443,,Village Bar,Village Bar,53705,53705,"3801 Mineral Point Rd, Madison",3801 Mineral Point Rd
+6446,3326,,The Spotted Pig,The Spotted Pig,10014,10014,"314 W 11th Street, New York",314 W 11th St
+4862,2434,,Oakcrest Tavern,Oakcrest Tavern,53705,53705,"5371 Old Middleton Rd, Madison",5371 Old Middleton Rd
+5501,2491,,Hong Kong Station,Hong Kong Station,53711,53711,"1441 Regent St, Madison",1441 Regent St
+5036,2403,,Sushi Muramoto,Sushi Muramoto,53705,53705,"546 N Midvale Blvd, Madison",546 N Midvale Blvd
+5270,2548,,Twist Bar & Grill,Twist Bar & Grill,53719,53719,"6617 Odana Rd, Madison",6617 Odana Rd
+5373,2599,,New Orient House,Orient House,53715,53715,"626 S. Park St, Madison",626 S Park St
+4562,2472,,Jacs,Jacs Dining and Tap House,53711,53711,"2611 Monroe St, Madison",2611 Monroe St
+4931,2565,,La Hacienda Restaurant,La Hacienda,53715,53715,"515 S Park St, Madison",515 S Park St
+5612,2854,,Espresso Royale Caffe,Espresso Royale Caffe,53703,53703,"208 State St, Madison",208 State St
+6368,3264,,Buvette,Buvette,10014,10014,"42 Grove Street, New York",42 Grove St
+6629,3427,,Manousheh,Manousheh,10012,10012,"193 Bleecker Street, New York",193 Bleecker St
+5214,2854,,Espresso Royale,Espresso Royale Caffe,53703,53703,"650 State St, Madison",208 State St
+5527,2529,,Chick-fil-A,Chick-fil-A,53719,53719,"423 S Gammon Rd, Madison",430 S Gammon Rd
+6262,3425,,Favela Cubana,Cuba,10012,10012,"543 LaGuardia Place, New York",222 Thompson St
+4932,2430,,Seafood Center,The Seafood Center,53711,53711,"712 S Whitney Way, Madison",712 S Whitney Way
+4363,2839,,Manna Cafe & Bakery,Manna Cafe & Bakery,53704,53704,"611 N Sherman Ave, Madison",611 N Sherman Ave
+6105,3273,,Galli Restaurant,Galli,10013,10013,"45 Mercer Street, New York, NY",45 Mercer St
+5703,2544,,Taco Bros,The Taco Bros,53715,53715,"604 University Ave, Madison",604 E University Ave
+5064,2418,,Brocach Irish Pub,Brocach,53711,53711,"1843 Monroe St, Madison",1843 Monroe St
+5173,2845,,City Bar,City Bar,53703,53703,"636 State St, Madison",636 State St
+6063,3240,,The Brooklyn Star,Brooklyn Star,11211,11211,"593 Lorimer Street, Brooklyn",593 Lorimer St
+5447,2417,,Brasserie V,Brasserie V,53711,53711,"1923 Monroe St., Madison",1923 Monroe St
+5546,2487,,Granite City Food & Brewery,Granite City Food & Brewery,53719,53719,"72 W Towne Mall, Madison",72 West Towne Mall
+5769,2524,,Sushi Express,Sushi Express,53715,53715,"610 University Ave, Madison",610 University Ave
+5968,3316,,Jane,Jane,10012,10012,"100 West Houston Street, New York",100 W Houston St
+4992,2836,,Chipotle Mexican Grill,Chipotle Mexican Grill,53703,53703,"658 State St, Madison",658 State St
+5328,2485,,Freshii,Freshii,53719,53719,"422 Gammon Pl, Madison",422 Gammon Pl
+6022,3333,,The Boil,The Boil,10002,10002,"139 Chrystie Street, New York",139 Chrystie St
+4925,2517,,Taqueria Guadalajara,Taqueria Guadalajara,53715,53715,"1033 S Park St, Madison",1033 S Park St
+5780,2382,,Bluephies Restaurant & Vodkatorium,Bluephies,53711,53711,"2701 Monroe St Ste 700, Madison",2701 Monroe StSte 700
+6707,3337,,Ducks Eatery,Ducks Eatery,10003,10003,"351 East 12th Street, New York",351 E 12th St
+4957,2818,,Red Lobster,Red Lobster,53704,53704,"4502 E Towne Blvd, Madison",4502 East Towne Blvd.
+5167,2463,,Thai Basil,Thai Basil,53719,53719,"6714 Raymond Rd, Madison",6714 Raymond Rd
+6743,3330,,The Cellar At Beecher's Handmade Cheese,The Cellar,10003,10003,"Beecher's Handmade Cheese, 900 Broadway, New York",900 Broadway900 Broadway
+5018,2494,,Indie Coffee,Indie Coffee,53715,53715,"1225 Regent St, Madison",1225 Regent St
+5223,2816,,Monsoon Siam 2,Monsoon Siam,53704,53704,"2045 Atwood Ave, Madison",2045 Atwood AveSte 109
+4674,2817,,Graze,Graze,53703,53703,"1 S Pinckney Street, Madison",1 S Pinckney St
+5050,2429,,VIP Asian Cuisine,VIP,53719,53719,"6718 Odana Rd, Madison",6718-6722 Odana Rd
+6421,3279,,Cocoron,Cocoron,10002,10002,"61 Delancey Street, New York",61 Delancey St
+5087,2489,,Zuzu Cafe,ZuZu Cafe & Market,53715,53715,"1336 Drake St, Madison",1336 Drake St
+5874,3278,,Pig And Khao,Pig And Khao,10002,10002,"68 Clinton Street, New York",68 Clinton St
+4640,2408,,La Mestiza,La Mestiza,53719,53719,"6644 Odana Rd, Madison",6644 Odana Rd
+5325,2788,,Great China,Great China,53704,53704,"619 N Sherman Ave, Madison",619 N Sherman Ave
+5079,2451,,The Curve,The Curve,53715,53715,"653 S Park St, Madison",653 S Park St
+5614,2773,,Players Sports Bar & Grill,Players Sports Bar,53704,53704,"2013 Winnebago St, Madison",2013 Winnebago St
+6146,3229,,Freemans,Freemans,10002,10002,"8 Rivington Street, New York",191 Chrystie StSte 2F
+5380,2796,,Vientiane Palace,Vientiane Palace Restaurant,53703,53703,"151 W Gorham St, Madison",151 W Gorham St
+5194,2794,,Cento,Cento,53703,53703,"122 W Mifflin St, Madison",122 W Mifflin St
+5237,2766,,Hooters,Hooters,53704,53704,"2639 E Springs Drive, Madison",2639 E Springs Dr
+5118,2793,,Casa DE Lara,Casa de Lara,53703,53703,"341 State St Ste 2, Madison",341 State St
+5031,2397,,Ichiban,Ichiban Sichuan,53715,53715,"610 S Park St, Madison",610 S Park St
+5005,2386,,Asian Sweet Bakery,Asian Sweet Bakery,53715,53715,"1017 S Park St, Madison",1017 S Park St
+5646,2760,,Maharana,Maharana Indian Restaurant,53704,53704,"1707 Thierer Rd, Madison",1707 Theirer Rd
+5566,2781,,Main Depot,Main Depot Tavern,53703,53703,"627 W Main St, Madison",627 W Main St
+4869,2772,,Marigold Kitchen,Marigold Kitchen,53703,53703,"118 S Pinckney St, Madison",118 S Pinckney St
+5057,2747,,Red Robin Gourmet Burgers,Red Robin Gourmet Burgers,53704,53704,"2440 E Springs Dr, Madison",2440 East Springs Drive
+5192,2742,,Eagle Crest Bar,Eagle Crest Bar,53704,53704,"3710 County Road T, Madison",3710 County Rd T
+5398,2770,,Get Some Burritos,Get Some Burritos,53703,53703,"309 North Henry Street, Madison",309 N  Henry St
+5319,2769,,Osaka House,Osaka House,53703,53703,"505 State St, Madison",505 State St
+4834,2761,,Fresco,Fresco,53703,53703,"227 State St, Madison",227 State St
+5252,2724,,Cool Beans Coffee Cafe,Cool Beans Coffee Cafe,53704,53704,"1748 Eagan Rd, Madison",1748 Eagan Rd
+4673,2754,,Bellini,Bellini Italian Restaurant,53703,53703,"401 E Washington Ave, Madison",401 E Washington Ave
+5129,2713,,Buffalo Wild Wings,Buffalo Wild Wings,53704,53704,"240 East Towne Mall, Madison",240 East Towne Mall
+4429,2750,,Red Sushi,Red Sushi,53703,53703,"106 King Street, Madison",106 King St
+5030,2706,,La Taguara,La Taguara,53704,53704,"3502 East Washington Avenue, Madison",3502 E Washington Ave
+4901,2743,,Capitol Chophouse,Capitol Chophouse,53703,53703,"9 E Wilson St, Madison",9 E Wilson St
+5467,2670,,Sarku Japan,Sarku Japan,53704,53704,"89 E Towne Mall, Madison",89 E Towne Mall
+5512,2666,,Chico's Villa Tap,Villa Tap,53704,53704,"2302 Packers Ave, Madison",2302 Packers Ave
+5002,2728,,Eldorado Grill,Eldorado Grill,53703,53703,"744 Williamson St, Madison",744 Williamson St
+4854,2660,,Nau-Ti-Gal,Nau-Ti-Gal,53704,53704,"5360 Westport Rd, Madison",5360 Westport Rd
+5460,2726,,Dragon I,Dragon I,53703,53703,"422 State Street, Madison",422 State St
+4909,2658,,Texas Roadhouse,Texas Roadhouse,53704,53704,"4841 Annamark Dr., Madison",4841 Annamark Dr
+5672,2718,,Tiki Shack,Tiki Shack,53703,53703,"124 State St, Madison",122 State St
+5076,2716,,Asian Kitchen,Asian Kitchen,53703,53703,"449 State St Ste E, Madison",449 State St
+5137,2705,,Johnson Public House,Johnson Public House,53703,53703,"908 E. Johnson St, Madison",908 E Johnson St
+4948,2624,,Kavanaugh's Esquire Club,Esquire Club,53704,53704,"1025 N Sherman Ave, Madison",1025 N Sherman Ave
+5023,2613,,Flaming Wok,Flaming Wok,53704,53704,"4237 Lien Rd Ste H, Madison",4237 Lien RdSte H
+5044,2608,,The Lazy Oaf Lounge,Lazy Oaf Lounge,53704,53704,"1617 N. Stoughton Rd, Madison",1617 N Stoughton Rd
+5272,2603,,China Wok,China Wok,53704,53704,"1724 Fordem Ave, Madison",1724 Fordem Ave
+5468,2693,,Gooseberry on the Square,Gooseberry on the Square,53703,53703,"1 S Pinckney St, Madison",1 S Pinckney StSte 104
+5077,2671,,Potbelly Sandwich Shop,Potbelly Sandwich Shop,53703,53703,"564 State St, Madison",564 State St
+4833,2667,,Five Guys Burgers and Fries,Five Guys Burgers and Fries,53703,53703,"517 State St., Madison",517 State St
+5200,2486,,Fast Biryani,Fast Biryani,53704,53704,"4738 E Washington Ave, Madison",4738 E Wash Ave
+4952,2480,,Harmony Bar & Grill,Harmony Bar & Grill,53704,53704,"2201 Atwood Ave, Madison",2201 Atwood Ave
+5250,2647,,Colectivo Coffee,Colectivo Coffee,53703,53703,"25 South Pinckney St, Madison",583 State St
+5485,2644,,Steep & Brew,Steep & Brew,53703,53703,"544 State St Ste 1, Madison",544 State St
+5591,2435,,Glass Nickel Pizza Co,Glass Nickel Pizza,53704,53704,"2916 Atwood Ave, Madison",2916 Atwood Ave
+5521,2423,,Next Door Brewing Company,Next Door Brewing Company,53704,53704,"2439 Atwood Avenue, Madison",2439 Atwood Ave
+5336,2639,,Ha Long Bay,Ha Long Bay Vietnamese & Thai Bistro,53703,53703,"1353 Williamson St., Madison",1353 Williamson St
+5101,2421,,Doolittles Woodfire Grill,Doolittles Woodfire Grill,53704,53704,"4323 E Towne Blvd, Madison",4323 E Towne Blvd
+4707,2415,,Takumi Japanese Restaurant,Takumi Japanese Restaurant,53704,53704,"4222 E Towne Blvd, Madison",4222 E Towne Blvd
+5280,2620,,Restaurant Muramoto,Restaurant Muramoto,53703,53703,"225 King St, Madison",225 King St
+5702,2400,,Cafe La Bellitalia,Cafe La Bellitalia,53704,53704,"1026 N Sherman Ave, Madison",1026 N Sherman Ave
+4847,2617,,Tornado Steak House,Tornado Steak House,53703,53703,"116 S Hamilton St, Madison",116 S Hamilton St
+5113,2399,,Chocolaterian,Chocolaterian Cafe,53704,53704,"2004 Atwood Ave, Madison",2004 Atwood Ave
+5145,2396,,Crostini Sandwiches,Crostini Sandwiches,53704,53704,"231 North Street, Madison",231 North St
+5674,2615,,Badgerland Bar & Grill,Badgerland Bar & Grill,53703,53703,"525 W Johnson St, Madison",525 W Johnson St
+5428,2612,,Statehouse,The Statehouse,53703,53703,"1001 Wisconsin Pl, Madison",1001 Wisconsin Pl
+5624,2611,,Noodles & Company,Noodles & Company,53703,53703,"232 State St, Madison",232 State St
+5713,2393,,Daisy Cafe and Cupcakery,Daisy Cafe and Cupcakery,53704,53704,"2827 Atwood Dr., Madison",2827 Atwood Ave
+4903,2606,,Sardine,Sardine,53703,53703,"617 Williamson St, Madison",617 Williamson St
+5638,2388,,Magic Wok,Magic Wok,53704,53704,"2044 Atwood Ave, Madison",2044 Atwood Ave
+5086,2602,,Vintage Spirits & Grill,Vintage Spirits & Grill,53703,53703,"529 University Ave, Madison",529 University Ave
+5464,2598,,Red Rock Saloon,Red Rock Saloon,53703,53703,"322 W Johnson St, Madison",322 W Johnson St
+4618,2597,,Wasabi Japanese Restaurant,Wasabi Japanese Restaurant & Sushi Bar,53703,53703,"449 State St Ste 2G, Madison",449 State StSte G
+4972,2596,,Rising Sons,Rising Sons Deli,53703,53703,"617 State St, Madison",617 State St
+4892,2595,,The Old Fashioned,The Old Fashioned,53703,53703,"23 N Pinckney St, Madison",23 N Pinckney St
+5459,2593,,Buck & Badger Northwoods Lodge,Buck & Badger,53703,53703,"115 State St, Madison",115 State St
+5222,2592,,Teddywedgers,Teddywedgers,53703,53703,"101 State St, Madison",101 State St
+4518,2588,,State Street Brats,State Street Brats,53703,53703,"603 State St, Madison",603 State St
+4867,2586,,Pizza DI Roma,Pizza Di Roma,53703,53703,"313 State St, Madison",313 State St
+5119,2583,,Spot,The Spot,53703,53703,"827 Johnson St, Madison",827 E Johnson St
+4967,2574,,Capital Tap Haus,Capital Tap Haus,53703,53703,"107 State Street, Madison",107 State St
+4762,2572,,Osteria Papavero,Osteria Papavero,53703,53703,"128 E Wilson St, Madison",128 E Wilson St
+4902,2571,,Takara Japanese Restaurant,Takara Japanese Restaurant,53703,53703,"315 State St, Madison",315 State St
+4696,2554,,AJ Bombers,AJ Bombers,53703,53703,"201 W Gorham St, Madison",201 W Gorham St
+5633,2553,,Pita Pit,Pita Pit,53703,53703,"449 State Street, Madison",449 State St
+5656,2552,,That BBQ Joint,That BBQ Joint,53703,53703,"1511 Williamson St, Madison",901 Williamson St
+5090,2541,,Blair Street BBQ,Blair Street BBQ & Catering,53703,53703,"605 E. Washington Avenue, Madison",605 E Washington Ave
+4718,2539,,Dlux,DLUX,53703,53703,"117 Martin Luther King Blvd, Madison",117 Martin Luther King Jr Blvd
+5147,2530,,Parthenon Gyros Restaurant,Parthenon Gyros Restaurant,53703,53703,"316 State St, Madison",316 State St
+5028,2528,,Bassett Street Brunch Club,Bassett Street Brunch Club,53703,53703,"444 West Johnson Street, Madison",444 W Johnson St
+4346,2521,,Which Wich,Which Wich,53703,53703,"411 State St, Madison",411 State St
+5150,2520,,Come Back In,Come Back In,53703,53703,"508 E Wilson St, Madison",508 E Wilson St
+5362,2518,,Argus Bar Grille,Argus,53703,53703,"123 E. Main St., Madison",123 E Main St
+4880,2516,,Samba Brazilian Grill,Samba Brazilian Grill,53703,53703,"240 W Gilman St, Madison",240 W Gilman StFl 2
+5208,2507,,Brass Ring,The Brass Ring,53703,53703,"701 E Washington Ave Ste 104, Madison",701 E Washington Ave
+4923,2497,,Bahn Thai Restaurant,Bahn Thai Restaurant,53703,53703,"944 Williamson St, Madison",944 Williamson St
+5069,2495,,Tipsy Cow,The Tipsy Cow,53703,53703,"102 King St, Madison",102 King St
+4463,2484,,A Pig in a Fur Coat,A Pig In a Fur Coat,53703,53703,"940 Williamson St., Madison",940 Williamson St
+5502,2483,,Merchant,Merchant Madison,53703,53703,"121 S Pinckney St, Madison",121 S Pinckney St
+5533,2482,,Cheba Hut,Cheba Hut,53703,53703,"453 W Gilman St, Madison",453 W Gilman St
+5258,2479,,Sunroom Cafe,Sunroom Cafe,53703,53703,"638 State St, Madison",638 State St
+5643,2477,,Lakeview Bakery and Deli,Lakeview Bakery and Deli,53703,53703,"524 E. Wilson St., Madison",524 E Wilson St
+5291,2467,,Essen Haus,Essen Haus,53703,53703,"514 E Wilson St, Madison",514 E Wilson St
+5469,2466,,Harvest,Harvest,53703,53703,"21 N Pinckney St, Madison",21 N Pinckney St
+5558,2461,,Weary Traveler Freehouse,The Weary Traveler Freehouse,53703,53703,"1201 Williamson St, Madison",1201 Williamson St
+4875,2460,,Burrito Drive,Burrito Drive,53703,53703,"310 S Brearly St, Madison",310 S Brearly St
+5014,2456,,Brickhouse BBQ,Brickhouse BBQ,53703,53703,"408 West Gorham St., Madison",408 W Gorham St
+5235,2454,,Los Gemelos,Los Gemelos,53703,53703,"244 Gilman, Madison",244 W Gilman St
+5277,2454,,Los Gemelos,Los Gemelos,53703,53703,"244 W Gilman St, Madison",244 W Gilman St
+5269,2449,,The Bayou,The Bayou,53703,53703,"117 S, Butler St., Madison",117 S Butler St
+4507,2446,,Opus Lounge,Opus Lounge,53703,53703,"116 King St, Madison",116 King St
+5052,2445,,Rare Steakhouse,Rare Steakhouse,53703,53703,"14 W Mifflin St, Madison",14 W Mifflin St
+5333,2440,,Shamrock Bar,Shamrock Bar & Grille,53703,53703,"117 W Main St, Madison",117 W Main St
+5075,2439,,Heritage Tavern,Heritage Tavern,53703,53703,"131 East Mifflin Street, Madison",131 E Mifflin St
+5215,2438,,Ground Zero,Ground Zero,53703,53703,"744 Williamson St Ste 1, Madison",744 Williamson St
+5657,2432,,Himal Chuli,Himal Chuli,53703,53703,"318 State St, Madison",318 State St
+5309,2431,,Palmyra Mediterranean Grill,Palmyra Mediterranean Grill,53703,53703,"419 State St, Madison",419 State St
+4899,2422,,Fugu Asian Fusion,Fugu,53703,53703,"411 W. Gilman St., Madison",411 W Gilman St
+5185,2413,,Lake Vista Cafe,Lake Vista Cafe,53703,53703,"1 john nolen dr., Madison",One John Nolen Dr
+5138,2412,,Roast Public House,Roast Public House,53703,53703,"529 State St, Madison",558 State St
+5218,2389,,Caribou Tavern,The Caribou Tavern,53703,53703,"703 E Johnson St, Madison",703 E Johnson St
+4874,2384,,Mediterranean Cafe,Mediterranean Cafe,53703,53703,"625 State St, Madison",625 State St
+5230,2379,,Paradise Lounge,The Paradise Lounge,53703,53703,"119 W Main St, Madison",119 W Main St
+5594,2375,,Mad City Frites,Mad City Frites,53703,53703,"320 State St, Madison",320 State St
+6969,4034,,Risotteria,Risotteria,10014,10014,"270 Bleecker Street, New York",270 Bleecker St
+7252,3900,,Beso,Beso,10301,10301,11 Schuyler Street,11 Schuyler St
+7285,4055,,The Dead Rabbit Grocery & Grog,The Dead Rabbit,10004,10004,"30 Water Street, New York",30 Water St
+7489,3939,,Daniel,Daniel,10065,10065,"60 E 65th Street, New York",60 E 65th St.
+7144,4001,,Hourglass Tavern,Hourglass Tavern,10036,10036,"373 West 46th Street, New York",373 W 46th St
+7156,4027,,ABC Kitchen,ABC Kitchen,10003,10003,"35 East 18th Street, New York",35 E 18th St
+7207,3930,,Queens Comfort,Queens Comfort,11103,11103,"40-09 30th Avenue, Queens",40-09 30th Ave
+7403,3669,,Saraghina,Saraghina,11233,11233,"435 Halsey Street, Brooklyn",435 Halsey St
+7456,3257,,North End Grill,North End Grill,10282,10282,"104 North End Avenue, New York",104 N End Ave
+7660,3869,,Habana Outpost,Habana Outpost,11217,11217,"757 Fulton Street, Brooklyn",757 Fulton St
+7457,3988,,Hillstone,Hillstone Restaurant,10010,10010,"378 Park Avenue South, New York",378 Park Ave S
+6918,3403,,Uva,Uva,10075,10075,"1486 2nd Avenue, New York",1486 2nd Ave
+6873,3404,,Il Bambino,Il Bambino,11106,11106,"34-08 31st Avenue, Queens",34-08 31st Ave
+6968,3956,,Joe Allen,Joe Allen,10036,10036,"326 West 46th Street, New York, NY",326 W 46th St
+7011,3795,,Sushi Yasuda,Sushi Yasuda,10017,10017,"204 East 43rd Street, New York",204 E 43rd St
+7310,3888,,Petite Abeille,Petite Abeille,10011,10011,"44 W 17th Street, New York",44 W 17th St
+7046,3729,,Hillstone,Hillstone Restaurant,10022,10022,"153 E 53rd Street, New York",153 E 53rd St
+6970,3990,,David Burke Kitchen,David Burke Kitchen,10013,10013,"23 Grand Street, New York",23 Grand St
+7509,3960,,Malatesta Trattoria,Malatesta Trattoria,10014,10014,"649 Washington Street, New York",649 Washington St
+7653,3918,,Iron Chef House,Iron Chef House,11201,11201,"92 Clark Street, Brooklyn",92 Clark St
+7418,3953,,Atera,Atera,10013,10013,"77 Worth Street, New York",77 Worth St
+7566,3860,,Cookshop,Cookshop,10011,10011,"156 10th Avenue, New York",156 10th Ave
+7632,3867,,The Grey Dog,The Grey Dog,10012,10012,"244 Mulberry Street, New York",244 Mulberry St
+7364,3907,,Almondine,Almondine Bakery,11201,11201,"85 Water Street, Brooklyn",85 Water St
+7001,3889,,Sake Bar Hagi,Sake Bar Hagi,10019,10019,"152 W 49th Street, New York",152 W 49th St
+7260,3291,,The Farm on Adderley,The Farm On Adderley,11218,11218,"1108 Cortelyou Road, Brooklyn",1108 Cortelyou Rd
+7520,3928,,Degustation,Degustation,10003,10003,"239 E 5th Street, New York",239 E 5th St
+7450,3447,,Go! Go! Curry,Go! Go! Curry!,10018,10018,"273 W 38th Street, New York",273 W 38th St
+7363,3943,,Aurora,Aurora,11211,11211,"70 Grand Street, Brooklyn",70 Grand St
+7391,3835,,Spiegel,Spiegel,10009,10009,"26 1st Avenue, New York",26 1st Ave
+7616,3313,,SoCo,SoCo,11205,11205,"509 Myrtle Avenue, Brooklyn",509 Myrtle Ave
+6906,3319,,Five Leaves,Five Leaves,11222,11222,"18 Bedford Avenue, Brooklyn",18 Bedford Ave
+6955,3580,,Frankies 457 Spuntino,Frankies 457,11231,11231,"457 Court Street, Brooklyn",457 Court St
+7023,3786,,Shake Shack,Shake Shack,10036,10036,"691 8th Avenue, New York",691 8th Ave
+7033,3752,,Le Grainne Cafe,Le Grainne Cafe,10011,10011,"183 9th Avenue, New York",183 9th Ave
+7087,3828,,Brickyard Gastropub,Brickyard Gastropub,10019,10019,785 9th Avenue,785 9th Ave
+7587,3561,,The Red Hook Lobster Pound,Red Hook Lobster Pound,11231,11231,"284 Van Brunt Street, Brooklyn",284 Van Brunt St
+7369,3458,,Pizza Loves Emily,Emily,11238,11238,"919 Fulton Street, Brooklyn",919 Fulton St
+7405,3826,,Il Corallo Trattoria,Il Corallo Trattoria,10012,10012,"176 Prince Street, New York",176 Prince St
+7222,3307,,Eleven Madison Park,Eleven Madison Park,10010,10010,"11 Madison Avenue, New York",11 Madison Ave
+6974,3801,,Perilla,Perilla,10014,10014,"9 Jones Street, New York",9 Jones St
+6990,3840,,Cha-An,Cha-An,10003,10003,"230 East 9th Street, New York",230 E 9th St2nd Fl
+7019,3671,,Yuca Bar & Restaurant,Yuca Bar & Restaurant,10009,10009,"111 Avenue A, New York",111 Avenue A
+7445,3850,,Le Barricou,Le Barricou,11211,11211,"533 Grand Street, Brooklyn",533 Grand St
+7585,3788,,Zutto Japanese American Pub,Zutto Japanese American Pub,10013,10013,"77 Hudson Street, New York",77 Hudson St
+6951,3650,,Obao,OBAO,10036,10036,"647 9th Avenue, New York",647 9th Ave
+7555,3625,,Boqueria,Boqueria,10011,10011,"53 W 19th Street, New York",53 W 19th St
+7593,3707,,Jack the Horse Tavern,Jack the Horse Tavern,11201,11201,"66 Hicks Street, Brooklyn",66 Hicks St
+6959,3616,,Root & Bone,Root & Bone,10009,10009,"200 E 3rd Street, New York",200 E 3rd St
+7346,3644,,Ipanema,Ipanema Restaurant,10036,10036,"43 West 46th Street, New York",43 W 46th St
+7613,3777,,Saigon Market,Mark,10003,10003,"91 University Place, New York, NY",33 St Marks Pl
+6885,3619,,Pure Thai Cookhouse,Pure Thai Cookhouse,10019,10019,"766 9th Avenue #2, New York",766 9th Ave
+7232,3791,,Gato,Gato,10012,10012,"324 Lafayette Street, New York",324 Lafayette St
+7346,3636,,Ipanema,Ipanema Restaurant,10036,10036,"43 West 46th Street, New York",43 W 46th St
+7527,3751,,St. Anselm,St. Anselm,11211,11211,"355 Metropolitan Ave, Brooklyn",355 Metropolitan Ave
+7536,3546,,Da Andrea,Da Andrea,10011,10011,"35 W 13th Street, New York",35 W 13th St
+7020,3287,,Lucali,Lucali,11231,11231,"575 Henry Street, Brooklyn",575 Henry St
+7187,3286,,Woorijip,Woorijip Authentic Korean Food,10001,10001,"12 West 32nd Street, New York",12 W 32nd St
+7000,3717,,Fette Sau,Fette Sau,11211,11211,"354 Metropolitan Avenue, Brooklyn",354 Metropolitan Ave
+7415,3746,,Dos Toros Taqueria,Dos Toros Taqueria,10003,10003,"137 4th Avenue, New York, NY",137 4th Ave
+6980,3461,,Westville,Westville,10011,10011,"246 W 18th Street, New York",246 W 18th St
+7180,3540,,Tuome,Tuome,10009,10009,"536 E 5th Street, New York",536 E 5th St
+7212,3735,,Num Pang Sandwich Shop,Num Pang Sandwich Shop,10003,10003,"28 E 12th Street, New York",28 E 12th St
+7290,3522,,Vinegar Hill House,Vinegar Hill House,11201,11201,"72 Hudson Avenue, Brooklyn",72 Hudson Ave
+7263,3659,,Banh Mi Saigon Bakery,Banh Mi Saigon,10013,10013,"198 Grand Street, New York",198 Grand St
+7661,3608,,Fish,Fish,10014,10014,"280 Bleecker Street, New York",280 Bleecker St
+7079,3608,0,Mary's Fish Camp,Fish,10014,10014,"64 Charles Street, New York",280 Bleecker St
+7134,3355,,The Halal Guys,The Halal Guys,10019,10019,"6th Avenue & W 53rd Street, New York",6th Ave & W 53rd St
+7353,3661,,Traif,Traif,11211,11211,"229 S 4th Street, Brooklyn",229 S 4th St
+7689,3418,,Buddakan,Buddakan,10011,10011,"75 9th Avenue, New York",75 9th Ave
+7122,3335,,Ippudo Westside,Ippudo Westside,10019,10019,"321 W 51st Street, New York",321 W 51st St
+7484,3396,,The Green Table,The Green Table,10011,10011,"Chelsea Market, 75 9th Avenue, New York",Chelsea Market75 9th Ave
+7617,3655,,Caracas Arepa Bar,Caracas Arepa Bar,11211,11211,"291 Grand Street, Brooklyn",291 Grand St
+7054,3587,,Tartine,Tartine,10014,10014,"253 West 11th Street, New York",253 W 11th St
+7071,3615,,Barrio Chino,Barrio Chino,10002,10002,"253 Broome Street, New York",253 Broome St
+7622,3734,,Lupa Osteria Romana,Lupa,10012,10012,"170 Thompson Street, New York",170 Thompson St
+7451,3267,,Coppelia,Coppelia,10011,10011,"207 West 14th Street, New York",207 W 14th St
+7600,3448,,Caracas Arepa Bar,Caracas Arepa Bar,10009,10009,"93 E 7th Street, New York",93 1/2 E 7th St
+6978,3591,,Clinton Street Baking Company,Clinton Street Baking Company,10002,10002,"4 Clinton Street, New York",4 Clinton St
+7126,3718,,Egg Shop,Egg Shop,10012,10012,"151 Elizabeth Street, New York",151 Elizabeth St
+7426,3714,,Emporio,Emporio,10012,10012,"231 Mott Street, New York",231 Mott St
+7688,3576,,Russ & Daughters,Russ & Daughters Cafe,10002,10002,"179 E Houston Street, New York",127 Orchard St
+6963,3681,,Soba-Ya,Soba-ya,10003,10003,"229 East 9th Street, New York",229 E 9th St
+7176,3325,,Noodle Pudding,Noodle Pudding,11201,11201,"38 Henry Street, Brooklyn",38 Henry St
+7009,3529,,Big Wong,Big Wong King,10013,10013,"67 Mott Street, New York",67 Mott St
+7027,3490,,Employees Only,Employees Only,10014,10014,"510 Hudson Street, New York",510 Hudson St
+7666,3653,,Minetta Tavern,Minetta Tavern,10012,10012,"113 Macdougal Street, New York",113 Macdougal St
+6892,3473,,Barbuto,Barbuto,10014,10014,"775 Washington Street, New York",775 Washington St
+7681,3633,,Posto,Posto,10003,10003,"310 2nd Avenue, New York",310 2nd Ave
+7492,3468,,Las Ramblas,Las Ramblas,10014,10014,"170 W 4th Street, New York",170 W 4th St
+7560,3353,,The Brindle Room,Brindle Room,10009,10009,"277 E 10th Street, New York",277 E 10th St
+7107,3411,,Westville,Westville,10014,10014,"210 W 10th Street, New York",210 W 10th St
+7250,3406,,Joseph Leonard,Joseph Leonard,10014,10014,"170 Waverly Place, New York",170 Waverly Pl
+7327,3312,,Northern Spy Food Co.,Northern Spy Food Co.,10009,10009,"511 East 12th Street, New York",511 E 12th St
+7201,3310,,Westville,Westville,10009,10009,"173 Avenue A, New York",173 Ave A
+7655,3556,,Gotham Bar and Grill,Gotham Bar and Grill,10003,10003,"12 E 12th Street, New York",12 E 12th St
+7140,3236,,Pylos,Pylos,10009,10009,"128 E 7th Street, New York",128 E 7th St
+7468,3532,,La Lanterna di Vittorio,La Lanterna di Vittorio,10012,10012,"129 Macdougal Street, New York",129 MacDougal St
+6916,3514,,Public,Public,10012,10012,"210 Elizabeth Street, New York",210 Elizabeth St
+7325,3465,,The Redhead,The Redhead,10003,10003,"349 E 13th Street, New York",349 E 13th St
+6920,3497,,Rubirosa,Rubirosa,10012,10012,"235 Mulberry Street, New York",235 Mulberry St
+7511,3345,,Locanda Verde,Locanda Verde,10013,10013,"377 Greenwich Street, New York",377 Greenwich St
+7012,3309,,Market Table,Market Table,10014,10014,"54 Carmine Street, New York",54 Carmine St
+7275,3456,,By Chloe,by Chloe,10012,10012,"185 Bleecker Street, New York",185 Bleecker St
+6891,3297,,Mooncake Foods,Mooncake Foods,10013,10013,"28 Watts Street, New York",28 Watts St
+7025,3425,,Cuba,Cuba,10012,10012,"222 Thompson Street, New York",222 Thompson St
+7321,3276,,Tasty Hand-Pulled Noodles,Tasty Hand-Pulled Noodles,10013,10013,"1 Doyers Street, New York",1 Doyers St
+7211,3364,,The Meatball Shop,The Meatball Shop,10002,10002,"84 Stanton Street, New York",84 Stanton St
+6961,3408,,Yakitori Taisho,Yakitori Taisho,10003,10003,"5 St. Marks Place, New York",5 Saint Marks Pl
+6912,3373,,Balthazar,Balthazar Restaurant,10012,10012,"80 Spring Street, New York",80 Spring St
+6900,3394,,Gramercy Tavern,Gramercy Tavern,10003,10003,"42 E 20th Street, New York",42 E 20th St
+7378,3295,,Blue Ribbon Brasserie,Blue Ribbon Brasserie,10012,10012,"97 Sullivan Street, New York",97 Sullivan St
+2308,765,,The Rustic,The Rustic,75204,75204,"3656 Howell Street, Dallas",3656 Howell St
+2312,856,,Royal Thai,Royal Thai,75206,75206,"5500 Greenville Avenue, Suite 608, Dallas",5500 Greenville Ave
+2282,787,,Hibiscus,Hibiscus,75206,75206,"2927 N Henderson Avenue, Dallas",2927 N Henderson Ave
+2311,761,,Rapscallion,Rapscallion,75206,75206,"2023 Greenville Avenue, Suite 110, Dallas",2023 Greenville AveSte 110
+2248,756,,Mesero,Mesero - Henderson,75206,75206,"2822 N Henderson Avenue, Dallas",2822 N Henderson Ave
